@@ -1,62 +1,7 @@
 {{> html-head}}
-{{> page-header}}
-<script type="text/javascript">
-  var imgArr=[******];
-</script>
-<div class="noteAside" id="showNote">
+{{> nav}}
 
-  <div class="noteHeader">
-    <div class="noteIndex" id="asideNoteNumber"></div>
-    <div class="noteClose"><img src="images/icons/close.svg" class="icon handleCloseNote"></div>
-  </div>
+<h1>{{title}}</h1>
+{{> (lookup . 'content') }}
 
-  <div class="noteContent" id="asideNoteContent">content</div>
-</div>
-
-<div class="basicWrapper">
-  <div class="titleHero basicSideMargin ">
-
-
-      <div class="titleHeroInfoLine">
-        <span>Deel {{part}}</span> <em>{{parttitle}}</em><span>{{aera}}</span>
-      </div>
-
-      <h1>{{title}}</h1>
-      <div class="">{{author}}</div>
-
-  </div>
-</div>
-
-<div class="titleHeroBG"></div>
-
-<div class="chapterContent">
-  {{> page-illustration}}
-  <div class="chapterTxtWrap">
-    <div class="chapterNav">
-      <div>
-        <em>Inhoud</em>
-        <nav id="subNavigation"></nav>
-      </div>
-
-    </div>
-
-    <div class="chapterTxt basicSideMargin">
-      <div class="locaRight" id="loca"> </div>
-      {{> (lookup . 'content') }}
-      </div><!--  notes  -->
-    </div>
-
-
-
-    <div class="popNavigation" id="popNavigation">
-      <div class="popNavHeader"><a href="#" onclick="closeNav();return false;"><img src="images/icons/close.svg" class="icon"></a></div>
-      <div class="popNavContent">{{> nav}}</div>
-    </div>
-  </div>
-
-</div>
-
-{{> page-zoom}}
-
-<div id="chaperId" style="display: none;">{{id}}</div>
 {{> html-foot}}
