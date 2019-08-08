@@ -45,10 +45,11 @@ var allImgStr = 'not working';
 
 
 var siteJson = require('./content/data/sites.json');
+var copyPath = require('./content/data/copyPath.json');
 
 // Create HTML
 function createHtml(fileName) {
-  mammoth.convertToHtml({path: "content/word/"+fileName+".docx", outputDir: "content/html/"})
+  mammoth.convertToHtml({path: copyPath.copyDestination+fileName+".docx", outputDir: "content/html/"})
       .then(function(result){
           htmlOut = result.value; // The generated HTML
           messages = result.messages; // Any messages, such as warnings during conversion
