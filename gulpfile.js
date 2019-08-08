@@ -93,37 +93,24 @@ function reload(done) {
 
 // clear Json files en get new data from google docs
 gulp.task('cleanJson', function () {
-    return gulp.src(['content/data/links.json', 'content/data/sites.json', 'content/data/notes.json', 'content/data/images.json'], {read: false, allowEmpty: true})
+    return gulp.src(['content/data/sites.json'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
 
 gulp.task('getJSite', function (cb) {
-  exec('gsjson 1YAFTCWGrWyPjclnV16mR-S0-H2531DpOTfjCdESFSRk >> content/data/sites.json -b', function (err, stdout, stderr) { cb(err); });
+  exec('gsjson 1Ss17Y8N7xWnS2wqRzsSumUrlaNmfZXqm3p7ynLhEsS0 >> content/data/sites.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
-gulp.task('getJLinks', function (cb) {
-  exec('gsjson 1tzMeyKmoFMGbehWd1Q0hWbTceVf6IajMGX4r3NUqLA8 >> content/data/links.json -b', function (err, stdout, stderr) { cb(err); });
-})
 
-gulp.task('getJNotes', function (cb) {
-  exec('gsjson 1Rh6CIMnB9Vs4ot21nZqFSQDMraWf4RLaoXpAM4JvFI4 >> content/data/notes.json -b', function (err, stdout, stderr) { cb(err); });
-})
 
-gulp.task('getJImages', function (cb) {
-exec('gsjson 15B_aMTtiGuokP1KP6Iu09RNr4X3ZZQyO-Qp1dq8eg7I >> content/data/images.json -b', function (err, stdout, stderr) { cb(err); });
-})
-
-gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJLinks', 'getJNotes', 'getJImages',  function (done) {
+gulp.task('getj', gulp.series('cleanJson', 'getJSite',  function (done) {
   done();
 }))
 
 // gulp getj
-// links  1tzMeyKmoFMGbehWd1Q0hWbTceVf6IajMGX4r3NUqLA8
-// notes  1U2daUDRZfhFHcrVujJxNcqFejs2Ui58zBSi8ThlMw50
-// notes  1Rh6CIMnB9Vs4ot21nZqFSQDMraWf4RLaoXpAM4JvFI4  // only longnotes
-// site   1YAFTCWGrWyPjclnV16mR-S0-H2531DpOTfjCdESFSRk
-// images 15B_aMTtiGuokP1KP6Iu09RNr4X3ZZQyO-Qp1dq8eg7I
+// site   1Ss17Y8N7xWnS2wqRzsSumUrlaNmfZXqm3p7ynLhEsS0
+
 
 // npm mammoth d1h1.docx output.html
 
