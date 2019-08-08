@@ -1,0 +1,80 @@
+.temp-layout {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.temp-nav {
+  box-sizing: border-box;
+}
+
+.temp-content {
+
+
+  box-sizing: border-box;
+}
+
+.temp-width {
+  padding: 2em;
+  max-width: 700px;
+  width: 100%;
+}
+
+@media (min-width: 500px) {
+
+
+}
+
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  display: none;
+}
+
+td {
+  padding: 0 .5em;
+}
+
+.Bijschrift {
+  font-size: .8em;
+  color: #afafaf;
+}
+
+.txt {
+  display: block;
+  max-width: 600px;
+}
+
+.txt p {
+  -webkit-hyphens: auto;
+-moz-hyphens: auto;
+-ms-hyphens: auto;
+hyphens: auto;
+}
+
+.txt img{
+  width: 50px;
+  height: auto;
+}
+
+.Superscript{
+  display: inline-block;
+
+}
+.Superscript a{
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;align-items: center;
+  border-radius: 50%;
+  border: 1px solid #cbcbcb;
+  color: #cbcbcb;
+  text-decoration: none;
+}

@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+
+a {
+	color: #0087d4;
+
+}
+
+// Margin and padding
+$basicMargin: 1.5rem;
+
+.basicSideMargin {
+  padding-left: $basicMargin;
+  padding-right: $basicMargin;
+}
+
+
+.icon {
+	width: .8rem;
+	height: auto;
+	opacity: .4;
+	cursor: pointer;
+}
+
+.noSmall {
+	display: none;
+}
+
+@media (min-width: 600px) {
+	.noSmall {
+		display: inline;
+	}
+}
+
+.quote {
+	margin-left: 1rem;
+	font-family: 'Andada', serif;
+}
+
+.quote p{
+	margin-bottom: 0rem;
+}
+
+.ellipsis {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+	width: 100%;
+}
