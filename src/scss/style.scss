@@ -1,12 +1,33 @@
-@import 'normalise';
-@import 'var';
-@import 'typo';
-@import 'components/pageHeader';
-@import 'components/title-hero';
-@import 'components/chapterIllustration';
-@import 'components/zoom';
-@import 'layout/_layout-page';
-@import 'basic-markup';
-@import 'noten';
-@import 'popNavigation';
-@import 'bigImageViewer';
+html,
+body {
+	padding: 0;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.tempContainer {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tempContent {
+  max-width: 650px;
+  width: 100%;
+  padding: 0 2rem;
+}
+
+
+.tempTitle {
+  background-color: hsl(307, 23%, 93%)
+}
+
+nav {
+  background-color: hsl(0, 0%, 72%);
+  padding: 1rem 1rem;
+  margin: 0 -1rem;
+}
