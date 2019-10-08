@@ -3,7 +3,6 @@
 
 // npm install -g google-spreadsheet-to-json
 // gulp getj
-// gulp nav
 // gulp convHtml
 
 // gsjson 1k2EgdCT3iSo_8hGwt_dOQvKwEpBcTIFe4wefljkrb5Q >> content/data.json -b
@@ -179,7 +178,6 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(handlebars(page, options))
           .pipe(rename(fileName + ".html"))
           .pipe(replace('|', '<br>'))
-
           .pipe(useref())
           .pipe(gulp.dest(dst))
           .pipe(browserSync.stream());
