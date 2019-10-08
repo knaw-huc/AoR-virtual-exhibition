@@ -1,0 +1,18 @@
+{{> html-head}}
+
+
+
+<div class="tempContainer">
+  <div class="tempContent">
+    {{> page-header}}
+    {{> nav}}
+    <h1>{{title}}</h1>
+    {{> (lookup . 'content') }}
+  </div>
+</div>
+
+
+
+
+
+{{> html-foot}}
