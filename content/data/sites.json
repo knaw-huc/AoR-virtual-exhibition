@@ -1,20 +1,220 @@
 [
     {
         "title": "Home",
-        "template": "basic",
-        "name": "index",
-        "content": "aor1"
+        "docx_file": "aor1",
+        "theme": "top",
+        "file_name": "index",
+        "template_file": "theme-item"
     },
     {
-        "title": "Topics",
-        "template": "basic",
-        "name": "topics",
-        "content": "aor1"
+        "title": "Trailer",
+        "docx_file": "empty",
+        "remarks": "explains topic, structure, lay-out",
+        "theme": "top",
+        "file_name": 1,
+        "template_file": "theme-item"
     },
     {
-        "title": "About",
-        "template": "basic",
-        "name": "about",
-        "content": "aor1"
+        "title": "Themes",
+        "docx_file": "empty",
+        "remarks": "three clickable links to three themes",
+        "theme": "top",
+        "file_name": 2,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Manuscripts-section",
+        "docx_file": "empty",
+        "remarks": "icon which offers clickable links to the ca 25 ms that feature in this exhibition",
+        "theme": "manuscripts",
+        "file_name": 3,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Time-line",
+        "docx_file": "empty",
+        "remarks": "with people, events, manuscripts",
+        "theme": "top",
+        "file_name": 4,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Geographical Map",
+        "docx_file": "empty",
+        "remarks": "with manuscript origins, institutions",
+        "theme": "top",
+        "file_name": 5,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Acknowledgements",
+        "docx_file": "empty",
+        "remarks": "with information about us, but also with link to bibliography?",
+        "theme": "top",
+        "file_name": 6,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Theme 1: Where and what? (blauwe thema) RS",
+        "docx_file": "empty",
+        "theme": 1,
+        "file_name": 7,
+        "template_file": "theme-landing"
+    },
+    {
+        "title": "The medieval classroom",
+        "docx_file": "empty",
+        "theme": 1,
+        "file_name": 8,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "The curriculum",
+        "docx_file": "empty",
+        "theme": 1,
+        "file_name": 9,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Dialectica and Rhetorica",
+        "docx_file": "empty",
+        "theme": 1,
+        "file_name": 10,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Thema 2 Teachers and Students (groene thema)",
+        "docx_file": "empty",
+        "remarks": "Landing page for the 2",
+        "theme": 2,
+        "file_name": 11,
+        "template_file": "theme-landing"
+    },
+    {
+        "title": "Alcuin and dialogue MT",
+        "docx_file": "empty",
+        "theme": 2,
+        "file_name": 12,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "John the Scot and his assistant MT",
+        "docx_file": "empty",
+        "theme": 2,
+        "file_name": 13,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "The school of Auxerre (Heiric and Remigius)",
+        "docx_file": "empty",
+        "theme": 2,
+        "file_name": 14,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Abelard",
+        "docx_file": "empty",
+        "theme": 2,
+        "file_name": 15,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Gerbert of Aurillac/Abbo of Fleury?",
+        "docx_file": "empty",
+        "theme": 2,
+        "file_name": 16,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Ramon Lull",
+        "docx_file": "empty",
+        "theme": 2,
+        "file_name": 17,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Theme 3: How? (oranje thema)",
+        "docx_file": "empty",
+        "remarks": "Landing page for the 3",
+        "theme": 3,
+        "file_name": 18,
+        "template_file": "theme-landing"
+    },
+    {
+        "title": "Glosses and commentaries",
+        "docx_file": "empty",
+        "theme": 3,
+        "file_name": 19,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Debates and controversies",
+        "docx_file": "empty",
+        "theme": 3,
+        "file_name": 20,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Diagrams and schemes",
+        "docx_file": "empty",
+        "theme": 3,
+        "file_name": 21,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "How to make sense with Syllogism",
+        "docx_file": "empty",
+        "theme": 3,
+        "file_name": 22,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Manuscripts section",
+        "docx_file": "empty",
+        "theme": "manuscripts",
+        "file_name": 23,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Paris BnF, lat 12949",
+        "docx_file": "empty",
+        "theme": "manuscripts",
+        "file_name": 24,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "BPL 144",
+        "docx_file": "empty",
+        "theme": "manuscripts",
+        "file_name": 25,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Paris BnF, lat 17806",
+        "docx_file": "empty",
+        "theme": "manuscripts",
+        "file_name": 26,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "BPL 139 B",
+        "docx_file": "empty",
+        "theme": "manuscripts",
+        "file_name": 27,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Arundel 348",
+        "docx_file": "empty",
+        "theme": "manuscripts",
+        "file_name": 28,
+        "template_file": "theme-item"
+    },
+    {
+        "title": "Einsiedln 315",
+        "docx_file": "empty",
+        "theme": "manuscripts",
+        "file_name": 29,
+        "template_file": "theme-item"
     }
 ]

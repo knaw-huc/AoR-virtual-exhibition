@@ -36,7 +36,7 @@ var dst =       '_dist/';
 var prebuild =  'prebuild';
 var fScss=      'src/scss/**/*.scss';
 var fHtml=      'src/**/*.html';
-var fHtmlNot=   '!src/components/nav.html';
+var fHtmlNot=   ['!src/components/nav-top.html','!src/components/nav-1.html','!src/components/nav-2.html','!src/components/nav-3.html','!src/components/nav.html','!src/components/nav-manuscripts.html'];
 var fImages=    ['src/images/**/*', '!src/images/oud/**/*'];
 var fJs=        'src/js/**/*';
 var fJson=      ['src/**/*.json', 'content/**/*.json'];
@@ -66,7 +66,7 @@ gulp.task('convHtml', function (done) {
 
   for(var ii=0; ii<siteJson.length; ii++) {
       page = siteJson[ii];
-      fileName = page.content;
+      fileName = page.docx_file;
       createHtml(fileName);
       }
 done();
@@ -116,7 +116,7 @@ gulp.task('getj', gulp.series('cleanJson', 'getJSite',  function (done) {
 
 
 gulp.task('clean', function () {
-    return gulp.src(dst, {read: false})
+    return gulp.src(dst, {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -124,13 +124,29 @@ gulp.task('clean', function () {
 
 
 gulp.task('nav', function(done) {
-  var navItems = {"items" : siteJson}
+  var navs = ["top", 1, 2, 3, "manuscripts"];
+  var navItems = {"items":[]};
 
-  gulp.src('./src/templates/nav.html')
-      .pipe(plumber())
-      .pipe(handlebars(navItems, options))
-      .pipe(gulp.dest('src/components/'));
-  done();
+  for(var i=0; i<navs.length; i++) {
+    for (var j = 0; j < siteJson.length; j++) {
+      if (siteJson[j].theme == navs[i]) {
+        navItems.items.push(siteJson[j]);
+      }
+    }
+
+    gulp.src('./src/templates/nav.html') //
+        .pipe(plumber())
+        .pipe(handlebars(navItems, options))
+        .pipe(rename('nav-' + navs[i]+ ".html"))
+        .pipe(gulp.dest('src/components/'));
+
+    navItems = {"items":[]};
+
+  }
+
+
+    //console.log(navItems);
+   done();
 });
 
 
@@ -154,9 +170,9 @@ gulp.task('buildFromTemplates', function(done) {
 
   for(var i=0; i<siteJson.length; i++) {
       page = siteJson[i];
-      fileName = page.name; //.replace(/ +/g, '-').toLowerCase();
-      template = page.template;
-      pageId = page.id;
+      fileName = page.file_name; //.replace(/ +/g, '-').toLowerCase();
+      template = page.template_file;
+      //pageId = page.id;
 
       gulp.src('./src/templates/'+template+'.html')
           .pipe(plumber())
@@ -190,7 +206,7 @@ gulp.task('build',
 
 
 gulp.task('watch', function () {
-  gulp.watch(['src/**/*.html', '!src/components/nav.html', 'src/scss/**/*.scss','src/js/**/*', 'src/**/*.json', 'content/**/*.json'], gulp.series('build')); //, fHtmlNot, fScss, fJs, fJson, fMd
+  gulp.watch(['src/**/*.html', '!src/components/nav-top.html','!src/components/nav-1.html','!src/components/nav-2.html','!src/components/nav-3.html','!src/components/nav.html','!src/components/nav-manuscripts.html', 'src/scss/**/*.scss','src/js/**/*', 'src/**/*.json', 'content/**/*.json'], gulp.series('build')); //, fHtmlNot, fScss, fJs, fJson, fMd
 });
 
 
