@@ -178,6 +178,11 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(handlebars(page, options))
           .pipe(rename(fileName + ".html"))
           .pipe(replace('|', '<br>'))
+          .pipe(each(function(content, file, callback) {
+            //console.log(content);
+            var newContent = content.replace("in", "innnnnnnnnnn");
+            callback(null, newContent);
+            }))
           .pipe(useref())
           .pipe(gulp.dest(dst))
           .pipe(browserSync.stream());
@@ -224,4 +229,9 @@ function ifEmp(input, pre, post) {
   }else {
     return '';
   }
+}
+
+
+function handleImage(fileName) {
+  return '<img src="images/'+fileName+'" />'
 }
