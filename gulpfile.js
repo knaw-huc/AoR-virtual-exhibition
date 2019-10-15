@@ -44,6 +44,7 @@ var allImgStr = 'not working';
 
 
 var siteJson = require('./content/data/sites.json');
+var imagesJson = require('./content/data/images.json');
 var copyPath = require('./content/data/copyPath.json');
 
 // Create HTML
@@ -101,9 +102,12 @@ gulp.task('getJSite', function (cb) {
   exec('gsjson 1Ss17Y8N7xWnS2wqRzsSumUrlaNmfZXqm3p7ynLhEsS0 >> content/data/sites.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
+gulp.task('getJImages', function (cb) {
+  exec('gsjson 1mEsieK-v-vucBk8EnsuzAO-9sJAOUce7yGFJVIk66tM >> content/data/images.json -b', function (err, stdout, stderr) { cb(err); });
+})
 
 
-gulp.task('getj', gulp.series('cleanJson', 'getJSite',  function (done) {
+gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages',  function (done) {
   done();
 }))
 
@@ -180,7 +184,7 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('|', '<br>'))
           .pipe(each(function(content, file, callback) {
             //console.log(content);
-            var newContent = content.replace("in", "innnnnnnnnnn");
+            var newContent = content.replace(/Work/g, "smurk");
             callback(null, newContent);
             }))
           .pipe(useref())
