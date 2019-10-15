@@ -5,9 +5,10 @@
 <div class="tempContainer">
   <div class="tempContent">
     {{> page-header}}
-    {{> nav}}
+    {{> nav-top}}
     <h1>{{title}}</h1>
     {{> (lookup . 'docx_file') }}
+    {{> (lookup . 'navigation_file') }}
   </div>
 </div>
 

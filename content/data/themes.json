@@ -1,0 +1,17 @@
+[
+    {
+        "shortode": "[*[t1]*]",
+        "themename": "The Classroom and Curriculum",
+        "themelink": "theme1.html"
+    },
+    {
+        "shortode": "[*[t2]*]",
+        "themename": "Teachers and Students",
+        "themelink": "theme2.html"
+    },
+    {
+        "shortode": "[*[t3]*]",
+        "themename": "How to read and learn",
+        "themelink": "theme3.html"
+    }
+]

@@ -45,6 +45,7 @@ var allImgStr = 'not working';
 
 var siteJson = require('./content/data/sites.json');
 var imagesJson = require('./content/data/images.json');
+var themesJson = require('./content/data/themes.json');
 var copyPath = require('./content/data/copyPath.json');
 
 // Create HTML
@@ -93,7 +94,7 @@ function reload(done) {
 
 // clear Json files en get new data from google docs
 gulp.task('cleanJson', function () {
-    return gulp.src(['content/data/sites.json'], {read: false, allowEmpty: true})
+    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -106,8 +107,12 @@ gulp.task('getJImages', function (cb) {
   exec('gsjson 1mEsieK-v-vucBk8EnsuzAO-9sJAOUce7yGFJVIk66tM >> content/data/images.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
+gulp.task('getJThemes', function (cb) {
+  exec('gsjson 1loWI7zuCVXq-K3IdNgaeTV_f_wYrOjE_Lvm5z1zWjyA >> content/data/themes.json -b', function (err, stdout, stderr) { cb(err); });
+})
 
-gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages',  function (done) {
+//
+gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes',  function (done) {
   done();
 }))
 
@@ -183,8 +188,9 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(rename(fileName + ".html"))
           .pipe(replace('|', '<br>'))
           .pipe(each(function(content, file, callback) {
-            //console.log(content);
-            var newContent = content.replace(/Work/g, "smurk");
+            // replace images and theme names
+            var newContent = handleImages(content);
+            newContent = handleThemes(newContent);
             callback(null, newContent);
             }))
           .pipe(useref())
@@ -236,6 +242,18 @@ function ifEmp(input, pre, post) {
 }
 
 
-function handleImage(fileName) {
-  return '<img src="images/'+fileName+'" />'
+function handleImages(content) {
+  var output;
+  for (var i = 0; i < imagesJson.length; i++) {
+    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure><img src="images/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br>Source: '+imagesJson[i].resource+'</figcaption></figure>');
+  }
+
+  return content;
+}
+
+function handleThemes(content) {
+  for (var i = 0; i < themesJson.length; i++) {
+    content = content.replace(themesJson[i].shortode, '<a href="'+themesJson[i].themelink+'">'+themesJson[i].themename+'</a>');
+  }
+  return content;
 }
