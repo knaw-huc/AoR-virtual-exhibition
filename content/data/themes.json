@@ -1,7 +1,7 @@
 [
     {
         "shortode": "[*[t1]*]",
-        "themename": "The Classroom and Curriculum",
+        "themename": "Dialectica and retorica in the medieval classroom",
         "themelink": "theme1.html"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "shortode": "[*[t3]*]",
-        "themename": "How to read and learn",
+        "themename": "Techniques of reading and learning",
         "themelink": "theme3.html"
     }
 ]

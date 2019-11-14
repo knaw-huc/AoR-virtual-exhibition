@@ -6,6 +6,10 @@ body {
 * {
   box-sizing: border-box; }
 
+body {
+  font-family: monospace;
+  font-size: 1rem; }
+
 .tempContainer {
   width: 100vw;
   display: flex;
@@ -18,9 +22,11 @@ body {
   padding: 0 2rem; }
 
 .tempTitle {
-  background-color: #f1e9f0; }
+  background-color: #f1e9f0;
+  padding: 1rem 1rem;
+  margin: 0 -1rem; }
 
 nav {
-  background-color: #b8b8b8;
+  background-color: #d7dccb;
   padding: 1rem 1rem;
   margin: 0 -1rem; }

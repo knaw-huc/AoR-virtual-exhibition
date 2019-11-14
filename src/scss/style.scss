@@ -8,6 +8,11 @@ body {
 	box-sizing: border-box;
 }
 
+body {
+	font-family: monospace;
+	font-size: 1rem;
+}
+
 .tempContainer {
   width: 100vw;
   display: flex;
@@ -23,11 +28,13 @@ body {
 
 
 .tempTitle {
-  background-color: hsl(307, 23%, 93%)
+  background-color: hsl(307, 23%, 93%);
+	padding: 1rem 1rem;
+	margin: 0 -1rem;
 }
 
 nav {
-  background-color: hsl(0, 0%, 72%);
+  background-color: hsl(77, 20%, 83%);
   padding: 1rem 1rem;
   margin: 0 -1rem;
 }
