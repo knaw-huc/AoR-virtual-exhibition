@@ -12,5 +12,160 @@
         "description": "sdfasdfasd",
         "resource": "asdfasdfasd",
         "hyperlink": "sdf"
+    },
+    {
+        "img_file_name": "classroom.jpg",
+        "alttext": "Classroom",
+        "description": "Miniature of classroom",
+        "resource": "nog aan te vragen"
+    },
+    {
+        "img_file_name": "12949cover.jpg",
+        "alttext": "Paris, BnF, lat. 12949 cover",
+        "description": "Paris, BnF, lat. 12949: A 9th or 10th century manuscript from a monastery",
+        "resource": "Biblissima",
+        "hyperlink": "http://beta.biblissima.fr/ark:/43093/mdata3132d156c3a8a210e7ab341481a633e0e23f081f"
+    },
+    {
+        "img_file_name": "144cover.jpg",
+        "alttext": "Leiden BPL 144 cover",
+        "description": "Leiden BPL 144: 12th Century",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "17806cover.jpg",
+        "alttext": "Paris, BnF, lat.17806 cover",
+        "description": "Parijs, BnF, lat. 17806: ca. 1250-1275, Paris University",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "12949f25v.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f25v",
+        "description": "f.25v",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "12949fr1.jpg",
+        "alttext": "Paris, BnF, lat. 12949 fragment 1",
+        "description": "“Heiric the master of Remigius wrote these glosses”",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "12949fr2.jpg",
+        "alttext": "Paris, BnF, lat. 12949 fragment 2",
+        "description": "Inserted parchment slips",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f2r.jpg",
+        "alttext": "Leiden BPL 144 f.2r",
+        "description": "f.2r: Opening of de Consolatio Philosophiae",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144fonbekend.jpg",
+        "alttext": "Leiden BPL 144 f.onbekend",
+        "description": "f.onbekend",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "17806f218r.jpg",
+        "alttext": "Paris, BnF, lat.17806 f.218r",
+        "description": "Opening of Analytica Posteriora f.218r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f441.item.zoom"
+    },
+    {
+        "img_file_name": "17806f17r.jpg",
+        "alttext": "Paris, BnF, lat.17806 f.17r",
+        "description": "Portrait of magister and student",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f39.item.zoom"
+    },
+    {
+        "img_file_name": "231p276.jpg",
+        "alttext": "Glasgow, University Library, MS Hunter 231, p. 276",
+        "description": "Portrait of Plato, Seneca, and Aristole in Glasgow, University Library, MS Hunter 231, p. 276",
+        "resource": "University of Glasgow",
+        "hyperlink": "http://special.lib.gla.ac.uk/exhibns/chaucer/learning.html"
+    },
+    {
+        "img_file_name": "liberalarts.jpg",
+        "alttext": "Personifications of the seven liberal arts",
+        "description": "Personifications of the seven liberal arts",
+        "resource": "nog aan te vragen"
+    },
+    {
+        "img_file_name": "275f94r.jpg",
+        "alttext": "Burney 275 Lady Grammar",
+        "description": "f.94r Opening of Priscian's De Constructione with initial of Lady Grammar",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "275f143r.jpg",
+        "alttext": "Burney 275 Rhetoric",
+        "description": "f.143r The opening of the Pseudo-Ciceronian Rhetorica ad Herennium",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "275f166r.jpg",
+        "alttext": "Burney 275 Logic",
+        "description": "f.166r The opening of Boethius’ translation of Porphyry’s Isagoge",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "275f293r.jpg",
+        "alttext": "Burney 275 Geometria",
+        "description": "f.293r Opening of Euclid's Elements",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "275f336r.jpg",
+        "alttext": "Burney 275 Arithmetica",
+        "description": "f.336r Opening of Boethius' Arithmetica",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "275f390v.jpg",
+        "alttext": "Burney 275 Astronomia",
+        "description": "f.390v Opening of Ptolomy's Almagest",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "275f359v.jpg",
+        "alttext": "Burney 275 Musica",
+        "description": "f.359v Opening of Boethius' Musica",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "406cover.jpg",
+        "alttext": "Valenciennes BM ms. 406 cover",
+        "description": "Valenciennes BM ms. 406",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8452604s.r=valenchiennes%20406?rk=21459;2"
+    },
+    {
+        "img_file_name": "406f2r.jpg",
+        "alttext": "Valenciennes BM ms. 406 Opening of Cicero's Topica",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8452604s/f5.item.r=valenchiennes%20406.zoom"
+    },
+    {
+        "img_file_name": "17806f69r.jpg",
+        "alttext": "Paris, BnF, lat.17806 f.69r",
+        "description": "f.69r Opening De Sophisticis Elenchis",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f143.item.zoom"
+    },
+    {
+        "img_file_name": "overviewcurriculum"
     }
 ]

@@ -71,17 +71,17 @@
     },
     {
         "title": "The medieval classroom",
-        "docx_file": "empty",
+        "docx_file": "classroom",
         "theme": 1,
-        "file_name": "a",
+        "file_name": "The Medieval Classroom",
         "template_file": "theme-item",
         "navigation_file": "nav-1"
     },
     {
         "title": "The curriculum",
-        "docx_file": "empty",
+        "docx_file": "curriculum",
         "theme": 1,
-        "file_name": "b",
+        "file_name": "The Curriculum",
         "template_file": "theme-item",
         "navigation_file": "nav-1"
     },
