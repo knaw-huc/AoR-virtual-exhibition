@@ -20,10 +20,27 @@ body {
   align-items: center;
 }
 
+#home {
+	background-color: rgb(231, 232, 222);
+	width: 100vw;
+	height: auto;
+}
+
+#th1, #th2, #th3 {
+	display: none;
+}
+
+
+
 .tempContent {
   max-width: 650px;
   width: 100%;
   padding: 0 2rem;
+
+	img {
+		width: 300px;
+		height: auto;
+	}
 }
 
 
@@ -37,4 +54,11 @@ nav {
   background-color: hsl(77, 20%, 83%);
   padding: 1rem 1rem;
   margin: 0 -1rem;
+}
+
+.timeline {
+  background-color: hsl(51, 29%, 90%);
+  width: 100vw;
+  height: calc(100vh - 6rem);
+  min-width: 500px;
 }

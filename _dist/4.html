@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Time-line - The Art of Reasoning in Medieval Manuscripts</title>
+    <title>Timeline - The Art of Reasoning in Medieval Manuscripts</title>
     	<meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="css/style.css">
      <link rel="icon" href="images/favi.png" sizes="any" type="image/png">
@@ -22,18 +22,29 @@
         <a href="index.html">Home</a> 
         <a href="1.html">Trailer</a> 
         <a href="2.html">Themes</a> 
-        <a href="4.html">Time-line</a> 
+        <a href="4.html">Timeline</a> 
         <a href="5.html">Geographical Map</a> 
         <a href="6.html">Acknowledgements</a> 
     </nav>
-    <h1>Time-line</h1>
-    <p>!!Work in progress!!</p>  </div>
-</div>
+    </div>
+    <svg class="timeline" id="theTimeline"></svg>
+    </div>
 
 
 
 
+    <script src="js/tl.js"></script>
+    <script>
 
+
+       mapTimelineData();
+
+       // order bij date
+       timelineDataArr.sort(arrayPropertySort("startDate1"));
+
+       createTimelineSvg();
+
+    </script>
     </div>
     <script src="js/main.js"></script>
   </body>

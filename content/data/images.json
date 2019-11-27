@@ -28,8 +28,8 @@
     },
     {
         "img_file_name": "144cover.jpg",
-        "alttext": "Leiden BPL 144 cover",
-        "description": "Leiden BPL 144: 12th Century",
+        "alttext": "Leiden UB BPL 144 cover",
+        "description": "Leiden UB BPL 144: 12th Century",
         "resource": "eigen foto"
     },
     {
@@ -59,13 +59,13 @@
     },
     {
         "img_file_name": "144f2r.jpg",
-        "alttext": "Leiden BPL 144 f.2r",
+        "alttext": "Leiden UB BPL 144 f.2r",
         "description": "f.2r: Opening of de Consolatio Philosophiae",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "144fonbekend.jpg",
-        "alttext": "Leiden BPL 144 f.onbekend",
+        "alttext": "Leiden UB BPL 144 f.onbekend",
         "description": "f.onbekend",
         "resource": "eigen foto"
     },
@@ -167,5 +167,286 @@
     },
     {
         "img_file_name": "overviewcurriculum"
+    },
+    {
+        "img_file_name": "92f11v.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. 92 f.11v",
+        "description": "Ramon Llull in discussion",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105562"
+    },
+    {
+        "img_file_name": "22cover.jpg",
+        "alttext": "Leiden UB GRO 22 cover",
+        "description": "Leiden UB GRO 22",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "101F22cover.jpg",
+        "alttext": "Deventer AB 101 F 22 KL cover",
+        "description": "Deventer AB 101 F 22 KL",
+        "resource": "Athenaeumbibliotheek",
+        "hyperlink": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd006f2-3487-11e6-a8e3-9b07db995e78/media/dfe84f5c-426e-42d9-418e-6f6f9f52158a"
+    },
+    {
+        "img_file_name": "101F23cover.jpg",
+        "alttext": "Deventer AB 101 F 23 KL cover",
+        "description": "Deventer AB 101 F 23 KL",
+        "resource": "Athenaeumbibliotheek",
+        "hyperlink": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd02498-3487-11e6-a926-3323b3261c2b/media/52d8940b-15a9-74df-7948-34ddb1002b17"
+    },
+    {
+        "img_file_name": "22f11r.jpg",
+        "alttext": "Leiden UB GRO 22 f11r",
+        "description": "Scheme in Leiden UB GRO 22, f.11r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "22f113v.jpg",
+        "alttext": "Leiden UB GRO 22 f113v",
+        "description": "Summary in Leiden UB GRO 22, f.113v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "101F23p4.jpg",
+        "alttext": "Deventer AB 101 F 23 KL pp4-5",
+        "description": "Drawings on 101 F 23 pp. 4-5",
+        "resource": "Athenaeumbibliotheek",
+        "hyperlink": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd02498-3487-11e6-a926-3323b3261c2b/media/52d8940b-15a9-74df-7948-34ddb1002b17"
+    },
+    {
+        "img_file_name": "101F22p112.jpg",
+        "alttext": "Deventer AB 101 F 22 KL p.112",
+        "description": "Concluding page of 101 F 22 p.112",
+        "resource": "Athenaeumbibliotheek",
+        "hyperlink": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd006f2-3487-11e6-a8e3-9b07db995e78/media/dfe84f5c-426e-42d9-418e-6f6f9f52158a"
+    },
+    {
+        "img_file_name": "pages1cover.jpg",
+        "alttext": "Vatican Pagès 1 cover",
+        "description": "Vatican Pagès 1",
+        "resource": "DigiVatLib",
+        "hyperlink": "https://digi.vatlib.it/view/MSS_Pages.1"
+    },
+    {
+        "img_file_name": "pages1fly.jpg",
+        "alttext": "Vatican Pagès 1 flyleaf",
+        "description": "Vatican Pagès 1 flyleaf",
+        "resource": "DigiVatLib",
+        "hyperlink": "https://digi.vatlib.it/view/MSS_Pages.1"
+    },
+    {
+        "img_file_name": "275f183r.jpg",
+        "alttext": "Burney 275 Syllogism",
+        "description": "Burney 275 f.183r Syllogism",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "debate.jpg",
+        "alttext": "tijdelijk"
+    },
+    {
+        "img_file_name": "92f6v.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. 92 f.6v",
+        "description": "Aristotle's army",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105562"
+    },
+    {
+        "img_file_name": "348f128r.jpg",
+        "alttext": "Arundel MS 348 f.128r",
+        "description": "Lady Grammar",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100056659868.0x000001"
+    },
+    {
+        "img_file_name": "348f123v.jpg",
+        "alttext": "Arundel MS 348 f.123v",
+        "description": "Lady Dialectica",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100056659868.0x000001"
+    },
+    {
+        "img_file_name": "7900A132v.jpg",
+        "alttext": "Paris, BnF, lat. 7900A f.132v",
+        "description": "Lady Dialectica",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f284.item.r=7900A.zoom"
+    },
+    {
+        "img_file_name": "ladydialectica.jpg",
+        "alttext": "nog aanvragen"
+    },
+    {
+        "img_file_name": "university.jpg",
+        "alttext": "nog aanvragen"
+    },
+    {
+        "img_file_name": "alcuin.jpg",
+        "alttext": "nog aanvragen",
+        "description": "Portrait of Alcuin",
+        "resource": "Bayerische Staatsbibliothek",
+        "hyperlink": "https://daten.digitale-sammlungen.de/0006/bsb00065177/images/index.html?id=00065177&groesser=&fip=193.174.98.30&no=&seite=42; see also a description at https://www.wdl.org/en/item/14710/"
+    },
+    {
+        "img_file_name": "84cover.jpg",
+        "alttext": "Leiden UB BPL 84 cover",
+        "description": "Leiden UB BPL 84",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "84f90r.jpg",
+        "alttext": "Leiden UB BPL 84 f.90r",
+        "description": "Dialogue between Alcuin and Charlemagne",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "84fonbekend1.jpg",
+        "alttext": "Leiden UB BPL 84 f.onbekend",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "84fonbekend2.jpg",
+        "alttext": "Leiden UB BPL 84 f.onbekend",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "hrabanus.jpg",
+        "alttext": "Vienna, ÖnB, cod.652, fol. 2v",
+        "description": "Hrabanus (left) and Alcuin (middle) dedicate a work to Archbishop Otgar of Mainz (Right)",
+        "resource": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century)",
+        "hyperlink": "nog aanvragen"
+    },
+    {
+        "img_file_name": "7900A127v.jpg",
+        "alttext": "Paris, BnF, lat. 7900A f.127v",
+        "description": "Paris, BnF, Lat. 7900A: ‘Lady Grammar’ teaches a group of students. The three in the front row are holding wax tablets.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f274.item.r=7900A.zoom"
+    },
+    {
+        "img_file_name": "12949cover.jpg",
+        "alttext": "Paris, BnF, lat. 12949 cover",
+        "description": "Paris, BnF, lat. 12949: A 9th or 10th century manuscript from a monastery",
+        "resource": "Biblissima",
+        "hyperlink": "http://beta.biblissima.fr/ark:/43093/mdata3132d156c3a8a210e7ab341481a633e0e23f081f"
+    },
+    {
+        "img_file_name": "12949f1r.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f.1r",
+        "description": "Paris, BnF, lat. 12949 f.1r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f7.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "12949f24r.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f.24r",
+        "description": "Paris, BnF, lat. 12949 f.24r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f63.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "12949f25v.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f.25v",
+        "description": "Paris, BnF, lat. 12949 f.25v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f64.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "7900Aonbekend.jpg",
+        "alttext": "Paris, BnF, lat. 7900A f.onbekend"
+    },
+    {
+        "img_file_name": "scottus.jpg",
+        "alttext": "portrait of scottus",
+        "description": "Imaginary portrait of Johannes Scottus (left) in Honorius of Autun’s Clavis physicae: Paris, BnF, lat. 6734, fol. 3r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f11.item.r=6734.zoom"
+    },
+    {
+        "img_file_name": "6734f2v.jpg",
+        "alttext": "Paris, BnF, lat. 6734 f.2v",
+        "description": "Paris, BnF, lat. 6734 f.2v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f10.item.r=6734.zoom#"
+    },
+    {
+        "img_file_name": "cartoonrosenfeld.jpg",
+        "alttext": "cartoon made by by Randall Rosenfeld",
+        "resource": "Pontifical Institute of Mediaeval Studies",
+        "hyperlink": "http://www.pims.ca/research/johannes-scottus-eriugena-periphyseon"
+    },
+    {
+        "img_file_name": "88onbekend.jpg",
+        "alttext": "Nisifortinus in Leiden UB, BPL 88",
+        "description": "Nisifortinus in Leiden UB, BPL 88",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "paris.jpg",
+        "alttext": "nog aanvragen"
+    },
+    {
+        "img_file_name": "confused.jpg",
+        "alttext": "Grandes Chroniques de France (Castres, bibliothèque municipale, ms. 3, f. 277r).",
+        "resource": "nog aanvragen"
+    },
+    {
+        "img_file_name": "protest.jpg",
+        "resource": "zelf bewerkt"
+    },
+    {
+        "img_file_name": "sorbonne.jpg",
+        "resource": "nog aanvragen"
+    },
+    {
+        "img_file_name": "books.jpg",
+        "resource": "nog aanvragen"
+    },
+    {
+        "img_file_name": "16598cover.jpg",
+        "alttext": "Cover of BnF, lat. 16598",
+        "description": "Containing Augustinus’ Dialectica and John of Damascus’ Logica",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z.r=16598?rk=42918;4"
+    },
+    {
+        "img_file_name": "16598f37a.jpg",
+        "alttext": "BnF, lat. 16598 f.37a",
+        "description": "f.37a Porphyrian Tree",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z/f39.image.r=16598"
+    },
+    {
+        "img_file_name": "16611cover.jpg",
+        "alttext": "BnF, lat. 16611 cover",
+        "description": "Containing Porphyrius, predicamenta, periermenias, divisiones, sex principia",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515.r=16611?rk=64378;0"
+    },
+    {
+        "img_file_name": "16611f7v.jpg",
+        "alttext": "BnF, lat. 16611 f.7v",
+        "description": "f.7v Square of Opposition",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f9.image.r=16611"
+    },
+    {
+        "img_file_name": "16611f8v.jpg",
+        "alttext": "BnF, lat. 16611 f.8v",
+        "description": "f.8v Porphyrian Tree",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f10.image.r=16611"
+    },
+    {
+        "img_file_name": "16611f14v.jpg",
+        "alttext": "BnF, lat. 16611 f.14v",
+        "description": "f.14v Mnemonic to remember the moods of syllogisms",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f16.item.r=16611.zoom"
     }
 ]

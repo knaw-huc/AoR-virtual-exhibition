@@ -94,7 +94,7 @@ function reload(done) {
 
 // clear Json files en get new data from google docs
 gulp.task('cleanJson', function () {
-    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json'], {read: false, allowEmpty: true})
+    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -111,16 +111,19 @@ gulp.task('getJThemes', function (cb) {
   exec('gsjson 1loWI7zuCVXq-K3IdNgaeTV_f_wYrOjE_Lvm5z1zWjyA >> content/data/themes.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
+gulp.task('getJMeta', function (cb) {
+  exec('gsjson 1YYq7dZHayAeVoE4R9_lCQ1Yx_lxN-sfLqjH5Br_5cAU >> content/data/metadata.json -b', function (err, stdout, stderr) { cb(err); });
+})
+
 //
-gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes',  function (done) {
+gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', function (done) {
   done();
 }))
 
 // gulp getj
-// site   1Ss17Y8N7xWnS2wqRzsSumUrlaNmfZXqm3p7ynLhEsS0
+// meta   1YYq7dZHayAeVoE4R9_lCQ1Yx_lxN-sfLqjH5Br_5cAU
 
 
-// npm mammoth d1h1.docx output.html
 
 
 gulp.task('clean', function () {
@@ -207,11 +210,23 @@ gulp.task('copyImg', function(){
     .pipe(gulp.dest(dst+'images'))
 });
 
+gulp.task('handleSvg', function(){
+  return gulp.src('src/svg/aor_home.svg')
+    .pipe(plumber())
+    .pipe(replace('<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->"', ''))
+    .pipe(replace('<?xml version="1.0" encoding="utf-8"?>', ''))
+    .pipe(rename(function (path) {
+      path.extname = ".html";
+    }))
+    .pipe(gulp.dest('src/components/'));
 
+    //height="500" width="1000"
+    //<?xml version="1.0" encoding="utf-8"?>
+});
 
 
 gulp.task('build',
-  gulp.series('clean', 'nav', 'sass', 'buildFromTemplates', 'copyImg',
+  gulp.series('clean', 'handleSvg', 'nav', 'sass', 'buildFromTemplates', 'copyImg',
   function(done) {
       done();
   }
@@ -219,7 +234,7 @@ gulp.task('build',
 
 
 gulp.task('watch', function () {
-  gulp.watch(['src/**/*.html', '!src/components/nav-top.html','!src/components/nav-1.html','!src/components/nav-2.html','!src/components/nav-3.html','!src/components/nav.html','!src/components/nav-manuscripts.html', 'src/scss/**/*.scss','src/js/**/*', 'src/**/*.json', 'content/**/*.json'], gulp.series('build')); //, fHtmlNot, fScss, fJs, fJson, fMd
+  gulp.watch(['src/**/*.html', '!src/components/nav-top.html','!src/components/nav-1.html','!src/components/nav-2.html','!src/components/nav-3.html','!src/components/nav.html','!src/components/nav-manuscripts.html','!src/components/aor_home.html', 'src/scss/**/*.scss','src/js/**/*', 'src/**/*.json', 'content/**/*.json'], gulp.series('build')); //, fHtmlNot, fScss, fJs, fJson, fMd
 });
 
 
@@ -245,7 +260,7 @@ function ifEmp(input, pre, post) {
 function handleImages(content) {
   var output;
   for (var i = 0; i < imagesJson.length; i++) {
-    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure><img src="images/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br>Source: '+imagesJson[i].resource+'</figcaption></figure>');
+    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure><img src="images/content/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br>Source: '+imagesJson[i].resource+'</figcaption></figure>');
   }
 
   return content;

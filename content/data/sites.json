@@ -4,7 +4,7 @@
         "docx_file": "home",
         "theme": "top",
         "file_name": "index",
-        "template_file": "basic",
+        "template_file": "home",
         "navigation_file": "nav-top"
     },
     {
@@ -35,12 +35,12 @@
         "navigation_file": "nav-manuscripts"
     },
     {
-        "title": "Time-line",
+        "title": "Timeline",
         "docx_file": "empty",
         "remarks": "with people, events, manuscripts",
         "theme": "top",
         "file_name": 4,
-        "template_file": "basic",
+        "template_file": "timeline",
         "navigation_file": "nav-top"
     },
     {
@@ -87,15 +87,15 @@
     },
     {
         "title": "Dialectica and Rhetorica",
-        "docx_file": "empty",
+        "docx_file": "dialecticarhetorica",
         "theme": 1,
-        "file_name": "c",
+        "file_name": "Dialectica and Rhetorica",
         "template_file": "theme-item",
         "navigation_file": "nav-1"
     },
     {
         "title": "Teachers and Students",
-        "docx_file": "empty",
+        "docx_file": "theme2",
         "remarks": "Landing page for the 2",
         "theme": 2,
         "file_name": "theme2",
@@ -104,34 +104,34 @@
     },
     {
         "title": "Alcuin and dialogue",
-        "docx_file": "empty",
+        "docx_file": "alcuin",
         "theme": 2,
-        "file_name": "d",
+        "file_name": "Alcuin and dialogue",
         "template_file": "theme-item",
         "navigation_file": "nav-2"
     },
     {
         "title": "John the Scot and his assistant",
-        "docx_file": "empty",
+        "docx_file": "johnscot",
         "theme": 2,
-        "file_name": "e",
+        "file_name": "John the Scot and his assistant",
         "template_file": "theme-item",
         "navigation_file": "nav-2"
     },
     {
         "title": "The school of Auxerre ",
-        "docx_file": "empty",
+        "docx_file": "auxerre",
         "remarks": "(Heiric and Remigius)",
         "theme": 2,
-        "file_name": "f",
+        "file_name": "The School of Auxerre",
         "template_file": "theme-item",
         "navigation_file": "nav-2"
     },
     {
-        "title": "Abelard",
-        "docx_file": "empty",
+        "title": "Abbeville",
+        "docx_file": "abbeville",
         "theme": 2,
-        "file_name": "g",
+        "file_name": "Gerard D'Abbeville",
         "template_file": "theme-item",
         "navigation_file": "nav-2"
     },
