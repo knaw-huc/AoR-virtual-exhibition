@@ -158,7 +158,7 @@ gulp.task('nav', function(done) {
         navItems.items.push(siteJson[j]);
       }
     }
-    console.log(navItems);
+    //console.log(navItems);
 
     gulp.src('./src/templates/nav.html') //
         .pipe(plumber())

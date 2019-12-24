@@ -1,4 +1,68 @@
 @import url("https://fonts.googleapis.com/css?family=IM+Fell+English:400,400i&display=swap");
+.aorWrapper {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.aorNavigation {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #c9e2c2;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem; }
+  .aorNavigation nav {
+    flex-direction: column;
+    display: flex; }
+    .aorNavigation nav .l2 {
+      margin-left: 1rem; }
+
+.aorContent {
+  max-width: 600px;
+  padding: 4rem 1rem 0 1rem; }
+  .aorContent img {
+    width: 200px;
+    height: auto; }
+  .aorContent figure {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; }
+    .aorContent figure figcaption {
+      font-size: .9rem;
+      color: #818181;
+      margin-left: 1rem; }
+
+.aorTitle {
+  padding: .5rem 1rem;
+  background-color: #e1f7e4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: .8rem; }
+
+.stickyFoot {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: .5rem 1rem;
+  background-color: #e1f7e4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.stickyFoot > * {
+  margin-right: 2rem; }
+
+.f-name {
+  display: none; }
+
 html,
 body {
   padding: 0;
@@ -65,20 +129,6 @@ body {
       font-size: .9rem;
       color: #818181;
       margin-left: 1rem; }
-
-.stickyFoot {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: .5rem 1rem;
-  background-color: #e1f7e4;
-  display: flex;
-  flex-direction: row;
-  justify-content: center; }
-
-.stickyFoot > * {
-  margin-right: 2rem; }
 
 .tempTitle {
   background-color: #f1e9f0;

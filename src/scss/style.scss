@@ -1,3 +1,6 @@
+@import 'layout/_layout-page';
+
+
 $colorTxt: #3e3e3e;
 
 html,
@@ -97,22 +100,11 @@ body {
 
 
 
-.stickyFoot {
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	padding: .5rem 1rem;
-	background-color: rgb(225, 247, 228);
 
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-}
 
-.stickyFoot > *{
-	margin-right: 2rem;
-}
+
+
+
 
 .tempTitle {
   background-color: hsl(307, 23%, 93%);

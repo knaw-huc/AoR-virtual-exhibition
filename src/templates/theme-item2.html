@@ -1,23 +1,22 @@
 {{> html-head}}
+{{> page-header}}
+
+<div class="aorWrapper">
 
 
 
-<div class="tempContainer2">
-  <div class="tempNav">
-    {{> (lookup . 'navigation_file') }}
-  </div>
-
-
-
-
-
-
-  <div class="tempContent">
+  <article class="aorContent">
     <h1>{{title}}</h1>
     {{> (lookup . 'docx_file') }}
+  </article>
 
-  </div>
+
 </div>
+
+<div class="aorNavigation" id="aorNavigation">
+  {{> (lookup . 'navigation_file') }}
+</div>
+
 
 
 
