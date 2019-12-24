@@ -59,7 +59,7 @@
         "theme": "top",
         "file_name": "theme1",
         "template_file": "theme-landing",
-        "navigation_file": "nav-top",
+        "navigation_file": "nav-1",
         "t1": 1
     },
     {
@@ -96,7 +96,7 @@
         "theme": "top",
         "file_name": "theme2",
         "template_file": "theme-landing",
-        "navigation_file": "nav-top",
+        "navigation_file": "nav-2",
         "t2": 1
     },
     {
@@ -161,7 +161,7 @@
         "theme": "top",
         "file_name": "theme3",
         "template_file": "theme-item2",
-        "navigation_file": "nav-top",
+        "navigation_file": "nav-3",
         "t3": 1
     },
     {
