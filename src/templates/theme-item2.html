@@ -1,0 +1,25 @@
+{{> html-head}}
+
+
+
+<div class="tempContainer2">
+  <div class="tempNav">
+    {{> (lookup . 'navigation_file') }}
+  </div>
+
+
+
+
+
+
+  <div class="tempContent">
+    <h1>{{title}}</h1>
+    {{> (lookup . 'docx_file') }}
+
+  </div>
+</div>
+
+
+
+{{> page-foot}}
+{{> html-foot}}

@@ -239,9 +239,9 @@
         "hyperlink": "https://digi.vatlib.it/view/MSS_Pages.1"
     },
     {
-        "img_file_name": "275f183r.jpg",
+        "img_file_name": "275f184r.jpg",
         "alttext": "Burney 275 Syllogism",
-        "description": "Burney 275 f.183r Syllogism",
+        "description": "Burney 275 f.184r Syllogism",
         "resource": "The Britisch Library",
         "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
     },
@@ -283,7 +283,9 @@
     },
     {
         "img_file_name": "university.jpg",
-        "alttext": "nog aanvragen"
+        "alttext": "Castres, BM, Ms. 3 (Grandes Chroniques de France, c. 1330), f. 277r",
+        "resource": "nog aanvragen",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=757442"
     },
     {
         "img_file_name": "alcuin.jpg",
@@ -324,7 +326,7 @@
     {
         "img_file_name": "7900A127v.jpg",
         "alttext": "Paris, BnF, lat. 7900A f.127v",
-        "description": "Paris, BnF, Lat. 7900A: ‘Lady Grammar’ teaches a group of students. The three in the front row are holding wax tablets.",
+        "description": "Paris, BnF, Lat. 7900A f.127v: ‘Lady Grammar’ teaches a group of students. The three in the front row are holding wax tablets.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f274.item.r=7900A.zoom"
     },
@@ -368,11 +370,11 @@
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f11.item.r=6734.zoom"
     },
     {
-        "img_file_name": "6734f2v.jpg",
-        "alttext": "Paris, BnF, lat. 6734 f.2v",
-        "description": "Paris, BnF, lat. 6734 f.2v",
+        "img_file_name": "6734f2r.jpg",
+        "alttext": "Paris, BnF, lat. 6734 f.2r",
+        "description": "Paris, BnF, lat. 6734 f.2r",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f10.item.r=6734.zoom#"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f9.item.r=6734.zoom"
     },
     {
         "img_file_name": "cartoonrosenfeld.jpg",
@@ -448,5 +450,743 @@
         "alttext": "BnF, lat. 16611 f.14v",
         "description": "f.14v Mnemonic to remember the moods of syllogisms",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f16.item.r=16611.zoom"
+    },
+    {
+        "img_file_name": "92f1v.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. 92 f.1v",
+        "description": "f.1v Ramon receives his vision",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105542"
+    },
+    {
+        "img_file_name": "92f3v.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. 92 f.3v",
+        "description": "f.3v Ramon learns Arabic from his slave",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105546"
+    },
+    {
+        "img_file_name": "92cover.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. cover",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105537"
+    },
+    {
+        "img_file_name": "92f10r.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. 92 f.10r",
+        "description": "F.10r shows how Ramon is attacked by an angry mob. This single image depicts five different scenes.",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105559"
+    },
+    {
+        "img_file_name": "92f7r.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. 92 f.7r",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105553"
+    },
+    {
+        "img_file_name": "lampje.jpg",
+        "description": "Did you know that Ramon Llull is regarded as a pioneer in computer science because of his influence on Gottfried Leibniz?",
+        "resource": "nog aanvragen"
+    },
+    {
+        "img_file_name": "92f5r.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum - St. Peter perg. 92 f.5r",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105549"
+    },
+    {
+        "img_file_name": "48f30v.jpg",
+        "alttext": "Leiden, UB, VLF 48, f. 30v",
+        "description": "Leiden, UB, VLF 48, f. 30v: opening of book 4 on Dialectica",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f30v2.jpg",
+        "alttext": "Leiden, UB, VLF 48, f. 30v",
+        "description": "Here you can see how each marginal note is neatly tied to its correct place in the main text with a tie mark",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "12949f24v.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f.24v",
+        "description": "Paris, BnF, lat. 12949 f.24v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "12949f24v2.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f.24v",
+        "description": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "12949f24v3.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f.24v",
+        "description": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "12949f24v4.jpg",
+        "alttext": "Paris, BnF, lat. 12949 f.24v",
+        "description": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "2788f49r.jpg",
+        "alttext": "Paris, BnF, Lat. 2788 f49r",
+        "description": "Opening page of Aristotle’s Categories in Paris, BnF, Lat. 2788 (ca. 1000), f. 49r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f105.item.r=2788.zoom"
+    },
+    {
+        "img_file_name": "2788f50v.jpg",
+        "alttext": "Paris, BnF, Lat. 2788 f50v",
+        "description": "f.50v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f108.item.r=2788.zoom"
+    },
+    {
+        "img_file_name": "2788f52r.jpg",
+        "alttext": "Paris, BnF, Lat. 2788 f52r",
+        "description": "f.52r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f111.item.r=2788.zoom"
+    },
+    {
+        "img_file_name": "144fonbekend2.jpg",
+        "alttext": "Leiden UB BPL 144 f.onbekend",
+        "description": "f.onbekend",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144fonbekend3.jpg",
+        "alttext": "Leiden UB BPL 144 f.onbekend",
+        "description": "f.onbekend",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "12f27r.jpg",
+        "alttext": "Leiden, UB, VLF 12 part 3 f. 27r",
+        "description": "a gloss about ‘eloquentia’ (eloquence) in Leiden, UB, VLF 12 part 3 (f. 27r)",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "48fdivers.jpg",
+        "alttext": "Leiden, UB, VLF 48",
+        "description": "References to other authorities in VLF 48. In the bubbles: references to Augustine, Boethius, Plato, Pythagoras, Pliny.",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "12949fdivers.jpg",
+        "alttext": "Paris, BnF, lat. 12949",
+        "description": "Schemes and diagrams in Paris, BnF, lat. 12949",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f1.item.r=lat.zoom"
+    },
+    {
+        "img_file_name": "275f184rgroot.jpg",
+        "alttext": "Burney 275 Syllogism",
+        "description": "Burney 275 f.184r Syllogism",
+        "resource": "The Britisch Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_275_f001r"
+    },
+    {
+        "img_file_name": "84f63r.jpg",
+        "alttext": "Leiden UB BPL 84 f.63r",
+        "description": "List of propositions in Leiden BPL 84, f. 63r ",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "eigen foto"
+    },
+    {
+        "img_file_name": "25f12r.jpg",
+        "alttext": "Leiden UB BPL 25, f. 12r",
+        "description": "Square of opposition, BPL 25, f. 12r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f12r2.jpg",
+        "alttext": "Leiden UB BPL 25, f. 12r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f12r3.jpg",
+        "alttext": "Leiden UB BPL 25, f. 12r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f12r4.jpg",
+        "alttext": "Leiden UB BPL 25, f. 12r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f12r5.jpg",
+        "alttext": "Leiden UB BPL 25, f. 12r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "16611f14v2.jpg",
+        "alttext": "Paris, BnF, lat. 16611 f.14v",
+        "description": "Paris, BnF, lat. 16611 f.14v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f16.image.r=16611"
+    },
+    {
+        "img_file_name": "88f1v2r.jpg",
+        "alttext": "Leiden UB BPL 88 f.1v-2r",
+        "description": "Leiden UB BPL 88 f.1v-2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88f2rfr.jpg",
+        "alttext": "Leiden UB BPL 88 f.2r",
+        "description": "Leiden UB BPL 88 f.2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "139f39v.jpg",
+        "alttext": "Leiden UB BPL 139 B f.39v",
+        "description": "Leiden UB BPL 139 B f.39v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1687093?solr_nav%5Bid%5D=fbe0651f29b0383a32ac&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "139f39v2.jpg",
+        "alttext": "Leiden UB BPL 139 B f.39v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1687093?solr_nav%5Bid%5D=fbe0651f29b0383a32ac&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "6638f6bisr.jpg",
+        "alttext": "Paris, BnF, lat. 6638 f.6 bis r",
+        "description": "Paris, BnF, lat. 6638 f.6 bis r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10548529s/f17.item.r=6638.zoom"
+    },
+    {
+        "img_file_name": "6638f6r.jpg",
+        "alttext": "Paris, BnF, lat. 6638 f.6r",
+        "description": "Square of opposition in BnF lat. 6638, f. 6r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10548529s/f15.item.r=6638.zoom"
+    },
+    {
+        "img_file_name": "48f95v.jpg",
+        "alttext": "Leiden, UB, VLF 48",
+        "description": "Leiden, UB, VLF 48",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f95vfr.jpg",
+        "alttext": "Leiden, UB, VLF 48",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f95vfr2.jpg",
+        "alttext": "Leiden, UB, VLF 48",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "84f84r.jpg",
+        "alttext": "Leiden UB BPL 84 f.84r",
+        "description": "Leiden UB BPL 84 f.84r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "eigen foto"
+    },
+    {
+        "img_file_name": "84f84rfr.jpg",
+        "alttext": "Leiden UB BPL 84 f.84r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "eigen foto"
+    },
+    {
+        "img_file_name": "6400f24r.jpg",
+        "alttext": "Paris, BnF, lat. 6400 G f.24r",
+        "description": "Paris, BnF, lat. 6400 G f.24r",
+        "resource": "zoek"
+    },
+    {
+        "img_file_name": "84f89v.jpg",
+        "alttext": "Leiden UB BPL 84 f.89v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "eigen foto"
+    },
+    {
+        "img_file_name": "84f89vfr.jpg",
+        "alttext": "Leiden UB BPL 84 f.89v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "eigen foto"
+    },
+    {
+        "img_file_name": "84f89vfr.jpg",
+        "alttext": "Leiden UB BPL 84 f.89v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "eigen foto"
+    },
+    {
+        "img_file_name": "315f139r.jpg",
+        "alttext": "Einsieldeln, MS 315 (605), f. 139r",
+        "description": "Einsieldeln, MS 315 (605), f. 139r – representation of Porphyry’s five predicables",
+        "resource": "Stiftsbibliothek Einsiedeln",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/searchresult/list/one/sbe/0315"
+    },
+    {
+        "img_file_name": "315f53r.jpg",
+        "alttext": "Einsieldeln, MS 315 (605), f. 53r",
+        "description": "Einsieldeln, MS 315 (605), f. 53r. This tenth-century manuscript contains one of the oldest examples of a ‘Porphyrian tree’ in a manuscript of the Isagoge.\n",
+        "resource": "Stiftsbibliothek Einsiedeln",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/searchresult/list/one/sbe/0315"
+    },
+    {
+        "img_file_name": "16598f37r.jpg",
+        "alttext": "BnF, lat. 16598 f.37r",
+        "description": "f.37r Porphyrian Tree",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z/f39.image.r=16598"
+    },
+    {
+        "img_file_name": "7709f52r.jpg",
+        "alttext": "BnF, lat. 7709 f.52r",
+        "description": "BnF, lat. 7709 f.52r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10548475p/f107.image.r=7709"
+    },
+    {
+        "img_file_name": "7709f52rfr.jpg",
+        "alttext": "BnF, lat. 7709 f.52r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10548475p/f107.image.r=7709"
+    },
+    {
+        "img_file_name": "88f62r.jpg",
+        "alttext": "Leiden UB BPL 88 f.62r",
+        "description": "Leiden UB BPL 88 f.62r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f32r.jpg",
+        "alttext": "Leiden, UB, VLF 48 f.32r",
+        "description": "Leiden, UB, VLF 48 f.32r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "12469f27bisr.jpg",
+        "alttext": "BnF, lat. 12469 f.27 bis r",
+        "description": "BnF, lat. 12469 f.27 bis r",
+        "resource": "zoek"
+    },
+    {
+        "img_file_name": "144side.jpg",
+        "alttext": "Leiden UB BPL 144",
+        "description": "Leiden UB BPL 144",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f2rfr.jpg",
+        "alttext": "Leiden UB BPL 144 f.2r",
+        "description": "Leiden UB BPL 144 f.2r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f10r.jpg",
+        "alttext": "Leiden UB BPL 144 f.10r",
+        "description": "Leiden UB BPL 144 f.10r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f10rfr.jpg",
+        "alttext": "Leiden UB BPL 144 f.10r",
+        "description": "Leiden UB BPL 144 f.10r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f2rfr2.jpg",
+        "alttext": "Leiden UB BPL 144 f.2r",
+        "description": "Leiden UB BPL 144 f.2r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f2rfr3.jpg",
+        "alttext": "Leiden UB BPL 144 f.2r",
+        "description": "Written nota signs from the original annotating hand (below) and from the later one (above)",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f2rfr4.jpg",
+        "alttext": "Leiden UB BPL 144 f.2r",
+        "description": "A written Nota sign in the original hand, and a drawn head as attention sign in the later hand.",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f17v.jpg",
+        "alttext": "Leiden UB BPL 144 f.17v",
+        "description": "A foot (?) and a hand at the edge of fol. 17v",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f37r.jpg",
+        "alttext": "Leiden UB BPL 144 f.37r",
+        "description": "A hand, leg or arm (?) and face on fol. 37r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f49v.jpg",
+        "alttext": "Leiden UB BPL 144 f.49v",
+        "description": "A head and peculiar animal on fol. 49v.",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f18r.jpg",
+        "alttext": "Leiden UB BPL 144 f.18r",
+        "description": "Leiden UB BPL 144 f.18r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f20v.jpg",
+        "alttext": "Leiden UB BPL 144 f.20v",
+        "description": "Edge of f.20v",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f17r.jpg",
+        "alttext": "Leiden UB BPL 144 f.17r",
+        "description": "Edge of f.17r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f62v63r.jpg",
+        "alttext": "Leiden UB BPL 144 f.62v and f.63r",
+        "description": "Leiden UB BPL 144 f.62v and f.63r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144fonbekend4.jpg",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f89r.jpg",
+        "alttext": "Leiden UB BPL 144 f.89r",
+        "description": "Leiden UB BPL 144 f.89r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144f90r.jpg",
+        "alttext": "Leiden UB BPL 144 f.90r",
+        "description": "Leiden UB BPL 144 f.90r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "144fonbekendfr.jpg",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "ladydialectica2.jpg",
+        "alttext": "Personification of the art of Dialectic in the west façade, Chartres Cathedral, France.",
+        "description": "Personification of the art of Dialectic in the west façade, Chartres Cathedral, France.",
+        "resource": "rechten?",
+        "hyperlink": "https://www.flickr.com/photos/pelegrino/5168056334/in/photostream/"
+    },
+    {
+        "img_file_name": "88f2v3r.jpg",
+        "alttext": "Leiden UB BPL 88 f.2v-3r",
+        "description": "Leiden UB BPL 88 f.2v-3r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88f2v3rfr.jpg",
+        "alttext": "Leiden UB BPL 88 f.2v-3r",
+        "description": "Leiden UB BPL 88 f.2v-3r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88f1v2rfr.jpg",
+        "alttext": "Leiden UB BPL 88 f.1v-2r",
+        "description": "Leiden UB BPL 88 f.1v-2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88f4v.jpg",
+        "alttext": "Leiden UB BPL 88 f.4v",
+        "description": "Leiden UB BPL 88 f.4v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88f59r.jpg",
+        "alttext": "Leiden UB BPL 88 f.59r",
+        "description": "Leiden UB BPL 88 f.59r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88fonbekend2.jpg",
+        "alttext": "Leiden UB BPL 88 ",
+        "description": "Leiden UB BPL 88 ",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88f171r.jpg",
+        "alttext": "Leiden UB BPL 88 f.171r",
+        "description": "Leiden UB BPL 88 f.171r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "88f172v.jpg",
+        "alttext": "Leiden UB BPL 88 f.172v",
+        "description": "Leiden UB BPL 88 f.172v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f1v2r.jpg",
+        "alttext": "Leiden UB VLF 48 f.1v-2r",
+        "description": "Leiden UB VLF 48 f.1v-2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f50v.jpg",
+        "alttext": "Leiden UB VLF 48 f.50v",
+        "description": "Leiden UB VLF 48 f.50v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f2r.jpg",
+        "alttext": "Leiden UB BPL 48 f.2r",
+        "description": "Leiden UB BPL 48 f.2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f2r2.jpg",
+        "alttext": "Leiden UB BPL 48 f.2r",
+        "description": "Leiden UB BPL 48 f.2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f4v.jpg",
+        "alttext": "Leiden UB BPL 48 f.4v",
+        "description": "Leiden UB BPL 48 f.4v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f30v31r.jpg",
+        "alttext": "Leiden UB BPL 48 f.30v-31r",
+        "description": "Leiden UB BPL 48 f.30v-31r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f32r2.jpg",
+        "alttext": "Leiden UB BPL 48 f.32r",
+        "description": "Leiden UB BPL 48 f.32r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "48f92v.jpg",
+        "alttext": "Leiden UB BPL 48 f.92v",
+        "description": "Leiden UB BPL 48 f.92v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "7900Acover.jpg",
+        "alttext": "Paris BnF lat.7900A cover",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x.r=7900A?rk=21459;2"
+    },
+    {
+        "img_file_name": "7900Acover2.jpg",
+        "alttext": "Paris BnF lat.7900A cover",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f337.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af112r.jpg",
+        "alttext": "Paris BnF lat.7900A f.112r",
+        "description": "Paris BnF lat.7900A f.112r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f243.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af116r.jpg",
+        "alttext": "Paris BnF lat.7900A f.116r",
+        "description": "Paris BnF lat.7900A f.116r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f251.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af116v.jpg",
+        "alttext": "Paris BnF lat.7900A f.116v",
+        "description": "Paris BnF lat.7900A f.116v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f252.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900A120v.jpg",
+        "alttext": "Paris BnF lat.7900A f.120v",
+        "description": "Paris BnF lat.7900A f.120v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f260.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af128r.jpg",
+        "alttext": "Paris BnF lat.7900A f.128r",
+        "description": "Paris BnF lat.7900A f.128r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f275.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af109v.jpg",
+        "alttext": "Paris BnF lat.7900A f.109v",
+        "description": "Paris BnF lat.7900A f.109v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f236.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af140v.jpg",
+        "alttext": "Paris BnF lat.7900A f.140v",
+        "description": "Portrait of Lady Rhetoric on f.140v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f300.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af151v.jpg",
+        "alttext": "Paris BnF lat.7900A f.151v",
+        "description": "Portrait of Lady Astronomy on f.151v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f322.image.r=7900A"
+    },
+    {
+        "img_file_name": "7900Af153v.jpg",
+        "alttext": "Paris BnF lat.7900A f.153v",
+        "description": "The art of music is illustrated on f. 153v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f326.image.r=7900A"
+    },
+    {
+        "img_file_name": "25cover.jpg",
+        "alttext": "Leiden UB BPL 25",
+        "description": "Leiden UB BPL 25",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "aristotle.jpg",
+        "alttext": "Glasgow, University Library, MS Hunter 231, p. 276",
+        "description": "Portrait of Aristole in Glasgow, University Library, MS Hunter 231, p. 276",
+        "resource": "University of Glasgow",
+        "hyperlink": "http://special.lib.gla.ac.uk/exhibns/chaucer/learning.html"
+    },
+    {
+        "img_file_name": "25f1v2r.jpg",
+        "alttext": "Leiden UB BPL 25 f.1v-2r",
+        "description": "Leiden UB BPL 25 f.1v-2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f1v2rfr.jpg",
+        "alttext": "Leiden UB BPL 25 f.1v-2r",
+        "description": "Leiden UB BPL 25 f.1v-2r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f2v.jpg",
+        "alttext": "Leiden UB BPL 25 f.2v",
+        "description": "Leiden UB BPL 25 f.2v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f6v.jpg",
+        "alttext": "Leiden UB BPL 25 f.6v",
+        "description": "Leiden UB BPL 25 f.6v",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f7r.jpg",
+        "alttext": "Leiden UB BPL 25 f.7r",
+        "description": "F. 7r: A bad spot and tear in the parchment were already there before the writing started: the scribe carefully writes around it.",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f7v.jpg",
+        "alttext": "Leiden UB BPL 25 f.7v",
+        "description": "F. 7v: This set up of the two faces that link the note in the margin to the correct place in the text confirms that the faces are part of the thirteenth-century layer of reader’s notes, and not the original tenth-century one.",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f30v32r.jpg",
+        "alttext": "Leiden UB BPL 25 f.30v-32r",
+        "description": "Leiden UB BPL 25 f.30v-32r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "25f42r.jpg",
+        "alttext": "Leiden UB BPL 25 f.42r",
+        "description": "Leiden UB BPL 25 f.42r",
+        "resource": "Universiteits Bibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1617684?solr_nav%5Bid%5D=52e82e60feaef831fa26&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "img_file_name": "17806cover2.jpg",
+        "alttext": "Paris, BnF, lat.17806 cover",
+        "description": "Paris, BnF, lat.17806 cover",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f534.item.zoom"
+    },
+    {
+        "img_file_name": "17806f4v.jpg",
+        "alttext": "Paris, BnF, lat.17806 f.4v",
+        "description": "Paris, BnF, lat.17806 f.4v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
+    },
+    {
+        "img_file_name": "17806f4vfr.jpg",
+        "alttext": "Paris, BnF, lat.17806 f.4v",
+        "description": "Paris, BnF, lat.17806 f.4v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
+    },
+    {
+        "img_file_name": "17806f4vfr2.jpg",
+        "alttext": "Paris, BnF, lat.17806 f.4v",
+        "description": "Paris, BnF, lat.17806 f.4v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
     }
 ]

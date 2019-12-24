@@ -21,25 +21,16 @@
         "docx_file": "themes",
         "remarks": "three clickable links to three themes",
         "theme": "top",
-        "file_name": 2,
+        "file_name": "themes",
         "template_file": "basic",
         "navigation_file": "nav-top"
-    },
-    {
-        "title": "Manuscripts-section",
-        "docx_file": "empty",
-        "remarks": "icon which offers clickable links to the ca 25 ms that feature in this exhibition",
-        "theme": "manuscripts",
-        "file_name": 3,
-        "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
     },
     {
         "title": "Timeline",
         "docx_file": "empty",
         "remarks": "with people, events, manuscripts",
         "theme": "top",
-        "file_name": 4,
+        "file_name": "timeline",
         "template_file": "timeline",
         "navigation_file": "nav-top"
     },
@@ -62,143 +53,161 @@
         "navigation_file": "nav-top"
     },
     {
-        "title": "Dialectica and retorica in the medieval classroom",
+        "title": "±±±t1±±±",
         "docx_file": "empty",
-        "theme": 1,
+        "remarks": "Landing page for the 1",
+        "theme": "top",
         "file_name": "theme1",
         "template_file": "theme-landing",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-top",
+        "t1": 1
     },
     {
         "title": "The medieval classroom",
         "docx_file": "classroom",
         "theme": 1,
-        "file_name": "The Medieval Classroom",
+        "file_name": "Medieval-Classroom",
         "template_file": "theme-item",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-1",
+        "t1": 1
     },
     {
         "title": "The curriculum",
         "docx_file": "curriculum",
         "theme": 1,
-        "file_name": "The Curriculum",
+        "file_name": "Curriculum",
         "template_file": "theme-item",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-1",
+        "t1": 1
     },
     {
         "title": "Dialectica and Rhetorica",
         "docx_file": "dialecticarhetorica",
         "theme": 1,
-        "file_name": "Dialectica and Rhetorica",
+        "file_name": "Dialectica-Rhetorica",
         "template_file": "theme-item",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-1",
+        "t1": 1
     },
     {
-        "title": "Teachers and Students",
+        "title": "±±±t2±±±",
         "docx_file": "theme2",
         "remarks": "Landing page for the 2",
-        "theme": 2,
+        "theme": "top",
         "file_name": "theme2",
         "template_file": "theme-landing",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-top",
+        "t2": 1
     },
     {
         "title": "Alcuin and dialogue",
         "docx_file": "alcuin",
         "theme": 2,
-        "file_name": "Alcuin and dialogue",
+        "file_name": "Alcuin-dialogue",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "t2": 1
     },
     {
         "title": "John the Scot and his assistant",
         "docx_file": "johnscot",
         "theme": 2,
-        "file_name": "John the Scot and his assistant",
+        "file_name": "John-Scot-his-assistant",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "t2": 1
     },
     {
         "title": "The school of Auxerre ",
         "docx_file": "auxerre",
         "remarks": "(Heiric and Remigius)",
         "theme": 2,
-        "file_name": "The School of Auxerre",
+        "file_name": "School-Auxerre",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "t2": 1
     },
     {
         "title": "Abbeville",
         "docx_file": "abbeville",
         "theme": 2,
-        "file_name": "Gerard D'Abbeville",
+        "file_name": "Gerard-DAbbeville",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "t2": 1
     },
     {
         "title": "Gerbert of Aurillac-Abbo of Fleury",
         "docx_file": "empty",
         "theme": 2,
-        "file_name": "i",
+        "file_name": "Gerbert-Aurillac-AbboFleury",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "t2": 1
     },
     {
         "title": "Ramon Lull",
-        "docx_file": "empty",
+        "docx_file": "ramonllull",
         "theme": 2,
-        "file_name": "ij",
+        "file_name": "Ramon-Llull",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "t2": 1
     },
     {
-        "title": "Theme 3: How",
+        "title": "±±±t3±±±",
         "docx_file": "empty",
         "remarks": "Landing page for the 3",
-        "theme": 3,
+        "theme": "top",
         "file_name": "theme3",
-        "template_file": "theme-landing",
-        "navigation_file": "nav-3"
+        "template_file": "theme-item2",
+        "navigation_file": "nav-top",
+        "t3": 1
     },
     {
         "title": "Glosses and commentaries",
-        "docx_file": "empty",
+        "docx_file": "gandc",
         "theme": 3,
-        "file_name": "k",
-        "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "file_name": "Glosses-commentaries",
+        "template_file": "theme-item2",
+        "navigation_file": "nav-3",
+        "t3": 1
     },
     {
         "title": "Debates and controversies",
         "docx_file": "empty",
         "theme": 3,
         "file_name": "l",
-        "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "template_file": "theme-item2",
+        "navigation_file": "nav-3",
+        "t3": 1
     },
     {
         "title": "Diagrams and schemes",
-        "docx_file": "empty",
+        "docx_file": "trees",
         "theme": 3,
-        "file_name": "m",
-        "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "file_name": "Trees-Diagrams-Schemes",
+        "template_file": "theme-item2",
+        "navigation_file": "nav-3",
+        "t3": 1
     },
     {
         "title": "How to make sense with Syllogism",
-        "docx_file": "empty",
+        "docx_file": "syllogism",
         "theme": 3,
-        "file_name": "n",
-        "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "file_name": "syllogism",
+        "template_file": "theme-item2",
+        "navigation_file": "nav-3",
+        "t3": 1
     },
     {
         "title": "Manuscripts section",
         "docx_file": "empty",
         "theme": "manuscripts",
-        "file_name": "o",
+        "file_name": "manuscripts",
         "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "m": 1
     },
     {
         "title": "Paris BnF, lat 12949",
@@ -206,15 +215,17 @@
         "theme": "manuscripts",
         "file_name": "p",
         "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "m": 1
     },
     {
         "title": "BPL 144",
-        "docx_file": "empty",
+        "docx_file": "BPL 144",
         "theme": "manuscripts",
-        "file_name": "q",
+        "file_name": "Leiden-UB-BPL-144",
         "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "m": 1
     },
     {
         "title": "Paris BnF, lat 17806",
@@ -222,7 +233,8 @@
         "theme": "manuscripts",
         "file_name": "r",
         "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "m": 1
     },
     {
         "title": "BPL 139 B",
@@ -230,7 +242,8 @@
         "theme": "manuscripts",
         "file_name": "s",
         "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "m": 1
     },
     {
         "title": "Arundel 348",
@@ -238,7 +251,8 @@
         "theme": "manuscripts",
         "file_name": "t",
         "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "m": 1
     },
     {
         "title": "Einsiedln 315",
@@ -246,6 +260,43 @@
         "theme": "manuscripts",
         "file_name": "u",
         "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "m": 1
+    },
+    {
+        "title": "BPL 88",
+        "docx_file": "BPL 88",
+        "theme": "manuscripts",
+        "file_name": "Leiden-UB-BPL-88",
+        "template_file": "basic",
+        "navigation_file": "nav-manuscripts",
+        "m": 1
+    },
+    {
+        "title": "VLF 48",
+        "docx_file": "VLF 48",
+        "theme": "manuscripts",
+        "file_name": "Leiden-UB-VLF-48",
+        "template_file": "basic",
+        "navigation_file": "nav-manuscripts",
+        "m": 1
+    },
+    {
+        "title": "Paris BnF, lat 7900A",
+        "docx_file": "7900A",
+        "theme": "manuscripts",
+        "file_name": "Paris-BnF-lat-7900A",
+        "template_file": "basic",
+        "navigation_file": "nav-manuscripts",
+        "m": 1
+    },
+    {
+        "title": "BPL 25",
+        "docx_file": "BPL 25",
+        "theme": "manuscripts",
+        "file_name": "Leiden-UB-BPL-25",
+        "template_file": "basic",
+        "navigation_file": "nav-manuscripts",
+        "m": 1
     }
 ]

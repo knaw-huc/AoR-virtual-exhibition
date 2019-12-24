@@ -1,5 +1,38 @@
+
 <nav>
-{{#each items}}
-    <a href="{{file_name}}.html">{{title}}</a> 
-{{/each}}
+  <a href="/">Home</a>
+
+  ±±±t1±±±
+    {{#if t1}}
+      {{#each items}}
+          <a class="l2" href="{{file_name}}.html">{{title}}</a>
+      {{/each}}
+    {{/if}}
+
+
+
+  ±±±t2±±±
+  {{#if t2}}
+    {{#each items}}
+        <a class="l2" href="{{file_name}}.html">{{title}}</a>
+    {{/each}}
+  {{/if}}
+
+
+
+  ±±±t3±±±
+  {{#if t3}}
+    {{#each items}}
+        <a class="l2" href="{{file_name}}.html">{{title}}</a>
+    {{/each}}
+  {{/if}}
+
+
+  <a href="manuscripts.html">Manuscripts</a>
+  {{#if tm}}
+    {{#each items}}
+        <a class="l2" href="{{file_name}}.html">{{title}}</a>
+    {{/each}}
+  {{/if}}
+
 </nav>

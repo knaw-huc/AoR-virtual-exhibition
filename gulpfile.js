@@ -135,15 +135,30 @@ gulp.task('clean', function () {
 
 
 gulp.task('nav', function(done) {
-  var navs = ["top", 1, 2, 3, "manuscripts"];
-  var navItems = {"items":[]};
+  var navs = [1, 2, 3, "manuscripts"];
+  var navItems = {"items":[], "t1":0, "t2":0, "t3":0, "tm":0};
 
   for(var i=0; i<navs.length; i++) {
+    if (navs[i] == 1) {
+      navItems.t1=1;
+    }
+    if (navs[i] == 2) {
+      navItems.t2=1;
+    }
+    if (navs[i] == 3) {
+      navItems.t3=1;
+    }
+    if (navs[i] == "manuscripts") {
+      navItems.tm=1;
+    };
+
+
     for (var j = 0; j < siteJson.length; j++) {
       if (siteJson[j].theme == navs[i]) {
         navItems.items.push(siteJson[j]);
       }
     }
+    console.log(navItems);
 
     gulp.src('./src/templates/nav.html') //
         .pipe(plumber())
@@ -156,7 +171,7 @@ gulp.task('nav', function(done) {
   }
 
 
-    //console.log(navItems);
+
    done();
 });
 
@@ -268,7 +283,10 @@ function handleImages(content) {
 
 function handleThemes(content) {
   for (var i = 0; i < themesJson.length; i++) {
-    content = content.replace(themesJson[i].shortode, '<a href="'+themesJson[i].themelink+'">'+themesJson[i].themename+'</a>');
+
+    var find = themesJson[i].shortode;
+    var regex = new RegExp(find, "g");
+    content = content.replace(regex, '<a href="'+themesJson[i].themelink+'">'+themesJson[i].themename+'</a>');
   }
   return content;
 }
