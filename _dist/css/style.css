@@ -3,7 +3,8 @@
   width: 100vw;
   display: flex;
   flex-direction: row;
-  justify-content: center; }
+  justify-content: center;
+  background-color: #faf9f5; }
 
 .aorNavigation {
   display: none;
@@ -12,7 +13,7 @@
   bottom: 0;
   left: 0;
   width: 100vw;
-  background-color: #c9e2c2;
+  background-color: #e9e5d3;
   flex-direction: column;
   justify-content: center;
   padding: 1rem; }
@@ -27,7 +28,7 @@
     width: 30vw; } }
 
 .aorContent {
-  max-width: 600px;
+  max-width: 650px;
   padding: 4rem 1rem 0 1rem; }
   .aorContent img {
     width: 200px;
@@ -44,7 +45,7 @@
 
 .aorTitle {
   padding: .5rem 1rem;
-  background-color: #e1f7e4;
+  background-color: #e9e5d3;
   display: flex;
   flex-direction: column;
   justify-content: center; }
@@ -53,13 +54,16 @@
   .aorTitle {
     flex-direction: row; } }
 
+.aorNextPage {
+  margin-bottom: 5rem; }
+
 .stickyFoot {
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   padding: .5rem 1rem;
-  background-color: #e1f7e4;
+  background-color: #e9e5d3;
   display: flex;
   flex-direction: row;
   justify-content: center; }
@@ -69,6 +73,24 @@
 
 .f-name {
   display: none; }
+
+.aorMap {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  background-color: #61f7f9; }
+
+.aorTimeline {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  background-color: #f1d6af; }
 
 html,
 body {

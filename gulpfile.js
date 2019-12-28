@@ -192,13 +192,21 @@ gulp.task('buildFromTemplates', function(done) {
   var fileName;
   var template;
   var messages;
-  var pageId;
+  var nextHref;
+  var nextTitle;
+
 
   for(var i=0; i<siteJson.length; i++) {
       page = siteJson[i];
       fileName = page.file_name; //.replace(/ +/g, '-').toLowerCase();
       template = page.template_file;
-      //pageId = page.id;
+      // links for nextpage
+      if (page.title != 'lastpage') {
+        page.nextHref = siteJson[i+1].file_name;
+        page.nextTitle = siteJson[i+1].title;
+      }
+
+
 
       gulp.src('./src/templates/'+template+'.html')
           .pipe(plumber())

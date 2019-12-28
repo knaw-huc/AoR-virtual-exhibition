@@ -1,4 +1,6 @@
 $margin: 1rem;
+$canvasColor: hsl(49, 33%, 97%);
+$canvasColorDark: hsl(49, 33%, 87%);
 
 .aorWrapper{
   width: 100vw;
@@ -6,6 +8,8 @@ $margin: 1rem;
   display: flex;
   flex-direction: row;
   justify-content: center;
+
+  background-color: $canvasColor;
 }
 
 .aorNavigation {
@@ -15,7 +19,7 @@ $margin: 1rem;
   bottom: 0;
   left: 0;
   width: 100vw;
-  background-color: #c9e2c2;
+  background-color: $canvasColorDark;
   flex-direction: column;
   justify-content: center;
   padding: 1rem;
@@ -39,7 +43,7 @@ $margin: 1rem;
 
 
 .aorContent {
-  max-width: 600px;
+  max-width: 650px;
   padding: 4rem #{$margin} 0 #{$margin};
 
   img {
@@ -63,7 +67,7 @@ $margin: 1rem;
 
 .aorTitle {
   padding: .5rem 1rem;
-  background-color: rgb(225, 247, 228);
+  background-color: $canvasColorDark;
 
   display: flex;
   flex-direction: column;
@@ -77,6 +81,10 @@ $margin: 1rem;
 }
 
 
+.aorNextPage {
+  margin-bottom: 5rem;
+}
+
 
 .stickyFoot {
 	position: fixed;
@@ -84,7 +92,7 @@ $margin: 1rem;
 	left: 0;
 	right: 0;
 	padding: .5rem 1rem;
-	background-color: rgb(225, 247, 228);
+	background-color: $canvasColorDark;
 
 	display: flex;
 	flex-direction: row;
@@ -100,79 +108,22 @@ $margin: 1rem;
 }
 
 
-//
-// .basicWrapper {
-//   width: 100vw;
-//   display: flex;
-//   flex-direction: column;
-//   align-items: center;
-// }
-//
-// .basicSiteMax {
-//   width: 100%;
-//   max-width: 1200px;
-// }
-//
-// .chapterTxtWrap {
-//   width: 100%;
-//   display: flex;
-//   flex-direction: column;
-//   align-items: center;
-// }
-//
-// .chapterTxt {
-//   width: 100%;
-//   max-width: $textColWIdth;
-//   display:block;
-// }
-//
-// .chapterTxt h2{
-//   margin-top: 4rem;
-// }
-//
-// .chapterNav {
-//   display: none;
-// }
-//
-// nav {
-//   display: flex;
-//   flex-direction: column;
-// }
-//
-// @media (min-width: 1000px) {
-//   .chapterTxtWrap {
-//     width: $txtWith;
-//     margin-left: 33vw;
-//   }
-//
-//   .chapterTxtWrap .bijschrift {
-//     display: none;
-//   }
-//
-//   .chapterNav {
-//     display: flex;
-//     flex-direction: column;
-//     align-items: center;
-//     position: absolute;
-//     top: 66vh;
-//     padding: 7rem 1.5rem;
-//     left: 0;
-//     width: $sideBarWith;
-//     //background-color: $colorGreyLightBg;
-//     background-image: linear-gradient(to bottom, #{$colorGreyLightBg} 90%, rgba(240, 240, 242, 0));
-//     color: $colorNMGNBlue2;
-//   }
-//   .chapterNav div {
-//     width: 350px;
-//   }
-//
-//   .chapterNav a {
-//     color: $colorNMGNBlue1;
-//   }
-//
-// }
-//
-// #subNavigation {
-//   position: relative;
-//   z-index: 500;
-// }
+.aorMap {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  background-color: rgb(97, 247, 249);
+}
+
+.aorTimeline {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  background-color: rgb(241, 214, 175);
+}

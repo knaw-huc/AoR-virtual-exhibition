@@ -7,7 +7,9 @@
 
   <article class="aorContent">
     <h1>{{title}}</h1>
+
     {{> (lookup . 'docx_file') }}
+  <div class="aorNextPage">Next read: <a href="{{nextHref}}.html">{{nextTitle}}</a> </div>
   </article>
 
 
@@ -17,6 +19,8 @@
   {{> (lookup . 'navigation_file') }}
 </div>
 
+<div class="aorMap" id="aorMap">map</div>
+<div class="aorTimeline" id="aorTimeline">timeline</div>
 
 
 
