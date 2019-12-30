@@ -172,7 +172,7 @@
     },
     {
         "title": "Glosses and commentaries",
-        "docx_file": "gandc",
+        "docx_file": "gandc_bd",
         "page_id": "3gc",
         "theme": 3,
         "file_name": "Glosses-commentaries",
@@ -307,11 +307,6 @@
     },
     {
         "title": "lastpage",
-        "docx_file": "BPL 25",
-        "page_id": "lst",
-        "theme": "manuscripts",
-        "file_name": "Leiden-UB-BPL-25",
-        "template_file": "basic",
-        "navigation_file": "nav-manuscripts"
+        "template_file": "home"
     }
 ]

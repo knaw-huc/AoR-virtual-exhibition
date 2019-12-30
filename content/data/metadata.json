@@ -1,11 +1,12 @@
 [
     {
+        "id": "aru348",
+        "location": "London",
         "shelfmark": "Arundel MS 348",
         "title": "Marcus Tullius Cicero, De Inventione; Pseudo-Cicero, Rhetorica ad Herennium; Thierry of Chartres, Commentary on Cicero's De Inventione; Boethius, Commentary on Aristotle's De Interpretatione",
         "dateS1": 1100,
         "dateS2": 1200,
         "origin": "Southern France",
-        "location": "London",
         "loclatlon": " -0.1276474, 51.5073219",
         "material": "Parchment",
         "dimensions": "210 x 125 mm",
@@ -16,6 +17,8 @@
         "type": "manuscript"
     },
     {
+        "id": "bur275",
+        "location": "London",
         "shelfmark": "Burney 275",
         "title": "Scholastic Miscellany",
         "dateS1": 1309,
@@ -23,7 +26,6 @@
         "origin": "Paris",
         "orilatlon": "23514616, 48.8566969",
         "library": "British Library",
-        "location": "London",
         "loclatlon": "-0.1276474, 51.5073219",
         "material": "Parchment",
         "dimensions": "405 x 290 mm",
@@ -34,6 +36,8 @@
         "type": "manuscript"
     },
     {
+        "id": "ein315",
+        "location": "Einsiedeln",
         "shelfmark": "Codex MS 315(605)",
         "title": "Boethius, Isagoge",
         "dateS1": 900,
@@ -41,7 +45,6 @@
         "origin": "Einsiedeln",
         "orilatlon": "87500299, 47.1286095",
         "library": "Stiftsbibliothek",
-        "location": "Einsiedeln",
         "loclatlon": "87500299, 47.1286095",
         "material": "Parchment",
         "dimensions": "220 x 160 mm",
@@ -51,6 +54,8 @@
         "type": "manuscript"
     },
     {
+        "id": "gal251",
+        "location": "St. Gallen",
         "shelfmark": "Cod. Sang. 251",
         "title": "Assorted works of natural history by the Venerable Bede",
         "dateS1": 800,
@@ -58,7 +63,6 @@
         "origin": "St. Gall",
         "orilatlon": " 9.3765878, 47.4250593",
         "library": "Stiftsbibliothek",
-        "location": "St. Gallen",
         "loclatlon": " 9.3765878, 47.4250593",
         "material": "Parchment",
         "dimensions": "365 x 260 mm",
@@ -68,12 +72,13 @@
         "type": "manuscript"
     },
     {
+        "id": "kar92",
+        "location": "Karlsruhe",
         "shelfmark": "St. Peter perg. 92",
         "title": "Breviculum ex artibus Raimundi Lulli electum",
         "dateS1": 1321,
         "origin": "Northern France",
         "library": "Badische Landesbibliothek",
-        "location": "Karlsruhe",
         "loclatlon": "8.4034195, 49.0068705",
         "material": "Parchment",
         "dimensions": "345 x 280 mm",
@@ -83,13 +88,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bpl25",
+        "location": "Leiden",
         "shelfmark": "BPL 25",
         "title": "Libri Missalis fragmenta. – Boethii in Aristotelem de Interpretatione Commentarius. – L. Apuleius Madaurensis de Interpretatione",
         "dateS1": 900,
         "dateS2": 1000,
         "origin": "Southern Netherlands",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "325 x 225 mm",
@@ -100,13 +106,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bpl84",
+        "location": "Leiden",
         "shelfmark": "BPL 84",
         "title": "Severini Boethii Opera. – Alcuinus de Dialectica",
         "dateS1": 1000,
         "dateS2": 1100,
         "origin": "Italy?",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "264 x 152 mm",
@@ -117,6 +124,8 @@
         "type": "manuscript"
     },
     {
+        "id": "bpl88",
+        "location": "Leiden",
         "shelfmark": "BPL 88",
         "title": "de Martiano Capella et de Alphabeto graeco. - Martianus Capella de Nuptiis Philologiae et Mercurii. - Tractatus theologici fragmentum",
         "dateS1": 800,
@@ -124,7 +133,6 @@
         "origin": "Reims",
         "orilatlon": "4.031926, 49.2577886",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "255 x 232 mm",
@@ -136,6 +144,8 @@
         "type": "manuscript"
     },
     {
+        "id": "bpl139",
+        "location": "Leiden",
         "shelfmark": "BPL 139B",
         "title": "De syllogismis categoricis and other text(s)",
         "dateS1": 975,
@@ -143,7 +153,6 @@
         "origin": "Fleury",
         "orilatlon": "3.1566772, 49.258735",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "ca. 222 x 174 mm",
@@ -153,13 +162,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bpl144",
+        "location": "Leiden",
         "shelfmark": "BPL 144",
         "title": "De consolatione philosophiae and other text(s)",
         "dateS1": 1150,
         "dateS2": 1200,
         "origin": "Netherlands",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "227 x 155 mm",
@@ -171,13 +181,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bpl192",
+        "location": "Leiden",
         "shelfmark": "BPL 1925",
         "title": "Ilias Latina and other text(s). 12th and 13th centuries",
         "dateS1": 1100,
         "dateS2": 1300,
         "origin": "France",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "ca. 140 x 100 mm",
@@ -188,13 +199,14 @@
         "type": "manuscript"
     },
     {
+        "id": "gro22",
+        "location": "Leiden",
         "shelfmark": "GRO 22",
         "title": "De inventione and other text(s)",
         "dateS1": 1100,
         "dateS2": 1150,
         "origin": "France",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "224 x 149 mm",
@@ -204,13 +216,14 @@
         "type": "manuscript"
     },
     {
+        "id": "vlf48",
+        "location": "Leiden",
         "shelfmark": "VLF 48",
         "title": "Martianus Capella, De nuptiis and other texts",
         "dateS1": 840,
         "origin": "Auxerre",
         "orilatlon": "3.570579, 47.7961287",
         "library": "Universiteitsbibliotheek Leiden",
-        "location": "Leiden",
         "loclatlon": "4.48110886662043, 52.1518157",
         "material": "Parchment",
         "dimensions": "307 x 250 mm",
@@ -221,13 +234,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf111",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 11127",
         "title": "Commentarium Boetii in periermenias librum Aristotelis – S. X",
         "dateS1": 900,
         "dateS2": 1000,
         "origin": "Echternach?",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "dimensions": "245 x 170 mm",
@@ -237,12 +251,13 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf129",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 12949",
         "title": "Aristotelis periermeniae and other texts",
         "dateS1": 900,
         "origin": "N. France",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "dimensions": "280 x 230 mm",
@@ -252,13 +267,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf133",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 13386",
         "title": "Tractatus Peregrini [Vincentii Lirin.] contra hereticos. And other texts",
         "dateS1": 700,
         "dateS2": 900,
         "origin": "Northern France",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "dimensions": "190 x 150 mm",
@@ -268,6 +284,8 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf146",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 14614",
         "title": "Petrus Abaelardus, Dialectica and other texts",
         "dateS1": 1100,
@@ -275,7 +293,6 @@
         "origin": "Paris",
         "orilatlon": "23514616, 48.8566969",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "foliation": "204 ff",
@@ -284,13 +301,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf165",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 16598",
         "title": "Porphyrius and other texts",
         "dateS1": 1200,
         "dateS2": 1300,
         "origin": "France",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "foliation": "98 ff",
@@ -299,13 +317,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf178",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 17806",
         "title": "Aristoteles, Praedicamenta and other texts",
         "dateS1": 1250,
         "dateS2": 1275,
         "origin": "England, perhaps Oxford",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "foliation": "259 ff",
@@ -314,13 +333,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf278",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 2788",
         "title": "Boethius, opuscula sacra and other texts",
         "dateS1": 850,
         "dateS2": 900,
         "origin": "Fleury?",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment?",
         "dimensions": "220 x 145 mm",
@@ -330,13 +350,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf790",
+        "location": "Parijs",
         "shelfmark": "BnF lat. 7900A",
         "title": "Publius Terentius Afer and other texts",
         "dateS1": 875,
         "dateS2": 1025,
         "origin": "Northern Italy, perhaps Milan?",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "dimensions": "340 x 270 mm",
@@ -348,13 +369,14 @@
         "type": "manuscript"
     },
     {
+        "id": "bnf239",
+        "location": "Parijs",
         "shelfmark": "BnF nal. 239",
         "title": "Léandre (Règle de saint) and other texts",
         "dateS1": 900,
         "dateS2": 1100,
         "origin": "Spain",
         "library": "Bibliothèque nationale de France",
-        "location": "Parijs",
         "loclatlon": "23514616, 48.8566969",
         "material": "Parchment",
         "foliation": "83 ff",
@@ -363,13 +385,14 @@
         "type": "manuscript"
     },
     {
+        "id": "val404",
+        "location": "Valenciennes",
         "shelfmark": "Valenciennes BM ms 404",
         "title": "Isidorus Hispalensis: De Retorica et dialectica and other texts",
         "dateS1": 800,
         "dateS2": 900,
         "origin": "St. Amand?",
         "library": "Valenciennes. Bibliothèque municipale",
-        "location": "Valenciennes",
         "loclatlon": "35234846, 50.3579317",
         "material": "Parchment",
         "dimensions": "219 x 148 mm",
@@ -379,13 +402,14 @@
         "type": "manuscript"
     },
     {
+        "id": "val406",
+        "location": "Valenciennes",
         "shelfmark": "Valenciennes BM ms 406",
         "title": "Recueil de traités de logique et de rhétorique",
         "dateS1": 900,
         "dateS2": 1000,
         "origin": "St. Amand?",
         "library": "Valenciennes. Bibliothèque municipale",
-        "location": "Valenciennes",
         "loclatlon": "35234846, 50.3579317",
         "material": "Parchment",
         "dimensions": "290 x 224 mm",
@@ -393,5 +417,19 @@
         "contents": "Recueil de traités de logique et de rhétorique",
         "language": "Latin",
         "type": "manuscript"
+    },
+    {
+        "id": "bnf166",
+        "location": "Parijs",
+        "shelfmark": "BnF, lat. 16611",
+        "origin": "Paris",
+        "orilatlon": "23514616, 48.8566969"
+    },
+    {
+        "id": "vlf12",
+        "location": "Leiden",
+        "shelfmark": "VLF 12",
+        "origin": "Leiden",
+        "orilatlon": "4.48110886662043, 52.1518157"
     }
 ]

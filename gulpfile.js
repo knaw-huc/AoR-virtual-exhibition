@@ -46,6 +46,7 @@ var allImgStr = 'not working';
 var siteJson = require('./content/data/sites.json');
 var imagesJson = require('./content/data/images.json');
 var themesJson = require('./content/data/themes.json');
+var folioJson = require('./content/data/folios.json');
 var copyPath = require('./content/data/copyPath.json');
 
 // Create HTML
@@ -53,6 +54,7 @@ function createHtml(fileName) {
   mammoth.convertToHtml({path: copyPath.copyDestination+fileName+".docx", outputDir: "content/html/"})
       .then(function(result){
           htmlOut = result.value; // The generated HTML
+          htmlOut = handleManuscriptComponent(htmlOut);
           messages = result.messages; // Any messages, such as warnings during conversion
           //console.log(htmlOut);
           fs.writeFileSync('content/html/'+fileName+'.html', htmlOut)
@@ -94,7 +96,7 @@ function reload(done) {
 
 // clear Json files en get new data from google docs
 gulp.task('cleanJson', function () {
-    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json'], {read: false, allowEmpty: true})
+    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json','content/data/folios.json'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -115,14 +117,17 @@ gulp.task('getJMeta', function (cb) {
   exec('gsjson 1YYq7dZHayAeVoE4R9_lCQ1Yx_lxN-sfLqjH5Br_5cAU >> content/data/metadata.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
+gulp.task('getJFolio', function (cb) {
+  exec('gsjson 1Z-Y6VJPJ3uh86805So4OVd9Mri2ci5pmJNyN_zMFhjI >> content/data/folios.json -b', function (err, stdout, stderr) { cb(err); });
+})
 //
-gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', function (done) {
+gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', function (done) {
   done();
 }))
 
 // gulp getj
 // meta   1YYq7dZHayAeVoE4R9_lCQ1Yx_lxN-sfLqjH5Br_5cAU
-
+// folio 1Z-Y6VJPJ3uh86805So4OVd9Mri2ci5pmJNyN_zMFhjI
 
 
 
@@ -217,6 +222,7 @@ gulp.task('buildFromTemplates', function(done) {
             // replace images and theme names
             var newContent = handleImages(content);
             newContent = handleThemes(newContent);
+            newContent = handleManuscriptComponent(newContent)
             callback(null, newContent);
             }))
           .pipe(useref())
@@ -261,7 +267,6 @@ gulp.task('watch', function () {
 });
 
 
-
 gulp.task('default',
   gulp.series('build', gulp.parallel('browserSync','watch'),
   function(done) {
@@ -296,5 +301,16 @@ function handleThemes(content) {
     var regex = new RegExp(find, "g");
     content = content.replace(regex, '<a href="'+themesJson[i].themelink+'">'+themesJson[i].themename+'</a>');
   }
+  return content;
+}
+
+function handleManuscriptComponent(content) {
+  //<p>±f±vlf48_30_v±f±</p>
+  //content = content.replace(/<p>±f±/g, '<div class="aorCompManuscript">');
+  //content = content.replace(/±f±<\/p>/g, '</div>');
+  for (var i = 0; i < folioJson.length; i++) {
+    content = content.replace('<p>±f±'+folioJson[i].folioid+'±f±</p>', '{{> manuscriptComp folioFileName="'+folioJson[i].foliofilename+'" foliodescription="'+folioJson[i].foliodescription+'"}}'); //
+  }
+
   return content;
 }

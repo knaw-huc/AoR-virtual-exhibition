@@ -1,19 +1,5 @@
 [
     {
-        "img_file_name": "test.jpg",
-        "alttext": "A test image",
-        "description": "A painting or a manuscript",
-        "resource": "Rijksmuseum",
-        "hyperlink": "http://www.nu.nl"
-    },
-    {
-        "img_file_name": "test2.jpg",
-        "alttext": "sdfasdf",
-        "description": "sdfasdfasd",
-        "resource": "asdfasdfasd",
-        "hyperlink": "sdf"
-    },
-    {
         "img_file_name": "classroom.jpg",
         "alttext": "Classroom",
         "description": "Miniature of classroom",

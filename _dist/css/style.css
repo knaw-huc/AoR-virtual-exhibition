@@ -1,10 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=IM+Fell+English:400,400i&display=swap");
 .aorWrapper {
   width: 100vw;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #faf9f5; }
+  background-color: white; }
 
 .aorNavigation {
   display: none;
@@ -169,3 +168,12 @@ body {
   width: 100vw;
   height: calc(100vh - 6rem);
   min-width: 500px; }
+
+.aorCompManuscript {
+  width: calc(100% + 4rem);
+  height: 400px;
+  background-color: #e3f1f1;
+  margin: 0 -2rem; }
+  .aorCompManuscript image {
+    width: auto;
+    height: 100%; }

@@ -13,7 +13,7 @@ body {
 	box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+English:400,400i&display=swap'); //font-family: 'IM Fell English', serif;
+//@import url('https://fonts.googleapis.com/css?family=IM+Fell+English:400,400i&display=swap'); //font-family: 'IM Fell English', serif;
 
 
 body {
@@ -118,4 +118,16 @@ body {
   width: 100vw;
   height: calc(100vh - 6rem);
   min-width: 500px;
+}
+
+.aorCompManuscript{
+	width: calc(100% + 4rem);
+	height: 400px;
+	background-color: rgb(227, 241, 241);
+	margin: 0 -2rem;
+
+	image {
+		width: auto;
+		height: 100%;
+	}
 }
