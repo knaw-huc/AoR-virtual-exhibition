@@ -1,0 +1,46 @@
+.aorCompManuscript{
+  background-color: rgb(227, 241, 241);
+
+
+
+	width: 100%;
+  width: calc(100% + #{$margin} + #{$margin});
+  max-width: 1000px;
+	height: 400px;
+  margin: 0 calc(0px - #{$margin});
+
+
+	image {
+		width: auto;
+		height: 100%;
+	}
+}
+
+
+@media (min-width: 1000px) {
+  // .aorCompManuscript{
+  // 	width: calc(100% + 4rem);
+  // 	height: 400px;
+  //
+  // 	margin: 0 -2rem;
+  //
+  // 	image {
+  // 		width: auto;
+  // 		height: 100%;
+  // 	}
+  // }
+}
+
+
+// SVG
+.aorHighLightStroke {
+  stroke: #ffffff;
+  stroke-width:1.5px;
+  fill:none;
+  border-radius: 3px;
+}
+.maskFill {
+  fill: black;
+  border-radius: 3px;
+
+}

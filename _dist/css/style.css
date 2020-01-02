@@ -28,7 +28,7 @@
 
 .aorContent {
   max-width: 650px;
-  padding: 4rem 1rem 0 1rem; }
+  padding: 4rem 1.5rem 0 1.5rem; }
   .aorContent img {
     width: 200px;
     height: auto; }
@@ -90,6 +90,27 @@
   left: 0;
   width: 100vw;
   background-color: #f1d6af; }
+
+.aorCompManuscript {
+  background-color: #e3f1f1;
+  width: 100%;
+  width: calc(100% + 1.5rem + 1.5rem);
+  max-width: 1000px;
+  height: 400px;
+  margin: 0 calc(0px - 1.5rem); }
+  .aorCompManuscript image {
+    width: auto;
+    height: 100%; }
+
+.aorHighLightStroke {
+  stroke: #ffffff;
+  stroke-width: 1.5px;
+  fill: none;
+  border-radius: 3px; }
+
+.maskFill {
+  fill: black;
+  border-radius: 3px; }
 
 html,
 body {
@@ -168,12 +189,3 @@ body {
   width: 100vw;
   height: calc(100vh - 6rem);
   min-width: 500px; }
-
-.aorCompManuscript {
-  width: calc(100% + 4rem);
-  height: 400px;
-  background-color: #e3f1f1;
-  margin: 0 -2rem; }
-  .aorCompManuscript image {
-    width: auto;
-    height: 100%; }

@@ -1,6 +1,7 @@
-$margin: 1rem;
+$margin: 1.5rem;
 $canvasColor: hsl(49, 33%, 100%);
 $canvasColorDark: hsl(49, 33%, 87%);
+$textContentWdth: 650px;
 
 .aorWrapper{
   width: 100vw;
@@ -43,7 +44,7 @@ $canvasColorDark: hsl(49, 33%, 87%);
 
 
 .aorContent {
-  max-width: 650px;
+  max-width: $textContentWdth;
   padding: 4rem #{$margin} 0 #{$margin};
 
   img {

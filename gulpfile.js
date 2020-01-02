@@ -47,6 +47,7 @@ var siteJson = require('./content/data/sites.json');
 var imagesJson = require('./content/data/images.json');
 var themesJson = require('./content/data/themes.json');
 var folioJson = require('./content/data/folios.json');
+var folioPartsJson = require('./content/data/folioParts.json');
 var copyPath = require('./content/data/copyPath.json');
 
 // Create HTML
@@ -96,7 +97,7 @@ function reload(done) {
 
 // clear Json files en get new data from google docs
 gulp.task('cleanJson', function () {
-    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json','content/data/folios.json'], {read: false, allowEmpty: true})
+    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json','content/data/folios.json','content/data/folioParts.json'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -120,14 +121,19 @@ gulp.task('getJMeta', function (cb) {
 gulp.task('getJFolio', function (cb) {
   exec('gsjson 1Z-Y6VJPJ3uh86805So4OVd9Mri2ci5pmJNyN_zMFhjI >> content/data/folios.json -b', function (err, stdout, stderr) { cb(err); });
 })
+
+gulp.task('getJFolioParts', function (cb) {
+  exec('gsjson 1_0NrQL1LMToaYBfMXuTICHLAQicRLTZR-5IkRyB9ndc >> content/data/folioParts.json -b', function (err, stdout, stderr) { cb(err); });
+})
+
 //
-gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', function (done) {
+gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', 'getJFolioParts', function (done) {
   done();
 }))
 
 // gulp getj
 // meta   1YYq7dZHayAeVoE4R9_lCQ1Yx_lxN-sfLqjH5Br_5cAU
-// folio 1Z-Y6VJPJ3uh86805So4OVd9Mri2ci5pmJNyN_zMFhjI
+// folio 1_0NrQL1LMToaYBfMXuTICHLAQicRLTZR-5IkRyB9ndc
 
 
 
