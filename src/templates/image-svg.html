@@ -45,43 +45,37 @@
       </defs>
       <image href="images/manuscripts/UB_VLF_48_f30_v.jpg"  id="imgg"></image>
       <g id="imgGr">
-        <rect x="0" y="0" width="100%" height="100%" style="fill:rgba(1, 1, 1, 0.5);" mask="url(#m1)"/>
+        <rect x="0" y="0" width="100%" height="100%" style="fill:rgba(1, 1, 1, 0.3);" mask="url(#m1)"/>
       </g>
     </svg>
-    <div id="info"></div>
+    <div id="info">
+      <textarea name="coords" cols="20" rows="1" id="coords"></textarea>
+    </div>
     <script>
-      function clicked(evt){
-        // image dimensions
-        var element = document.getElementById('imgg');
-        var positionInfo = element.getBoundingClientRect();
-        var height = positionInfo.height;
-        var width = positionInfo.width;
+    document.onreadystatechange = () => {
+    if (document.readyState === 'complete') {
 
-        // position
-        var e = evt.target;
-        var dim = e.getBoundingClientRect();
-        var x = evt.clientX - dim.left;
-        var y = evt.clientY - dim.top;
-
-        var widthPercent  = (x/width)*100;
-        var heightPercent = (y/height)*100;
+      connectSquares([60.941,50.816],[63.798,53.121],[81.264,51.113], [83.678,53.617]); connectSquares([64.828, 53.618],[67.241, 55.380],[82.759, 57.421], [85.977, 59.369]); connectSquares([58.966, 56.215],[61.609, 58.256],[83.218, 63.265], [85.977, 65.492]); connectSquares([79.770, 68.089],[81.839, 70.315],[86.207, 71.707], [88.506, 74.583]);
 
 
 
-        // display
-        document.getElementById('info').innerHTML = "x: "+x+"<br> y:"+y +"<br><br>width: "+width+"<br> height:"+height+"<br><br>% "+widthPercent+", "+heightPercent;
 
-      }
+
 
       //create highlightSquar
-      function highlightSquar(p1aX,p1aY,p1bX,p1bY) { //p2a,p2b
-        var w = p1bX-p1aX;
-        var h = p1bY-p1aY;
+      function highlightSquar(p1a,p1b) {
+
+        var p1a = convertPercent2px(p1a[0], p1a[1]);
+        var p1b = convertPercent2px(p1b[0], p1b[1]);
+console.log(p1a,p1b);
+
+        var w = p1b[0]-p1a[0];
+        var h = p1b[1]-p1a[1];
         var style1 = ' class="aorHighLightStroke" />';
 
-        var rect = '<rect x="'+p1aX+'%" y="'+p1aY+'%" width="'+w+'%" height="'+h+'%" ';
+        var rect = '<rect x="'+p1a[0]+'" y="'+p1a[1]+'" width="'+w+'" height="'+h+'" ';
 
-
+console.log(rect+style1);
         document.getElementById('imgGr').innerHTML +=rect+style1;
 
         style1 = ' class="maskFill" />';
@@ -89,38 +83,105 @@
 
       }
 
-      function plotLine(paX,paY,pbX,pbY) {
+      function plotLine(pa,pb) {
+        var paX = convertPercent2px(pa[0], pa[1])[0];
+        var paY = convertPercent2px(pa[0], pa[1])[1];
+        var pbX = convertPercent2px(pb[0], pb[1])[0];
+        var pbY = convertPercent2px(pb[0], pb[1])[1];
 
-        var line = '<line x1="'+paX+'%" y1="'+paY+'%" x2="'+pbX+'%" y2="'+pbY+'%" class="aorHighLightStroke" />';
+        var line = '<line x1="'+paX+'" y1="'+paY+'" x2="'+pbX+'" y2="'+pbY+'" class="aorHighLightStroke" />';
         document.getElementById('imgGr').innerHTML +=line;
 
       }
 
 
-      function connectSquares(p1aX,p1aY,p1bX,p1bY,p2aX,p2aY,p2bX,p2bY) {
-
-        highlightSquar(p1aX,p1aY,p1bX,p1bY);
-        highlightSquar(p2aX,p2aY,p2bX,p2bY);
+      function connectSquares(p1a,p1b,p2a,p2b) {
+        highlightSquar(p1a,p1b);
+        highlightSquar(p2a,p2b);
 
         var paX,paY,pbX,pbY;
-        paX = p1bX;
-        paY = p1aY+ ((p1bY - p1aY)/2);
-        pbX = p2aX;
-        pbY = p2aY+ ((p2bY - p2aY)/2);
+        paX = p1b[0];
+        paY = p1a[1]+ ((p1b[1] - p1a[1])/2);
+        pbX = p2a[0];
+        pbY = p2a[1]+ ((p2b[1] - p2a[1])/2);
 
 
 
-        plotLine(paX,paY,pbX,pbY)
+        plotLine([paX,paY],[pbX,pbY])
 
+      }
+
+
+      function convertPercent2px(x,y) {
+        var out;
+        var size = getImageDimension('imgg');
+
+        var x2 = (x/100)*size.w;
+        var y2 = (y/100)*size.h;
+
+        out = [x2,y2];
+
+
+        return out;
       }
 
 
 
 
-      connectSquares(60.941,50.816,63.798,53.121,81.264,51.113, 83.678,53.617);
+
+    }
+};
+
+
+function clicked(evt){
+
+
+  // position
+  var e = evt.target;
+  var dim = e.getBoundingClientRect();
+  var x = evt.clientX - dim.left;
+  var y = evt.clientY - dim.top;
+  var size = getImageDimension('imgg');
+
+  var widthPercent  = (x/size.w)*100;
+  var heightPercent = (y/size.h)*100;
 
 
 
+
+
+  // display
+  //document.getElementById('info').innerHTML = "x: "+x+"<br> y:"+y +"<br><br>width: "+size.w+"<br> height:"+size.h+"<br><br>% "+widthPercent.toFixed(3)+", "+heightPercent.toFixed(3);
+    document.getElementById('coords').innerHTML = '['+widthPercent.toFixed(3)+", "+heightPercent.toFixed(3)+']';
+    copyText();
+}
+
+
+
+function getImageDimension(elemId) {
+  var element = document.getElementById(elemId);
+  var positionInfo = element.getBoundingClientRect();
+  var height = positionInfo.height;
+  var width = positionInfo.width;
+  console.log('w'+width);
+
+  return {"h":height, "w":width};
+}
+
+
+function copyText() {
+  /* Get the text field */
+  var copyText = document.getElementById("coords");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+
+}
 
 
       </script>

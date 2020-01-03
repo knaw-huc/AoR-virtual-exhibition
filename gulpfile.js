@@ -27,8 +27,13 @@ var reload      = browserSync.reload;
 const using = require('gulp-using');
 
 var options = {
-    batch : ['./src/components', './content/html/']
+    batch : ['./src/components', './content/html/'],
+    helpers: {
+			capitals : function(str){
+				return str.toUpperCase();
+			}
     }
+  }
 
 
 var dst =       '_dist/';
@@ -46,9 +51,41 @@ var allImgStr = 'not working';
 var siteJson = require('./content/data/sites.json');
 var imagesJson = require('./content/data/images.json');
 var themesJson = require('./content/data/themes.json');
+var manuscriptJson = require('./content/data/metadata.json');
+//var manuscriptJson = require('./content/data/metadataTest.json');
+
 var folioJson = require('./content/data/folios.json');
 var folioPartsJson = require('./content/data/folioParts.json');
+
 var copyPath = require('./content/data/copyPath.json');
+
+function combineJson(){
+  for (var mi = 0; mi < manuscriptJson.length; mi++) { // all manuscriptJson
+    // add folio
+    manuscriptJson[mi].folios = [];
+    for (var fi = 0; fi < folioJson.length; fi++) {
+      if (folioJson[fi].manuscript_id == manuscriptJson[mi].id) {
+        manuscriptJson[mi].folios.push(folioJson[fi]);
+        folioJson[fi].folioParts=[];
+
+        //find folio parts
+        for (var pi = 0; pi < folioPartsJson.length; pi++) {
+
+          if (folioJson[fi].folioid == folioPartsJson[pi].folioid) {
+            //add folioparts
+            manuscriptJson[mi].folios[fi].folioParts.push(folioPartsJson[pi]);
+          }//if
+        }//parts
+      }//if
+    }//folios
+  }// manuscript
+  //console.log(manuscriptJson[0].folios[0]);
+  console.log(manuscriptJson);
+}// function
+combineJson();
+
+
+
 
 // Create HTML
 function createHtml(fileName) {
@@ -84,7 +121,7 @@ gulp.task('browserSync', function(done) {
     server: {
       baseDir: dst
     },
-    browser: ["google chrome"], //, "firefox"
+    browser: ["firefox"], //, "firefox" google chrome
   })
   done();
 })
@@ -133,7 +170,7 @@ gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes
 
 // gulp getj
 // meta   1YYq7dZHayAeVoE4R9_lCQ1Yx_lxN-sfLqjH5Br_5cAU
-// folio 1_0NrQL1LMToaYBfMXuTICHLAQicRLTZR-5IkRyB9ndc
+// folio 1YYq7dZHayAeVoE4R9_lCQ1Yx_lxN-sfLqjH5Br_5cAU
 
 
 
@@ -311,12 +348,19 @@ function handleThemes(content) {
 }
 
 function handleManuscriptComponent(content) {
-  //<p>±f±vlf48_30_v±f±</p>
-  //content = content.replace(/<p>±f±/g, '<div class="aorCompManuscript">');
-  //content = content.replace(/±f±<\/p>/g, '</div>');
-  for (var i = 0; i < folioJson.length; i++) {
-    content = content.replace('<p>±f±'+folioJson[i].folioid+'±f±</p>', '{{> manuscriptComp folioFileName="'+folioJson[i].foliofilename+'" foliodescription="'+folioJson[i].foliodescription+'"}}'); //
+
+
+  for (var m = 0; m < manuscriptJson.length; m++) {
+    for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
+      var rplce
+      rplce += '{{> manuscriptComp folioFileName="'+manuscriptJson[m].folios[f].foliofilename;
+      rplce += '" foliodescription="'+manuscriptJson[m].folios[f].foliodescription+'"}}';
+
+       content = content.replace('<p>±f±'+manuscriptJson[m].folios[f].folioid+'±f±</p>',rplce); //
+    }
   }
+
+
 
   return content;
 }
