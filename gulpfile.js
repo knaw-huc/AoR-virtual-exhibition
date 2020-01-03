@@ -31,7 +31,10 @@ var options = {
     helpers: {
 			capitals : function(str){
 				return str.toUpperCase();
-			}
+			},
+      test1 : function(str){
+        return '***'+str+'***'
+      }
     }
   }
 
@@ -80,7 +83,7 @@ function combineJson(){
     }//folios
   }// manuscript
   //console.log(manuscriptJson[0].folios[0]);
-  console.log(manuscriptJson);
+  //console.log(manuscriptJson);
 }// function
 combineJson();
 
@@ -218,10 +221,27 @@ gulp.task('nav', function(done) {
 
   }
 
+   done();
+});
 
+
+
+
+gulp.task('manuscriptComps', function(done) {
+  for (var m = 0; m < manuscriptJson.length; m++) {
+    for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
+      console.log(manuscriptJson[m].folios[f]);
+      gulp.src('./src/templates/manuscriptComp.html') //
+          .pipe(plumber())
+          .pipe(handlebars(manuscriptJson[m].folios[f], options))
+          .pipe(rename('folio-' + manuscriptJson[m].folios[f].folioid+ ".html"))
+          .pipe(gulp.dest('src/components/folios'));
+    }
+  }
 
    done();
 });
+
 
 
 
@@ -298,7 +318,7 @@ gulp.task('handleSvg', function(){
 
 
 gulp.task('build',
-  gulp.series('clean', 'handleSvg', 'nav', 'sass', 'buildFromTemplates', 'copyImg',
+  gulp.series('manuscriptComps', 'clean', 'handleSvg', 'nav', 'sass', 'buildFromTemplates', 'copyImg',
   function(done) {
       done();
   }
@@ -306,7 +326,7 @@ gulp.task('build',
 
 
 gulp.task('watch', function () {
-  gulp.watch(['src/**/*.html', '!src/components/nav-top.html','!src/components/nav-1.html','!src/components/nav-2.html','!src/components/nav-3.html','!src/components/nav.html','!src/components/nav-manuscripts.html','!src/components/aor_home.html', 'src/scss/**/*.scss','src/js/**/*', 'src/**/*.json', 'content/**/*.json'], gulp.series('build')); //, fHtmlNot, fScss, fJs, fJson, fMd
+  gulp.watch(['src/**/*.html', '!src/components/folios/**/*.html', '!src/components/nav-top.html','!src/components/nav-1.html','!src/components/nav-2.html','!src/components/nav-3.html','!src/components/nav.html','!src/components/nav-manuscripts.html','!src/components/aor_home.html', 'src/scss/**/*.scss','src/js/**/*', 'src/**/*.json', 'content/**/*.json'], gulp.series('build')); //, fHtmlNot, fScss, fJs, fJson, fMd
 });
 
 
@@ -352,9 +372,8 @@ function handleManuscriptComponent(content) {
 
   for (var m = 0; m < manuscriptJson.length; m++) {
     for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
-      var rplce
-      rplce += '{{> manuscriptComp folioFileName="'+manuscriptJson[m].folios[f].foliofilename;
-      rplce += '" foliodescription="'+manuscriptJson[m].folios[f].foliodescription+'"}}';
+      var rplce='';
+      rplce += '{{> folios/folio-'+manuscriptJson[m].folios[f].folioid+' }}';
 
        content = content.replace('<p>±f±'+manuscriptJson[m].folios[f].folioid+'±f±</p>',rplce); //
     }
