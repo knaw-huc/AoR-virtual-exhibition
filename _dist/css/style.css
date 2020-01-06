@@ -112,6 +112,13 @@
   fill: black;
   border-radius: 3px; }
 
+.aorFolios {
+  display: flex;
+  padding: .5rem; }
+
+.aorFolioSection {
+  cursor: pointer; }
+
 html,
 body {
   padding: 0;
