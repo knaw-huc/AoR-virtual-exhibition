@@ -234,7 +234,7 @@ gulp.task('manuscriptComps', function(done) {
     // get data from site to get filename of manuscriptpage
     for (var i = 0; i < siteJson.length; i++) {
       if (siteJson[i].manuscript_id == manuscriptJson[m].id) {
-        console.log(siteJson[i].manuscript_id);
+        //console.log(siteJson[i].manuscript_id);
         var pageFilename = siteJson[i].file_name+'.html';
       }
     }

@@ -56,7 +56,19 @@
 </div>
 
 <div class="aorMap" id="aorMap">map</div>
-<div class="aorTimeline" id="aorTimeline">timeline</div>
+<div class="aorTimeline" id="aorTimeline">
+
+      <svg class="timeline" id="theTimeline"></svg>
+
+      <script src="js/tl.js"></script>
+      <script>
+         mapTimelineData();
+         // order bij date
+         timelineDataArr.sort(arrayPropertySort("startDate1"));
+         createTimelineSvg();
+      </script>
+
+</div>
 
 
 <footer class="stickyFoot">

@@ -1,0 +1,21 @@
+<div class="aorTimeline" id="aorTimeline">
+
+      <svg class="timeline" id="theTimeline"></svg>
+
+      <!--build:js js/tl.js -->
+      <script src="../js/tl_config.js"></script>
+      <script src="../js/tl_data-aor02.js">// the data</script>
+      <script src="../js/tl_measurement.js"></script>
+      <script src="../js/tl_timelineItems.js"></script>
+      <script src="../js/tl_itemTypes.js"></script>
+      <script src="../js/tl_map-data.js"></script>
+      <script src="../js/tl_createTimeline.js"></script>
+      <!-- endbuild -->
+      <script>
+         mapTimelineData();
+         // order bij date
+         timelineDataArr.sort(arrayPropertySort("startDate1"));
+         createTimelineSvg();
+      </script>
+
+</div>

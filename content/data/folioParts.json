@@ -1,11 +1,13 @@
 [
     {
         "folioid": "vlf48_30_v",
+        "fpid": 1,
         "fpname": "Dialiectica",
         "fpdescription": "opening of book 4 on Dialectica"
     },
     {
         "folioid": "vlf48_30_v",
+        "fpid": 2,
         "fpname": "Tied notes",
         "fpdescription": "Here you can see how each marginal note is neatly tied to its correct place in the main text with a tie mark",
         "svggroup": "connectSquares([60.941,50.816],[63.798,53.121],[81.264,51.113], [83.678,53.617]); connectSquares([64.828, 53.618],[67.241, 55.380],[82.759, 57.421], [85.977, 59.369]); connectSquares([58.966, 56.215],[61.609, 58.256],[83.218, 63.265], [85.977, 65.492]); connectSquares([79.770, 68.089],[81.839, 70.315],[86.207, 71.707], [88.506, 74.583]);"

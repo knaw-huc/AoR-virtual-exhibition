@@ -118,7 +118,8 @@
 .aorFolioSections {
   cursor: pointer;
   padding: .5rem;
-  background-color: #ebf1a9; }
+  background-color: #ebf1a9;
+  margin-right: 2px; }
 
 html,
 body {
@@ -197,3 +198,12 @@ body {
   width: 100vw;
   height: calc(100vh - 6rem);
   min-width: 500px; }
+
+h1 {
+  font-size: 2rem; }
+
+h2 {
+  font-size: 1.2rem; }
+
+.timeline {
+  font-size: 10px; }
