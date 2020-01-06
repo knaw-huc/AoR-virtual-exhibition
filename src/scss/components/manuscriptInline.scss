@@ -46,9 +46,10 @@
 }
 .aorFolios {
   display: flex;
-  padding: .5rem;
 }
 
-.aorFolioSection{
+.aorFolioSections{
   cursor: pointer;
+  padding: .5rem;
+  background-color: rgb(235, 241, 169);
 }

@@ -229,8 +229,25 @@ gulp.task('nav', function(done) {
 
 gulp.task('manuscriptComps', function(done) {
   for (var m = 0; m < manuscriptJson.length; m++) {
+    var manuscriptData = manuscriptJson[m];
+
+    // get data from site to get filename of manuscriptpage
+    for (var i = 0; i < siteJson.length; i++) {
+      if (siteJson[i].manuscript_id == manuscriptJson[m].id) {
+        console.log(siteJson[i].manuscript_id);
+        var pageFilename = siteJson[i].file_name+'.html';
+      }
+    }
+    manuscriptData.filename=pageFilename;
+
+
+
+
     for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
-      console.log(manuscriptJson[m].folios[f]);
+      //console.log(manuscriptData);
+
+      manuscriptJson[m].folios[f].manuscriptData = manuscriptData;
+
       gulp.src('./src/templates/manuscriptComp.html') //
           .pipe(plumber())
           .pipe(handlebars(manuscriptJson[m].folios[f], options))

@@ -217,6 +217,7 @@
     },
     {
         "title": "Paris BnF, lat 12949",
+        "manuscript_id": "bnf129",
         "docx_file": "empty",
         "page_id": "m12",
         "theme": "manuscripts",
@@ -226,6 +227,7 @@
     },
     {
         "title": "BPL 144",
+        "manuscript_id": "bpl144",
         "docx_file": "BPL 144",
         "page_id": "m14",
         "theme": "manuscripts",
@@ -235,6 +237,7 @@
     },
     {
         "title": "Paris BnF, lat 17806",
+        "manuscript_id": "bnf178",
         "docx_file": "empty",
         "page_id": "m17",
         "theme": "manuscripts",
@@ -244,6 +247,7 @@
     },
     {
         "title": "BPL 139 B",
+        "manuscript_id": "bpl139",
         "docx_file": "empty",
         "page_id": "m13",
         "theme": "manuscripts",
@@ -253,6 +257,7 @@
     },
     {
         "title": "Arundel 348",
+        "manuscript_id": "aru348",
         "docx_file": "empty",
         "page_id": "m34",
         "theme": "manuscripts",
@@ -262,6 +267,7 @@
     },
     {
         "title": "Einsiedln 315",
+        "manuscript_id": "ein315",
         "docx_file": "empty",
         "page_id": "m31",
         "theme": "manuscripts",
@@ -271,6 +277,7 @@
     },
     {
         "title": "BPL 88",
+        "manuscript_id": "bpl88",
         "docx_file": "BPL 88",
         "page_id": "m88",
         "theme": "manuscripts",
@@ -280,6 +287,7 @@
     },
     {
         "title": "VLF 48",
+        "manuscript_id": "vlf48",
         "docx_file": "VLF 48",
         "page_id": "m48",
         "theme": "manuscripts",
@@ -289,6 +297,7 @@
     },
     {
         "title": "Paris BnF, lat 7900A",
+        "manuscript_id": "bnf790",
         "docx_file": "7900A",
         "page_id": "m79",
         "theme": "manuscripts",
@@ -298,6 +307,7 @@
     },
     {
         "title": "BPL 25",
+        "manuscript_id": "bpl25",
         "docx_file": "BPL 25",
         "page_id": "m25",
         "theme": "manuscripts",

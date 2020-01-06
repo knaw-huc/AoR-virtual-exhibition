@@ -113,11 +113,12 @@
   border-radius: 3px; }
 
 .aorFolios {
-  display: flex;
-  padding: .5rem; }
+  display: flex; }
 
-.aorFolioSection {
-  cursor: pointer; }
+.aorFolioSections {
+  cursor: pointer;
+  padding: .5rem;
+  background-color: #ebf1a9; }
 
 html,
 body {

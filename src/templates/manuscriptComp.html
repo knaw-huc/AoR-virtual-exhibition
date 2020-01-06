@@ -2,10 +2,21 @@
 	<svg class="aorCompManuscript">
 		<image href="images/manuscripts/{{foliofilename}}" />
 	</svg>
-	<figcaption>{{foliodescription}}</figcaption>
-</figure>
-<div class="aorFolios">
+	<div class="aorFolios">
+		<div class="aorFolioSections">Manuscript info</div>
+		{{#each folioParts}}
+			<div class="aorFolioSections">{{fpname}}</div>
+		{{/each}}
+	</div>
+	<figcaption>
+		{{foliodescription}}<br>
+		<strong>About the manuscript</strong><br>
+		{{manuscriptData.location}} {{manuscriptData.shelfmark}}<br>
+		File: {{manuscriptData.filename}}
+	</figcaption>
+
+
 	{{#each folioParts}}
-		<div class="aorFolioSections">{{fpname}}</div>
+		<figcaption>{{fpdescription}}</figcaption>
 	{{/each}}
-</div>
+</figure>
