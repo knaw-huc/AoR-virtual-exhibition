@@ -594,7 +594,7 @@ function createTimelineSvg() {
   }
   document.getElementById("theTimeline").innerHTML= svg;
 
-  console.log(tlItemsRowY);
+  //console.log(tlItemsRowY);
 }
 
 
@@ -632,7 +632,7 @@ function getRowNumber(startPoint) {
   var maxCount=0;
 
   for (var i = 0; i < tlItemsRowY.length; i++) {
-    console.log(startPoint+' gr dan '+tlItemsRowY[i].endpoint);
+    //console.log(startPoint+' gr dan '+tlItemsRowY[i].endpoint);
     maxCount = i;
     if (startPoint >= (tlItemsRowY[i].endpoint-10) ) {
 

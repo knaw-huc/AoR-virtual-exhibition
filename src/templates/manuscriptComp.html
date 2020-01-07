@@ -2,20 +2,47 @@
 
 
 	<svg class="aorCompManuscript">
-		<mask id="m1">
-			<rect x="0" y="0" width="100%" height="100%" style="fill:#fff;"/>
-		</mask>
-
 		<image href="images/manuscripts/{{foliofilename}}" />
+
+		<mask id="m1">
+		  <rect x="0" y="0" width="100%" height="100%" style="fill:#fff;"></rect>
+			 <rect x="530.1867" y="547.7964800000001" width="24.85590000000002" height="24.84789999999998" class="maskFill"></rect>
+			 <rect x="706.9967999999999" y="550.9981399999999" width="21.001800000000117" height="26.993119999999976" class="maskFill"></rect>
+			 <rect x="564.0036000000001" y="578.00204" width="20.9930999999998" height="18.994360000000142" class="maskFill"></rect>
+			 <rect x="720.0033000000001" y="618.99838" width="27.996599999999944" height="20.99944000000005" class="maskFill"></rect>
+			 <rect x="513.0042" y="605.9977" width="22.994100000000003" height="22.001980000000003" class="maskFill"></rect>
+			 <rect x="723.9966000000001" y="681.9967" width="24.003299999999967" height="24.007060000000024" class="maskFill"></rect>
+			 <rect x="693.999" y="733.99942" width="18.000299999999925" height="23.996279999999956" class="maskFill"></rect>
+			 <rect x="750.0008999999999" y="773.00146" width="20.00130000000013" height="31.003280000000018" class="maskFill"></rect>
+		 </mask>
+
+
+		<g id="imgGr">
+      <rect x="0" y="0" width="100%" height="100%" style="fill:rgba(1, 1, 1, 0.3);" mask="url(#m1)"></rect>
+      <rect x="530.1867" y="547.7964800000001" width="24.85590000000002" height="24.84789999999998" class="aorHighLightStroke"></rect>
+			<rect x="706.9967999999999" y="550.9981399999999" width="21.001800000000117" height="26.993119999999976" class="aorHighLightStroke"></rect>
+			<line x1="555.0426" y1="560.2204300000001" x2="706.9967999999999" y2="564.4947" class="aorHighLightStroke"></line>
+			<rect x="564.0036000000001" y="578.00204" width="20.9930999999998" height="18.994360000000142" class="aorHighLightStroke"></rect>
+			<rect x="720.0033000000001" y="618.99838" width="27.996599999999944" height="20.99944000000005" class="aorHighLightStroke"></rect>
+			<line x1="584.9966999999999" y1="587.4992199999999" x2="720.0033000000001" y2="629.4981" class="aorHighLightStroke"></line>
+			<rect x="513.0042" y="605.9977" width="22.994100000000003" height="22.001980000000003" class="aorHighLightStroke"></rect>
+			<rect x="723.9966000000001" y="681.9967" width="24.003299999999967" height="24.007060000000024" class="aorHighLightStroke"></rect>
+			<line x1="535.9983" y1="616.99869" x2="723.9966000000001" y2="694.0002300000001" class="aorHighLightStroke"></line>
+			<rect x="693.999" y="733.99942" width="18.000299999999925" height="23.996279999999956" class="aorHighLightStroke"></rect>
+			<rect x="750.0008999999999" y="773.00146" width="20.00130000000013" height="31.003280000000018" class="aorHighLightStroke"></rect>
+			<line x1="711.9993" y1="745.99756" x2="750.0008999999999" y2="788.5030999999999" class="aorHighLightStroke"></line>
+		</g>
 	</svg>
 
 
 	<div class="aorFolios">
-		<div class="aorFolioSections hcTabLabel" id="tab-list-ii">Manuscript info</div>
 		{{#each folioParts}}
 			<div class="aorFolioSections hcTabLabel" id="tab-list-{{fpid}}">{{fpname}}</div>
 		{{/each}}
+		<div class="aorFolioSections hcTabLabel" id="tab-list-ii">Manuscript info</div>
 	</div>
+
+
 	<figcaption id="tab-content-ii" class="hcTabContent">
 		<span>
 		{{foliodescription}}<br>
@@ -25,7 +52,6 @@
 		<a href="{{foliosource}}" target="_blank">Source</a>
 		</span>
 	</figcaption>
-
 
 	{{#each folioParts}}
 		<figcaption id="tab-content-{{fpid}}" class="hcTabContent">{{fpdescription}}</figcaption>

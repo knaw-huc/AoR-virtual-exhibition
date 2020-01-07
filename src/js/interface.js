@@ -5,7 +5,7 @@ function initToggle() {
   for (var i = 0; i < allToggles.length; i++) {
     toggleVars.push({id: allToggles[i].id, state:false, guiDiv: allToggles[i].dataset.div});
   }
-  console.log(toggleVars);
+  //console.log(toggleVars);
 }
 initToggle();
 

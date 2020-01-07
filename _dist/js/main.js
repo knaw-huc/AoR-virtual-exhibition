@@ -112,14 +112,19 @@ if (document.readyState === 'complete') {
   }
 
 
-
-
-
 }
 };
 
 
+function getImageDimension(elemId) {
+  var element = document.getElementById(elemId);
+  var positionInfo = element.getBoundingClientRect();
+  var height = positionInfo.height;
+  var width = positionInfo.width;
+  console.log('w'+width);
 
+  return {"h":height, "w":width};
+}
 
 
 
@@ -187,7 +192,7 @@ function initToggle() {
   for (var i = 0; i < allToggles.length; i++) {
     toggleVars.push({id: allToggles[i].id, state:false, guiDiv: allToggles[i].dataset.div});
   }
-  console.log(toggleVars);
+  //console.log(toggleVars);
 }
 initToggle();
 

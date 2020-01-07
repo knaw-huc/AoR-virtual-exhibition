@@ -61,14 +61,19 @@ if (document.readyState === 'complete') {
   }
 
 
-
-
-
 }
 };
 
 
+function getImageDimension(elemId) {
+  var element = document.getElementById(elemId);
+  var positionInfo = element.getBoundingClientRect();
+  var height = positionInfo.height;
+  var width = positionInfo.width;
+  console.log('w'+width);
 
+  return {"h":height, "w":width};
+}
 
 
 
