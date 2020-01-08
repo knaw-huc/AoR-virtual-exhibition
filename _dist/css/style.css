@@ -98,9 +98,6 @@
   max-width: 1000px;
   height: 400px;
   margin: 0 calc(0px - 1.5rem); }
-  .aorCompManuscript image {
-    width: auto;
-    height: 100%; }
 
 .aorHighLightStroke {
   stroke: #ffffff;

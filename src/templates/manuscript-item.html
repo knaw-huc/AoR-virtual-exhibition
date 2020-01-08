@@ -1,0 +1,27 @@
+{{> html-head}}
+{{> page-header}}
+
+<div class="aorWrapper">
+
+
+
+  <article class="aorContent">
+    <h1>{{title}}</h1>
+
+    {{> (lookup . 'docx_file') }}
+  <div class="aorNextPage">Next read: <a href="{{nextHref}}.html">{{nextTitle}}</a> </div>
+  </article>
+
+
+</div>
+
+<div class="aorNavigation" id="aorNavigation">
+  {{> (lookup . 'navigation_file') }}
+</div>
+
+<div class="aorMap" id="aorMap">map</div>
+{{>comp-timeline}}
+
+
+{{> page-foot}}
+{{> html-foot}}

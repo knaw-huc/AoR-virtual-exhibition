@@ -13,29 +13,77 @@
     <noscript>
       Beste bezoeker, deze website maakt gebruik van javascript. U heeft javascript uitstaan. Hierdoor kan het zijn dat de site niet optimaal werkt.
     </noscript>
+<div class="aorTitle">
+<span>The Art of Resoning </span><span>in Medieval Manuscripts</span>
+</div>
+
+<div class="aorWrapper">
 
 
 
-<div class="tempContainer">
-  <div class="tempContent">
-    <div class="aorTitle">
-    <span>The Art of Resoning </span><span>in Medieval Manuscripts</span>
-    </div>
-    <nav>
-        <a href="/">Home</a>
-        <a href="theme1.html">[*[t1]*]</a>
-        <a href="theme2.html">[*[t2]*]</a>
-        <a href="theme3.html">[*[t3]*]</a>
-        <a href="manuscripts.html">Manuscripts</a>
-    </nav>
+  <article class="aorContent">
     <h1>Manuscripts section</h1>
-    <p>!! No text for this page yet !!</p><p>Got to the <a href="http:///">home page</a></p>  </div>
+
+    <p>!! No text for this page yet !!</p><p>Got to the <a href="http:///">home page</a></p>  <div class="aorNextPage">Next read: <a href="p.html">Paris BnF, lat 12949</a> </div>
+  </article>
+
+
+</div>
+
+<div class="aorNavigation" id="aorNavigation">
+  
+  <nav>
+    <a href="/">Home</a>
+  
+    <a href="theme1.html">Dialectica and retorica</a>
+  
+  
+  
+    <a href="theme2.html">Teachers and Students</a>
+  
+  
+  
+    <a href="theme3.html">Techniques of reading and learning</a>
+  
+  
+    <a href="manuscripts.html">Manuscripts</a>
+          <a class="l2" href="manuscripts.html">Manuscripts section</a>
+          <a class="l2" href="p.html">Paris BnF, lat 12949</a>
+          <a class="l2" href="Leiden-UB-BPL-144.html">BPL 144</a>
+          <a class="l2" href="r.html">Paris BnF, lat 17806</a>
+          <a class="l2" href="s.html">BPL 139 B</a>
+          <a class="l2" href="t.html">Arundel 348</a>
+          <a class="l2" href="u.html">Einsiedln 315</a>
+          <a class="l2" href="Leiden-UB-BPL-88.html">BPL 88</a>
+          <a class="l2" href="Leiden-UB-VLF-48.html">VLF 48</a>
+          <a class="l2" href="Paris-BnF-lat-7900A.html">Paris BnF, lat 7900A</a>
+          <a class="l2" href="Leiden-UB-BPL-25.html">BPL 25</a>
+  
+  </nav>
+</div>
+
+<div class="aorMap" id="aorMap">map</div>
+<div class="aorTimeline" id="aorTimeline">
+
+      <svg class="timeline" id="theTimeline"></svg>
+
+      <script src="js/tl.js"></script>
+      <script>
+         mapTimelineData();
+         // order bij date
+         timelineDataArr.sort(arrayPropertySort("startDate1"));
+         createTimelineSvg();
+      </script>
+
 </div>
 
 
-
-
-
+<footer class="stickyFoot">
+  <div class="f-name"><a href="/">The Art of Resoning in Medieval Manuscripts</a></div>
+  <div class="f-menu"><a href="#" class="aorToggle" onclick="toggleVis(this.id); return false;" data-div="aorNavigation" id="toglMenu">Menu</a></div>
+  <div class="f-timeline"><a href="#" class="aorToggle" onclick="toggleVis(this.id); return false;" data-div="aorTimeline" id="toglTimeline">Timeline</a></div>
+  <div class="f-map"><a href="#" class="aorToggle" onclick="toggleVis(this.id); return false;" data-div="aorMap" id="toglMap">Map</a></div>
+</footer>
     </div>
     <script src="js/main.js"></script>
   </body>
