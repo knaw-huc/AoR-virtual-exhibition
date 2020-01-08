@@ -118,6 +118,26 @@
   background-color: #ebf1a9;
   margin-right: 2px; }
 
+svg {
+  background-color: #eceadf;
+  width: 100vw;
+  height: 100vh; }
+
+.countryPart {
+  fill: none;
+  stroke: #c6bf9f;
+  stroke-width: 1; }
+
+.water {
+  stroke: rgba(168, 208, 209, 0.5);
+  fill: none;
+  stroke-width: .5; }
+
+.visLine {
+  stroke: #ff008a;
+  fill: none;
+  stroke-width: .5; }
+
 html,
 body {
   padding: 0;

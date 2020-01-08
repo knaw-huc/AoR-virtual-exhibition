@@ -1,0 +1,28 @@
+$canvas: hsl(49, 26%, 90%);
+
+svg {
+  background-color: $canvas;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.countryPart {
+  fill: none;
+  stroke: hsl(49, 26%, 70%);
+  stroke-width: 1
+}
+
+
+
+.water {
+  stroke: rgba(168, 208, 209, 0.5);
+  fill: none;
+  stroke-width: .5;
+}
+
+.visLine {
+  stroke: rgba(255, 0, 138, 1);
+  fill: none;
+  stroke-width: .5;
+}
