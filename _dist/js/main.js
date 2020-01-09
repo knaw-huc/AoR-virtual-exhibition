@@ -66,13 +66,14 @@ if (pageId == 'home') {
 // use a unique id with both pre codes
 var preListVal = "tab-list-";
 var preContentVal = "tab-content-";
+var firstTabId = '';
 
 //go through al buttons
 var handleTabLabel = document.querySelectorAll(".hcTabLabel");
   for (i = 0; i < handleTabLabel.length; i++) {
     var selectedTab = handleTabLabel[i];
     if (i==0) {
-      var firstTabId = selectedTab.getAttribute('id');
+      firstTabId = selectedTab.getAttribute('id');
     }
     handleTabLabel[i].addEventListener('click', handleTabs, selectedTab);
 
@@ -118,8 +119,10 @@ function hideTabContent() {
 // show the first tab
 function firstTabVisable() {
   hideTabContent();
-  var firstTabCore = firstTabId.replace(preListVal, "");
-  makeTabVisable(firstTabCore);
+  if (firstTabId != '') {
+    var firstTabCore = firstTabId.replace(preListVal, "");
+    makeTabVisable(firstTabCore);
+  }
 }
 
 firstTabVisable();
