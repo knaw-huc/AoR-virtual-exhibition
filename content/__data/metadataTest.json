@@ -1,0 +1,54 @@
+[
+
+    {
+        "id": "vlf48",
+        "location": "Leiden",
+        "shelfmark": "VLF 48",
+        "title": "Martianus Capella, De nuptiis and other texts",
+        "dateS1": 840,
+        "origin": "Auxerre",
+        "orilatlon": "3.570579, 47.7961287",
+        "library": "Universiteitsbibliotheek Leiden",
+        "loclatlon": "4.48110886662043, 52.1518157",
+        "material": "Parchment",
+        "dimensions": "307 x 250 mm",
+        "foliation": "95 ff",
+        "contents": "Sermon / Ratherius of Verona (f.1-r),De nuptiis Philologiae et Mercurii / Martianus Capella (f.2r-91v), De duodecim abusivis saeculi (introduction) / pseudo-Cyprian of Carthage (f.92v), Commentary on the Canticles of Deborah (Jud 5,1) / pseudo-Jerome (f.93r-94v),Treatise on lent (f.94v-95r), Hebrew names of the months (f.95r), Note on chronology (f.95r),",
+        "script": "littera carolina,",
+        "language": "Latin",
+        "type": "manuscript"
+    },
+    {
+        "id": "bnf111",
+        "location": "Parijs",
+        "shelfmark": "BnF lat. 11127",
+        "title": "Commentarium Boetii in periermenias librum Aristotelis – S. X",
+        "dateS1": 900,
+        "dateS2": 1000,
+        "origin": "Echternach?",
+        "library": "Bibliothèque nationale de France",
+        "loclatlon": "23514616, 48.8566969",
+        "material": "Parchment",
+        "dimensions": "245 x 170 mm",
+        "foliation": "215 ff",
+        "contents": "\"Comment. Boetii in periermenias librum Aristotelis. Liber periermenias Apuleii (f.53). Oratio Ciceronis in Salustium (f.58v). Oratio Salustii in Ciceronem (f.61r). Controversia Deoderici, Metensis episcopi, in Karolum (f.62r); Gerbertus ex persona Karoli (f.62v). Boetii liber divisionis (f.64v). Liber ejusdem de topicis differentiis (f.74r). Communis speculatio de rethoricae cognatione (f.101r). [Boetii introductio ad categoricos syllogismos] (f.105r). Boetii libri tres de hypotheticis syllogismis (f.145v). Liber Igini [de imaginibus coeli] (f.170v). Epistola Alexandri regis ad Aristotelem, etc. (f.201r). Verba Dandami, brachmanorum summi (f.209r). Commonitorium Pallidii [ad Karolum Magnum]\" (f.215r).",
+        "language": "Latin",
+        "type": "manuscript"
+    },
+    {
+        "id": "bnf129",
+        "location": "Parijs",
+        "shelfmark": "BnF lat. 12949",
+        "title": "Aristotelis periermeniae and other texts",
+        "dateS1": 900,
+        "origin": "N. France",
+        "library": "Bibliothèque nationale de France",
+        "loclatlon": "23514616, 48.8566969",
+        "material": "Parchment",
+        "dimensions": "280 x 230 mm",
+        "foliation": "81 ff.",
+        "contents": "Aristotelis periermeniae. Augustini dialectica (f.12r). Prologus Alchuini ad Karolum super cathegorias Augustini (f.24r.). Categoriae Aristotelis, ab Augustino de graeco in latinum mutatae (f.24r). Notes et fragments, parmi lesquels une note sur le sens du mot Cerauna (f.39r), des tables de comput (f.41r), dont l'une faite en 896 par frater Johannis Scotti Aldelmus (f.42r), des règles sur la grosseur des tuyaux sonores (f.43r). Ysagogae Porphyrii (f.46r). Boetii libri de Trinitate (f.53r), ad Johannem diaconum (f.57v), adversus Nestorium (f.62v). Apuleii periermeniae (f.71r), cum Boetii commentariis (f.80v).",
+        "language": "Latin",
+        "type": "manuscript"
+    }
+]

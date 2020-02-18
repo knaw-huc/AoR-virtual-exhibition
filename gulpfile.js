@@ -63,12 +63,15 @@ var folioPartsJson = require('./content/data/folioParts.json');
 var copyPath = require('./content/data/copyPath.json');
 
 function combineJson(){
+  var folioCount= -1;
   for (var mi = 0; mi < manuscriptJson.length; mi++) { // all manuscriptJson
+    folioCount= -1;
     // add folio
     manuscriptJson[mi].folios = [];
     for (var fi = 0; fi < folioJson.length; fi++) {
       if (folioJson[fi].manuscript_id == manuscriptJson[mi].id) {
         manuscriptJson[mi].folios.push(folioJson[fi]);
+        folioCount++;
         folioJson[fi].folioParts=[];
 
         //find folio parts
@@ -78,9 +81,9 @@ function combineJson(){
             //add folioparts
 
             // wrong folio index. is 56 should be 0
-            console.log(manuscriptJson[mi], fi);
+            console.log(folioCount);
             //manuscriptJson[mi].folios[fi].folioParts.push(folioPartsJson[pi]);
-            manuscriptJson[mi].folios[fi].folioParts.push(folioPartsJson[pi]);
+            manuscriptJson[mi].folios[folioCount].folioParts.push(folioPartsJson[pi]);
           }//if
         }//parts
       }//if
