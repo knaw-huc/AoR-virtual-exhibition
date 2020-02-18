@@ -60,7 +60,7 @@
     },
     {
         "title": "±±±t1±±±",
-        "docx_file": "empty",
+        "docx_file": "medievalclassroom",
         "page_id": "1ho",
         "remarks": "Landing page for the 1",
         "theme": "top",
@@ -97,7 +97,7 @@
     },
     {
         "title": "±±±t2±±±",
-        "docx_file": "theme2",
+        "docx_file": "teachersandstudents",
         "page_id": "2ho",
         "remarks": "Landing page for the 2",
         "theme": "top",
@@ -162,7 +162,7 @@
     },
     {
         "title": "±±±t3±±±",
-        "docx_file": "empty",
+        "docx_file": "techniquesofranda",
         "page_id": "3ho",
         "remarks": "Landing page for the 3",
         "theme": "top",
@@ -208,7 +208,7 @@
     },
     {
         "title": "Manuscripts section",
-        "docx_file": "empty",
+        "docx_file": "manuscripts",
         "page_id": "mho",
         "theme": "manuscripts",
         "file_name": "manuscripts",

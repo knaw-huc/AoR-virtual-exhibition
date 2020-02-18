@@ -76,6 +76,10 @@ function combineJson(){
 
           if (folioJson[fi].folioid == folioPartsJson[pi].folioid) {
             //add folioparts
+
+            // wrong folio index. is 56 should be 0
+            console.log(manuscriptJson[mi], fi);
+            //manuscriptJson[mi].folios[fi].folioParts.push(folioPartsJson[pi]);
             manuscriptJson[mi].folios[fi].folioParts.push(folioPartsJson[pi]);
           }//if
         }//parts
