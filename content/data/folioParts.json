@@ -14,219 +14,407 @@
     },
     {
         "folioid": "dev23_4 and 5_",
-        "fpid": 1,
+        "fpid": 3,
         "fpname": "Drawings",
         "fpdescription": "Drawings on 101 F 23 pp. 4-5",
         "referentie_afb": "101F23p4.jpg"
     },
     {
         "folioid": "bnf129_1_r",
-        "fpid": 1,
+        "fpid": 4,
         "fpname": "Opening Periermenias",
         "fpdescription": "Paris, BnF, lat. 12949 f.1r",
         "referentie_afb": "12949f1r.jpg"
     },
     {
         "folioid": "bnf165_37_a",
-        "fpid": 1,
+        "fpid": 5,
         "fpname": "Porphyrian Tree",
         "fpdescription": "f.37a Porphyrian Tree",
         "referentie_afb": "16598f37a.jpg"
     },
     {
         "folioid": "bnf166_14_v",
-        "fpid": 1,
+        "fpid": 6,
         "fpname": "Mnemonic",
         "fpdescription": "f.14v Mnemonic to remember the moods of syllogisms",
         "referentie_afb": "16611f14v.jpg"
     },
     {
         "folioid": "bnf129_24_v",
-        "fpid": 1,
+        "fpid": 7,
         "fpname": "Porphyrian Tree",
         "fpdescription": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
         "referentie_afb": "12949f24v2.jpg"
     },
     {
         "folioid": "bnf129_24_v",
-        "fpid": 2,
+        "fpid": 8,
         "fpname": "Nota signs",
         "fpdescription": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
         "referentie_afb": "12949f24v3.jpg"
     },
     {
         "folioid": "bnf129_24_v",
-        "fpid": 3,
+        "fpid": 9,
         "fpname": "Tiemark",
         "fpdescription": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
         "referentie_afb": "12949f24v4.jpg"
     },
     {
         "folioid": "vlf48_divers_",
-        "fpid": 1,
+        "fpid": 10,
         "fpname": "Authorities",
         "fpdescription": "References to other authorities in VLF 48. In the bubbles: references to Augustine, Boethius, Plato, Pythagoras, Pliny.",
         "referentie_afb": "48fdivers.jpg"
     },
     {
         "folioid": "bnf129_divers_",
-        "fpid": 1,
+        "fpid": 11,
         "fpname": "Schemes and Diagrams",
         "fpdescription": "Schemes and diagrams in Paris, BnF, lat. 12949",
         "referentie_afb": "12949fdivers.jpg"
     },
     {
         "folioid": "bpl25_12_r",
-        "fpid": 1,
+        "fpid": 12,
         "fpname": "Square of Opposition 1",
         "fpdescription": "Square of Opposition 1",
         "referentie_afb": "25f12r2.jpg"
     },
     {
         "folioid": "bpl25_12_r",
-        "fpid": 2,
+        "fpid": 13,
         "fpname": "Square of Opposition 2",
         "fpdescription": "Square of Opposition 2",
         "referentie_afb": "25f12r3.jpg"
     },
     {
         "folioid": "bpl25_12_r",
-        "fpid": 3,
+        "fpid": 14,
         "fpname": "Square of Opposition 3",
         "fpdescription": "Square of Opposition 3",
         "referentie_afb": "25f12r4.jpg"
     },
     {
         "folioid": "bpl25_12_r",
-        "fpid": 4,
+        "fpid": 15,
         "fpname": "Square of Opposition 3",
         "fpdescription": "Square of Opposition 4",
         "referentie_afb": "25f12r5.jpg"
     },
     {
-        "folioid": "bpl88_1 and 2_v and r.jpg",
-        "fpid": 1,
+        "folioid": "bpl88_1_v.jpg",
+        "fpid": 16,
         "fpname": "BPL 88 f.2r",
         "fpdescription": "Leiden UB BPL 88 f.2r",
         "referentie_afb": "88f2rfr.jpg"
     },
     {
         "folioid": "bpl139_39_v",
-        "fpid": 1,
+        "fpid": 17,
         "fpname": "BPL 139",
         "fpdescription": "BPL 139",
         "referentie_afb": "139f39v2.jpg"
     },
     {
         "folioid": "vlf48_95_v",
-        "fpid": 1,
+        "fpid": 18,
         "fpname": "VLF 48",
         "fpdescription": "VLF 48",
         "referentie_afb": "48f95v.jpg"
     },
     {
         "folioid": "vlf48_95_v",
-        "fpid": 2,
+        "fpid": 19,
         "fpname": "VLF 48 2",
         "fpdescription": "VLF 48 2",
         "referentie_afb": "48f95vfr.jpg"
     },
     {
         "folioid": "vlf48_95_v",
-        "fpid": 3,
+        "fpid": 20,
         "fpname": "VLF 48 3",
         "fpdescription": "VLF 48 3",
         "referentie_afb": "48f95vfr2.jpg"
     },
     {
         "folioid": "bnf770_52_r",
-        "fpid": 1,
+        "fpid": 21,
         "fpname": "Scheme",
         "fpdescription": "Substantia, Corpus, Animatum Corpus, Animal, Homo, Socrates",
         "referentie_afb": "7709f52rfr.jpg"
     },
     {
-        "folioid": "bpl88_2 and 3_v and r.jpg",
-        "fpid": 1,
+        "folioid": "bpl88_2 _v",
+        "fpid": 22,
         "referentie_afb": "88f2v3rfr.jpg"
     },
     {
-        "folioid": "bpl88_1 and 2_v and r.jpg",
-        "fpid": 2,
+        "folioid": "bpl88_1_v",
+        "fpid": 23,
         "fpname": "Schemes",
         "fpdescription": "Schemes",
         "referentie_afb": "88f1v2rfr.jpg"
     },
     {
         "folioid": "vlf48_50_v",
-        "fpid": 1,
+        "fpid": 24,
         "referentie_afb": "48f50v.jpg"
     },
     {
         "folioid": "vlf48_2_r",
-        "fpid": 1,
+        "fpid": 25,
         "referentie_afb": "48f2r.jpg"
     },
     {
         "folioid": "vlf48_2_r",
-        "fpid": 2,
+        "fpid": 26,
         "referentie_afb": "48f2r2.jpg"
     },
     {
         "folioid": "vlf48_4_v",
-        "fpid": 1,
+        "fpid": 27,
         "referentie_afb": "48f4v.jpg"
     },
     {
         "folioid": "vlf48_32_r",
-        "fpid": 1,
+        "fpid": 28,
         "fpname": "Scheme",
         "referentie_afb": "48f32r.jpg"
     },
     {
         "folioid": "bnf790_112_r",
-        "fpid": 1,
+        "fpid": 29,
         "fpname": "Commentary",
         "referentie_afb": "7900Af112r.jpg"
     },
     {
-        "folioid": "bpl25_1 and 2_v and r",
-        "fpid": 1,
+        "folioid": "bpl25_1_v",
+        "fpid": 30,
         "referentie_afb": "25f1v2rfr.jpg"
     },
     {
         "folioid": "bpl25_2_v",
-        "fpid": 1,
+        "fpid": 31,
         "referentie_afb": "25f2v.jpg"
     },
     {
         "folioid": "bpl25_6_v",
-        "fpid": 1,
+        "fpid": 32,
         "referentie_afb": "25f6v.jpg"
     },
     {
         "folioid": "bpl25_7_v",
-        "fpid": 1,
+        "fpid": 33,
         "referentie_afb": "25f7v.jpg"
     },
     {
         "folioid": "bpl25_32_v",
-        "fpid": 1,
+        "fpid": 34,
         "referentie_afb": "25f30v32r.jpg"
     },
     {
         "folioid": "bpl25_42_r",
-        "fpid": 1,
+        "fpid": 35,
         "referentie_afb": "25f42r.jpg"
     },
     {
         "folioid": "bnf178_4_v",
-        "fpid": 1,
+        "fpid": 36,
         "referentie_afb": "17806f4vfr.jpg"
     },
     {
         "folioid": "bnf178_4_v",
-        "fpid": 2,
+        "fpid": 37,
         "referentie_afb": "17806f4vfr2.jpg"
+    },
+    {
+        "folioid": "bpl84_90_r",
+        "fpid": 38,
+        "fpname": "BPL 84 f.90r",
+        "fpdescription": "Dialogue between Alcuin and Charlemagne",
+        "referentie_afb": "84f90r.jpg"
+    },
+    {
+        "folioid": "bpl84_84_r",
+        "fpid": 39,
+        "fpname": "BPL 84 f.84r",
+        "fpdescription": "Leiden UB BPL 84 f.84r",
+        "referentie_afb": "84f84r.jpg"
+    },
+    {
+        "folioid": "bpl84_84_r",
+        "fpid": 40,
+        "fpname": "BPL 84 f.84r",
+        "referentie_afb": "84f84rfr.jpg"
+    },
+    {
+        "folioid": "bpl84_89_v",
+        "fpid": 41,
+        "fpname": "BPL 84 f.89v",
+        "referentie_afb": "84f89vfr.jpg"
+    },
+    {
+        "folioid": "bpl84_89_v",
+        "fpid": 42,
+        "fpname": "BPL 84 f.89v",
+        "referentie_afb": "84f89vfr2.jpg"
+    },
+    {
+        "folioid": "bpl84_90_v",
+        "fpid": 43,
+        "fpname": "BPL 84 f.90v",
+        "referentie_afb": "84f90vfr.jpg"
+    },
+    {
+        "folioid": "bpl84_90_v",
+        "fpid": 44,
+        "fpname": "BPL 84 f.90v",
+        "referentie_afb": "84f90vfr2.jpg"
+    },
+    {
+        "folioid": "bpl144_2_r",
+        "fpid": 45,
+        "fpname": "BPL 144 f.2r",
+        "referentie_afb": "144f2rfr.jpg"
+    },
+    {
+        "folioid": "bpl144_2_r",
+        "fpid": 46,
+        "fpname": "BPL 144 f.2r",
+        "referentie_afb": "144f2rfr2.jpg"
+    },
+    {
+        "folioid": "bpl144_2_r",
+        "fpid": 47,
+        "fpname": "BPL 144 f.2r",
+        "referentie_afb": "144f2rfr3.jpg"
+    },
+    {
+        "folioid": "bpl144_10_r",
+        "fpid": 48,
+        "fpname": "BPL 144 f.10r",
+        "referentie_afb": "144f10rfr.jpg"
+    },
+    {
+        "folioid": "bpl144_17_v",
+        "fpid": 49,
+        "fpname": "BPL 144 f.17v",
+        "referentie_afb": "144f17v.jpg"
+    },
+    {
+        "folioid": "bpl144_37_r",
+        "fpid": 50,
+        "fpname": "BPL 144 f.37r",
+        "referentie_afb": "144f37r.jpg"
+    },
+    {
+        "folioid": "bpl144_49_v",
+        "fpid": 51,
+        "fpname": "BPL 144 f.49v",
+        "referentie_afb": "144f49v.jpg"
+    },
+    {
+        "folioid": "bpl144_18_r",
+        "fpid": 52,
+        "fpname": "BPL 144 f.18r",
+        "referentie_afb": "144f18r.jpg"
+    },
+    {
+        "folioid": "bpl144_20_v",
+        "fpid": 53,
+        "fpname": "BPL 144 f.20v",
+        "referentie_afb": "144f20v.jpg"
+    },
+    {
+        "folioid": "bpl144_17_r",
+        "fpid": 54,
+        "fpname": "BPL 144 f.17r",
+        "referentie_afb": "144f17r.jpg"
+    },
+    {
+        "folioid": "bpl144_58_r",
+        "fpid": 55,
+        "fpname": "BPL 144 f.58r",
+        "referentie_afb": "144f58r.jpg"
+    },
+    {
+        "folioid": "bnf790_133_r",
+        "fpid": 56,
+        "fpname": "Paris BnF lat.7900A f.133r",
+        "referentie_afb": "7900Af133r.jpg"
+    },
+    {
+        "folioid": "bnf129_25_v",
+        "fpid": 57,
+        "fpname": "Paris BnF lat. 12949 f.25v",
+        "fpdescription": "‘Heiricus magister Remigii fecit has glossas’",
+        "referentie_afb": "12949f25vfr.jpg"
+    },
+    {
+        "folioid": "bnf129_25_v",
+        "fpid": 58,
+        "referentie_afb": "12949f25vfr2.jpg"
+    },
+    {
+        "folioid": "bpl144_43_r",
+        "fpid": 59,
+        "referentie_afb": "144f43r.jpg"
+    },
+    {
+        "folioid": "bpl88_172_v",
+        "fpid": 60,
+        "referentie_afb": "88f172v.jpg"
+    },
+    {
+        "folioid": "dev22_112_",
+        "fpid": 61,
+        "referentie_afb": "101F22p112.jpg"
+    },
+    {
+        "folioid": "bnf178_4_v",
+        "fpid": 62,
+        "referentie_afb": "17806f4vfr3.jpg"
+    },
+    {
+        "folioid": "bnf178_4_v",
+        "fpid": 63,
+        "referentie_afb": "17806f4vfr4.jpg"
+    },
+    {
+        "folioid": "bnf178_8_v",
+        "fpid": 64,
+        "referentie_afb": "17806f8v.jpg"
+    },
+    {
+        "folioid": "bnf178_9_r",
+        "fpid": 65,
+        "referentie_afb": "17806f9r.jpg"
+    },
+    {
+        "folioid": "bnf178_6_r",
+        "fpid": 66,
+        "referentie_afb": "17806f6r.jpg"
+    },
+    {
+        "folioid": "bnf178_44_v",
+        "fpid": 67,
+        "referentie_afb": "17806f44v.jpg"
+    },
+    {
+        "folioid": "bnf178_17_r",
+        "fpid": 68,
+        "referentie_afb": "17806f17r.jpg"
+    },
+    {
+        "folioid": "bnf178_172_r",
+        "fpid": 69,
+        "referentie_afb": "17806f172r.jpg"
+    },
+    {
+        "folioid": "bnf178_250_v",
+        "fpid": 70,
+        "referentie_afb": "17806f250v.jpg"
     }
 ]

@@ -1,0 +1,12 @@
+.aoSite {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aoWrapper {
+  max-width: 1500px;
+  width: 100%;
+  padding-left: #{$margin};
+  padding-right: #{$margin};
+}

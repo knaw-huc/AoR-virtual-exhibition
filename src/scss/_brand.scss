@@ -1,0 +1,15 @@
+$darkBG: #242424;
+$manuscriptBege: #DFD2BE;
+$manuscriptBegeDark: #403E3B;
+$aorBlue:#02F7E8;
+$aorLink: #8CCFFF;
+
+body {
+  background-color:$darkBG;
+  color: $manuscriptBege;
+}
+
+a {
+  color: $aorLink;
+  text-decoration: none;
+}

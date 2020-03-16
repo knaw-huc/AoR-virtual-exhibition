@@ -1,8 +1,11 @@
-@import 'layout/_layout-page';
+$margin: 1.5rem;
+$marginDouble: 2 * $margin;
+
+@import 'layout/_layout-columns';
 @import 'components/manuscriptInline';
+@import 'brand';
 @import '_map';
 
-$colorTxt: #3e3e3e;
 
 html,
 body {
@@ -14,18 +17,72 @@ body {
 	box-sizing: border-box;
 }
 
-//@import url('https://fonts.googleapis.com/css?family=IM+Fell+English:400,400i&display=swap'); //font-family: 'IM Fell English', serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,600;1,300&family=Playfair+Display:wght@900&display=swap');
 
 
-body {
-	//font-family: 'Roboto', sans-serif;
-	font-family: 'IM Fell English', serif;
+body{
+	font-family: 'Libre Franklin', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
 	line-height: 150%;
 	font-style: normal;
-	color: $colorTxt;
 }
+
+.aorHeader {
+	display: flex;
+	flex-direction: column;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #{$manuscriptBegeDark};
+}
+
+
+.aorHeaderLogo img {
+	width: auto;
+	height: 25px;
+	max-width: calc(100vw - #{$marginDouble});
+}
+
+.aoTopnav {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+
+	a {
+		color: $manuscriptBege;
+		margin-right: 1rem;
+	}
+}
+
+@media (min-width: 1000px) {
+
+	.aorHeader {
+		display: flex;
+		flex-direction: column;
+		padding-top: 3rem;
+		padding-bottom: 3rem;
+	}
+
+	.aorHeaderLogo img {
+		height: 35px;
+	}
+
+	.aoTopnav {
+		flex-direction: row;
+	}
+}
+
+
+
+
+
+
+
+
+
+
 
 .tempContainer {
   width: 100vw;
@@ -119,6 +176,11 @@ body {
   width: 100vw;
   height: calc(100vh - 6rem);
   min-width: 500px;
+}
+
+h1,h2,h3 {
+	font-family: 'Playfair Display', serif;
+	color: $aorBlue;
 }
 
 h1 {

@@ -1,95 +1,14 @@
-.aorWrapper {
-  width: 100vw;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  background-color: white; }
-
-.aorNavigation {
-  display: none;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 100vw;
-  background-color: #e9e5d3;
-  flex-direction: column;
-  justify-content: center;
-  padding: 1rem; }
-  .aorNavigation nav {
-    flex-direction: column;
-    display: flex; }
-    .aorNavigation nav .l2 {
-      margin-left: 1rem; }
-
-@media (min-width: 600px) {
-  .aorNavigation {
-    width: 30vw; } }
-
-.aorContent {
-  max-width: 650px;
-  padding: 4rem 1.5rem 0 1.5rem; }
-  .aorContent img {
-    width: 200px;
-    height: auto; }
-  .aorContent figure {
-    margin-block-start: 0em;
-    margin-block-end: 0em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px; }
-    .aorContent figure figcaption {
-      font-size: .9rem;
-      color: #818181;
-      margin-left: 1rem; }
-
-.aorTitle {
-  padding: .5rem 1rem;
-  background-color: #e9e5d3;
+@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,600;1,300&family=Playfair+Display:wght@900&display=swap");
+.aoSite {
   display: flex;
   flex-direction: column;
-  justify-content: center; }
+  align-items: center; }
 
-@media (min-width: 600px) {
-  .aorTitle {
-    flex-direction: row; } }
-
-.aorNextPage {
-  margin-bottom: 5rem; }
-
-.stickyFoot {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: .5rem 1rem;
-  background-color: #e9e5d3;
-  display: flex;
-  flex-direction: row;
-  justify-content: center; }
-
-.stickyFoot > * {
-  margin-right: 2rem; }
-
-.f-name {
-  display: none; }
-
-.aorMap {
-  display: none;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 100vw;
-  background-color: #61f7f9; }
-
-.aorTimeline {
-  display: none;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 100vw;
-  background-color: #f1d6af; }
+.aoWrapper {
+  max-width: 1500px;
+  width: 100%;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem; }
 
 .aorCompManuscript {
   background-color: #e3f1f1;
@@ -117,6 +36,14 @@
   padding: .5rem;
   background-color: #ebf1a9;
   margin-right: 2px; }
+
+body {
+  background-color: #242424;
+  color: #DFD2BE; }
+
+a {
+  color: #8CCFFF;
+  text-decoration: none; }
 
 svg {
   background-color: #eceadf;
@@ -147,12 +74,42 @@ body {
   box-sizing: border-box; }
 
 body {
-  font-family: 'IM Fell English', serif;
+  font-family: 'Libre Franklin', sans-serif;
   font-weight: 300;
   font-size: 18px;
   line-height: 150%;
-  font-style: normal;
-  color: #3e3e3e; }
+  font-style: normal; }
+
+.aorHeader {
+  display: flex;
+  flex-direction: column;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #403E3B; }
+
+.aorHeaderLogo img {
+  width: auto;
+  height: 25px;
+  max-width: calc(100vw - 3rem); }
+
+.aoTopnav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
+  .aoTopnav a {
+    color: #DFD2BE;
+    margin-right: 1rem; }
+
+@media (min-width: 1000px) {
+  .aorHeader {
+    display: flex;
+    flex-direction: column;
+    padding-top: 3rem;
+    padding-bottom: 3rem; }
+  .aorHeaderLogo img {
+    height: 35px; }
+  .aoTopnav {
+    flex-direction: row; } }
 
 .tempContainer {
   width: 100vw;
@@ -215,6 +172,10 @@ body {
   width: 100vw;
   height: calc(100vh - 6rem);
   min-width: 500px; }
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  color: #02F7E8; }
 
 h1 {
   font-size: 2rem; }

@@ -6,12 +6,6 @@
         "resource": "nog aan te vragen"
     },
     {
-        "img_file_name": "144cover.jpg",
-        "alttext": "Leiden UB BPL 144 cover",
-        "description": "Leiden UB BPL 144: 12th Century",
-        "resource": "eigen foto"
-    },
-    {
         "img_file_name": "12949f25v.jpg",
         "alttext": "Paris, BnF, lat. 12949 f25v",
         "description": "f.25v",
@@ -27,18 +21,6 @@
         "img_file_name": "12949fr2.jpg",
         "alttext": "Paris, BnF, lat. 12949 fragment 2",
         "description": "Inserted parchment slips",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "144f2r.jpg",
-        "alttext": "Leiden UB BPL 144 f.2r",
-        "description": "f.2r: Opening of de Consolatio Philosophiae",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "144fonbekend.jpg",
-        "alttext": "Leiden UB BPL 144 f.onbekend",
-        "description": "f.onbekend",
         "resource": "eigen foto"
     },
     {
@@ -91,28 +73,6 @@
         "description": "Portrait of Alcuin",
         "resource": "Bayerische Staatsbibliothek",
         "hyperlink": "https://daten.digitale-sammlungen.de/0006/bsb00065177/images/index.html?id=00065177&groesser=&fip=193.174.98.30&no=&seite=42; see also a description at https://www.wdl.org/en/item/14710/"
-    },
-    {
-        "img_file_name": "84cover.jpg",
-        "alttext": "Leiden UB BPL 84 cover",
-        "description": "Leiden UB BPL 84",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "84f90r.jpg",
-        "alttext": "Leiden UB BPL 84 f.90r",
-        "description": "Dialogue between Alcuin and Charlemagne",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "84fonbekend1.jpg",
-        "alttext": "Leiden UB BPL 84 f.onbekend",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "84fonbekend2.jpg",
-        "alttext": "Leiden UB BPL 84 f.onbekend",
-        "resource": "eigen foto"
     },
     {
         "img_file_name": "hrabanus.jpg",
@@ -172,72 +132,28 @@
         "resource": "nog aanvragen"
     },
     {
-        "img_file_name": "144fonbekend2.jpg",
-        "alttext": "Leiden UB BPL 144 f.onbekend",
-        "description": "f.onbekend",
-        "resource": "eigen foto"
+        "img_file_name": "144f43r.jpg",
+        "alttext": "Leiden UB BPL 144 f.43r",
+        "description": "f.43r",
+        "resource": "Universiteitsbibliotheek Leiden"
     },
     {
-        "img_file_name": "144fonbekend3.jpg",
-        "alttext": "Leiden UB BPL 144 f.onbekend",
-        "description": "f.onbekend",
-        "resource": "eigen foto"
+        "img_file_name": "144f18r.jpg",
+        "alttext": "Leiden UB BPL 144 f.18r",
+        "description": "f.18r",
+        "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "12f27r.jpg",
         "alttext": "Leiden, UB, VLF 12 part 3 f. 27r",
         "description": "a gloss about ‘eloquentia’ (eloquence) in Leiden, UB, VLF 12 part 3 (f. 27r)",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "84f63r.jpg",
-        "alttext": "Leiden UB BPL 84 f.63r",
-        "description": "List of propositions in Leiden BPL 84, f. 63r ",
-        "resource": "Universiteits Bibliotheek Leiden",
-        "hyperlink": "eigen foto"
-    },
-    {
-        "img_file_name": "84f84r.jpg",
-        "alttext": "Leiden UB BPL 84 f.84r",
-        "description": "Leiden UB BPL 84 f.84r",
-        "resource": "Universiteits Bibliotheek Leiden",
-        "hyperlink": "eigen foto"
-    },
-    {
-        "img_file_name": "84f84rfr.jpg",
-        "alttext": "Leiden UB BPL 84 f.84r",
-        "resource": "Universiteits Bibliotheek Leiden",
-        "hyperlink": "eigen foto"
+        "resource": "BRILL "
     },
     {
         "img_file_name": "6400f24r.jpg",
         "alttext": "Paris, BnF, lat. 6400 G f.24r",
         "description": "Paris, BnF, lat. 6400 G f.24r",
-        "resource": "zoek"
-    },
-    {
-        "img_file_name": "84f89v.jpg",
-        "alttext": "Leiden UB BPL 84 f.89v",
-        "resource": "Universiteits Bibliotheek Leiden",
-        "hyperlink": "eigen foto"
-    },
-    {
-        "img_file_name": "84f89vfr.jpg",
-        "alttext": "Leiden UB BPL 84 f.89v",
-        "resource": "Universiteits Bibliotheek Leiden",
-        "hyperlink": "eigen foto"
-    },
-    {
-        "img_file_name": "84f89vfr.jpg",
-        "alttext": "Leiden UB BPL 84 f.89v",
-        "resource": "Universiteits Bibliotheek Leiden",
-        "hyperlink": "eigen foto"
-    },
-    {
-        "img_file_name": "12469f27bisr.jpg",
-        "alttext": "BnF, lat. 12469 f.27 bis r",
-        "description": "BnF, lat. 12469 f.27 bis r",
-        "resource": "zoek"
+        "resource": "Bron?"
     },
     {
         "img_file_name": "144side.jpg",
@@ -249,12 +165,6 @@
         "img_file_name": "144f2rfr.jpg",
         "alttext": "Leiden UB BPL 144 f.2r",
         "description": "Leiden UB BPL 144 f.2r",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "144f10r.jpg",
-        "alttext": "Leiden UB BPL 144 f.10r",
-        "description": "Leiden UB BPL 144 f.10r",
         "resource": "eigen foto"
     },
     {
@@ -318,29 +228,7 @@
         "resource": "eigen foto"
     },
     {
-        "img_file_name": "144f62v63r.jpg",
-        "alttext": "Leiden UB BPL 144 f.62v and f.63r",
-        "description": "Leiden UB BPL 144 f.62v and f.63r",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "144fonbekend4.jpg",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "144f89r.jpg",
-        "alttext": "Leiden UB BPL 144 f.89r",
-        "description": "Leiden UB BPL 144 f.89r",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "144f90r.jpg",
-        "alttext": "Leiden UB BPL 144 f.90r",
-        "description": "Leiden UB BPL 144 f.90r",
-        "resource": "eigen foto"
-    },
-    {
-        "img_file_name": "144fonbekendfr.jpg",
+        "img_file_name": "144f58r.jpg",
         "resource": "eigen foto"
     },
     {
@@ -349,13 +237,6 @@
         "description": "Personification of the art of Dialectic in the west façade, Chartres Cathedral, France.",
         "resource": "rechten?",
         "hyperlink": "https://www.flickr.com/photos/pelegrino/5168056334/in/photostream/"
-    },
-    {
-        "img_file_name": "88fonbekend2.jpg",
-        "alttext": "Leiden UB BPL 88 ",
-        "description": "Leiden UB BPL 88 ",
-        "resource": "Universiteits Bibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/1/mode/1up"
     },
     {
         "img_file_name": "aristotle.jpg",

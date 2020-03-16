@@ -81,7 +81,7 @@ function combineJson(){
             //add folioparts
 
             // wrong folio index. is 56 should be 0
-            console.log(folioCount);
+            //console.log(folioCount);
             //manuscriptJson[mi].folios[fi].folioParts.push(folioPartsJson[pi]);
             manuscriptJson[mi].folios[folioCount].folioParts.push(folioPartsJson[pi]);
           }//if
@@ -392,7 +392,6 @@ function handleThemes(content) {
 }
 
 function handleManuscriptComponent(content) {
-
 
   for (var m = 0; m < manuscriptJson.length; m++) {
     for (var f = 0; f < manuscriptJson[m].folios.length; f++) {

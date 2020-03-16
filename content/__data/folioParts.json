@@ -2,7 +2,7 @@
     {
         "folioid": "vlf48_30_v",
         "fpid": 1,
-        "fpname": "Dialiectica",
+        "fpname": "Dialectica",
         "fpdescription": "opening of book 4 on Dialectica"
     },
     {
@@ -10,6 +10,223 @@
         "fpid": 2,
         "fpname": "Tied notes",
         "fpdescription": "Here you can see how each marginal note is neatly tied to its correct place in the main text with a tie mark",
-        "svggroup": "          <mask id=\"m1\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:#fff;\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"maskFill\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"maskFill\"></rect><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"maskFill\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"maskFill\"></rect><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"maskFill\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"maskFill\"></rect><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"maskFill\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"maskFill\"></rect></mask><g id=\"f2\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:rgba(1, 1, 1, 0.3);\" mask=\"url(#m1)\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"aorHighLightStroke\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"aorHighLightStroke\"></rect><line x1=\"1211.52402\" y1=\"1222.818805\" x2=\"1543.2033599999997\" y2=\"1232.14845\" class=\"aorHighLightStroke\"></line><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"aorHighLightStroke\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"aorHighLightStroke\"></rect><line x1=\"1276.9065899999998\" y1=\"1282.3614699999998\" x2=\"1571.5934100000002\" y2=\"1374.03435\" class=\"aorHighLightStroke\"></line><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"aorHighLightStroke\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"aorHighLightStroke\"></rect><line x1=\"1169.9549100000002\" y1=\"1346.7513150000002\" x2=\"1580.30982\" y2=\"1514.826105\" class=\"aorHighLightStroke\"></line><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"aorHighLightStroke\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"aorHighLightStroke\"></rect><line x1=\"1554.12261\" y1=\"1628.32306\" x2=\"1637.0709299999999\" y2=\"1721.1018499999998\" class=\"aorHighLightStroke\"></line></g>"
+        "svggroup": "          <mask id=\"m1\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:#fff;\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"maskFill\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"maskFill\"></rect><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"maskFill\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"maskFill\"></rect><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"maskFill\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"maskFill\"></rect><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"maskFill\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"maskFill\"></rect></mask><g id=\"imgGr\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:rgba(1, 1, 1, 0.3);\" mask=\"url(#m1)\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"aorHighLightStroke\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"aorHighLightStroke\"></rect><line x1=\"1211.52402\" y1=\"1222.818805\" x2=\"1543.2033599999997\" y2=\"1232.14845\" class=\"aorHighLightStroke\"></line><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"aorHighLightStroke\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"aorHighLightStroke\"></rect><line x1=\"1276.9065899999998\" y1=\"1282.3614699999998\" x2=\"1571.5934100000002\" y2=\"1374.03435\" class=\"aorHighLightStroke\"></line><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"aorHighLightStroke\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"aorHighLightStroke\"></rect><line x1=\"1169.9549100000002\" y1=\"1346.7513150000002\" x2=\"1580.30982\" y2=\"1514.826105\" class=\"aorHighLightStroke\"></line><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"aorHighLightStroke\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"aorHighLightStroke\"></rect><line x1=\"1554.12261\" y1=\"1628.32306\" x2=\"1637.0709299999999\" y2=\"1721.1018499999998\" class=\"aorHighLightStroke\"></line></g>"
+    },
+    {
+        "folioid": "dev23_4 and 5_",
+        "fpid": 1,
+        "fpname": "Drawings",
+        "fpdescription": "Drawings on 101 F 23 pp. 4-5",
+        "referentie_afb": "101F23p4.jpg"
+    },
+    {
+        "folioid": "bnf129_1_r",
+        "fpid": 1,
+        "fpname": "Opening Periermenias",
+        "fpdescription": "Paris, BnF, lat. 12949 f.1r",
+        "referentie_afb": "12949f1r.jpg"
+    },
+    {
+        "folioid": "bnf165_37_a",
+        "fpid": 1,
+        "fpname": "Porphyrian Tree",
+        "fpdescription": "f.37a Porphyrian Tree",
+        "referentie_afb": "16598f37a.jpg"
+    },
+    {
+        "folioid": "bnf166_14_v",
+        "fpid": 1,
+        "fpname": "Mnemonic",
+        "fpdescription": "f.14v Mnemonic to remember the moods of syllogisms",
+        "referentie_afb": "16611f14v.jpg"
+    },
+    {
+        "folioid": "bnf129_24_v",
+        "fpid": 1,
+        "fpname": "Porphyrian Tree",
+        "fpdescription": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
+        "referentie_afb": "12949f24v2.jpg"
+    },
+    {
+        "folioid": "bnf129_24_v",
+        "fpid": 2,
+        "fpname": "Nota signs",
+        "fpdescription": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
+        "referentie_afb": "12949f24v3.jpg"
+    },
+    {
+        "folioid": "bnf129_24_v",
+        "fpid": 3,
+        "fpname": "Tiemark",
+        "fpdescription": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
+        "referentie_afb": "12949f24v4.jpg"
+    },
+    {
+        "folioid": "vlf48_divers_",
+        "fpid": 1,
+        "fpname": "Authorities",
+        "fpdescription": "References to other authorities in VLF 48. In the bubbles: references to Augustine, Boethius, Plato, Pythagoras, Pliny.",
+        "referentie_afb": "48fdivers.jpg"
+    },
+    {
+        "folioid": "bnf129_divers_",
+        "fpid": 1,
+        "fpname": "Schemes and Diagrams",
+        "fpdescription": "Schemes and diagrams in Paris, BnF, lat. 12949",
+        "referentie_afb": "12949fdivers.jpg"
+    },
+    {
+        "folioid": "bpl25_12_r",
+        "fpid": 1,
+        "fpname": "Square of Opposition 1",
+        "fpdescription": "Square of Opposition 1",
+        "referentie_afb": "25f12r2.jpg"
+    },
+    {
+        "folioid": "bpl25_12_r",
+        "fpid": 2,
+        "fpname": "Square of Opposition 2",
+        "fpdescription": "Square of Opposition 2",
+        "referentie_afb": "25f12r3.jpg"
+    },
+    {
+        "folioid": "bpl25_12_r",
+        "fpid": 3,
+        "fpname": "Square of Opposition 3",
+        "fpdescription": "Square of Opposition 3",
+        "referentie_afb": "25f12r4.jpg"
+    },
+    {
+        "folioid": "bpl25_12_r",
+        "fpid": 4,
+        "fpname": "Square of Opposition 3",
+        "fpdescription": "Square of Opposition 4",
+        "referentie_afb": "25f12r5.jpg"
+    },
+    {
+        "folioid": "bpl88_1 and 2_v and r.jpg",
+        "fpid": 1,
+        "fpname": "BPL 88 f.2r",
+        "fpdescription": "Leiden UB BPL 88 f.2r",
+        "referentie_afb": "88f2rfr.jpg"
+    },
+    {
+        "folioid": "bpl139_39_v",
+        "fpid": 1,
+        "fpname": "BPL 139",
+        "fpdescription": "BPL 139",
+        "referentie_afb": "139f39v2.jpg"
+    },
+    {
+        "folioid": "vlf48_95_v",
+        "fpid": 1,
+        "fpname": "VLF 48",
+        "fpdescription": "VLF 48",
+        "referentie_afb": "48f95v.jpg"
+    },
+    {
+        "folioid": "vlf48_95_v",
+        "fpid": 2,
+        "fpname": "VLF 48 2",
+        "fpdescription": "VLF 48 2",
+        "referentie_afb": "48f95vfr.jpg"
+    },
+    {
+        "folioid": "vlf48_95_v",
+        "fpid": 3,
+        "fpname": "VLF 48 3",
+        "fpdescription": "VLF 48 3",
+        "referentie_afb": "48f95vfr2.jpg"
+    },
+    {
+        "folioid": "bnf770_52_r",
+        "fpid": 1,
+        "fpname": "Scheme",
+        "fpdescription": "Substantia, Corpus, Animatum Corpus, Animal, Homo, Socrates",
+        "referentie_afb": "7709f52rfr.jpg"
+    },
+    {
+        "folioid": "bpl88_2 and 3_v and r.jpg",
+        "fpid": 1,
+        "referentie_afb": "88f2v3rfr.jpg"
+    },
+    {
+        "folioid": "bpl88_1 and 2_v and r.jpg",
+        "fpid": 2,
+        "fpname": "Schemes",
+        "fpdescription": "Schemes",
+        "referentie_afb": "88f1v2rfr.jpg"
+    },
+    {
+        "folioid": "vlf48_50_v",
+        "fpid": 1,
+        "referentie_afb": "48f50v.jpg"
+    },
+    {
+        "folioid": "vlf48_2_r",
+        "fpid": 1,
+        "referentie_afb": "48f2r.jpg"
+    },
+    {
+        "folioid": "vlf48_2_r",
+        "fpid": 2,
+        "referentie_afb": "48f2r2.jpg"
+    },
+    {
+        "folioid": "vlf48_4_v",
+        "fpid": 1,
+        "referentie_afb": "48f4v.jpg"
+    },
+    {
+        "folioid": "vlf48_32_r",
+        "fpid": 1,
+        "fpname": "Scheme",
+        "referentie_afb": "48f32r.jpg"
+    },
+    {
+        "folioid": "bnf790_112_r",
+        "fpid": 1,
+        "fpname": "Commentary",
+        "referentie_afb": "7900Af112r.jpg"
+    },
+    {
+        "folioid": "bpl25_1 and 2_v and r",
+        "fpid": 1,
+        "referentie_afb": "25f1v2rfr.jpg"
+    },
+    {
+        "folioid": "bpl25_2_v",
+        "fpid": 1,
+        "referentie_afb": "25f2v.jpg"
+    },
+    {
+        "folioid": "bpl25_6_v",
+        "fpid": 1,
+        "referentie_afb": "25f6v.jpg"
+    },
+    {
+        "folioid": "bpl25_7_v",
+        "fpid": 1,
+        "referentie_afb": "25f7v.jpg"
+    },
+    {
+        "folioid": "bpl25_32_v",
+        "fpid": 1,
+        "referentie_afb": "25f30v32r.jpg"
+    },
+    {
+        "folioid": "bpl25_42_r",
+        "fpid": 1,
+        "referentie_afb": "25f42r.jpg"
+    },
+    {
+        "folioid": "bnf178_4_v",
+        "fpid": 1,
+        "referentie_afb": "17806f4vfr.jpg"
+    },
+    {
+        "folioid": "bnf178_4_v",
+        "fpid": 2,
+        "referentie_afb": "17806f4vfr2.jpg"
     }
 ]
