@@ -1,9 +1,9 @@
 $margin: 1.5rem;
 $marginDouble: 2 * $margin;
 
+@import 'brand';
 @import 'layout/_layout-columns';
 @import 'components/manuscriptInline';
-@import 'brand';
 @import '_map';
 
 

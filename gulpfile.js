@@ -4,6 +4,7 @@
 // npm install -g google-spreadsheet-to-json
 // gulp getj
 // gulp convHtml
+// gulp manuscriptComps
 
 // gsjson 1k2EgdCT3iSo_8hGwt_dOQvKwEpBcTIFe4wefljkrb5Q >> content/data.json -b
 
@@ -32,8 +33,10 @@ var options = {
 			capitals : function(str){
 				return str.toUpperCase();
 			},
-      test1 : function(str){
-        return '***'+str+'***'
+      aoRow : function(str){
+        var out=str;
+        //out = str.replace('±row±', '</div></div class="aoRow">');
+        return out;
       }
     }
   }
@@ -305,6 +308,12 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(handlebars(page, options))
           .pipe(rename(fileName + ".html"))
           .pipe(replace('|', '<br>'))
+          .pipe(replace('<p>±row±</p>', '</div></div><div class="aoRow">'))
+          .pipe(replace('<p>±col1±</p>', '<div class="aoCol1">'))
+          .pipe(replace('<p>±col1span±</p>', '<div class="aoCol1Span">'))
+          .pipe(replace('<p>±col2±</p>', '</div><div class="aoCol1">'))
+          .pipe(replace('<p>±col2span±</p>', '</div><div class="aoCol2Span">'))
+          .pipe(replace('<p>±col3±</p>', '</div><div class="aoCol1">'))
           .pipe(each(function(content, file, callback) {
             // replace images and theme names
             var newContent = handleImages(content);
@@ -342,7 +351,7 @@ gulp.task('handleSvg', function(){
 
 
 gulp.task('build',
-  gulp.series('manuscriptComps', 'clean', 'handleSvg', 'nav', 'sass', 'buildFromTemplates', 'copyImg',
+  gulp.series( 'clean', 'nav', 'sass', 'buildFromTemplates', 'copyImg',
   function(done) {
       done();
   }

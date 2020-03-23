@@ -37,8 +37,8 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_plat sup._",
-        "folionr": "plat sup.",
+        "folioid": "bnf129_plat_sup._",
+        "folionr": "plat_sup.",
         "foliofilename": "BnF_lat_12949_plat sup.jpg",
         "foliodescription": "Paris, BnF, lat. 12949: A 9th or 10th century manuscript from a monastery",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v.r=lat%2012949?rk=21459;2"
@@ -159,8 +159,8 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_plat supérieur_",
-        "folionr": "plat supérieur",
+        "folioid": "bnf178_plat_supérieur_",
+        "folionr": "plat_supérieur",
         "foliofilename": "BnF_lat_17806_plat supérieur.jpg",
         "foliodescription": "Paris, BnF, lat. 17806: ca. 1250-1275, Paris University",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
@@ -282,8 +282,8 @@
     },
     {
         "manuscript_id": "bnf663",
-        "folioid": "bnf663_6 bis_r",
-        "folionr": "6 bis",
+        "folioid": "bnf663_6_bis_r",
+        "folionr": "6_bis",
         "foliotype": "r",
         "foliofilename": "BnF_lat_6638_f6bis_r.jpg",
         "foliodescription": "Paris, BnF, lat. 6638 f.6 bis r",
@@ -345,8 +345,8 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_plat sup._",
-        "folionr": "plat sup.",
+        "folioid": "bnf790_plat_sup._",
+        "folionr": "plat_sup.",
         "foliofilename": "BnF_lat_7900A_plat sup.jpg",
         "foliodescription": "BnF, lat. 7900A cover",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f1.image.r=7900A"
@@ -928,8 +928,8 @@
     },
     {
         "manuscript_id": "gro22",
-        "folioid": "gro22_page 2_",
-        "folionr": "page 2",
+        "folioid": "gro22_page_2_",
+        "folionr": "page_2",
         "foliofilename": "UB_GRO_22_page 2.jpg",
         "foliodescription": "Leiden UB GRO 22",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/2/mode/1up"
@@ -1022,8 +1022,8 @@
     },
     {
         "manuscript_id": "val406",
-        "folioid": "val406_plat supérieur_",
-        "folionr": "plat supérieur",
+        "folioid": "val406_plat_supérieur_",
+        "folionr": "plat_supérieur",
         "foliofilename": "Valenciennes_BM_406_plat supérieur.jpg",
         "foliodescription": "Valenciennes BM ms. 406",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452604s.r=valenchiennes%20406?rk=21459;2"

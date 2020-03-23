@@ -167,16 +167,16 @@
         "remarks": "Landing page for the 3",
         "theme": "top",
         "file_name": "theme3",
-        "template_file": "theme-item2",
+        "template_file": "theme-item",
         "navigation_file": "nav-3"
     },
     {
         "title": "Glosses and commentaries",
-        "docx_file": "gandc",
+        "docx_file": "gandcBd",
         "page_id": "3gc",
         "theme": 3,
         "file_name": "Glosses-commentaries",
-        "template_file": "theme-item2",
+        "template_file": "theme-item",
         "navigation_file": "nav-3"
     },
     {
@@ -185,7 +185,7 @@
         "page_id": "3cc",
         "theme": 3,
         "file_name": "l",
-        "template_file": "theme-item2",
+        "template_file": "theme-item",
         "navigation_file": "nav-3"
     },
     {
@@ -194,7 +194,7 @@
         "page_id": "3ds",
         "theme": 3,
         "file_name": "Trees-Diagrams-Schemes",
-        "template_file": "theme-item2",
+        "template_file": "theme-item",
         "navigation_file": "nav-3"
     },
     {
@@ -203,7 +203,7 @@
         "page_id": "3sy",
         "theme": 3,
         "file_name": "syllogism",
-        "template_file": "theme-item2",
+        "template_file": "theme-item",
         "navigation_file": "nav-3"
     },
     {

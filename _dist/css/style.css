@@ -1,4 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,600;1,300&family=Playfair+Display:wght@900&display=swap");
+body {
+  background-color: #242424;
+  color: #DFD2BE; }
+
+a {
+  color: #8CCFFF;
+  text-decoration: none; }
+
 .aoSite {
   display: flex;
   flex-direction: column;
@@ -10,13 +18,48 @@
   padding-left: 1.5rem;
   padding-right: 1.5rem; }
 
+.aoRow {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 4rem; }
+  .aoRow > * {
+    margin-right: 3rem; }
+
+.aoCol1, .aoCol2, .aoCol3 {
+  flex: 1; }
+  .aoCol1 figure, .aoCol2 figure, .aoCol3 figure {
+    margin: 0;
+    padding: 0; }
+  .aoCol1 img, .aoCol2 img, .aoCol3 img {
+    width: 100%;
+    height: auto; }
+
+.aoCol1Span, .aoCol2Span {
+  flex: 2; }
+
 .aorCompManuscript {
-  background-color: #e3f1f1;
-  width: 100%;
-  width: calc(100% + 1.5rem + 1.5rem);
-  max-width: 1000px;
-  height: 400px;
-  margin: 0 calc(0px - 1.5rem); }
+  background-color: black;
+  display: inline-block;
+  padding: 1rem;
+  font-size: .85rem; }
+  .aorCompManuscript svg {
+    margin: -1rem -1rem 1rem -1rem; }
+
+.aorFilioInfo {
+  display: flex;
+  flex-direction: row; }
+
+.aorFolioToggles {
+  display: flex;
+  flex-direction: column;
+  flex: 4; }
+
+.aorFoliosTab {
+  display: flex;
+  flex-direction: row; }
+
+.aorFoliosManuscript {
+  flex: 5; }
 
 .aorHighLightStroke {
   stroke: #ffffff;
@@ -33,22 +76,9 @@
 
 .aorFolioSections {
   cursor: pointer;
-  padding: .5rem;
-  background-color: #ebf1a9;
-  margin-right: 2px; }
-
-body {
-  background-color: #242424;
-  color: #DFD2BE; }
-
-a {
-  color: #8CCFFF;
-  text-decoration: none; }
-
-svg {
-  background-color: #eceadf;
-  width: 100vw;
-  height: 100vh; }
+  padding: .1rem 0;
+  margin-right: 1rem;
+  border-bottom: 2px solid #DFD2BE; }
 
 .countryPart {
   fill: none;

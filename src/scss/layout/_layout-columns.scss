@@ -10,3 +10,59 @@
   padding-left: #{$margin};
   padding-right: #{$margin};
 }
+
+.aoRow {
+  display: flex;
+  flex-direction: row;
+  // column-count: 3;
+  // column-gap: $margin;
+  //border: 3px solid rgb(218, 115, 254);
+  margin-bottom: 4rem;
+
+  >*{
+    margin-right: 3rem;
+  }
+
+
+  // figure {
+  //   //width: calc(100% - #{$margin} - #{$margin});
+  //   width: 100%;
+  //   height: auto;
+  //   display: inline-block;
+  //
+  //   img {
+  //     width: 100%;
+  //     height: auto;
+  //   }
+  //}
+
+  // .aorCompManuscript {
+  //   column-span: 2;
+  //   width: calc(200% - #{$margin});
+  //   height: auto;
+  // }
+}
+
+.aoCol1, .aoCol2, .aoCol3 {
+  flex: 1;
+
+  figure {
+    margin: 0;
+    padding: 0;
+  }
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+}
+
+.aoCol1Span, .aoCol2Span {
+  flex: 2;
+
+}
+
+.aorCompManuscript {
+  // width: 100%;
+  // height: auto;
+}

@@ -1,6 +1,7 @@
 {{> html-head}}
 
 <div class="aoSite">
+  {{!-- header --}}
   <div class="aoWrapper aorHeader">
     <div class="aorHeaderLogo">
       <img src="images/logo_aor-1@2x.png" alt="logo Art of Reasoning"><img src="images/logo_aor-2@2x.png" alt="logo Art of Reasoning">
@@ -17,11 +18,20 @@
         <a href="#">About this site</a>
       </nav>
     </div>
+  </div>
+
+  {{!-- content --}}
 
 
+  <div class="aoWrapper">
+    <h1>{{title}}</h1>
+    <div class="aoRow">{{> (lookup . 'docx_file') }}</div></div>
   </div>
 
 </div>
+
+
+
 
 
 
