@@ -188,7 +188,7 @@ gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes
 
 
 gulp.task('clean', function () {
-    return gulp.src(dst, {read: false, allowEmpty: true})
+    return gulp.src(['_dist/**/*.html','_dist/js/**/*','_dist/css/**/*'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -312,6 +312,7 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±col1±</p>', '<div class="aoCol1">'))
           .pipe(replace('<p>±col1span±</p>', '<div class="aoCol1Span">'))
           .pipe(replace('<p>±col2±</p>', '</div><div class="aoCol1">'))
+          .pipe(replace('<p>±col3i±</p>', '</div></div></div><div class="aoCol1">'))
           .pipe(replace('<p>±col2span±</p>', '</div><div class="aoCol2Span">'))
           .pipe(replace('<p>±col3±</p>', '</div><div class="aoCol1">'))
           .pipe(each(function(content, file, callback) {
@@ -351,7 +352,7 @@ gulp.task('handleSvg', function(){
 
 
 gulp.task('build',
-  gulp.series( 'clean', 'nav', 'sass', 'buildFromTemplates', 'copyImg',
+  gulp.series( 'clean', 'nav', 'sass', 'buildFromTemplates',// 'copyImg',
   function(done) {
       done();
   }
@@ -364,7 +365,7 @@ gulp.task('watch', function () {
 
 
 gulp.task('default',
-  gulp.series('build', gulp.parallel('browserSync','watch'),
+  gulp.series('build', gulp.parallel('browserSync','copyImg','watch'),
   function(done) {
       done();
   }

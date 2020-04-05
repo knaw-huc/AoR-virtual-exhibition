@@ -5,43 +5,74 @@
 }
 
 .aoWrapper {
-  max-width: 1500px;
+  max-width: 1300px;
   width: 100%;
-  padding-left: #{$margin};
-  padding-right: #{$margin};
+  padding-left: #{$marginDouble};
+  padding-right: #{$marginDouble};
 }
+
+.aoRContent {
+  margin-top: 3rem;
+}
+
 
 .aoRow {
   display: flex;
-  flex-direction: row;
-  // column-count: 3;
-  // column-gap: $margin;
-  //border: 3px solid rgb(218, 115, 254);
-  margin-bottom: 4rem;
+  flex-direction: column;
+  margin-bottom: 6rem;
+}
+
+
+.aoRowIntro {
 
   >*{
-    margin-right: 3rem;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
   }
 
 
-  // figure {
-  //   //width: calc(100% - #{$margin} - #{$margin});
-  //   width: 100%;
-  //   height: auto;
-  //   display: inline-block;
-  //
-  //   img {
-  //     width: 100%;
-  //     height: auto;
-  //   }
-  //}
+  .aoCol1{
+    display: flex;
+    flex-direction: column;
+    margin-right: #{$margin};
+  }
 
-  // .aorCompManuscript {
-  //   column-span: 2;
-  //   width: calc(200% - #{$margin});
-  //   height: auto;
-  // }
+  .aoIntroTitle {
+  }
+
+  .aoIntroTextCols {
+    display: flex;
+    flex-direction: column;
+  }
+
 }
+
+
+@media (min-width: 1000px) {
+  .aoWrapper {
+    padding-left: #{$margin};
+    padding-right: #{$margin};
+  }
+
+
+  .aoRow {
+    flex-direction: row;
+    >*{
+      margin-right: 3rem;
+    }
+  }
+
+  .aoRowIntro .aoIntroTextCols {
+      flex-direction: row;
+    }
+}
+
+
+
+
+
+$captionBoxWidth: 100px;
 
 .aoCol1, .aoCol2, .aoCol3 {
   flex: 1;
@@ -49,13 +80,30 @@
   figure {
     margin: 0;
     padding: 0;
+
+    figcaption {
+      margin-bottom: calc(0 - #{$captionBoxWidth});
+      height: $captionBoxWidth;
+      display: none;
+    }
   }
 
     img {
-      width: 100%;
+      width: 350px;
       height: auto;
     }
 }
+
+
+@media (min-width: 1000px) {
+  .aoCol1 img {
+    width: 100%;
+    height: auto;
+  }
+
+}
+
+
 
 .aoCol1Span, .aoCol2Span {
   flex: 2;

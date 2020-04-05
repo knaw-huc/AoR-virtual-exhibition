@@ -416,5 +416,49 @@
         "folioid": "bnf178_250_v",
         "fpid": 70,
         "referentie_afb": "17806f250v.jpg"
+    },
+    {
+        "folioid": "bpl139_46_v",
+        "fpid": 71,
+        "referentie_afb": "139f46vfr.jpg"
+    },
+    {
+        "folioid": "bpl139_28_v",
+        "fpid": 72,
+        "referentie_afb": "139f28vfr.jpg"
+    },
+    {
+        "folioid": "bpl139_8_r",
+        "fpid": 73,
+        "referentie_afb": "139f8rfr.jpg"
+    },
+    {
+        "folioid": "ein315_6_",
+        "fpid": 74,
+        "referentie_afb": "ein315p6.jpg"
+    },
+    {
+        "folioid": "ein315_6_",
+        "fpid": 75,
+        "fpdescription": "The text has been carefully corrected, here ‘ad’ has been corrected to ‘ab’ and ‘actenus’ to ‘hactenus’.",
+        "referentie_afb": "ein315p6fr.jpg"
+    },
+    {
+        "folioid": "ein315_6_",
+        "fpid": 76,
+        "fpdescription": "Here small squiggles have been added in the margin alongside the text; these are rudimentary quotation marks indicating original text from the Isagoge, the subject of Boethius’ commentary.",
+        "referentie_afb": "ein315p6fr2.jpg"
+    },
+    {
+        "folioid": "ein315_6_",
+        "fpid": 77,
+        "fpdescription": "Here interlinear glosses have been added to provide Latin equivalents of the Greek terms hyperbaton (transposition of words) and zeuma (where one word can be used in two different contexts). The glossator describes these as ‘confusus ordo’, the confusion of order, and ‘repetitio’, repetition, respectively.",
+        "referentie_afb": "ein315p6fr3.jpg"
+    },
+    {
+        "folioid": "bpl84_103_v",
+        "fpid": 78,
+        "fpdescription": "A medieval reader has added a content list at the end of the volume, starting with ‘libri boetius’, books of Boethius, and listing the titles. These match the existing contents of BPL 84, so we know that this collection of texts has been together since at least the time it was in this reader’s hands.",
+        "referentie_afb": "84f103vfr.jpg"
     }
 ]

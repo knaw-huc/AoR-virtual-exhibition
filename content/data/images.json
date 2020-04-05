@@ -244,5 +244,24 @@
         "description": "Portrait of Aristole in Glasgow, University Library, MS Hunter 231, p. 276",
         "resource": "University of Glasgow",
         "hyperlink": "http://special.lib.gla.ac.uk/exhibns/chaucer/learning.html"
+    },
+    {
+        "img_file_name": "benoit.jpg",
+        "alttext": "Saint-Benoît-sur-Loire",
+        "description": "Saint-Benoît-sur-Loire",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Saint-Beno%C3%AEt_-France.JPG"
+    },
+    {
+        "img_file_name": "139housestyle.jpg",
+        "description": "House Style ",
+        "resource": "eigen werk"
+    },
+    {
+        "img_file_name": "darmstadt.jpg",
+        "alttext": "Darmstadt, ULB, HS 2882",
+        "description": "Darmstadt, ULB, HS 2882",
+        "resource": "Universitäts- und Landesbibliothek",
+        "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282/0001/image"
     }
 ]

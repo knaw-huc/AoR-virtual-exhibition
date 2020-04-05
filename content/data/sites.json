@@ -172,7 +172,7 @@
     },
     {
         "title": "Glosses and commentaries",
-        "docx_file": "gandcBd",
+        "docx_file": "gandc_lay",
         "page_id": "3gc",
         "theme": 3,
         "file_name": "Glosses-commentaries",
@@ -184,13 +184,13 @@
         "docx_file": "empty",
         "page_id": "3cc",
         "theme": 3,
-        "file_name": "l",
+        "file_name": "debatescand-controversies",
         "template_file": "theme-item",
         "navigation_file": "nav-3"
     },
     {
         "title": "Diagrams and schemes",
-        "docx_file": "trees",
+        "docx_file": "trees_lay",
         "page_id": "3ds",
         "theme": 3,
         "file_name": "Trees-Diagrams-Schemes",
@@ -199,7 +199,7 @@
     },
     {
         "title": "How to make sense with Syllogism",
-        "docx_file": "syllogism",
+        "docx_file": "syllogism_lay",
         "page_id": "3sy",
         "theme": 3,
         "file_name": "syllogism",

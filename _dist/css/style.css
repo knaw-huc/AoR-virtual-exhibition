@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,600;1,300&family=Playfair+Display:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,600;1,300&family=Playfair+Display:wght@700&display=swap");
 body {
   background-color: #242424;
   color: #DFD2BE; }
@@ -13,26 +13,61 @@ a {
   align-items: center; }
 
 .aoWrapper {
-  max-width: 1500px;
+  max-width: 1300px;
   width: 100%;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem; }
+  padding-left: 4rem;
+  padding-right: 4rem; }
+
+.aoRContent {
+  margin-top: 3rem; }
 
 .aoRow {
   display: flex;
-  flex-direction: row;
-  margin-bottom: 4rem; }
-  .aoRow > * {
-    margin-right: 3rem; }
+  flex-direction: column;
+  margin-bottom: 6rem; }
+
+.aoRowIntro > * {
+  justify-content: flex-end;
+  display: flex;
+  flex-direction: column; }
+
+.aoRowIntro .aoCol1 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 2rem; }
+
+.aoRowIntro .aoIntroTextCols {
+  display: flex;
+  flex-direction: column; }
+
+@media (min-width: 1000px) {
+  .aoWrapper {
+    padding-left: 2rem;
+    padding-right: 2rem; }
+  .aoRow {
+    flex-direction: row; }
+    .aoRow > * {
+      margin-right: 3rem; }
+  .aoRowIntro .aoIntroTextCols {
+    flex-direction: row; } }
 
 .aoCol1, .aoCol2, .aoCol3 {
   flex: 1; }
   .aoCol1 figure, .aoCol2 figure, .aoCol3 figure {
     margin: 0;
     padding: 0; }
+    .aoCol1 figure figcaption, .aoCol2 figure figcaption, .aoCol3 figure figcaption {
+      margin-bottom: calc(0 - 100px);
+      height: 100px;
+      display: none; }
   .aoCol1 img, .aoCol2 img, .aoCol3 img {
-    width: 100%;
+    width: 350px;
     height: auto; }
+
+@media (min-width: 1000px) {
+  .aoCol1 img {
+    width: 100%;
+    height: auto; } }
 
 .aoCol1Span, .aoCol2Span {
   flex: 2; }
@@ -43,7 +78,12 @@ a {
   padding: 1rem;
   font-size: .85rem; }
   .aorCompManuscript svg {
-    margin: -1rem -1rem 1rem -1rem; }
+    margin: -1rem -1rem 1rem -1rem;
+    width: calc(100% + 2rem);
+    height: 400px; }
+    .aorCompManuscript svg image {
+      width: 100%;
+      height: auto; }
 
 .aorFilioInfo {
   display: flex;
@@ -52,14 +92,18 @@ a {
 .aorFolioToggles {
   display: flex;
   flex-direction: column;
-  flex: 4; }
+  margin-right: 1rem;
+  flex: 3; }
 
 .aorFoliosTab {
   display: flex;
-  flex-direction: row; }
+  flex-direction: row;
+  margin-bottom: 2rem; }
 
 .aorFoliosManuscript {
-  flex: 5; }
+  flex: 1;
+  border-left: 1px solid #403E3B;
+  padding-left: 1rem; }
 
 .aorHighLightStroke {
   stroke: #ffffff;
@@ -113,19 +157,20 @@ body {
 .aorHeader {
   display: flex;
   flex-direction: column;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   border-bottom: 1px solid #403E3B; }
 
 .aorHeaderLogo img {
   width: auto;
-  height: 25px;
-  max-width: calc(100vw - 3rem); }
+  height: 32px;
+  max-width: calc(100vw - 4rem); }
 
 .aoTopnav {
   display: flex;
   flex-direction: column;
-  justify-content: space-between; }
+  justify-content: space-between;
+  font-size: .85rem; }
   .aoTopnav a {
     color: #DFD2BE;
     margin-right: 1rem; }
@@ -135,11 +180,20 @@ body {
     display: flex;
     flex-direction: column;
     padding-top: 3rem;
-    padding-bottom: 3rem; }
+    padding-bottom: 4rem; }
   .aorHeaderLogo img {
-    height: 35px; }
+    height: 36px; }
   .aoTopnav {
-    flex-direction: row; } }
+    flex-direction: row;
+    font-size: 1rem; } }
+
+figure {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px; }
+  figure figcaption {
+    font-size: .9rem; }
 
 .tempContainer {
   width: 100vw;
@@ -205,13 +259,20 @@ body {
 
 h1, h2, h3 {
   font-family: 'Playfair Display', serif;
-  color: #02F7E8; }
+  color: #02F7E8;
+  font-weight: 700; }
 
 h1 {
-  font-size: 2rem; }
+  font-size: 2rem;
+  line-height: 1.7rem; }
 
 h2 {
   font-size: 1.2rem; }
+
+@media (min-width: 600px) {
+  h1 {
+    font-size: 3rem;
+    line-height: 2rem; } }
 
 .timeline {
   font-size: 10px; }

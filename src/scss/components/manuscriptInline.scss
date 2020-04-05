@@ -6,6 +6,14 @@
 
   svg {
     margin: -1rem -1rem 1rem -1rem;
+    width: calc(100% + 2rem);
+    height: 400px;
+
+
+    image {
+      width: 100%;
+      height: auto;
+    }
   }
 }
 
@@ -18,31 +26,25 @@
 .aorFolioToggles{
   display: flex;
   flex-direction: column;
-  flex: 4
+  margin-right: 1rem;
+  flex: 3
 }
 
 .aorFoliosTab{
   display: flex;
   flex-direction: row;
+  margin-bottom: 2rem;
 }
 
 .aorFoliosManuscript {
-  flex: 5;
+  flex: 1;
+  border-left: 1px solid #{$manuscriptBegeDark};
+  padding-left: 1rem;
 
 }
 
 @media (min-width: 1000px) {
-  // .aorCompManuscript{
-  // 	width: calc(100% + 4rem);
-  // 	height: 400px;
-  //
-  // 	margin: 0 -2rem;
-  //
-  // 	image {
-  // 		width: auto;
-  // 		height: 100%;
-  // 	}
-  // }
+
 }
 
 
