@@ -2,13 +2,53 @@
 
 
 
-<div class="tempContainer">
-  <div class="tempContent">
-    {{> page-header}}
-    {{> nav-top}}
-  </div>
-    {{> aor_home}}
+<div class="aoSite">
+  <div class="aorHomeHero aoWrapper">
+    <div class="aorHomeHeroLogo"><img src="images/logo_aor-1@2x.png" alt="logo Art of Reasoning" class="logoLines"><img src="images/logo_aor-2@2x.png" alt="logo Art of Reasoning" class="logoLines"></div>
+    <div class="aorHomeHeroText">An online exhibition on the richness of medieval scholarly. Get to know the the great teachers like Alquin and John the Scot. Learn all about Art of Reasoning through hidden treasures in these wonderful manuscripts.</div>
 
+
+  </div>
+</div>
+
+<div class="aorBlue aoSite">
+  <div class="aorHomeThemes aoWrapper">
+    <div class="aorHomeOpenManuscript"><img src="images/tempBook.png" alt=""></div>
+    <div class="aorHomeThemesIntro">
+      <h2>Themes</h2>
+      <p>In three theme's we'll explain the richness of medieval scholarly. </p>
+    </div>
+    <div class="aorHome3Themes">
+      <div class="aorHomeTheme1"><h3>Dialectica and retorica</h3>
+        <p>The art of reasoning was taught in schools at monasteries, cathedrals and universities, by teachers and for students. Traces in medieval manuscripts show the practices of education in multiple ways.</p>
+      </div>
+      <div class="aorHomeTheme2">
+        <div class="aorHomeTheme1"><h3>Teachers and students</h3>
+          <p>The art of reasoning was taught in schools at monasteries, cathedrals and universities, by teachers and for students. Traces in medieval manuscripts show the practices of education in multiple ways.</p>
+        </div>
+      </div>
+      <div class="aorHomeTheme3">
+        <div class="aorHomeTheme1"><h3>Reading and learning</h3>
+          <p>The art of reasoning was taught in schools at monasteries, cathedrals and universities, by teachers and for students. Traces in medieval manuscripts show the practices of education in multiple ways.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="aoSite">
+  <div class="aorHomeManuscripts aoWrapper">
+    <div class="aorHomeManuscriptsIntro">
+      <h2>Explore the manuscripts</h2>
+      <p>The manuscript are our looking glass: they reflect a world of thinking, arguing, learning, teaching, but also of joking, criticizing, fuming and dismissing. They show us colourful personalities and amazing anecdotes.</p>
+    </div>
+    <div class="aorHomeManuscriptsFeaturedList">
+      {{>manuscriptCard}}
+      {{>manuscriptCard}}
+      {{>manuscriptCard}}
+    </div>
+  </div>
 </div>
 
 

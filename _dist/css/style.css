@@ -124,6 +124,79 @@ a {
   margin-right: 1rem;
   border-bottom: 2px solid #DFD2BE; }
 
+.aorHomeHero {
+  padding: 3rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  min-height: 75vh; }
+  .aorHomeHero .aorHomeHeroLogo, .aorHomeHero .aorHomeHeroText {
+    text-align: center;
+    max-width: 650px;
+    margin-bottom: 2rem; }
+    .aorHomeHero .aorHomeHeroLogo .logoLines, .aorHomeHero .aorHomeHeroText .logoLines {
+      height: 60px;
+      width: auto; }
+
+.aorBlue {
+  background-color: #02F7E8;
+  width: 100vw;
+  color: #242424; }
+  .aorBlue h1, .aorBlue h2, .aorBlue h3 {
+    color: #242424; }
+
+.aorHomeThemes {
+  padding: 3rem 0; }
+
+.aorHomeOpenManuscript {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.aorHomeThemesIntro {
+  text-align: center; }
+
+.aorHome3Themes {
+  display: flex;
+  flex-direction: column; }
+  .aorHome3Themes > * {
+    width: 100%; }
+
+@media (min-width: 1000px) {
+  .aorHome3Themes {
+    flex-direction: row; }
+    .aorHome3Themes > * {
+      width: calc(33% - 2rem);
+      margin-right: 2rem; } }
+
+.aorHomeManuscripts {
+  padding: 3rem 0; }
+
+.aorHomeManuscriptsIntro {
+  text-align: center; }
+
+.aorHomeManuscriptsFeaturedList {
+  display: flex;
+  flex-direction: column; }
+  .aorHomeManuscriptsFeaturedList > * {
+    width: 100%; }
+
+@media (min-width: 1000px) {
+  .aorHomeManuscriptsFeaturedList {
+    flex-direction: row; }
+    .aorHomeManuscriptsFeaturedList > * {
+      width: calc(33% - 1px);
+      margin-right: 1px; } }
+
+.aorManuscriptCrd {
+  background-color: #303030;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
 .countryPart {
   fill: none;
   stroke: #c6bf9f;
