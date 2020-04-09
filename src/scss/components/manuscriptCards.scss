@@ -1,6 +1,7 @@
 .aorManuscriptCrdList {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     >* {
       width: 100%;
     }
@@ -14,6 +15,7 @@
       >* {
         width: calc(33% - #{$cardMargin});
         margin-right: $cardMargin;
+        margin-bottom: $cardMargin;
       }
     }
   }

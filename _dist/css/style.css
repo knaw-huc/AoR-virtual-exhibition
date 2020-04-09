@@ -126,7 +126,8 @@ a {
 
 .aorManuscriptCrdList {
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  flex-wrap: wrap; }
   .aorManuscriptCrdList > * {
     width: 100%; }
 
@@ -135,7 +136,8 @@ a {
     flex-direction: row; }
     .aorManuscriptCrdList > * {
       width: calc(33% - 1px);
-      margin-right: 1px; } }
+      margin-right: 1px;
+      margin-bottom: 1px; } }
 
 .aorManuscriptCrd {
   background-color: #303030;

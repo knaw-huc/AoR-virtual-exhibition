@@ -9,12 +9,12 @@
         "navigation_file": "nav-top"
     },
     {
-        "title": "Manuscripts section",
-        "docx_file": "manuscripts",
+        "title": "Manuscripts",
+        "docx_file": "manuscripts-lay",
         "page_id": "mho",
         "theme": "manuscripts",
         "file_name": "manuscripts",
-        "template_file": "manuscript-item",
+        "template_file": "manuscript-overview",
         "navigation_file": "nav-manuscripts"
     },
     {

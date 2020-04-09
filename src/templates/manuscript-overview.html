@@ -1,0 +1,51 @@
+{{> html-head}}
+
+<div class="aoSite">
+  {{> page-header}}
+
+  <div class="aoWrapper aoRContent">
+
+    <div class="aoRow aoRowIntro">
+      <div class="aoCol1Span">
+        <div class="aoIntroTitle">
+          <h1>{{title}}</h1>
+        </div>
+        <div class="aoIntroTextCols">
+      {{> (lookup . 'docx_file') }}</div>
+  </div>
+
+  <div class="aorManuscriptCrdList aoRow">
+      {{#each manuscriptsList}}
+          {{>manuscriptCard}}
+      {{/each}}
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+{{!-- comment
+  <article class="aorContent">
+    <h1>{{title}}</h1>
+
+    {{> (lookup . 'docx_file') }}
+  <div class="aorNextPage">Next read: <a href="{{nextHref}}.html">{{nextTitle}}</a> </div>
+  </article>
+
+
+</div>
+
+<div class="aorNavigation" id="aorNavigation">
+  {{> (lookup . 'navigation_file') }}
+</div>
+{{> page-foot}}
+ --}}
+
+
+
+{{> html-foot}}
