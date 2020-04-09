@@ -43,11 +43,19 @@
       <h2>Explore the manuscripts</h2>
       <p>The manuscript are our looking glass: they reflect a world of thinking, arguing, learning, teaching, but also of joking, criticizing, fuming and dismissing. They show us colourful personalities and amazing anecdotes.</p>
     </div>
-    <div class="aorHomeManuscriptsFeaturedList">
-      {{>manuscriptCard}}
-      {{>manuscriptCard}}
-      {{>manuscriptCard}}
+    <div class="aorHomeManuscriptsFeaturedList aorManuscriptCrdList">
+
+        {{#each manuscriptsList}}
+          {{#if on_home}}
+            {{>manuscriptCard}}
+          {{/if}}
+        {{/each}}
+
+
+
     </div>
+    <div class="aorHomeManuscriptsAllLink">
+      <a href="manuscripts.html">See all the manuscripts</a>
   </div>
 </div>
 

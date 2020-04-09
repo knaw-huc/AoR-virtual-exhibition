@@ -14,7 +14,10 @@
         "contents": "ff. 1r-51v: Marcus Tullius Cicero, De Inventione (On Invention). ff. 51v-101v: Pseudo-Cicero, Rhetorica ad Herennium (The Rhetoric to Herennius). ff. 102r-179v: Thierry of Chartres, Commentary on Cicero's De Inventione, ending imperfect. ff. 180r-276v: Boethius, Commentary on Aristotle's De Interpretatione (About Interpretation)",
         "codicologicalUnits": "This is a composite manuscript made up of three originally separate parts (ff. 1-101v; 102r-179v; 180r-276v)",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "ArundelMS348",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bur275",
@@ -33,7 +36,10 @@
         "contents": "Priscian, Cicero, and Pseudo-Cicero, Institutiones, De inventione, Rhetorica ad Herennium; Boethius, Aristotle, Euclid, and others, Boethius's translation of Aristotle's Priora and Posteriora Analytica and other works; De musica; Elementa (in the translation attributed to Adelard of Bath), and other texts; Ptolemy, translated by Gerard of Cremona, Almagest (ff. 390v-560v)",
         "script": "Gothic",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "Burney275",
+        "template_file": "manuscript-item"
     },
     {
         "id": "ein315",
@@ -51,7 +57,10 @@
         "foliation": "170 pp",
         "contents": "Boethius, Isagoge",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "MS315605",
+        "template_file": "manuscript-item"
     },
     {
         "id": "gal251",
@@ -69,7 +78,10 @@
         "foliation": "186 pp",
         "contents": "Copies of assorted works of natural history by the Venerable Bede (De natura rerum; De temporum ratione; the closing portion of De temporibus), produced as early as the 9th century in the Cloister of St. Gall. In addition, this codex contains, among other items, computistic and calendar texts and tables, and at the end, schematic diagrams of the organization of the scientific disciplines as well as quill tests.",
         "language": "Latin, German",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "CodSang251",
+        "template_file": "manuscript-item"
     },
     {
         "id": "kar92",
@@ -85,7 +97,10 @@
         "foliation": "45 pp",
         "contents": "Miniatures about the life of Raymundus Llullu (1v), Breviculum ex Artibus Raimundi electum (13v), Raimundus Lullus Ars Brevis (40r)",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "StPeterperg92",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bpl25",
@@ -103,7 +118,10 @@
         "contents": "Commentary on Aristotle's De interpretatione (Peri hermeneias) / Boethius (f.2r-38r) and De interpretatione / Apuleius (?) (f.38r-41v)",
         "script": "littera carolina",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "BPL 25",
+        "file_name": "BPL25",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bpl84",
@@ -121,7 +139,10 @@
         "contents": "De divisione / Boethius (f.1r-8v) De definitione / pseudo-Boethius (f.9r-16v), De syllogismo hypothetico / Boethius (f.17-44v) De syllogismo categorico / Boethius (f.45r-67r) Antepraedicamenta / Boethius (f.67v-89v) De dialectica / Alcuin of York (f.90r-103v)",
         "script": "littera carolina",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "BPL84",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bpl88",
@@ -141,7 +162,11 @@
         "codicologicalUnits": "Composite Manuscript made up of three parts (ff. 1-167; 168-181;182)",
         "script": "littera carolina, littera cursiva,",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "on_home": true,
+        "docx_file": "BPL 88",
+        "file_name": "BPL88",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bpl139",
@@ -159,7 +184,10 @@
         "foliation": "46 ff",
         "contents": "De syllogismis categoricis (ff. 1-30) / Abbo of Fleury - Peri hermeneias (ff. 30 and 32-39)/ Apuleius (?) - Isagoge in Categorias Aristotelis / Porphyrius (ff. 40-46)",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "BPL139B",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bpl144",
@@ -178,7 +206,11 @@
         "codicologicalUnits": "Composite Manuscript made up of two parts (ff. 1-93v, f.94)",
         "script": "littera textualis,",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "on_home": true,
+        "docx_file": "BPL 144",
+        "file_name": "BPL144",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bpl192",
@@ -196,7 +228,10 @@
         "contents": "Ilias Latina / Homer (adaptation by Beabius Italicus). 12th century (f.1r-10v), Letters / Ivo of Chartres. 12th and/or 13th century (f.11r-94v), Excerpts from papal bulls and decretals. 12th century (f.94v-96v), Satyrae / Aulus Persius Flaccus. 12th century (f.97r-104r), l' Art des amours / Ovid, Jakes d'Amiens. second half 13th century (f.105r-111r), Noctes Atticae / Aulus Gellius. 12th century (f.111r-117r), Isagoge in Categorias Aristotelis / Porphyrius. 12th century (f.121r-128v), De interpretatione / Aristotle. 12th century (f.128v-138v), Categoriae / Aristotle. 12th century (f.139-153), De differentiis topicis / Boethius. 12th century (f.153r-175v)",
         "script": "littera carolina, littera prae-gothica",
         "language": "Latin, French",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "BPL1925",
+        "template_file": "manuscript-item"
     },
     {
         "id": "gro22",
@@ -213,7 +248,10 @@
         "foliation": "112 ff",
         "contents": "De inventione / Cicero (f.1r-50v), Letter to Aristotle / pseudo-Alexander the Great (f.50v-58v), Rhetorica ad Herennium / pseudo-Cicero (f.59r-112v)",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "GRO22",
+        "template_file": "manuscript-item"
     },
     {
         "id": "vlf48",
@@ -231,7 +269,11 @@
         "contents": "Sermon / Ratherius of Verona (f.1-r),De nuptiis Philologiae et Mercurii / Martianus Capella (f.2r-91v), De duodecim abusivis saeculi (introduction) / pseudo-Cyprian of Carthage (f.92v), Commentary on the Canticles of Deborah (Jud 5,1) / pseudo-Jerome (f.93r-94v),Treatise on lent (f.94v-95r), Hebrew names of the months (f.95r), Note on chronology (f.95r),",
         "script": "littera carolina,",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "on_home": true,
+        "docx_file": "VLF 48",
+        "file_name": "VLF48",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf111",
@@ -248,7 +290,10 @@
         "foliation": "215 ff",
         "contents": "\"Comment. Boetii in periermenias librum Aristotelis. Liber periermenias Apuleii (f.53). Oratio Ciceronis in Salustium (f.58v). Oratio Salustii in Ciceronem (f.61r). Controversia Deoderici, Metensis episcopi, in Karolum (f.62r); Gerbertus ex persona Karoli (f.62v). Boetii liber divisionis (f.64v). Liber ejusdem de topicis differentiis (f.74r). Communis speculatio de rethoricae cognatione (f.101r). [Boetii introductio ad categoricos syllogismos] (f.105r). Boetii libri tres de hypotheticis syllogismis (f.145v). Liber Igini [de imaginibus coeli] (f.170v). Epistola Alexandri regis ad Aristotelem, etc. (f.201r). Verba Dandami, brachmanorum summi (f.209r). Commonitorium Pallidii [ad Karolum Magnum]\" (f.215r).",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat11127",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf129",
@@ -264,7 +309,9 @@
         "foliation": "81 ff.",
         "contents": "Aristotelis periermeniae. Augustini dialectica (f.12r). Prologus Alchuini ad Karolum super cathegorias Augustini (f.24r.). Categoriae Aristotelis, ab Augustino de graeco in latinum mutatae (f.24r). Notes et fragments, parmi lesquels une note sur le sens du mot Cerauna (f.39r), des tables de comput (f.41r), dont l'une faite en 896 par frater Johannis Scotti Aldelmus (f.42r), des règles sur la grosseur des tuyaux sonores (f.43r). Ysagogae Porphyrii (f.46r). Boetii libri de Trinitate (f.53r), ad Johannem diaconum (f.57v), adversus Nestorium (f.62v). Apuleii periermeniae (f.71r), cum Boetii commentariis (f.80v).",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "file_name": "bnflat12949",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf133",
@@ -281,7 +328,10 @@
         "foliation": "219 ff.",
         "contents": "Tractatus Peregrini [Vincentii Lirin.] contra hereticos (f.1r) Epistulae Pascalis Theophili episcopi (f.42v). Epistula Epyfanii (f.98r). Epistula S. Hieronimi (f.98v). Homilia S. Augustini (f.100v). Johannis [Scoti] liber de praedestinatione (f.103r). Prisciani solutiones eorum de quibus dubitavit Chosroes (f.160r). Libellus sacerdotalis quem Lios monocus heroico metro composuit (f.208r).",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat13386",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf146",
@@ -298,7 +348,10 @@
         "foliation": "204 ff",
         "contents": "Clemens IV (pape ; 1200?-1268). Auteur de lettres, \n Copia plurimum litterarum quorumdam paparum, principaliterClementis IV ; Petrus Abaelardus, Dialectica",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat14614",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf165",
@@ -314,7 +367,10 @@
         "foliation": "98 ff",
         "contents": "Porphyrius. (f.1r), Sex principia (f.11). Ciceronis logica, (f.20). Joh. Damasceni logica (f.34). Augustini dialectica (f.60). Augustini categorie, cum prologo Alcuini (f.70v).",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat16598",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf178",
@@ -330,7 +386,10 @@
         "foliation": "259 ff",
         "contents": "Aristoteles, Praedicamenta (f.1r-4r), Periermenias (f.4v-15r). - Liber sex principium (f.15v-f.23v). - Boethius, De divisione (f.24-f.35v), Topica (f.36-f.68v). Aristoteles, De sophisticis elenchis (f.69-f.92v), Topica (f.93-f.164), Analytica priora (f.164v-f.217v), Analytica posteriora (f.218-f.249v), Praedicamenta (f.250-f.259v).",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat17806",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf278",
@@ -347,7 +406,10 @@
         "foliation": "28 ff?",
         "contents": "F. 1 Fragment sur les muses, F. 1-28 BOETHIUS [Opuscula sacra cum glossis REMIGIO AUTISSIODORENSIS], F. 28 « De duodecim lapidibus preciosis. Primus jaspis viridis... », F. 28v « ΦPONECIC id est prudentia... »",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat2788",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf790",
@@ -366,7 +428,10 @@
         "codicologicalUnits": "Composite, 3 parts",
         "script": "caroline",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "7900A",
+        "file_name": "bnflat7900A",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf239",
@@ -382,7 +447,10 @@
         "foliation": "83 ff",
         "contents": "Léandre (Règle de saint), suivie d'opuscules des pères et de vies de saints. Ms. visigothique du Xe ou du XIe siècle.",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnnal239",
+        "template_file": "manuscript-item"
     },
     {
         "id": "val404",
@@ -399,7 +467,10 @@
         "foliation": "118 ff",
         "contents": "Isidorus Hispalensis: De Retorica et dialectica. Alcuinus Flaccus: Disputatio Caroli et Albini de retorica et virtutibus. Tractatus de computo",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "Valenciennesms404",
+        "template_file": "manuscript-item"
     },
     {
         "id": "val406",
@@ -416,7 +487,10 @@
         "foliation": "149 ff",
         "contents": "Recueil de traités de logique et de rhétorique",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "Valenciennesms406",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf166",
@@ -433,14 +507,20 @@
         "foliation": "117 ff",
         "contents": "[Petri de Hispania] summule. De syntaxe. Hermes [Pet. de Hispania], de fallaciis. Porphyrius, predicamenta, periermenias, divisiones, sex principia",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "BnFlat16611",
+        "template_file": "manuscript-item"
     },
     {
         "id": "vlf12",
         "location": "Leiden",
         "shelfmark": "VLF 12",
         "origin": "Leiden",
-        "orilatlon": "4.48110886662043, 52.1518157"
+        "orilatlon": "4.48110886662043, 52.1518157",
+        "docx_file": "empty",
+        "file_name": "VLF12",
+        "template_file": "manuscript-item"
     },
     {
         "id": "dev22",
@@ -456,7 +536,10 @@
         "contents": "Rhetorica ad Herennium",
         "script": "littera prae-gothica",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "Deventer101F22KL",
+        "template_file": "manuscript-item"
     },
     {
         "id": "dev23",
@@ -472,12 +555,18 @@
         "contents": "De Inventione",
         "script": "littera prae-gothica",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "Deventer101F23KL",
+        "template_file": "manuscript-item"
     },
     {
         "id": "vat1",
         "location": "Vatican",
-        "shelfmark": "Vatican Pagès 1"
+        "shelfmark": "Vatican Pagès 1",
+        "docx_file": "empty",
+        "file_name": "VaticanPages1",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf673",
@@ -492,7 +581,10 @@
         "foliation": "252 ff",
         "contents": "Honorius Augustodunensis, Clavis physicae .",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat6734",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf663",
@@ -507,7 +599,10 @@
         "foliation": "74 ff",
         "contents": "1.° Anicii Manlii Severini Boëtii de syllogismo hypothetico fragmentum. — 2.° Apuleii , Madaurensis, liber de philosophia naturali. — 3.° Boëtii commentarius in Aristotelis librum de interpretatione : finis desideratur. — 4.° Fragmentum libri sancti Augustini de dialectica. — 5.° Alcuini libri de divinis officiis fragmenta. — 6.° Sancti Gregorii , Papae, epistolae numero quinquaginta quinque.",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat6638",
+        "template_file": "manuscript-item"
     },
     {
         "id": "bnf770",
@@ -522,6 +617,9 @@
         "foliation": "79 ff",
         "contents": "1.° M. T. Ciceronis topica : initium desideratur. — 2.° Anicii Manlii Severini Boëtii commentariorum in Ciceronis topica libri sex.",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "empty",
+        "file_name": "bnflat7709",
+        "template_file": "manuscript-item"
     }
 ]

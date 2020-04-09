@@ -1,13 +1,15 @@
-<div class="aorManuscriptCrd">
-  <div class="">
+<div class="aorManuscriptCrd" onclick="javascript:location.href='{{file_name}}.html'">
+  <div class="crdThumb">
     <img src="images/Manuscrpt_temp_thumb.png" alt="">
   </div>
-  <div class="">
-    BnF lat 12949
+  <div class="crdName">
+    {{shelfmark}}
   </div>
-  <div class="">
-    Paris
+  <div class="crdText">
+    {{location}}
   </div>
-  <div>This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius</div>
-  <a href="">Explore this manuscript</a>
+  <div class="crdText">This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius
+  <br><a href="{{file_name}}.html">Explore this manuscript</a>
+  </div>
+
 </div>

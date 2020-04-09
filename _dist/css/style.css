@@ -124,6 +124,39 @@ a {
   margin-right: 1rem;
   border-bottom: 2px solid #DFD2BE; }
 
+.aorManuscriptCrdList {
+  display: flex;
+  flex-direction: column; }
+  .aorManuscriptCrdList > * {
+    width: 100%; }
+
+@media (min-width: 1000px) {
+  .aorManuscriptCrdList {
+    flex-direction: row; }
+    .aorManuscriptCrdList > * {
+      width: calc(33% - 1px);
+      margin-right: 1px; } }
+
+.aorManuscriptCrd {
+  background-color: #303030;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer; }
+
+.crdThumb img {
+  width: 175px;
+  height: auto; }
+
+.crdName {
+  font-weight: 700;
+  color: #02F7E8; }
+
+.crdText {
+  font-size: .85rem;
+  text-align: center; }
+
 .aorHomeHero {
   padding: 3rem 0;
   display: flex;
@@ -148,12 +181,17 @@ a {
     color: #242424; }
 
 .aorHomeThemes {
-  padding: 3rem 0; }
+  padding: 3rem 2rem; }
 
 .aorHomeOpenManuscript {
   display: flex;
   flex-direction: column;
   align-items: center; }
+  .aorHomeOpenManuscript img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    transform: rotate(5deg); }
 
 .aorHomeThemesIntro {
   text-align: center; }
@@ -190,12 +228,17 @@ a {
       width: calc(33% - 1px);
       margin-right: 1px; } }
 
-.aorManuscriptCrd {
-  background-color: #303030;
-  padding: 1.5rem;
+.aorHomeManuscriptsAllLink {
+  background-color: #02F7E8;
+  padding: 3rem 2rem;
+  color: #242424;
+  font-weight: 700;
   display: flex;
-  flex-direction: column;
-  align-items: center; }
+  justify-content: center;
+  align-items: center;
+  text-align: center; }
+  .aorHomeManuscriptsAllLink a {
+    color: #242424; }
 
 .countryPart {
   fill: none;

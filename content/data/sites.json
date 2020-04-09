@@ -9,14 +9,13 @@
         "navigation_file": "nav-top"
     },
     {
-        "title": "Trailer",
-        "docx_file": "empty",
-        "page_id": "trl",
-        "remarks": "explains topic, structure, lay-out",
-        "theme": "top",
-        "file_name": 1,
-        "template_file": "basic",
-        "navigation_file": "nav-top"
+        "title": "Manuscripts section",
+        "docx_file": "manuscripts",
+        "page_id": "mho",
+        "theme": "manuscripts",
+        "file_name": "manuscripts",
+        "template_file": "manuscript-item",
+        "navigation_file": "nav-manuscripts"
     },
     {
         "title": "Themes",
@@ -29,27 +28,7 @@
         "navigation_file": "nav-top"
     },
     {
-        "title": "Timeline",
-        "docx_file": "empty",
-        "page_id": "tml",
-        "remarks": "with people, events, manuscripts",
-        "theme": "top",
-        "file_name": "timeline",
-        "template_file": "timeline",
-        "navigation_file": "nav-top"
-    },
-    {
-        "title": "Geographical Map",
-        "docx_file": "empty",
-        "page_id": "map",
-        "remarks": "with manuscript origins, institutions",
-        "theme": "top",
-        "file_name": 5,
-        "template_file": "basic",
-        "navigation_file": "nav-top"
-    },
-    {
-        "title": "Acknowledgements",
+        "title": "About",
         "docx_file": "empty",
         "page_id": "ack",
         "remarks": "with information about us, but also with link to bibliography?",
@@ -205,120 +184,5 @@
         "file_name": "syllogism",
         "template_file": "theme-item",
         "navigation_file": "nav-3"
-    },
-    {
-        "title": "Manuscripts section",
-        "docx_file": "manuscripts",
-        "page_id": "mho",
-        "theme": "manuscripts",
-        "file_name": "manuscripts",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "Paris BnF, lat 12949",
-        "manuscript_id": "bnf129",
-        "docx_file": "empty",
-        "page_id": "m12",
-        "theme": "manuscripts",
-        "file_name": "p",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "BPL 144",
-        "manuscript_id": "bpl144",
-        "docx_file": "BPL 144",
-        "page_id": "m14",
-        "theme": "manuscripts",
-        "file_name": "Leiden-UB-BPL-144",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "Paris BnF, lat 17806",
-        "manuscript_id": "bnf178",
-        "docx_file": "empty",
-        "page_id": "m17",
-        "theme": "manuscripts",
-        "file_name": "r",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "BPL 139 B",
-        "manuscript_id": "bpl139",
-        "docx_file": "empty",
-        "page_id": "m13",
-        "theme": "manuscripts",
-        "file_name": "s",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "Arundel 348",
-        "manuscript_id": "aru348",
-        "docx_file": "empty",
-        "page_id": "m34",
-        "theme": "manuscripts",
-        "file_name": "t",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "Einsiedln 315",
-        "manuscript_id": "ein315",
-        "docx_file": "empty",
-        "page_id": "m31",
-        "theme": "manuscripts",
-        "file_name": "u",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "BPL 88",
-        "manuscript_id": "bpl88",
-        "docx_file": "BPL 88",
-        "page_id": "m88",
-        "theme": "manuscripts",
-        "file_name": "Leiden-UB-BPL-88",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "VLF 48",
-        "manuscript_id": "vlf48",
-        "docx_file": "VLF 48",
-        "page_id": "m48",
-        "theme": "manuscripts",
-        "file_name": "Leiden-UB-VLF-48",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "Paris BnF, lat 7900A",
-        "manuscript_id": "bnf790",
-        "docx_file": "7900A",
-        "page_id": "m79",
-        "theme": "manuscripts",
-        "file_name": "Paris-BnF-lat-7900A",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "BPL 25",
-        "manuscript_id": "bpl25",
-        "docx_file": "BPL 25",
-        "page_id": "m25",
-        "theme": "manuscripts",
-        "file_name": "Leiden-UB-BPL-25",
-        "template_file": "manuscript-item",
-        "navigation_file": "nav-manuscripts"
-    },
-    {
-        "title": "lastpage",
-        "page_id": 0,
-        "template_file": "image-svg",
-        "navigation_file": "nav-manuscripts"
     }
 ]

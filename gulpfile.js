@@ -22,7 +22,7 @@ var dom  = require('gulp-dom');
 var mammoth = require("mammoth");
 var writeFile = require('write-file');
 //var docxHtmlConverter = require('gulp-docx-converter');
-
+var fs = require('fs');
 var browserSync = require('browser-sync').create();
 var reload      = browserSync.reload;
 const using = require('gulp-using');
@@ -92,8 +92,25 @@ function combineJson(){
       }//if
     }//folios
   }// manuscript
-  //console.log(manuscriptJson[0].folios[0]);
-  //console.log(manuscriptJson);
+
+
+  for (var i = 0; i < manuscriptJson.length; i++) {
+    siteJson.push(manuscriptJson[i]);
+  }
+  siteJson.push({
+    "title": "lastpage",
+    "page_id": 0,
+    "file_name": "last",
+    "template_file": "image-svg",
+    "navigation_file": "nav-manuscripts"
+  })
+  siteJson[0].manuscriptsList = manuscriptJson;
+  siteJson[1].manuscriptsList = manuscriptJson;
+
+fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
+  if (err) throw err;
+  console.log('Saved!');
+});
 }// function
 combineJson();
 
@@ -293,7 +310,14 @@ gulp.task('buildFromTemplates', function(done) {
 
   for(var i=0; i<siteJson.length; i++) {
       page = siteJson[i];
-      fileName = page.file_name; //.replace(/ +/g, '-').toLowerCase();
+      if ((typeof page.file_name == "undefined") || (page.file_name == "")) {
+        fileName = '___';
+      } else {
+        fileName = page.file_name; //.replace(/ +/g, '-').toLowerCase();
+      }
+
+
+
       template = page.template_file;
       // links for nextpage
       if (page.title != 'lastpage') {

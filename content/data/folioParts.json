@@ -104,7 +104,7 @@
         "referentie_afb": "25f12r5.jpg"
     },
     {
-        "folioid": "bpl88_1_v.jpg",
+        "folioid": "bpl88_1_v",
         "fpid": 16,
         "fpname": "BPL 88 f.2r",
         "fpdescription": "Leiden UB BPL 88 f.2r",
@@ -460,5 +460,56 @@
         "fpid": 78,
         "fpdescription": "A medieval reader has added a content list at the end of the volume, starting with ‘libri boetius’, books of Boethius, and listing the titles. These match the existing contents of BPL 84, so we know that this collection of texts has been together since at least the time it was in this reader’s hands.",
         "referentie_afb": "84f103vfr.jpg"
+    },
+    {
+        "folioid": "bpl139_36_r",
+        "fpid": 79,
+        "fpdescription": "UB BPL f.36r",
+        "referentie_afb": "139f36r.jpg"
+    },
+    {
+        "folioid": "bpl139_33_v",
+        "fpid": 80,
+        "fpdescription": "Square of Opposition",
+        "referentie_afb": "139f33v.jpg"
+    },
+    {
+        "folioid": "bpl139_46_r",
+        "fpid": 81,
+        "referentie_afb": "139f46r.jpg"
+    },
+    {
+        "folioid": "bpl84_32_v",
+        "fpid": 82,
+        "fpdescription": "f.32v",
+        "referentie_afb": "84f32v.jpg"
+    },
+    {
+        "folioid": "bpl84_8_v",
+        "fpid": 83,
+        "fpdescription": "f.8v: 'c'",
+        "referentie_afb": "84f8v.jpg"
+    },
+    {
+        "folioid": "bpl84_16_v",
+        "fpid": 84,
+        "fpdescription": "f.16v: 'd'",
+        "referentie_afb": "84f16v.jpg"
+    },
+    {
+        "folioid": "bpl84_13_r",
+        "fpid": 85,
+        "fpdescription": "f. 13r: ‘Retro in libro topicorum iii’: ‘Back in book III of the Topics’",
+        "referentie_afb": "84f13r.jpg"
+    },
+    {
+        "folioid": "bpl84_14_r",
+        "fpid": 86,
+        "fpdescription": "f. 14r: ‘Retro in fine libri tercium topicorum ciceronis’: ‘Back in the end of the third book of Cicero’s Topics’",
+        "referentie_afb": "84f14r.jpg"
+    },
+    {
+        "folioid": "bpl84_57_v",
+        "fpid": 87
     }
 ]

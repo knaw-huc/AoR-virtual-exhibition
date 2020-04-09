@@ -1,0 +1,49 @@
+.aorManuscriptCrdList {
+    display: flex;
+    flex-direction: column;
+    >* {
+      width: 100%;
+    }
+  }
+
+  $cardMargin: 1px;
+  @media (min-width: 1000px) {
+    .aorManuscriptCrdList {
+      flex-direction: row;
+
+      >* {
+        width: calc(33% - #{$cardMargin});
+        margin-right: $cardMargin;
+      }
+    }
+  }
+
+
+.aorManuscriptCrd {
+  background-color: hsl(0, 0%, 19%);
+  padding: 1.5rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+
+.crdThumb img{
+  width: 175px;
+  height: auto;
+
+}
+
+.crdName{
+  font-weight: 700;
+  color: $aorBlue;
+}
+
+.crdText{
+  font-size: .85rem;
+  text-align: center;
+
+}

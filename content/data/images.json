@@ -263,5 +263,12 @@
         "description": "Darmstadt, ULB, HS 2882",
         "resource": "Universitäts- und Landesbibliothek",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282/0001/image"
+    },
+    {
+        "img_file_name": "darmstadt2.jpg",
+        "alttext": "Darmstadt, ULB, HS 2882",
+        "description": "Darmstadt, ULB, HS 2882 f.2r",
+        "resource": "Universitäts- und Landesbibliothek",
+        "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282/0005/image"
     }
 ]
