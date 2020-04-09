@@ -510,6 +510,30 @@
     },
     {
         "folioid": "bpl84_57_v",
-        "fpid": 87
+        "fpid": 87,
+        "referentie_afb": "84f57v.jpg"
+    },
+    {
+        "folioid": "bpl84_44_v",
+        "fpid": 88,
+        "referentie_afb": "84f44v.jpg"
+    },
+    {
+        "folioid": "bpl84_64_v",
+        "fpid": 89,
+        "fpdescription": "Initial ‘Q’ on f. 64v",
+        "referentie_afb": "84f64v.jpg"
+    },
+    {
+        "folioid": "bpl84_83_v",
+        "fpid": 90,
+        "fpdescription": "Initial ‘H’ on f. 83v",
+        "referentie_afb": "84f83v.jpg"
+    },
+    {
+        "folioid": "bpl84_83_v",
+        "fpid": 91,
+        "fpdescription": "Initial ‘Q’ on f. 84r",
+        "referentie_afb": "84f83v2.jpg"
     }
 ]

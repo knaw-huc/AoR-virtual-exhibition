@@ -175,13 +175,6 @@ a {
       height: 60px;
       width: auto; }
 
-.aorBlue {
-  background-color: #02F7E8;
-  width: 100vw;
-  color: #242424; }
-  .aorBlue h1, .aorBlue h2, .aorBlue h3 {
-    color: #242424; }
-
 .aorHomeThemes {
   padding: 3rem 2rem; }
 
@@ -390,7 +383,21 @@ h2 {
 @media (min-width: 600px) {
   h1 {
     font-size: 3rem;
-    line-height: 2rem; } }
+    line-height: 3rem; } }
+
+.aorBlue {
+  background-color: #02F7E8;
+  width: 100vw;
+  color: #242424; }
+  .aorBlue h1, .aorBlue h2, .aorBlue h3 {
+    color: #242424; }
+
+.aorBege {
+  background-color: #DFD2BE;
+  width: 100vw;
+  color: #242424; }
+  .aorBege h1, .aorBege h2, .aorBege h3 {
+    color: #242424; }
 
 .timeline {
   font-size: 10px; }

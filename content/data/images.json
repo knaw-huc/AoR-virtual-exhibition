@@ -270,5 +270,48 @@
         "description": "Darmstadt, ULB, HS 2882 f.2r",
         "resource": "Universitäts- und Landesbibliothek",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282/0005/image"
+    },
+    {
+        "img_file_name": "11127f119v.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.119v",
+        "description": "Paris, BnF, lat. 11127 f.119v",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "11127f119vfr.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.119v",
+        "description": "Here we see a number (‘xv’) which marks the end of the quire, while the first words of the next gathering are also indicated. This helped ensure the correct ordering of the gatherings.",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "11127f2r.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.2r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "10510f20v",
+        "alttext": "Paris, BnF, lat. 10510 f.20v",
+        "resource": "Wikipedia",
+        "hyperlink": "https://de.wikipedia.org/wiki/Datei:Willibrord_(Paris,_BN_Lat._10510).jpg"
+    },
+    {
+        "img_file_name": "11127f30v.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.30v",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "11127f161r.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.161r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "11127f30r.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.30r",
+        "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "11127f64r.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.64r",
+        "resource": "eigen foto"
     }
 ]

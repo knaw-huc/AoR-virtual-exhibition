@@ -424,7 +424,8 @@ function handleThemes(content) {
 
     var find = themesJson[i].shortode;
     var regex = new RegExp(find, "g");
-    content = content.replace(regex, '<a href="'+themesJson[i].themelink+'">'+themesJson[i].themename+'</a>');
+    //content = content.replace(regex, '<a href="'+themesJson[i].themelink+'">'+themesJson[i].themename+'</a>');
+    content = content.replace(regex, themesJson[i].themename);
   }
   return content;
 }

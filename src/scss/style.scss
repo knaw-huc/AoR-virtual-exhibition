@@ -208,10 +208,29 @@ h2 {
 @media (min-width: 600px) {
 	h1 {
 		font-size: 3rem;
-		line-height: 2rem;
+		line-height: 3rem;
 	}
 }
 
+.aorBlue {
+  background-color: $aorBlue;
+  width: 100vw;
+  color: $darkBG;
+
+  h1,h2,h3 {
+    color: $darkBG;
+  }
+}
+
+.aorBege {
+  background-color: $manuscriptBege;
+  width: 100vw;
+  color: $darkBG;
+
+  h1,h2,h3 {
+    color: $darkBG;
+  }
+}
 
 
 
