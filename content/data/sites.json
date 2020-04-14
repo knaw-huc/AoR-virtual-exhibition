@@ -146,7 +146,7 @@
         "remarks": "Landing page for the 3",
         "theme": "top",
         "file_name": "theme3",
-        "template_file": "theme-item",
+        "template_file": "theme-landing",
         "navigation_file": "nav-3"
     },
     {

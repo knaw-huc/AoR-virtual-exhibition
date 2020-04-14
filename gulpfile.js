@@ -82,10 +82,6 @@ function combineJson(){
 
           if (folioJson[fi].folioid == folioPartsJson[pi].folioid) {
             //add folioparts
-
-            // wrong folio index. is 56 should be 0
-            //console.log(folioCount);
-            //manuscriptJson[mi].folios[fi].folioParts.push(folioPartsJson[pi]);
             manuscriptJson[mi].folios[folioCount].folioParts.push(folioPartsJson[pi]);
           }//if
         }//parts
@@ -97,6 +93,22 @@ function combineJson(){
   for (var i = 0; i < manuscriptJson.length; i++) {
     siteJson.push(manuscriptJson[i]);
   }
+
+  // add sites to theme landingspage
+  var theme = 1
+  for (var j = 0; j < siteJson.length; j++) {
+    if (siteJson[j].template_file == 'theme-landing') {
+      siteJson[j].allPages = [];
+
+      for (var k = 0; k < siteJson.length; k++) {
+        if (siteJson[k].theme == theme) {
+          siteJson[j].allPages.push(siteJson[k])
+        }
+      }
+      theme +=1;
+    }
+  }
+
   siteJson.push({
     "title": "lastpage",
     "page_id": 0,
@@ -106,6 +118,8 @@ function combineJson(){
   })
   siteJson[0].manuscriptsList = manuscriptJson;
   siteJson[1].manuscriptsList = manuscriptJson;
+
+
 
 fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
   if (err) throw err;

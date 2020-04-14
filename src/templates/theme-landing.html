@@ -4,7 +4,6 @@
   {{> page-header}}
 
   <div class="aoWrapper aoRContent">
-
     <div class="aoRow aoRowIntro">
       <div class="aoCol1Span">
         <div class="aoIntroTitle">
@@ -12,12 +11,24 @@
         </div>
         <div class="aoIntroTextCols">
       {{> (lookup . 'docx_file') }}</div>
-  </div>
-
-  <div class="aorManuscriptCrdList aoRow">
-content
+      </div>
+    </div>
   </div>
 </div>
+
+<div class="aorBege aoSite">
+  <div class="aorHomeThemes aoWrapper">
+    {{#each allPages}}
+        {{>theme-item-summary}}
+    {{/each}}
+  </div>
+</div>
+
+
+
+
+
+
 
 
 {{!-- comment

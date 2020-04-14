@@ -410,6 +410,13 @@ h3 {
   color: #242424; }
   .aorBege h1, .aorBege h2, .aorBege h3 {
     color: #242424; }
+  .aorBege a {
+    color: #242424; }
+
+.themeItemSummary {
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #cdb898; }
 
 .timeline {
   font-size: 10px; }
