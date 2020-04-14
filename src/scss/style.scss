@@ -202,13 +202,23 @@ h1 {
 }
 
 h2 {
-	font-size: 1.2rem
+	font-size: 1.6rem
+}
+
+h3 {
+	font-size: 1.1rem
 }
 
 @media (min-width: 600px) {
 	h1 {
 		font-size: 3rem;
 		line-height: 3rem;
+	}
+	h2 {
+		font-size: 2rem
+	}
+	h3 {
+		font-size: 1.5rem
 	}
 }
 
@@ -220,6 +230,10 @@ h2 {
   h1,h2,h3 {
     color: $darkBG;
   }
+
+	a {
+		color: $darkBG;
+	}
 }
 
 .aorBege {
