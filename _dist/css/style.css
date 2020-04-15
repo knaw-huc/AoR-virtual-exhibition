@@ -397,7 +397,6 @@ h3 {
 
 .aorBlue {
   background-color: #02F7E8;
-  width: 100vw;
   color: #242424; }
   .aorBlue h1, .aorBlue h2, .aorBlue h3 {
     color: #242424; }
@@ -406,12 +405,14 @@ h3 {
 
 .aorBege {
   background-color: #DFD2BE;
-  width: 100vw;
   color: #242424; }
   .aorBege h1, .aorBege h2, .aorBege h3 {
     color: #242424; }
   .aorBege a {
     color: #242424; }
+
+.aorWide {
+  width: 100vw; }
 
 .themeItemSummary {
   padding-bottom: 2rem;
@@ -420,3 +421,10 @@ h3 {
 
 .timeline {
   font-size: 10px; }
+
+.aorNextRead {
+  padding: 3rem 2rem; }
+  .aorNextRead img {
+    width: 100px;
+    height: auto;
+    float: right; }

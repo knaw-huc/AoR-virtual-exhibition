@@ -224,7 +224,7 @@ h3 {
 
 .aorBlue {
   background-color: $aorBlue;
-  width: 100vw;
+
   color: $darkBG;
 
   h1,h2,h3 {
@@ -238,7 +238,6 @@ h3 {
 
 .aorBege {
   background-color: $manuscriptBege;
-  width: 100vw;
   color: $darkBG;
 
   h1,h2,h3 {
@@ -248,6 +247,10 @@ h3 {
 	a {
 		color: $darkBG;
 	}
+}
+
+.aorWide {
+	width: 100vw;
 }
 
 
@@ -260,4 +263,15 @@ h3 {
 
 .timeline{
 	font-size: 10px;
+}
+
+.aorNextRead {
+	padding: 3rem 2rem;
+
+	img{
+		width: 100px;
+		height: auto;
+		float: right;
+	}
+
 }
