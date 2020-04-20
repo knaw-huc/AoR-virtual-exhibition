@@ -18,22 +18,12 @@
         "navigation_file": "nav-manuscripts"
     },
     {
-        "title": "Themes",
-        "docx_file": "themes",
-        "page_id": "ths",
-        "remarks": "three clickable links to three themes",
-        "theme": "top",
-        "file_name": "themes",
-        "template_file": "basic",
-        "navigation_file": "nav-top"
-    },
-    {
         "title": "About",
         "docx_file": "about-lay",
         "page_id": "ack",
         "remarks": "with information about us, but also with link to bibliography?",
         "theme": "top",
-        "file_name": 6,
+        "file_name": "about",
         "template_file": "basic",
         "navigation_file": "nav-top"
     },
@@ -86,7 +76,7 @@
     },
     {
         "title": "Alcuin and dialogue",
-        "docx_file": "alcuin",
+        "docx_file": "alcuin-lay",
         "page_id": "2ad",
         "theme": 2,
         "file_name": "Alcuin-dialogue",

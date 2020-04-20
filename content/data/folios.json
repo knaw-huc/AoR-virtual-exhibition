@@ -318,6 +318,14 @@
     },
     {
         "manuscript_id": "bnf790",
+        "folioid": "bnf790_27_r",
+        "folionr": 27,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_7900A_f127_r.jpg",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f61.item.r=7900A.zoom"
+    },
+    {
+        "manuscript_id": "bnf790",
         "folioid": "bnf790_132_v",
         "folionr": 132,
         "foliotype": "v",
@@ -449,6 +457,123 @@
         "foliofilename": "UB_BPL_139_f39_v.jpg",
         "foliodescription": "Leiden UB BPL 139 B f.39v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687093?solr_nav%5Bid%5D=fbe0651f29b0383a32ac&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_band1_",
+        "folionr": "band1",
+        "foliofilename": "UB_BPL_139_band1_.jpg",
+        "foliodescription": "Leiden UB BPL 139 B",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687126"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_46_v",
+        "folionr": 46,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_139_f46_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687129"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_1_r",
+        "folionr": 1,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f1_r.jpg",
+        "foliodescription": "UB BPL 139 f1r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687116"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_2_v",
+        "folionr": 2,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_139_f2_v.jpg",
+        "foliodescription": "UB BPL 139 f2v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687124"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_3_r",
+        "folionr": 3,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f3_r.jpg",
+        "foliodescription": "UB BPL 139 f3r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687124"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_28_v",
+        "folionr": 28,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_139_f28_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687132"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_8_r",
+        "folionr": 8,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f8_r.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687097"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_32_r",
+        "folionr": 32,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f32_r.jpg",
+        "foliodescription": "UB BPL 139 f32r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687117"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_41_r",
+        "folionr": 41,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f41_r.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687118"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_41_v",
+        "folionr": 41,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_139_f41_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687106"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_42_r",
+        "folionr": 42,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f42_r.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687106"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_36_r",
+        "folionr": 36,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f36_r.jpg",
+        "foliodescription": "UB BPL 139 f36r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687111"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_33_v",
+        "folionr": 33,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_139_f33_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687136"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_46_r",
+        "folionr": 46,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_139_f46_r.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687125"
     },
     {
         "manuscript_id": "bpl144",
@@ -735,6 +860,165 @@
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348791"
     },
     {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_cover2_",
+        "folionr": "cover2",
+        "foliofilename": "UB_BPL_84_cover2.jpg",
+        "foliodescription": "Leiden UB BPL 84",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348886"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_1_r",
+        "folionr": 1,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_84_f1_r.jpg",
+        "foliodescription": "Leiden UB BPL 84",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348881"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_103_v",
+        "folionr": 103,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f103_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348778"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_8_v",
+        "folionr": 8,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f8_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348873"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_16_v",
+        "folionr": 16,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f16_v.jpg",
+        "foliodescription": "ff. 16v-17r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348865"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_32_v",
+        "folionr": 32,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f32_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348849"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_13_r",
+        "folionr": 13,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_84_f13_r.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348869"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_14_r",
+        "folionr": 14,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_84_f14_r.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348868"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_67_v",
+        "folionr": 67,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f67_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348814"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_57_v",
+        "folionr": 57,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f57_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348824"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_44_v",
+        "folionr": 44,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f44_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348837"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_8_r",
+        "folionr": 8,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_84_f8_r.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348874"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_64_v",
+        "folionr": 64,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f64_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348817"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_83_v",
+        "folionr": 83,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f83_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348798"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_5_v",
+        "folionr": 5,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f5_v.jpg",
+        "foliodescription": "f.5v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348876"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_7_v",
+        "folionr": 7,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f7_v.jpg",
+        "foliodescription": "f.7v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348874"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_48_r",
+        "folionr": 48,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_84_f48_r.jpg",
+        "foliodescription": "f.48r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348834"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_74_r",
+        "folionr": 74,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_84_f74_r.jpg",
+        "foliodescription": "f.74r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348808"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_74_v",
+        "folionr": 74,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f74_v.jpg",
+        "foliodescription": "f.74v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348807"
+    },
+    {
         "manuscript_id": "bpl88",
         "folioid": "bpl88_1_v",
         "folionr": 1,
@@ -927,6 +1211,93 @@
         "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/53/0/Sequence-1010"
     },
     {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_binding_",
+        "folionr": "binding",
+        "foliofilename": "Einsieldeln_315 (605)_binding_.jpg",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/bindingA/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_side_",
+        "folionr": "side",
+        "foliofilename": "Einsieldeln_315 (605)_side_.jpg",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/bindingD/90/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_1_",
+        "folionr": 1,
+        "foliofilename": "Einsieldeln_315 (605)_p1.jpg",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/1"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_12_",
+        "folionr": 12,
+        "foliofilename": "Einsieldeln_315 (605)_p12.jpg",
+        "foliodescription": "p.12",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/12/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_66_",
+        "folionr": 66,
+        "foliofilename": "Einsieldeln_315 (605)_p66.jpg",
+        "foliodescription": "p.66",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/66/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_6_",
+        "folionr": 6,
+        "foliofilename": "Einsieldeln_315 (605)_p6.jpg",
+        "foliodescription": "p.6",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/6/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_164_",
+        "folionr": 164,
+        "foliofilename": "Einsieldeln_315 (605)_p164.jpg",
+        "foliodescription": "p.164",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/164/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_52_b",
+        "folionr": 52,
+        "foliotype": "b",
+        "foliofilename": "Einsieldeln_315 (605)_p52_b.jpg",
+        "foliodescription": "p.52b",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/52b/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_52_a",
+        "folionr": 52,
+        "foliotype": "a",
+        "foliofilename": "Einsieldeln_315 (605)_p52_a.jpg",
+        "foliodescription": "p.52a",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/52a/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_53_",
+        "folionr": 53,
+        "foliofilename": "Einsieldeln_315 (605)_p53.jpg",
+        "foliodescription": "p.53",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/53/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_139_",
+        "folionr": 139,
+        "foliofilename": "Einsieldeln_315 (605)_p139.jpg",
+        "foliodescription": "p.139",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/139/0/Sequence-1010"
+    },
+    {
         "manuscript_id": "gro22",
         "folioid": "gro22_page_2_",
         "folionr": "page_2",
@@ -1035,7 +1406,8 @@
         "foliotype": "r",
         "foliofilename": "Valenciennes_BM_406_f2_r.jpg",
         "foliodescription": "Opening of Cicero's Topica",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452604s/f5.item.r=valenchiennes%20406.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452604s/f5.item.r=valenchiennes%20406.zoom",
+        "height": 2353
     },
     {
         "manuscript_id": "vat1",
@@ -1061,8 +1433,7 @@
         "foliofilename": "UB_VLF_48_f30_v.jpg",
         "foliodescription": "opening of book 4 on Dialectica",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/40/mode/1up",
-        "width": 1899,
-        "height": 2353
+        "width": 1899
     },
     {
         "manuscript_id": "vlf48",
@@ -1135,368 +1506,5 @@
         "foliofilename": "UB_VLF_48_f92_v.jpg",
         "foliodescription": "Leiden UB VLF 48 f.92v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/103/mode/1up"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_band1_",
-        "folionr": "band1",
-        "foliofilename": "UB_BPL_139_band1_.jpg",
-        "foliodescription": "Leiden UB BPL 139 B",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687126"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_46_v",
-        "folionr": 46,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_139_f46_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687129"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_1_r",
-        "folionr": 1,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f1_r.jpg",
-        "foliodescription": "UB BPL 139 f1r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687116"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_2_v",
-        "folionr": 2,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_139_f2_v.jpg",
-        "foliodescription": "UB BPL 139 f2v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687124"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_3_r",
-        "folionr": 3,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f3_r.jpg",
-        "foliodescription": "UB BPL 139 f3r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687124"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_28_v",
-        "folionr": 28,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_139_f28_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687132"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_8_r",
-        "folionr": 8,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f8_r.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687097"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_32_r",
-        "folionr": 32,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f32_r.jpg",
-        "foliodescription": "UB BPL 139 f32r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687117"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_41_r",
-        "folionr": 41,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f41_r.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687118"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_41_v",
-        "folionr": 41,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_139_f41_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687106"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_42_r",
-        "folionr": 42,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f42_r.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687106"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_binding_",
-        "folionr": "binding",
-        "foliofilename": "Einsieldeln_315 (605)_binding_.jpg",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/bindingA/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_side_",
-        "folionr": "side",
-        "foliofilename": "Einsieldeln_315 (605)_side_.jpg",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/bindingD/90/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_1_",
-        "folionr": 1,
-        "foliofilename": "Einsieldeln_315 (605)_p1.jpg",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/1"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_12_",
-        "folionr": 12,
-        "foliofilename": "Einsieldeln_315 (605)_p12.jpg",
-        "foliodescription": "p.12",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/12/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_66_",
-        "folionr": 66,
-        "foliofilename": "Einsieldeln_315 (605)_p66.jpg",
-        "foliodescription": "p.66",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/66/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_6_",
-        "folionr": 6,
-        "foliofilename": "Einsieldeln_315 (605)_p6.jpg",
-        "foliodescription": "p.6",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/6/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_164_",
-        "folionr": 164,
-        "foliofilename": "Einsieldeln_315 (605)_p164.jpg",
-        "foliodescription": "p.164",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/164/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_52_b",
-        "folionr": 52,
-        "foliotype": "b",
-        "foliofilename": "Einsieldeln_315 (605)_p52_b.jpg",
-        "foliodescription": "p.52b",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/52b/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_52_a",
-        "folionr": 52,
-        "foliotype": "a",
-        "foliofilename": "Einsieldeln_315 (605)_p52_a.jpg",
-        "foliodescription": "p.52a",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/52a/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_53_",
-        "folionr": 53,
-        "foliofilename": "Einsieldeln_315 (605)_p53.jpg",
-        "foliodescription": "p.53",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/53/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_139_",
-        "folionr": 139,
-        "foliofilename": "Einsieldeln_315 (605)_p139.jpg",
-        "foliodescription": "p.139",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/139/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_cover2_",
-        "folionr": "cover2",
-        "foliofilename": "UB_BPL_84_cover2.jpg",
-        "foliodescription": "Leiden UB BPL 84",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348886"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_1_r",
-        "folionr": 1,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_84_f1_r.jpg",
-        "foliodescription": "Leiden UB BPL 84",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348881"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_103_v",
-        "folionr": 103,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f103_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348778"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_36_r",
-        "folionr": 36,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f36_r.jpg",
-        "foliodescription": "UB BPL 139 f36r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687111"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_33_v",
-        "folionr": 33,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_139_f33_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687136"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_46_r",
-        "folionr": 46,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_139_f46_r.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687125"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_8_v",
-        "folionr": 8,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f8_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348873"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_16_v",
-        "folionr": 16,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f16_v.jpg",
-        "foliodescription": "ff. 16v-17r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348865"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_32_v",
-        "folionr": 32,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f32_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348849"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_13_r",
-        "folionr": 13,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_84_f13_r.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348869"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_14_r",
-        "folionr": 14,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_84_f14_r.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348868"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_67_v",
-        "folionr": 67,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f67_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348814"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_57_v",
-        "folionr": 57,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f57_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348824"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_44_v",
-        "folionr": 44,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f44_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348837"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_8_r",
-        "folionr": 8,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_84_f8_r.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348874"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_64_v",
-        "folionr": 64,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f64_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348817"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_83_v",
-        "folionr": 83,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f83_v.jpg",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348798"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_5_v",
-        "folionr": 5,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f5_v.jpg",
-        "foliodescription": "f.5v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348876"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_7_v",
-        "folionr": 7,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f7_v.jpg",
-        "foliodescription": "f.7v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348874"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_48_r",
-        "folionr": 48,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_84_f48_r.jpg",
-        "foliodescription": "f.48r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348834"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_74_r",
-        "folionr": 74,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_84_f74_r.jpg",
-        "foliodescription": "f.74r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348808"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_74_v",
-        "folionr": 74,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f74_v.jpg",
-        "foliodescription": "f.74v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348807"
     }
 ]

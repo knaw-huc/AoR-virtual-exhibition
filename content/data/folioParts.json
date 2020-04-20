@@ -259,6 +259,7 @@
         "folioid": "bpl84_89_v",
         "fpid": 42,
         "fpname": "BPL 84 f.89v",
+        "fpdescription": "Fol 90r: INCIPIT ARS DIALECTICA ALCHOINI PHILOSOPHI. AD KAROLUM MAGNUM; “The Art of reasoning of Alcuin the Philosopher for Charlemagne begins.” Questions from Charlemagne are marked with K (Karolus), answers from Alcuin with A (Alcuin).",
         "referentie_afb": "84f89vfr2.jpg"
     },
     {
@@ -535,5 +536,28 @@
         "fpid": 91,
         "fpdescription": "Initial ‘Q’ on f. 84r",
         "referentie_afb": "84f83v2.jpg"
+    },
+    {
+        "folioid": "bnf790_27_r",
+        "fpid": 92,
+        "referentie_afb": "7900A27r.jpg"
+    },
+    {
+        "folioid": "bnf790_27_r",
+        "fpid": 93,
+        "fpdescription": "Introductions to the author",
+        "referentie_afb": "7900A27rfr1.jpg"
+    },
+    {
+        "folioid": "bnf790_27_r",
+        "fpid": 94,
+        "fpdescription": "Author's portrait",
+        "referentie_afb": "7900A27rfr2.jpg"
+    },
+    {
+        "folioid": "bnf790_27_r",
+        "fpid": 95,
+        "fpdescription": "Opening of the commentary",
+        "referentie_afb": "7900A27rfr3.jpg"
     }
 ]
