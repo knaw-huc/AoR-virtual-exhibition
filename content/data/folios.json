@@ -37,8 +37,8 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_plat_sup._",
-        "folionr": "plat_sup.",
+        "folioid": "bnf129_cover_",
+        "folionr": "cover",
         "foliofilename": "BnF_lat_12949_plat sup.jpg",
         "foliodescription": "Paris, BnF, lat. 12949: A 9th or 10th century manuscript from a monastery",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v.r=lat%2012949?rk=21459;2"
@@ -898,7 +898,7 @@
         "folionr": 16,
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f16_v.jpg",
-        "foliodescription": "ff. 16v-17r",
+        "foliodescription": "Furthermore, a new set of quire gatherings starts on f. 17r; from this point to the end of the manuscript quires are numbered with numbers, not letters.",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348865"
     },
     {
@@ -955,6 +955,7 @@
         "folionr": 8,
         "foliotype": "r",
         "foliofilename": "UB_BPL_84_f8_r.jpg",
+        "foliodescription": "On f. 8r a decorated initial is used for the first word of a new text",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348874"
     },
     {

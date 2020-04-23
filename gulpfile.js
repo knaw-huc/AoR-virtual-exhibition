@@ -361,7 +361,8 @@ gulp.task('buildFromTemplates', function(done) {
             // replace images and theme names
             var newContent = handleImages(content);
             newContent = handleThemes(newContent);
-            newContent = handleManuscriptComponent(newContent)
+            newContent = handleManuscriptComponent(newContent);
+            newContent = handleLinks(newContent);
             callback(null, newContent);
             }))
           .pipe(useref())
@@ -440,6 +441,17 @@ function handleThemes(content) {
     var regex = new RegExp(find, "g");
     //content = content.replace(regex, '<a href="'+themesJson[i].themelink+'">'+themesJson[i].themename+'</a>');
     content = content.replace(regex, themesJson[i].themename);
+  }
+  return content;
+}
+
+function handleLinks(content) {
+  for (var i = 0; i < siteJson.length; i++) {
+
+    var find = '±a±'+siteJson[i].page_id+'±a±';
+    var regex = new RegExp(find, "g");
+    content = content.replace(regex, '<a href="'+siteJson[i].file_name+'.html">'+siteJson[i].title+'</a>');
+    //content = content.replace(regex, themesJson[i].themename);
   }
   return content;
 }

@@ -95,6 +95,7 @@
     {
         "img_file_name": "cartoonrosenfeld.jpg",
         "alttext": "cartoon made by by Randall Rosenfeld",
+        "description": "This is a cartoon made by Randall Rosenfeld, which illustrates an anecdote reported (and invented?) by William of Malmesbury (†1143). King Charles the Bald and John the Scot (Eriugena) were seated at the same table, and the King said: “What separates a Sot from a Scot?” To which John answered: “Only a table.” And ‘Nisifortinus’ softens the insult with: “Unless, perhaps, anyone shall say that...”",
         "resource": "Pontifical Institute of Mediaeval Studies",
         "hyperlink": "http://www.pims.ca/research/johannes-scottus-eriugena-periphyseon"
     },
@@ -541,7 +542,7 @@
     {
         "img_file_name": "7900Af26v.jpg",
         "alttext": "Paris, BnF, lat. 7900A f.26v",
-        "description": "Paris, BnF, lat. 7900A f.26v",
+        "description": "Paris, BnF, lat. 7900A f.26v. The underlying text has been identified: it was, presumably, an abridged version of Pseudo-Quintilian’s Declamationes XIX maiores.",
         "resource": "eigen foto"
     },
     {
