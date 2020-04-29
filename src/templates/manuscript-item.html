@@ -1,26 +1,41 @@
 {{> html-head}}
-{{> page-header}}
 
-<div class="aorWrapper">
+<div class="aoSite">
+  {{> page-header}}
+
+  {{!-- content --}}
 
 
+  <div class="aoWrapper aoRContent">
 
-  <article class="aorContent">
-    <h1>{{title}}</h1>
+    <div class="aoRow aoRowIntro">
+      <div class="aoCol1Span">
+        <div class="aoIntroTitle">
+          <h1>{{title}}</h1>
+        </div>
+        <div class="aoIntroTextCols">
+      {{> (lookup . 'docx_file') }}</div></div>
+  </div>
 
-    {{> (lookup . 'docx_file') }}
-  <div class="aorNextPage">Next read: <a href="{{nextHref}}.html">{{nextTitle}}</a> </div>
-  </article>
+
 
 
 </div>
-
-<div class="aorNavigation" id="aorNavigation">
-  {{> (lookup . 'navigation_file') }}
+<div class="aoSite">
+  <div class="aoWrapper aoRContent">
+    <div class="aoRow">
+      <div class="aoCol1"> </div>
+      <div class="aoCol2Span aorNextRead aorBlue" ><a href="{{nextHref}}.html">
+        <img src="images/aorPointer.png" alt="next read">
+        Next Read:
+        <h3>{{nextTitle}}</h3>
+      </a>
+    </div>
+    </div>
+  </div>
 </div>
 
 
 
 
-{{> page-foot}}
 {{> html-foot}}
