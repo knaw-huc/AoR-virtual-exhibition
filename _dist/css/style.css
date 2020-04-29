@@ -417,7 +417,9 @@ h3 {
 .themeItemSummary {
   padding-bottom: 2rem;
   margin-bottom: 2rem;
-  border-bottom: 1px solid #cdb898; }
+  border-bottom: 1px solid #cdb898;
+  display: block;
+  cursor: pointer; }
 
 .timeline {
   font-size: 10px; }
