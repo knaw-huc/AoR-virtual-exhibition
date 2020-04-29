@@ -1596,5 +1596,15 @@
         "foliofilename": "UB_BPL_144_f2_r.jpg",
         "foliodescription": "f.2r: Opening of de Consolatio Philosophiae",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357082"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "vlf48_2_rb",
+        "folionr": 2,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_VLF_48_f2_r.jpg",
+        "foliodescription": "Leiden UB VLF 48 f.2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/12/mode/1up"
     }
 ]

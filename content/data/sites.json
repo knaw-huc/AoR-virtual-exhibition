@@ -29,7 +29,7 @@
     },
     {
         "title": "±±±t1±±±",
-        "docx_file": "medievalclassroom",
+        "docx_file": "VEmedievalclassroom",
         "page_id": "1ho",
         "remarks": "Landing page for the 1",
         "theme": "top",
@@ -66,7 +66,7 @@
     },
     {
         "title": "±±±t2±±±",
-        "docx_file": "teachersandstudents",
+        "docx_file": "VEteachersandstudents",
         "page_id": "2ho",
         "remarks": "Landing page for the 2",
         "theme": "top",
@@ -76,7 +76,7 @@
     },
     {
         "title": "Alcuin and dialogue",
-        "docx_file": "alcuin-lay",
+        "docx_file": "VEalcuin",
         "page_id": "2ad",
         "theme": 2,
         "file_name": "Alcuin-dialogue",
@@ -131,7 +131,7 @@
     },
     {
         "title": "±±±t3±±±",
-        "docx_file": "techniquesofranda-lay",
+        "docx_file": "VEtechniquesofranda",
         "page_id": "3ho",
         "remarks": "Landing page for the 3",
         "theme": "top",

@@ -171,7 +171,7 @@
         "language": "Latin",
         "type": "manuscript",
         "on_home": true,
-        "docx_file": "BPL 88",
+        "docx_file": "VEBPL88",
         "file_name": "BPL88",
         "template_file": "manuscript-item",
         "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius"
@@ -544,6 +544,7 @@
         "shelfmark": "VLF 12",
         "origin": "Leiden",
         "orilatlon": "4.48110886662043, 52.1518157",
+        "library": "Universiteitsbibliotheek Leiden",
         "docx_file": "empty",
         "file_name": "VLF12",
         "template_file": "manuscript-item",
@@ -654,5 +655,21 @@
         "file_name": "bnflat7709",
         "template_file": "manuscript-item",
         "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius"
+    },
+    {
+        "id": "vlq103",
+        "location": "Leiden",
+        "shelfmark": "VLQ 103",
+        "title": "Cicero’s De inventione and other texts",
+        "dateS1": 1150,
+        "dateS2": 1200,
+        "origin": "Italy",
+        "library": "Universiteitsbibliotheek Leiden",
+        "material": "Parchment",
+        "foliation": "102 ff",
+        "contents": "Cicero’s De inventione (ff. 1-46r), Boethius’s De differentiis topicis IV (ff. 46r-52v), Pseudo-Ciceronian Rhetorica ad Herennium (ff. 52v-102r).",
+        "script": "textualis",
+        "language": "Latin",
+        "type": "manuscript"
     }
 ]
