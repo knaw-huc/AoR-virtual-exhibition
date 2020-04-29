@@ -125,6 +125,10 @@ fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
   if (err) throw err;
   console.log('Saved!');
 });
+fs.writeFile('manuscriptJson.json', JSON.stringify(manuscriptJson), function (err) {
+  if (err) throw err;
+  console.log('Saved!');
+});
 }// function
 combineJson();
 
