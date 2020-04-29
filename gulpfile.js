@@ -361,6 +361,14 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±col3i±</p>', '</div></div></div><div class="aoCol1">'))
           .pipe(replace('<p>±col2span±</p>', '</div><div class="aoCol2Span">'))
           .pipe(replace('<p>±col3±</p>', '</div><div class="aoCol1">'))
+
+          .pipe(replace('<sup><sup>', '<span class="aorNote">'))
+          .pipe(replace(']</a></sup></sup>', '</a></span>'))
+          .pipe(replace('">[', '">'))
+
+          .pipe(replace('<ol><li id="footnote-1">', '<div class="notes"><ol><li id="footnote-1">'))
+          .pipe(replace('</li></ol>', '</li></ol></div>'))
+
           .pipe(each(function(content, file, callback) {
             // replace images and theme names
             var newContent = handleImages(content);
