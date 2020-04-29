@@ -280,7 +280,7 @@
         "referentie_afb": "84f90vfr2.jpg"
     },
     {
-        "folioid": "bpl144_2_r",
+        "folioid": "bpl144_2_rc",
         "fpid": 45,
         "fpname": "BPL 144 f.2r",
         "referentie_afb": "144f2rfr.jpg"
@@ -509,7 +509,7 @@
         "folioid": "bpl84_16_v",
         "fpid": 84,
         "fpdescription": "f.16v: 'd'",
-        "referentie_afb": "84f16v.jpg"
+        "referentie_afb": "_"
     },
     {
         "folioid": "bpl84_13_r",
@@ -593,7 +593,7 @@
         "referentie_afb": "88f171r.jpg"
     },
     {
-        "folioid": "bpl88_172_v",
+        "folioid": "bpl88_172_vb",
         "fpid": 99,
         "referentie_afb": "88f172v2.jpg"
     }

@@ -450,6 +450,25 @@
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f285.image.r=7900A"
     },
     {
+        "manuscript_id": "bpl25",
+        "folioid": "bpl25_12_rb",
+        "folionr": 12,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_25_f12_r.jpg",
+        "foliodescription": "Square of opposition, BPL 25, f. 12r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/17/mode/1up"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_8_vb",
+        "folionr": 8,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_84_f8_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348873"
+    },
+    {
         "manuscript_id": "bpl139",
         "folioid": "bpl139_39_v",
         "folionr": 39,
@@ -1507,5 +1526,75 @@
         "foliofilename": "UB_VLF_48_f92_v.jpg",
         "foliodescription": "Leiden UB VLF 48 f.92v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/103/mode/1up"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_16_vb",
+        "folionr": 16,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_84_f16_v.jpg",
+        "foliodescription": "Furthermore, a new set of quire gatherings starts on f. 17r; from this point to the end of the manuscript quires are numbered with numbers, not letters.",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348865"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_89_vb",
+        "folionr": 89,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_84_f89_v.jpg",
+        "foliodescription": "Leiden UB BPL 84 f.89v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348792"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_2_vb",
+        "folionr": 2,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f2 _v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.2v-3r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/10/mode/1up"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_1_vb",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f1 _ v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.1v-2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/9/mode/1up"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_172_vb",
+        "folionr": 172,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_172_v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.172v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/180/mode/1up"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_2_rb",
+        "folionr": 2,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_144_f2_r.jpg",
+        "foliodescription": "f.2r: Opening of de Consolatio Philosophiae",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357082"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_2_rc",
+        "folionr": 2,
+        "foliotype": "r",
+        "folioextra": "c",
+        "foliofilename": "UB_BPL_144_f2_r.jpg",
+        "foliodescription": "f.2r: Opening of de Consolatio Philosophiae",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357082"
     }
 ]
