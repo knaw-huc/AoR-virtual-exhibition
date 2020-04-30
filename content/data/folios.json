@@ -1043,7 +1043,7 @@
         "folioid": "bpl88_1_v",
         "folionr": 1,
         "foliotype": "v",
-        "foliofilename": "UB_BPL_88_f1 _ v.jpg",
+        "foliofilename": "UB_BPL_88_f1 _v.jpg",
         "foliodescription": "Leiden UB BPL 88 f.1v-2r",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/9/mode/1up"
     },
@@ -1563,7 +1563,7 @@
         "folionr": 1,
         "foliotype": "v",
         "folioextra": "b",
-        "foliofilename": "UB_BPL_88_f1 _ v.jpg",
+        "foliofilename": "UB_BPL_88_f1_v.jpg",
         "foliodescription": "Leiden UB BPL 88 f.1v-2r",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/9/mode/1up"
     },
@@ -1606,5 +1606,13 @@
         "foliofilename": "UB_VLF_48_f2_r.jpg",
         "foliodescription": "Leiden UB VLF 48 f.2r",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/12/mode/1up"
+    },
+    {
+        "manuscript_id": "bnf1296",
+        "folioid": "bnf1296_8_v",
+        "folionr": 8,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_12963_8_v.jpg",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b105442152/f24.item.zoom"
     }
 ]

@@ -343,6 +343,19 @@ gulp.task('buildFromTemplates', function(done) {
         page.nextTitle = siteJson[i+1].title;
       }
 
+      var manuscriptMeta = '';
+      if (page.type == 'manuscript') {
+        manuscriptMeta += '</div></div>';
+        manuscriptMeta += '<div class="aoRow aoMetadata"><div class="aoCol1"></div>';
+        manuscriptMeta += '<div class="aoCol1"><h3>Metadata</h3>';
+        manuscriptMeta += '<h4>Date</h4>'+page.dateS1+'-'+page.dateS2;
+        manuscriptMeta += '<h4>Place of origin</h4>'+page.origin;
+        manuscriptMeta += '<h4>Material</h4>'+page.material+'</div>';
+        manuscriptMeta += '<div class="aoCol1"><h3>Content</h3>'+page.contents;
+
+
+      }
+
 
 
       gulp.src('./src/templates/'+template+'.html')
@@ -358,7 +371,9 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±col1±</p>', '<div class="aoCol1">'))
           .pipe(replace('<p>±col1span±</p>', '<div class="aoCol1Span">'))
           .pipe(replace('<p>±col2±</p>', '</div><div class="aoCol1">'))
+
           .pipe(replace('<p>±col3i±</p>', '</div></div></div><div class="aoCol1">'))
+
           .pipe(replace('<p>±col2span±</p>', '</div><div class="aoCol2Span">'))
           .pipe(replace('<p>±col3±</p>', '</div><div class="aoCol1">'))
 
@@ -368,6 +383,8 @@ gulp.task('buildFromTemplates', function(done) {
 
           .pipe(replace('<ol><li id="footnote-1">', '<div class="notes"><ol><li id="footnote-1">'))
           .pipe(replace('</li></ol>', '</li></ol></div>'))
+
+          .pipe(replace('±meta±', manuscriptMeta))
 
           .pipe(each(function(content, file, callback) {
             // replace images and theme names
@@ -474,8 +491,10 @@ function handleManuscriptComponent(content) {
     for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
       var rplce='';
       rplce += '{{> folios/folio-'+manuscriptJson[m].folios[f].folioid+' }}';
+      var find = '<p>±f±'+manuscriptJson[m].folios[f].folioid+'±f±</p>';
+      var regex = new RegExp(find, "g");
 
-       content = content.replace('<p>±f±'+manuscriptJson[m].folios[f].folioid+'±f±</p>',rplce); //
+       content = content.replace(regex,rplce); //
     }
   }
 

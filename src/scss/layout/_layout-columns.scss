@@ -115,3 +115,10 @@ $captionBoxWidth: 100px;
   // width: 100%;
   // height: auto;
 }
+
+.aoMetadata {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-top: 1px solid #{$manuscriptBegeDark};
+  border-bottom: 1px solid #{$manuscriptBegeDark};
+}

@@ -596,5 +596,11 @@
         "folioid": "bpl88_172_vb",
         "fpid": 99,
         "referentie_afb": "88f172v2.jpg"
+    },
+    {
+        "folioid": "bnf1296_8_v",
+        "fpid": 100,
+        "fpdescription": "Paris, BnF, Lat. 12963, f. 8v (detail). Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century.",
+        "referentie_afb": "12963f8v.jpg"
     }
 ]

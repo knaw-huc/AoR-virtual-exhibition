@@ -72,6 +72,12 @@ a {
 .aoCol1Span, .aoCol2Span {
   flex: 2; }
 
+.aoMetadata {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-top: 1px solid #403E3B;
+  border-bottom: 1px solid #403E3B; }
+
 .aorCompManuscript {
   background-color: black;
   display: inline-block;
@@ -384,7 +390,13 @@ h2 {
   font-size: 1.6rem; }
 
 h3 {
-  font-size: 1.1rem; }
+  font-size: 1.1rem;
+  margin-bottom: 0; }
+
+h4 {
+  font-size: .8rem;
+  text-transform: uppercase;
+  margin-bottom: 0; }
 
 @media (min-width: 600px) {
   h1 {
