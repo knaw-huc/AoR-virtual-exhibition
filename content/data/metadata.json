@@ -424,8 +424,8 @@
         "contents": "Aristoteles, Praedicamenta (f.1r-4r), Periermenias (f.4v-15r). - Liber sex principium (f.15v-f.23v). - Boethius, De divisione (f.24-f.35v), Topica (f.36-f.68v). Aristoteles, De sophisticis elenchis (f.69-f.92v), Topica (f.93-f.164), Analytica priora (f.164v-f.217v), Analytica posteriora (f.218-f.249v), Praedicamenta (f.250-f.259v).",
         "language": "Latin",
         "type": "manuscript",
-        "docx_file": "empty",
-        "file_name": "VE17806",
+        "docx_file": "VE17806",
+        "file_name": "bnflat17806",
         "template_file": "manuscript-item",
         "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bnf178"
