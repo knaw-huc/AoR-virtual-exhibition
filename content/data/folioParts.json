@@ -398,11 +398,13 @@
         "referentie_afb": "17806f4vfr4.jpg"
     },
     {
+        "multiviewid": "bnf178_8_v_9_r",
         "folioid": "bnf178_8_v",
         "fpid": 64,
         "referentie_afb": "17806f8v.jpg"
     },
     {
+        "multiviewid": "bnf178_8_v_9_r",
         "folioid": "bnf178_9_r",
         "fpid": 65,
         "referentie_afb": "17806f9r.jpg"
@@ -423,11 +425,13 @@
         "referentie_afb": "17806f17r.jpg"
     },
     {
+        "multiviewid": "bnf178_172_r_250_v",
         "folioid": "bnf178_172_r",
         "fpid": 69,
         "referentie_afb": "17806f172r.jpg"
     },
     {
+        "multiviewid": "bnf178_172_r_250_v",
         "folioid": "bnf178_250_v",
         "fpid": 70,
         "referentie_afb": "17806f250v.jpg"
@@ -602,5 +606,13 @@
         "fpid": 100,
         "fpdescription": "Paris, BnF, Lat. 12963, f. 8v (detail). Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century.",
         "referentie_afb": "12963f8v.jpg"
+    },
+    {
+        "multiviewid": "bnf178_164_v_218_r",
+        "folioid": "bnf178_164_v"
+    },
+    {
+        "multiviewid": "bnf178_164_v_218_r",
+        "folioid": "bnf178_218_r"
     }
 ]
