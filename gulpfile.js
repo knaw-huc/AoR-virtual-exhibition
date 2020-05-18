@@ -186,7 +186,7 @@ function reload(done) {
 
 // clear Json files en get new data from google docs
 gulp.task('cleanJson', function () {
-    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json','content/data/folios.json','content/data/folioParts.json'], {read: false, allowEmpty: true})
+    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json','content/data/folios.json','content/data/folioParts.json','content/data/multiples.json'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -277,10 +277,27 @@ gulp.task('nav', function(done) {
    done();
 });
 
+// create foilio components
+gulp.task('fc', function(done) {
+
+    for (var f = 0; f < folioMultiList.length; f++) {
+
+      gulp.src('./src/templates/manuscriptComp.html') //
+          .pipe(plumber())
+          .pipe(handlebars(folioMultiList[f], options))
+          .pipe(rename('folio-' + folioMultiList[f].folioname+ ".html"))
+          .pipe(gulp.dest('src/components/folios'));
+
+  }
+
+   done();
+});
 
 
 
-gulp.task('manuscriptComps', function(done) {
+
+
+gulp.task('manuscriptComps2', function(done) {
   for (var m = 0; m < manuscriptJson.length; m++) {
     var manuscriptData = manuscriptJson[m];
 
@@ -295,7 +312,7 @@ gulp.task('manuscriptComps', function(done) {
 
 
 
-
+    //ff build the comp
     for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
       //console.log(manuscriptData);
 
@@ -523,4 +540,12 @@ function handleManuscriptComponentMulti(content) {
     }
   //}
   return content;
+}
+
+
+function guidGenerator() {
+    var S4 = function() {
+       return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+    };
+    return (S4()+S4());
 }
