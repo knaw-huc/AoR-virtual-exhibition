@@ -401,12 +401,16 @@
         "multiviewid": "bnf178_8_v_9_r",
         "folioid": "bnf178_8_v",
         "fpid": 64,
+        "fpname": 1,
+        "fpdescription": "a",
         "referentie_afb": "17806f8v.jpg"
     },
     {
         "multiviewid": "bnf178_8_v_9_r",
         "folioid": "bnf178_9_r",
         "fpid": 65,
+        "fpname": 2,
+        "fpdescription": "b",
         "referentie_afb": "17806f9r.jpg"
     },
     {
@@ -428,12 +432,16 @@
         "multiviewid": "bnf178_172_r_250_v",
         "folioid": "bnf178_172_r",
         "fpid": 69,
+        "fpname": 3,
+        "fpdescription": "c",
         "referentie_afb": "17806f172r.jpg"
     },
     {
         "multiviewid": "bnf178_172_r_250_v",
         "folioid": "bnf178_250_v",
         "fpid": 70,
+        "fpname": 4,
+        "fpdescription": "d",
         "referentie_afb": "17806f250v.jpg"
     },
     {
@@ -610,11 +618,15 @@
     {
         "multiviewid": "bnf178_164_v_218_r",
         "folioid": "bnf178_164_v",
-        "fpid": 101
+        "fpid": 101,
+        "fpname": 5,
+        "fpdescription": "e"
     },
     {
         "multiviewid": "bnf178_164_v_218_r",
         "folioid": "bnf178_218_r",
-        "fpid": 102
+        "fpid": 102,
+        "fpname": 6,
+        "fpdescription": "f"
     }
 ]
