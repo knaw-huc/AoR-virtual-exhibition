@@ -297,37 +297,37 @@ gulp.task('fc', function(done) {
 
 
 
-gulp.task('manuscriptComps2', function(done) {
-  for (var m = 0; m < manuscriptJson.length; m++) {
-    var manuscriptData = manuscriptJson[m];
-
-    // get data from site to get filename of manuscriptpage
-    for (var i = 0; i < siteJson.length; i++) {
-      if (siteJson[i].manuscript_id == manuscriptJson[m].id) {
-        //console.log(siteJson[i].manuscript_id);
-        var pageFilename = siteJson[i].file_name+'.html';
-      }
-    }
-    manuscriptData.filename=pageFilename;
-
-
-
-    //ff build the comp
-    for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
-      //console.log(manuscriptData);
-
-      manuscriptJson[m].folios[f].manuscriptData = manuscriptData;
-
-      gulp.src('./src/templates/manuscriptComp.html') //
-          .pipe(plumber())
-          .pipe(handlebars(manuscriptJson[m].folios[f], options))
-          .pipe(rename('folio-' + manuscriptJson[m].folios[f].folioid+ ".html"))
-          .pipe(gulp.dest('src/components/folios'));
-    }
-  }
-
-   done();
-});
+// gulp.task('manuscriptComps2', function(done) {
+//   for (var m = 0; m < manuscriptJson.length; m++) {
+//     var manuscriptData = manuscriptJson[m];
+//
+//     // get data from site to get filename of manuscriptpage
+//     for (var i = 0; i < siteJson.length; i++) {
+//       if (siteJson[i].manuscript_id == manuscriptJson[m].id) {
+//         //console.log(siteJson[i].manuscript_id);
+//         var pageFilename = siteJson[i].file_name+'.html';
+//       }
+//     }
+//     manuscriptData.filename=pageFilename;
+//
+//
+//
+//     //ff build the comp
+//     for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
+//       //console.log(manuscriptData);
+//
+//       manuscriptJson[m].folios[f].manuscriptData = manuscriptData;
+//
+//       gulp.src('./src/templates/manuscriptComp.html') //
+//           .pipe(plumber())
+//           .pipe(handlebars(manuscriptJson[m].folios[f], options))
+//           .pipe(rename('folio-' + manuscriptJson[m].folios[f].folioid+ ".html"))
+//           .pipe(gulp.dest('src/components/folios'));
+//     }
+//   }
+//
+//    done();
+// });
 
 
 
@@ -532,8 +532,8 @@ function handleManuscriptComponentMulti(content) {
     for (var f = 0; f < folioMultiList.length; f++) {
       var rplce='';
       rplce=''
-      rplce = '{{> folios/folio-mul-'+folioMultiList[f]+' }}';
-      var find2 = '<p>±m±'+folioMultiList[f]+'±m±</p>';
+      rplce = '{{> folios/folio-'+folioMultiList[f].folioname+' }}';
+      var find2 = '<p>±m±'+folioMultiList[f].folioname+'±m±</p>';
       var regex2 = new RegExp(find2, "g");
       content = content.replace(regex2,rplce);
 
