@@ -609,10 +609,12 @@
     },
     {
         "multiviewid": "bnf178_164_v_218_r",
-        "folioid": "bnf178_164_v"
+        "folioid": "bnf178_164_v",
+        "fpid": 101
     },
     {
         "multiviewid": "bnf178_164_v_218_r",
-        "folioid": "bnf178_218_r"
+        "folioid": "bnf178_218_r",
+        "fpid": 102
     }
 ]
