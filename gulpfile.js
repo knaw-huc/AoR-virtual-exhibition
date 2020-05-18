@@ -54,83 +54,86 @@ var fMd=        'content/**/*.md';
 var allImgStr = 'not working';
 
 
-var siteJson = require('./content/data/sites.json');
+//var siteJson = require('./content/data/sites.json');
+var siteJson = require('./siteJson.json');
 var imagesJson = require('./content/data/images.json');
 var themesJson = require('./content/data/themes.json');
-var manuscriptJson = require('./content/data/metadata.json');
-//var manuscriptJson = require('./content/data/metadataTest.json');
-
+//var manuscriptJson = require('./content/data/metadata.json');
+var manuscriptJson = require('./manuscriptJson.json');
 var folioJson = require('./content/data/folios.json');
 var folioPartsJson = require('./content/data/folioParts.json');
+var folioMultiList = require('./folioMultiList.json');
+
+
 
 var copyPath = require('./content/data/copyPath.json');
 
-function combineJson(){
-  var folioCount= -1;
-  for (var mi = 0; mi < manuscriptJson.length; mi++) { // all manuscriptJson
-    folioCount= -1;
-    // add folio
-    manuscriptJson[mi].folios = [];
-    for (var fi = 0; fi < folioJson.length; fi++) {
-      if (folioJson[fi].manuscript_id == manuscriptJson[mi].id) {
-        manuscriptJson[mi].folios.push(folioJson[fi]);
-        folioCount++;
-        folioJson[fi].folioParts=[];
-
-        //find folio parts
-        for (var pi = 0; pi < folioPartsJson.length; pi++) {
-
-          if (folioJson[fi].folioid == folioPartsJson[pi].folioid) {
-            //add folioparts
-            manuscriptJson[mi].folios[folioCount].folioParts.push(folioPartsJson[pi]);
-          }//if
-        }//parts
-      }//if
-    }//folios
-  }// manuscript
-
-
-  for (var i = 0; i < manuscriptJson.length; i++) {
-    siteJson.push(manuscriptJson[i]);
-  }
-
-  // add sites to theme landingspage
-  var theme = 1
-  for (var j = 0; j < siteJson.length; j++) {
-    if (siteJson[j].template_file == 'theme-landing') {
-      siteJson[j].allPages = [];
-
-      for (var k = 0; k < siteJson.length; k++) {
-        if (siteJson[k].theme == theme) {
-          siteJson[j].allPages.push(siteJson[k])
-        }
-      }
-      theme +=1;
-    }
-  }
-
-  siteJson.push({
-    "title": "lastpage",
-    "page_id": 0,
-    "file_name": "last",
-    "template_file": "image-svg",
-    "navigation_file": "nav-manuscripts"
-  })
-  siteJson[0].manuscriptsList = manuscriptJson;
-  siteJson[1].manuscriptsList = manuscriptJson;
-
-
-
-fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
-  if (err) throw err;
-  console.log('Saved!');
-});
-fs.writeFile('manuscriptJson.json', JSON.stringify(manuscriptJson), function (err) {
-  if (err) throw err;
-  console.log('Saved!');
-});
-}// function
-combineJson();
+// function combineJson(){
+//   var folioCount= -1;
+//   for (var mi = 0; mi < manuscriptJson.length; mi++) { // all manuscriptJson
+//     folioCount= -1;
+//     // add folio
+//     manuscriptJson[mi].folios = [];
+//     for (var fi = 0; fi < folioJson.length; fi++) {
+//       if (folioJson[fi].manuscript_id == manuscriptJson[mi].id) {
+//         manuscriptJson[mi].folios.push(folioJson[fi]);
+//         folioCount++;
+//         folioJson[fi].folioParts=[];
+//
+//         //find folio parts
+//         for (var pi = 0; pi < folioPartsJson.length; pi++) {
+//
+//           if (folioJson[fi].folioid == folioPartsJson[pi].folioid) {
+//             //add folioparts
+//             manuscriptJson[mi].folios[folioCount].folioParts.push(folioPartsJson[pi]);
+//           }//if
+//         }//parts
+//       }//if
+//     }//folios
+//   }// manuscript
+//
+//
+//   for (var i = 0; i < manuscriptJson.length; i++) {
+//     siteJson.push(manuscriptJson[i]);
+//   }
+//
+//   // add sites to theme landingspage
+//   var theme = 1
+//   for (var j = 0; j < siteJson.length; j++) {
+//     if (siteJson[j].template_file == 'theme-landing') {
+//       siteJson[j].allPages = [];
+//
+//       for (var k = 0; k < siteJson.length; k++) {
+//         if (siteJson[k].theme == theme) {
+//           siteJson[j].allPages.push(siteJson[k])
+//         }
+//       }
+//       theme +=1;
+//     }
+//   }
+//
+//   siteJson.push({
+//     "title": "lastpage",
+//     "page_id": 0,
+//     "file_name": "last",
+//     "template_file": "image-svg",
+//     "navigation_file": "nav-manuscripts"
+//   })
+//   siteJson[0].manuscriptsList = manuscriptJson;
+//   siteJson[1].manuscriptsList = manuscriptJson;
+//
+//
+//
+// fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
+//   if (err) throw err;
+//   console.log('Saved!');
+// });
+// fs.writeFile('manuscriptJson.json', JSON.stringify(manuscriptJson), function (err) {
+//   if (err) throw err;
+//   console.log('Saved!');
+// });
+// }// function
+// combineJson();
 
 
 
@@ -141,6 +144,7 @@ function createHtml(fileName) {
       .then(function(result){
           htmlOut = result.value; // The generated HTML
           htmlOut = handleManuscriptComponent(htmlOut);
+          htmlOut = handleManuscriptComponentMulti(htmlOut);
           messages = result.messages; // Any messages, such as warnings during conversion
           //console.log(htmlOut);
           fs.writeFileSync('content/html/'+fileName+'.html', htmlOut)
@@ -211,8 +215,12 @@ gulp.task('getJFolioParts', function (cb) {
   exec('gsjson 1_0NrQL1LMToaYBfMXuTICHLAQicRLTZR-5IkRyB9ndc >> content/data/folioParts.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
+gulp.task('getJMul', function (cb) {
+  exec('gsjson 1-w8vHWmHY0ZPqFPjxUm2Y5VPgoa4IqHX4_ab7ChT97E >> content/data/multiples.json -b', function (err, stdout, stderr) { cb(err); });
+})
+
 //
-gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', 'getJFolioParts', function (done) {
+gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', 'getJFolioParts','getJMul', function (done) {
   done();
 }))
 
@@ -390,7 +398,7 @@ gulp.task('buildFromTemplates', function(done) {
             // replace images and theme names
             var newContent = handleImages(content);
             newContent = handleThemes(newContent);
-            newContent = handleManuscriptComponent(newContent);
+            //newContent = handleManuscriptComponent(newContent);
             newContent = handleLinks(newContent);
             callback(null, newContent);
             }))
@@ -493,12 +501,26 @@ function handleManuscriptComponent(content) {
       rplce += '{{> folios/folio-'+manuscriptJson[m].folios[f].folioid+' }}';
       var find = '<p>±f±'+manuscriptJson[m].folios[f].folioid+'±f±</p>';
       var regex = new RegExp(find, "g");
+      content = content.replace(regex,rplce);
 
-       content = content.replace(regex,rplce); //
+
     }
   }
+  return content;
+}
 
+function handleManuscriptComponentMulti(content) {
 
+  //for (var m = 0; m < manuscriptJson.length; m++) {
+    for (var f = 0; f < folioMultiList.length; f++) {
+      var rplce='';
+      rplce=''
+      rplce = '{{> folios/folio-mul-'+folioMultiList[f]+' }}';
+      var find2 = '<p>±m±'+folioMultiList[f]+'±m±</p>';
+      var regex2 = new RegExp(find2, "g");
+      content = content.replace(regex2,rplce);
 
+    }
+  //}
   return content;
 }
