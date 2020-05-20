@@ -338,8 +338,8 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±col2span±</p>', '</div><div class="aoCol2Span">'))
           .pipe(replace('<p>±col3±</p>', '</div><div class="aoCol1">'))
 
-          .pipe(replace('<sup><sup>', '<span class="aorNote">'))
-          .pipe(replace('<sup> <sup>', '<span class="aorNote">'))
+          .pipe(replace('<sup><sup><a', '<span class="aorNote"><sup><a class="aorNoteA" '))
+          .pipe(replace('<sup> <sup><a', '<span class="aorNote"><sup><a class="aorNoteA" '))
           .pipe(replace(']</a></sup></sup>', '</a></span>'))
           .pipe(replace('">[', '">'))
 

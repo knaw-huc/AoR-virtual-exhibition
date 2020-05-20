@@ -51,8 +51,6 @@ function hideTabContent(compId) {
   }
 
 
-  //var handleTabVis = document.querySelectorAll(".hcTabContent");
-  console.log(handleTabVis);
     for (i = 0; i < handleTabVis.length; i++) {
       handleTabVis[i].style.display= 'none';
   }

@@ -165,6 +165,49 @@ a {
   font-size: .85rem;
   text-align: center; }
 
+.aorNote {
+  display: inline-block;
+  border: 1px solid #403E3B;
+  width: 25px;
+  height: 25px;
+  font-size: .8rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transform: translate(0, -3px); }
+
+.aorNote span {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.aorNote a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #8CCFFF;
+  width: 100%;
+  height: 100%;
+  text-align: center; }
+
+.noteBlock {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 2rem;
+  background-color: #DFD2BE;
+  color: #242424;
+  font-size: .85rem;
+  display: none; }
+  .noteBlock a {
+    color: #1888d8; }
+
+.closeNote {
+  float: right;
+  cursor: pointer; }
+
 .aorHomeHero {
   padding: 3rem 0;
   display: flex;
