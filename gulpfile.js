@@ -68,74 +68,6 @@ var folioMultiList = require('./folioMultiList.json');
 
 var copyPath = require('./content/data/copyPath.json');
 
-// function combineJson(){
-//   var folioCount= -1;
-//   for (var mi = 0; mi < manuscriptJson.length; mi++) { // all manuscriptJson
-//     folioCount= -1;
-//     // add folio
-//     manuscriptJson[mi].folios = [];
-//     for (var fi = 0; fi < folioJson.length; fi++) {
-//       if (folioJson[fi].manuscript_id == manuscriptJson[mi].id) {
-//         manuscriptJson[mi].folios.push(folioJson[fi]);
-//         folioCount++;
-//         folioJson[fi].folioParts=[];
-//
-//         //find folio parts
-//         for (var pi = 0; pi < folioPartsJson.length; pi++) {
-//
-//           if (folioJson[fi].folioid == folioPartsJson[pi].folioid) {
-//             //add folioparts
-//             manuscriptJson[mi].folios[folioCount].folioParts.push(folioPartsJson[pi]);
-//           }//if
-//         }//parts
-//       }//if
-//     }//folios
-//   }// manuscript
-//
-//
-//   for (var i = 0; i < manuscriptJson.length; i++) {
-//     siteJson.push(manuscriptJson[i]);
-//   }
-//
-//   // add sites to theme landingspage
-//   var theme = 1
-//   for (var j = 0; j < siteJson.length; j++) {
-//     if (siteJson[j].template_file == 'theme-landing') {
-//       siteJson[j].allPages = [];
-//
-//       for (var k = 0; k < siteJson.length; k++) {
-//         if (siteJson[k].theme == theme) {
-//           siteJson[j].allPages.push(siteJson[k])
-//         }
-//       }
-//       theme +=1;
-//     }
-//   }
-//
-//   siteJson.push({
-//     "title": "lastpage",
-//     "page_id": 0,
-//     "file_name": "last",
-//     "template_file": "image-svg",
-//     "navigation_file": "nav-manuscripts"
-//   })
-//   siteJson[0].manuscriptsList = manuscriptJson;
-//   siteJson[1].manuscriptsList = manuscriptJson;
-//
-//
-//
-// fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
-//   if (err) throw err;
-//   console.log('Saved!');
-// });
-// fs.writeFile('manuscriptJson.json', JSON.stringify(manuscriptJson), function (err) {
-//   if (err) throw err;
-//   console.log('Saved!');
-// });
-// }// function
-// combineJson();
-
-
 
 
 // Create HTML
@@ -143,8 +75,10 @@ function createHtml(fileName) {
   mammoth.convertToHtml({path: copyPath.copyDestination+fileName+".docx", outputDir: "content/html/"})
       .then(function(result){
           htmlOut = result.value; // The generated HTML
+          htmlOut = handletextPre(htmlOut);
           htmlOut = handleManuscriptComponent(htmlOut);
           htmlOut = handleManuscriptComponentMulti(htmlOut);
+
           messages = result.messages; // Any messages, such as warnings during conversion
           //console.log(htmlOut);
           fs.writeFileSync('content/html/'+fileName+'.html', htmlOut)
@@ -370,13 +304,14 @@ gulp.task('buildFromTemplates', function(done) {
 
       var manuscriptMeta = '';
       if (page.type == 'manuscript') {
-        manuscriptMeta += '</div></div>';
+
         manuscriptMeta += '<div class="aoRow aoMetadata"><div class="aoCol1"></div>';
         manuscriptMeta += '<div class="aoCol1"><h3>Metadata</h3>';
         manuscriptMeta += '<h4>Date</h4>'+page.dateS1+'-'+page.dateS2;
         manuscriptMeta += '<h4>Place of origin</h4>'+page.origin;
         manuscriptMeta += '<h4>Material</h4>'+page.material+'</div>';
         manuscriptMeta += '<div class="aoCol1"><h3>Content</h3>'+page.contents;
+        manuscriptMeta += '</div></div>';
 
 
       }
@@ -392,6 +327,7 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<br /></p>', '</p>'))
           .pipe(replace('± </p>', '±</p>'))
           .pipe(replace('<p> ±', '<p>±'))
+          //.pipe(replace('<p>±col3i±</p><p>±row±</p>', '<p>±col3i±</p>'+manuscriptMeta+'<p>±row±</p>'))
           .pipe(replace('<p>±row±</p>', '</div></div><div class="aoRow">'))
           .pipe(replace('<p>±col1±</p>', '<div class="aoCol1">'))
           .pipe(replace('<p>±col1span±</p>', '<div class="aoCol1Span">'))
@@ -403,6 +339,7 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±col3±</p>', '</div><div class="aoCol1">'))
 
           .pipe(replace('<sup><sup>', '<span class="aorNote">'))
+          .pipe(replace('<sup> <sup>', '<span class="aorNote">'))
           .pipe(replace(']</a></sup></sup>', '</a></span>'))
           .pipe(replace('">[', '">'))
 
@@ -539,6 +476,16 @@ function handleManuscriptComponentMulti(content) {
 
     }
   //}
+  return content;
+}
+
+
+
+function handletextPre(content) {
+    content = content.replace(/±f±<br \/><\/p>/g, "±f±</p>");
+    content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
+
+    //<br />±col2span±</p>
   return content;
 }
 
