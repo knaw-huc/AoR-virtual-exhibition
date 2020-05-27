@@ -141,6 +141,14 @@ function closeNote() {
   document.getElementById("noteBlock").style.display = 'none';
 }
 
+function modalLoad(id) {
+  document.getElementById(id).style.display = 'flex';
+}
+
+function closeModal(id) {
+  document.getElementById(id).style.display = 'none';
+}
+
 var toggleVars = [];
 
 function initToggle() {

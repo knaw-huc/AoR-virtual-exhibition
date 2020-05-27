@@ -64,6 +64,7 @@ var manuscriptJson = require('./manuscriptJson.json');
 var folioJson = require('./content/data/folios.json');
 var folioPartsJson = require('./content/data/folioParts.json');
 var folioMultiList = require('./folioMultiList.json');
+var extraInfo = require('./content/data/extraInfo.json');
 
 
 
@@ -343,9 +344,11 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±col2span±</p>', '</div><div class="aoCol2Span">'))
           .pipe(replace('<p>±col3±</p>', '</div><div class="aoCol1">'))
 
-          .pipe(replace('<sup><sup><a', '<span class="aorNote"><sup><a class="aorNoteA" '))
-          .pipe(replace('<sup> <sup><a', '<span class="aorNote"><sup><a class="aorNoteA" '))
+          .pipe(replace('<sup><sup><a', '<span class="aorNote"><a class="aorNoteA" '))
+          .pipe(replace('<sup> <sup><a', '<span class="aorNote"><a class="aorNoteA" '))
+          .pipe(replace('<sup><a', '<span class="aorNote"><a class="aorNoteA" '))
           .pipe(replace(']</a></sup></sup>', '</a></span>'))
+          .pipe(replace(']</a></sup>', '</a></span>'))
           .pipe(replace('">[', '">'))
 
           .pipe(replace('<ol><li id="footnote-1">', '<div class="notes"><ol><li id="footnote-1">'))
@@ -357,8 +360,8 @@ gulp.task('buildFromTemplates', function(done) {
             // replace images and theme names
             var newContent = handleImages(content);
             newContent = handleThemes(newContent);
-            //newContent = handleManuscriptComponent(newContent);
             newContent = handleLinks(newContent);
+            newContent = handleModals(newContent);
             callback(null, newContent);
             }))
           .pipe(useref())
@@ -452,12 +455,12 @@ function handleLinks(content) {
   return content;
 }
 
-function handlePopups(content) {
-  for (var i = 0; i < siteJson.length; i++) {
+function handleModals(content) {
+  for (var i = 0; i < extraInfo.length; i++) {
 
-    var find = '±i±'+siteJson[i].page_id+'±i±';
+    var find = '±i±'+extraInfo[i].info_id+'±i±';
     var regex = new RegExp(find, "g");
-    //content = content.replace(regex, '<a href="#" onClick="javascript:popup('1'); return false">*info*</a>');
+    content = content.replace(regex, '<span class="modalNote"><a href="#" onClick="javascript:modalLoad(\''+extraInfo[i].info_id+'\'); return false">i</a></span>');
   }
   return content;
 }
