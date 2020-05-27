@@ -121,7 +121,7 @@ function reload(done) {
 
 // clear Json files en get new data from google docs
 gulp.task('cleanJson', function () {
-    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json','content/data/folios.json','content/data/folioParts.json','content/data/multiples.json'], {read: false, allowEmpty: true})
+    return gulp.src(['content/data/sites.json','content/data/images.json','content/data/themes.json','content/data/metadata.json','content/data/folios.json','content/data/folioParts.json','content/data/multiples.json', 'content/data/extraInfo.json'], {read: false, allowEmpty: true})
         .pipe(plumber())
         .pipe(clean())
 });
@@ -154,8 +154,12 @@ gulp.task('getJMul', function (cb) {
   exec('gsjson 1-w8vHWmHY0ZPqFPjxUm2Y5VPgoa4IqHX4_ab7ChT97E >> content/data/multiples.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
+gulp.task('getJinfo', function (cb) {
+  exec('gsjson 1bPIe6bKr6LdYvDpOne2p6UJH6hczuoJpa3_KA6ts-s4 >> content/data/extraInfo.json -b', function (err, stdout, stderr) { cb(err); });
+})
+
 //
-gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', 'getJFolioParts','getJMul', function (done) {
+gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', 'getJFolioParts','getJMul', 'getJinfo', function (done) {
   done();
 }))
 
@@ -448,6 +452,17 @@ function handleLinks(content) {
   return content;
 }
 
+function handlePopups(content) {
+  for (var i = 0; i < siteJson.length; i++) {
+
+    var find = '±i±'+siteJson[i].page_id+'±i±';
+    var regex = new RegExp(find, "g");
+    content = content.replace(regex, '<a href="#" onClick="javascript:popup('1'); return false">*info*</a>');
+  }
+  return content;
+}
+
+
 function handleManuscriptComponent(content) {
 
   for (var m = 0; m < manuscriptJson.length; m++) {
@@ -485,7 +500,6 @@ function handleManuscriptComponentMulti(content) {
 function handletextPre(content) {
     content = content.replace(/±f±<br \/><\/p>/g, "±f±</p>");
     content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
-
     content = content.replace(/<p>±row±<br \/>±col1±<\/p>/g, "<p>±row±</p><p>±col1±</p>");
     content = content.replace(/]]] <\/p>/g, "]]]</p>");
     content = content.replace(/<p>±col3± <\/p>/g, "<p>±col3±</p>");
