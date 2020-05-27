@@ -39,7 +39,7 @@
         "manuscript_id": "bnf129",
         "folioid": "bnf129_cover_",
         "folionr": "cover",
-        "foliofilename": "BnF_lat_12949_plat_sup.jpg",
+        "foliofilename": "BnF_lat_12949_cover_.jpg",
         "foliodescription": "Paris, BnF, lat. 12949: A 9th or 10th century manuscript from a monastery",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v.r=lat%2012949?rk=21459;2"
     },
@@ -329,7 +329,7 @@
         "folioid": "bnf790_27_r",
         "folionr": 27,
         "foliotype": "r",
-        "foliofilename": "BnF_lat_7900A_f127_r.jpg",
+        "foliofilename": "BnF_lat_7900A_f27_r.jpg",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f61.item.r=7900A.zoom"
     },
     {
@@ -338,17 +338,8 @@
         "folionr": 132,
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_f132_v.jpg",
-        "foliodescription": "Lady Dialectica",
+        "foliodescription": "In this image (Paris, BnF, Lat. 7900A, f. 132v) Dialectica is depicted as a dangerous lady: with a hook she lures students into a trap, while at the same time snakes come out of her sleeve ready to attack them.",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f284.item.r=7900A.zoom"
-    },
-    {
-        "manuscript_id": "bnf790",
-        "folioid": "bnf790_127_v",
-        "folionr": 127,
-        "foliotype": "v",
-        "foliofilename": "BnF_lat_7900A_f127_v.jpg",
-        "foliodescription": "Paris, BnF, Lat. 7900A f.127v: ‘Lady Grammar’ teaches a group of students. The three in the front row are holding wax tablets.",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f274.item.r=7900A.zoom"
     },
     {
         "manuscript_id": "bnf790",
@@ -464,7 +455,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_139_f39_v.jpg",
         "foliodescription": "Leiden UB BPL 139 B f.39v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687093?solr_nav%5Bid%5D=fbe0651f29b0383a32ac&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
     },
     {
         "manuscript_id": "bpl139",
@@ -763,7 +754,7 @@
         "folioextra": "b",
         "foliofilename": "UB_BPL_25_f12_r.jpg",
         "foliodescription": "Square of opposition, BPL 25, f. 12r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/17/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617730"
     },
     {
         "manuscript_id": "bpl25",
@@ -868,7 +859,7 @@
         "folionr": 90,
         "foliotype": "r",
         "foliofilename": "UB_BPL_84_f90_r.jpg",
-        "foliodescription": "Dialogue between Alcuin and Charlemagne",
+        "foliodescription": "INCIPIT ARS DIALECTICA ALCHOINI PHILOSOPHI. AD KAROLUM MAGNUM; “The Art of reasoning of Alcuin the Philosopher for Charlemagne begins.” Questions from Charlemagne are marked with K (Karolus), answers from Alcuin with A (Alcuin)\n",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348792"
     },
     {
@@ -1166,7 +1157,7 @@
         "folioextra": "b",
         "foliofilename": "UB_BPL_88_f2 _v.jpg",
         "foliodescription": "Leiden UB BPL 88 f.2v-3r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/10/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028426"
     },
     {
         "manuscript_id": "bpl88",
@@ -1176,7 +1167,7 @@
         "folioextra": "b",
         "foliofilename": "UB_BPL_88_f1_v.jpg",
         "foliodescription": "Leiden UB BPL 88 f.1v-2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/9/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028514"
     },
     {
         "manuscript_id": "bpl88",
@@ -1381,8 +1372,9 @@
     },
     {
         "manuscript_id": "ein315",
-        "folioid": "ein315_53_",
+        "folioid": "ein315_53_b",
         "folionr": 53,
+        "foliotype": "b",
         "foliofilename": "Einsieldeln_315 (605)_p53.jpg",
         "foliodescription": "p.53",
         "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/53/0/Sequence-1010"
@@ -1526,12 +1518,13 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_30_v",
-        "folionr": 30,
+        "folioid": "vlf48_95_vb",
+        "folionr": 95,
         "foliotype": "v",
-        "foliofilename": "UB_VLF_48_f30_v.jpg",
-        "foliodescription": "opening of book 4 on Dialectica",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282?solr_nav%5Bid%5D=f448165a7773970d4a32&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/40/mode/1up"
+        "folioextra": "b",
+        "foliofilename": "UB_VLF_48_f95_v.jpg",
+        "foliodescription": "Leiden, UB, VLF 48",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618286"
     },
     {
         "manuscript_id": "vlf48",
@@ -1540,7 +1533,7 @@
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f95_v.jpg",
         "foliodescription": "Leiden, UB, VLF 48",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/106/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618286"
     },
     {
         "manuscript_id": "vlf48",
@@ -1594,7 +1587,7 @@
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_30_v.jpg",
         "foliodescription": "Leiden UB VLF 48 f.30v-31r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/41/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618307"
     },
     {
         "manuscript_id": "vlf48",
@@ -1614,5 +1607,84 @@
         "foliofilename": "UB_VLF_48_f2_r.jpg",
         "foliodescription": "Leiden UB VLF 48 f.2r",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/12/mode/1up"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_1_rb",
+        "folionr": 1,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f1_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949 f.1r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f7.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf790",
+        "folioid": "bnf790_113_r",
+        "folionr": 113,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_7900A_113_r.jpg",
+        "foliodescription": "Paris, BnF, Lat. 7900A, f. 113r: Martianus Capella’s De nuptiis in the narrow column on the left, Remigius of Auxerre’s commentary written as a continuous tekst on the right.",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f245.image.r=7900A"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "vlf48_30_vb",
+        "folionr": 30,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_VLF_48_30_v.jpg",
+        "foliodescription": "Leiden, UB, VLF 48, f. 31r: example of a very full commentary added in the margin. The book is 30,7 cm high.",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618307"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_vb",
+        "folionr": 24,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949 f.24v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_63_rb",
+        "folionr": 63,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_84_f63_r.jpg",
+        "foliodescription": "‘All that is just is good. All that is virtuous is just. Therefore, all that is virtuous is good.’ This syllogism joins two universal affirmative propositions (‘all that is just is good’ and ‘all that is virtuous is just’) and deduces the conclusion ‘all that is virtuous is good’.",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348819"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_1_vb",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f1 _v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.1v-2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028514"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_1_vc",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "UB_BPL_88_f1 _v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.1v-2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028514"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_39_vb",
+        "folionr": 39,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_139_f39_v.jpg",
+        "foliodescription": "Leiden UB BPL 139 B f.39v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
     }
 ]

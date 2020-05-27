@@ -88,14 +88,14 @@
     {
         "img_file_name": "scottus.jpg",
         "alttext": "portrait of scottus",
-        "description": "Imaginary portrait of Johannes Scottus (left) in Honorius of Autun’s Clavis physicae: Paris, BnF, lat. 6734, fol. 3r",
+        "description": "Imaginary portrait of Johannes Scottus (on the right) in Honorius of Autun’s Clavis physicae: Paris, BnF, lat. 6734, fol. 3r. John the Scot engages in a discussion with ‘Abbot Theodorus’ about his theological treatise on the creation of the world, the Periphyseon. Theodorus holds a banner with the text: “he reveals the light of dogma by the sharpness of his mind”, and John Scottus holds a banner saying: “He seeks to make hidden things clarify themselves.”",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f11.item.r=6734.zoom"
     },
     {
         "img_file_name": "cartoonrosenfeld.jpg",
         "alttext": "cartoon made by by Randall Rosenfeld",
-        "description": "This is a cartoon made by Randall Rosenfeld, which illustrates an anecdote reported (and invented?) by William of Malmesbury (†1143). King Charles the Bald and John the Scot (Eriugena) were seated at the same table, and the King said: “What separates a Sot from a Scot?” To which John answered: “Only a table.” And ‘Nisifortinus’ softens the insult with: “Unless, perhaps, anyone shall say that...”",
+        "description": "cartoon Nisifortinus",
         "resource": "Pontifical Institute of Mediaeval Studies",
         "hyperlink": "http://www.pims.ca/research/johannes-scottus-eriugena-periphyseon"
     },
@@ -171,8 +171,8 @@
     {
         "img_file_name": "144f10rfr.jpg",
         "alttext": "Leiden UB BPL 144 f.10r",
-        "description": "Leiden UB BPL 144 f.10r",
-        "resource": "eigen foto"
+        "description": "Leiden UB BPL 144, f. 10r. In a copy of Boethius’Consolation of Philosophy, a reader added this drawing of the metaphore of the wheel of fortune, which spins us up and down on the road of life.",
+        "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "144f2rfr2.jpg",
@@ -201,8 +201,8 @@
     {
         "img_file_name": "144f37r.jpg",
         "alttext": "Leiden UB BPL 144 f.37r",
-        "description": "A hand, leg or arm (?) and face on fol. 37r",
-        "resource": "eigen foto"
+        "description": "Leiden UB BPL 144 f37r: Along the edges of the pages we find heads, hands and here even feet, pointing at passages in the text. When leafing through the manuscript, important passages thus pop out.\n",
+        "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "144f49v.jpg",
@@ -213,8 +213,8 @@
     {
         "img_file_name": "144f18r.jpg",
         "alttext": "Leiden UB BPL 144 f.18r",
-        "description": "Leiden UB BPL 144 f.18r",
-        "resource": "eigen foto"
+        "description": "Leiden UB BPL 144, f. 18r. In the same manuscript we also find a doodle of a student discussing with a teacher. The teacher is wearing a cappa (cap), the student is not.",
+        "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "144f20v.jpg",
@@ -303,6 +303,7 @@
     {
         "img_file_name": "11127f161r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.161r",
+        "description": "(6) underlining is used to highlight certain passages",
         "resource": "eigen foto"
     },
     {
@@ -536,7 +537,7 @@
     {
         "img_file_name": "7900Af84r.jpg",
         "alttext": "Paris, BnF, lat. 7900A f.84r",
-        "description": "Paris, BnF, lat. 7900A f.84r",
+        "description": "(3) inserted slips",
         "resource": "eigen foto"
     },
     {
@@ -550,5 +551,236 @@
         "alttext": "Paris, BnF, lat. 7900A f.44v",
         "description": "Paris, BnF, lat. 7900A f.44v",
         "resource": "eigen foto"
+    },
+    {
+        "img_file_name": "chambery.jpg",
+        "alttext": "Chambéry, BM, Ms. 27, f. 151r",
+        "description": "Chambéry, BM, Ms. 27, f. 151r: the student on the rights is wearing donkey’s ears as a punishment? The teacher is also not looking very friendly",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/35203"
+    },
+    {
+        "img_file_name": "stgall.jpg",
+        "alttext": "St. Gall, Stiftsbibliothek, Cod. Sang. 1092 (detail)",
+        "description": "St. Gall, Stiftsbibliothek, Cod. Sang. 1092 (detail)",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/csg/1092/recto"
+    },
+    {
+        "img_file_name": "master.jpg",
+        "alttext": "Paris, BnF, Français 13342, f. 1r (detail):",
+        "description": "Paris, BnF, Français 13342, f. 1r (detail): a master teaching a large class depicted in a fourteenth century manuscript with theological and moral materials in French.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105094193/f7.image"
+    },
+    {
+        "img_file_name": "aquinas.jpg",
+        "alttext": "Angers, BM, MS 208, f. 1r (detail):",
+        "description": "Angers, BM, MS 208, f. 1r (detail): Initial with Thomas Aquinas teaching two students in a thirteenth century manuscript.",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/iiif/9177/canvas/canvas-1276594/view"
+    },
+    {
+        "img_file_name": "17806f17r.jpg",
+        "alttext": "Paris, BnF, Lat. 17806, f. 17r",
+        "description": "Paris, BnF, Lat. 17806, f. 17r: portrait of a master teaching a student",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f39.image.r=17806"
+    },
+    {
+        "img_file_name": "cassiodorus.jpg",
+        "alttext": "Paris, BnF, lat. 12963, f.8v (detail)",
+        "description": "Paris, BnF, Lat. 12963, f. 8v (detail). Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105442152/f24.image"
+    },
+    {
+        "img_file_name": "genevieve.jpg",
+        "alttext": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002",
+        "description": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1355761"
+    },
+    {
+        "img_file_name": "genevieve2.jpg",
+        "alttext": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002 (detail)",
+        "description": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002 (detail)",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1355761"
+    },
+    {
+        "img_file_name": "genevieve3.jpg",
+        "alttext": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002 (detail)",
+        "description": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002 (detail)",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1355761"
+    },
+    {
+        "img_file_name": "karlsruhef11v.jpg",
+        "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 11v",
+        "description": "). In this image, Ramon Llull is engaged in a dialogue with Thomas Le Myésier. On the left one can follow the structure of the debate, laid out in a diagrammatic form. The two discussants are pointing at the sources for their arguments: a stack of books.",
+        "resource": "BLB",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/pageview/105562"
+    },
+    {
+        "img_file_name": "karlsruhef8r.jpg",
+        "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 8r",
+        "description": "Ramon Llull is disputing with the pope and cardinals at the pope’s court.",
+        "resource": "BLB",
+        "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/pageview/105562"
+    },
+    {
+        "img_file_name": "herennium.jpg",
+        "alttext": "Cambridge, Corpus Christi College, MS 158, f. 73r",
+        "description": "Cambridge, Corpus Christi College, MS 158, f. 73r (detail): Opening of Ad Herennium, here ascribed to Cicero, with a splendid dragon-adorned A.",
+        "resource": "source"
+    },
+    {
+        "img_file_name": "darmstadt3.jpg",
+        "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Image: Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "resource": "ULB",
+        "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282/0004"
+    },
+    {
+        "img_file_name": "municipale.jpg",
+        "alttext": "AVRANCHES, Bibliothèque municipale, 0222 (Detail)",
+        "description": "AVRANCHES, Bibliothèque municipale, 0222 (Detail)",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/iiif/16274/canvas/canvas-1410411/view"
+    },
+    {
+        "img_file_name": "plato.jpg",
+        "alttext": "Bodleian Library MS. Ashmole 304, fol. 31v",
+        "description": "Bodleian Library MS. Ashmole 304, fol. 31v: medieval portrait of Plato and Socrates.",
+        "resource": "Bodleian Libraries, University of Oxford.",
+        "hyperlink": "https://digital.bodleian.ox.ac.uk/inquire/p/94fd3103-ee64-4182-9c80-6dda7c7e3ca0"
+    },
+    {
+        "img_file_name": "6734f2r.jpg",
+        "alttext": "Paris, BnF, lat. 6734 f.2r",
+        "description": "Paris, BnF, lat. 6734 f.2r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f9.item.r=6734.zoom"
+    },
+    {
+        "img_file_name": "bpl67f32v.jpg",
+        "alttext": "Leiden, UB, BPL 67, f. 32v.",
+        "description": "Leiden, UB, BPL 67, f. 32v.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1603936"
+    },
+    {
+        "img_file_name": "orleans.jpg",
+        "alttext": "Orleans, BM MS 0277, f. 1r",
+        "description": "Orleans, BM MS 0277, f. 1r. The manuscript opens with Aristotle’s Categories, in the translation by Boethius, a key dialectical work.",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1273642"
+    },
+    {
+        "img_file_name": "orleans2.jpg",
+        "alttext": "Orleans, BM MS 0277, f. 1r",
+        "description": "Orleans, BM MS 0277, f. 1r",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1273642"
+    },
+    {
+        "img_file_name": "orleans3.jpg",
+        "alttext": "Orleans, BM MS 0175 , p. 175",
+        "description": "Sketch from Orleans, BM MS 0175 , p. 175, a manuscript copied in Fleury during the abbacy of Abbo (988-1004)",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1273436"
+    },
+    {
+        "img_file_name": "scaliger.jpg",
+        "alttext": "Leiden UB, Scaliger MS 38, f. 2r.",
+        "description": "Leiden UB, Scaliger MS 38, f. 2r. This manuscript, which contains a number of Gerbert’s mathematical and astronomical works, opens with this table of numeric terms.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/882105"
+    },
+    {
+        "img_file_name": "7185.jpg",
+        "alttext": "BNF MS 7185, f. 49r",
+        "description": "BNF MS 7185, f. 49r – a decorated initial from the opening of a copy of Gerbert’s De geometria",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10544638r/f107.image.r=7185"
+    },
+    {
+        "img_file_name": "71852.jpg",
+        "alttext": "BnF lat. 7185, f. 179v",
+        "description": "Sketches of musical instruments: BnF lat. 7185, f. 179v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10544638r/f370.image.r=7185"
+    },
+    {
+        "img_file_name": "nal1478.jpg",
+        "alttext": "BnF lat. NAL 1478 (f. 56r)",
+        "description": "A list of Boethius’s rhetorical and dialectical works in BnF lat. NAL 1478 (f. 56r) a late tenth-century manuscript from the monastery of Cluny.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546493x/f119.image.r=nal%201478"
+    },
+    {
+        "img_file_name": "nal14782.jpg",
+        "alttext": "BnF NAL 1478 (f. 91r)",
+        "description": "This note on a flyleaf of BnF NAL 1478 (f. 91r), a collection of Boethius’s works, reads ‘Hugo puer proba’, ’Hugo, the boy, tests [his pen]’ – the mark of an attentive student?",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546493x/f189.image.r=nal%201478"
+    },
+    {
+        "img_file_name": "7740.jpg",
+        "alttext": "BnF lat. 7740, f. 1r",
+        "description": "Decorated initial from BnF lat. 7740, f. 1r, depicting Cicero and Plato arguing over the nature of rhetoric.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b100343611/f2.image.r=7740"
+    },
+    {
+        "img_file_name": "vlq33.jpg",
+        "alttext": "Leiden UB, VLQ 33, f. 1v",
+        "description": "Leiden UB, VLQ 33, f. 1v: Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures dressed in antiquated clothing.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "1925.jpg",
+        "alttext": "Leiden, UB, BPL 1925, f.139v",
+        "description": "Leiden, UB, BPL 1925, f. 139v: example of a text with a narrow margin and only occasional notes. The book is only ca 13,5 cm high.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/877736"
+    },
+    {
+        "img_file_name": "scholar.jpg",
+        "alttext": "Chantilly, Musée Condé, MS 291 (660), f. 1r. Bruges, c. 1470-1480.",
+        "description": "Portrait of a medieval scholar ‘in his study’, consulting multiple books and taking notes. Image: Chantilly, Musée Condé, MS 291 (660), f. 1r. Bruges, c. 1470-1480.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/codex/10419/4348"
+    },
+    {
+        "img_file_name": "17806f4vfr2.jpg",
+        "alttext": "BnF lat. 17906 f.4v",
+        "description": "(2) Short summaries or marginal indices make clear what the reader can find in the text: it makes the text easier to consult",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "14756.jpg",
+        "alttext": "BnF lat. 14756 f.2v",
+        "description": "BnF lat. 14756 f.2v",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "16611.jpg",
+        "alttext": "BnF lat. 16611 f.8v",
+        "description": "BnF lat. 16611 f.8v",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "48f32r.jpg",
+        "alttext": "UB VLF 48 f.32r",
+        "description": "UB VLF 48 f.32r",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "88f63r.jpg",
+        "alttext": "UB BPL 88 f.63r",
+        "description": "UB BPL 88 f.63r",
+        "resource": "Universiteitsbibliotheek Leiden"
     }
 ]

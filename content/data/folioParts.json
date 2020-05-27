@@ -3,399 +3,462 @@
         "folioid": "vlf48_30_v",
         "fpid": 1,
         "fpname": "Dialectica",
-        "fpdescription": "opening of book 4 on Dialectica"
+        "fpdescription": "opening of book 4 on Dialectica",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_30_v",
         "fpid": 2,
         "fpname": "Tied notes",
         "fpdescription": "Here you can see how each marginal note is neatly tied to its correct place in the main text with a tie mark",
-        "svggroup": "          <mask id=\"m1\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:#fff;\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"maskFill\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"maskFill\"></rect><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"maskFill\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"maskFill\"></rect><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"maskFill\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"maskFill\"></rect><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"maskFill\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"maskFill\"></rect></mask><g id=\"imgGr\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:rgba(1, 1, 1, 0.3);\" mask=\"url(#m1)\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"aorHighLightStroke\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"aorHighLightStroke\"></rect><line x1=\"1211.52402\" y1=\"1222.818805\" x2=\"1543.2033599999997\" y2=\"1232.14845\" class=\"aorHighLightStroke\"></line><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"aorHighLightStroke\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"aorHighLightStroke\"></rect><line x1=\"1276.9065899999998\" y1=\"1282.3614699999998\" x2=\"1571.5934100000002\" y2=\"1374.03435\" class=\"aorHighLightStroke\"></line><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"aorHighLightStroke\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"aorHighLightStroke\"></rect><line x1=\"1169.9549100000002\" y1=\"1346.7513150000002\" x2=\"1580.30982\" y2=\"1514.826105\" class=\"aorHighLightStroke\"></line><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"aorHighLightStroke\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"aorHighLightStroke\"></rect><line x1=\"1554.12261\" y1=\"1628.32306\" x2=\"1637.0709299999999\" y2=\"1721.1018499999998\" class=\"aorHighLightStroke\"></line></g>"
+        "svggroup": "          <mask id=\"m1\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:#fff;\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"maskFill\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"maskFill\"></rect><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"maskFill\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"maskFill\"></rect><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"maskFill\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"maskFill\"></rect><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"maskFill\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"maskFill\"></rect></mask><g id=\"imgGr\">        <rect x=\"0\" y=\"0\" width=\"1899\" height=\"2353\" style=\"fill:rgba(1, 1, 1, 0.3);\" mask=\"url(#m1)\" class=\"setSpan\"></rect>      <rect x=\"1157.26959\" y=\"1195.7004800000002\" width=\"54.25442999999996\" height=\"54.236650000000054\" class=\"aorHighLightStroke\"></rect><rect x=\"1543.2033599999997\" y=\"1202.68889\" width=\"45.841860000000224\" height=\"58.91912000000002\" class=\"aorHighLightStroke\"></rect><line x1=\"1211.52402\" y1=\"1222.818805\" x2=\"1543.2033599999997\" y2=\"1232.14845\" class=\"aorHighLightStroke\"></line><rect x=\"1231.08372\" y=\"1261.63154\" width=\"45.82286999999974\" height=\"41.45986000000016\" class=\"aorHighLightStroke\"></rect><rect x=\"1571.5934100000002\" y=\"1351.1161299999999\" width=\"61.1098199999999\" height=\"45.836440000000266\" class=\"aorHighLightStroke\"></rect><line x1=\"1276.9065899999998\" y1=\"1282.3614699999998\" x2=\"1571.5934100000002\" y2=\"1374.03435\" class=\"aorHighLightStroke\"></line><rect x=\"1119.76434\" y=\"1322.7389500000002\" width=\"50.19057000000021\" height=\"48.02472999999986\" class=\"aorHighLightStroke\"></rect><rect x=\"1580.30982\" y=\"1488.62545\" width=\"52.39341000000013\" height=\"52.401310000000194\" class=\"aorHighLightStroke\"></rect><line x1=\"1169.9549100000002\" y1=\"1346.7513150000002\" x2=\"1580.30982\" y2=\"1514.826105\" class=\"aorHighLightStroke\"></line><rect x=\"1514.8323\" y=\"1602.13417\" width=\"39.29030999999986\" height=\"52.3777799999998\" class=\"aorHighLightStroke\"></rect><rect x=\"1637.0709299999999\" y=\"1687.26571\" width=\"43.658010000000104\" height=\"67.67228\" class=\"aorHighLightStroke\"></rect><line x1=\"1554.12261\" y1=\"1628.32306\" x2=\"1637.0709299999999\" y2=\"1721.1018499999998\" class=\"aorHighLightStroke\"></line></g>",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "dev23_4 and 5_",
         "fpid": 3,
         "fpname": "Drawings",
         "fpdescription": "Drawings on 101 F 23 pp. 4-5",
-        "referentie_afb": "101F23p4.jpg"
+        "referentie_afb": "101F23p4.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_1_r",
         "fpid": 4,
         "fpname": "Opening Periermenias",
         "fpdescription": "Paris, BnF, lat. 12949 f.1r",
-        "referentie_afb": "12949f1r.jpg"
+        "referentie_afb": "12949f1r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf165_37_a",
         "fpid": 5,
         "fpname": "Porphyrian Tree",
         "fpdescription": "f.37a Porphyrian Tree",
-        "referentie_afb": "16598f37a.jpg"
+        "referentie_afb": "16598f37a.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf166_14_v",
         "fpid": 6,
         "fpname": "Mnemonic",
-        "fpdescription": "f.14v Mnemonic to remember the moods of syllogisms",
-        "referentie_afb": "16611f14v.jpg"
+        "fpdescription": "‘<Barbara> [erased], Celarent, Darii, Ferio, Baralipton, Celantes’ Here these names do double-duty; they remind the reader of the mnemonic verse, but they also indicate where the description of each mood can be found in the text.",
+        "referentie_afb": "16611f14v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_24_v",
         "fpid": 7,
         "fpname": "Porphyrian Tree",
         "fpdescription": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
-        "referentie_afb": "12949f24v2.jpg"
+        "referentie_afb": "12949f24v2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_24_v",
         "fpid": 8,
         "fpname": "Nota signs",
         "fpdescription": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
-        "referentie_afb": "12949f24v3.jpg"
+        "referentie_afb": "12949f24v3.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_24_v",
         "fpid": 9,
         "fpname": "Tiemark",
         "fpdescription": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
-        "referentie_afb": "12949f24v4.jpg"
+        "referentie_afb": "12949f24v4.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_divers_",
         "fpid": 10,
         "fpname": "Authorities",
         "fpdescription": "(4) Refer to different authorities and compare",
-        "referentie_afb": "48fdivers.jpg"
+        "referentie_afb": "48fdivers.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_divers_",
         "fpid": 11,
         "fpname": "Schemes and Diagrams",
         "fpdescription": "(5) Visualize material in lists, diagrams and schemes",
-        "referentie_afb": "12949fdivers.jpg"
+        "referentie_afb": "12949fdivers.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_12_r",
         "fpid": 12,
-        "fpname": "Square of Opposition 1",
-        "fpdescription": "Square of Opposition 1",
-        "referentie_afb": "25f12r2.jpg"
+        "fpname": "Propositions",
+        "fpdescription": "In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and negative propositions: ‘some men are just’ and ‘some men are not just’",
+        "referentie_afb": "25f12r2.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_12_r",
         "fpid": 13,
-        "fpname": "Square of Opposition 2",
-        "fpdescription": "Square of Opposition 2",
-        "referentie_afb": "25f12r3.jpg"
+        "fpname": "Contradictory Relationships",
+        "fpdescription": "The diagonal lines crossing the centre of the diagram (labelled ‘contradictorie’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then ‘some men are just’ cannot be true.",
+        "referentie_afb": "25f12r3.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_12_r",
         "fpid": 14,
-        "fpname": "Square of Opposition 3",
-        "fpdescription": "Square of Opposition 3",
-        "referentie_afb": "25f12r4.jpg"
+        "fpname": "Contrary Relationships",
+        "fpdescription": "The arrangement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false.",
+        "referentie_afb": "25f12r4.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_12_r",
         "fpid": 15,
-        "fpname": "Square of Opposition 3",
-        "fpdescription": "Square of Opposition 4",
-        "referentie_afb": "25f12r5.jpg"
+        "fpname": "Subaltern Relationships",
+        "fpdescription": "Finally, reading alongside the side of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition ‘all men are just’ placed on the top of the square is true, then the corresponding particular affirmative proposition ‘some man are just’ at the bottom of the square must also be true. Similarly, if the universal negative proposition, ‘no man is just’ is true, then the particular negative proposition, ‘some man is not just’ must also be true.",
+        "referentie_afb": "25f12r5.jpg",
+        "afbeelding_aanwezig": true
     },
     {
-        "folioid": "bpl88_1_v",
+        "folioid": "bpl88_1_vc",
         "fpid": 16,
-        "fpname": "BPL 88 f.2r",
+        "fpname": "Square of opposition",
         "fpdescription": "Leiden UB BPL 88 f.2r",
-        "referentie_afb": "88f2rfr.jpg"
+        "referentie_afb": "88f2rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_39_v",
         "fpid": 17,
         "fpname": "BPL 139",
         "fpdescription": "BPL 139",
-        "referentie_afb": "139f39v2.jpg"
+        "referentie_afb": "139f39v2.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_95_v",
         "fpid": 18,
         "fpname": "VLF 48",
         "fpdescription": "VLF 48",
-        "referentie_afb": "48f95v.jpg"
+        "referentie_afb": "48f95v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_v",
         "fpid": 19,
         "fpname": "VLF 48 2",
         "fpdescription": "VLF 48 2",
-        "referentie_afb": "48f95vfr.jpg"
+        "referentie_afb": "48f95vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_v",
         "fpid": 20,
         "fpname": "VLF 48 3",
         "fpdescription": "VLF 48 3",
-        "referentie_afb": "48f95vfr2.jpg"
+        "referentie_afb": "48f95vfr2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf770_52_r",
         "fpid": 21,
         "fpname": "Scheme",
         "fpdescription": "Substantia, Corpus, Animatum Corpus, Animal, Homo, Socrates",
-        "referentie_afb": "7709f52rfr.jpg"
+        "referentie_afb": "7709f52rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_2 _v",
         "fpid": 22,
-        "referentie_afb": "88f2v3rfr.jpg"
+        "referentie_afb": "88f2v3rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_1_v",
         "fpid": 23,
         "fpname": "Schemes",
         "fpdescription": "Schemes",
-        "referentie_afb": "88f1v2rfr.jpg"
+        "referentie_afb": "88f1v2rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_50_v",
         "fpid": 24,
-        "referentie_afb": "48f50v.jpg"
+        "referentie_afb": "48f50v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_2_r",
         "fpid": 25,
-        "referentie_afb": "48f2r.jpg"
+        "referentie_afb": "48f2r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_2_rb",
         "fpid": 26,
-        "referentie_afb": "48f2r2.jpg"
+        "referentie_afb": "48f2r2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_4_v",
         "fpid": 27,
-        "referentie_afb": "48f4v.jpg"
+        "referentie_afb": "48f4v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_32_r",
         "fpid": 28,
         "fpname": "Scheme",
-        "referentie_afb": "48f32r.jpg"
+        "fpdescription": "(5) scheme",
+        "referentie_afb": "48f32r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_112_r",
         "fpid": 29,
         "fpname": "Commentary",
-        "referentie_afb": "7900Af112r.jpg"
+        "referentie_afb": "7900Af112r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_1_v",
         "fpid": 30,
         "fpdescription": "In close-up, the dirt and wear and tear on the page are even more visible. We can also see that a later hand wrote the title of the work on the top of the page: ‘Aristotelis liber i peri er[meneias] a boecio comentatus expositusque’ (see green box) (The first book of Aritotle’s Peri hermeneias, commented upon and expounded by Boethius). In the red box you can see the Greek title of Aristotle’s work, Peri Hermeneias. It is written in Greek capitals. A line over the words emphasizes the fact that it is Greek.",
-        "referentie_afb": "25f1v2rfr.jpg"
+        "referentie_afb": "25f1v2rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_2_v",
         "fpid": 31,
-        "referentie_afb": "25f2v.jpg"
+        "referentie_afb": "25f2v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_6_v",
         "fpid": 32,
-        "referentie_afb": "25f6v.jpg"
+        "referentie_afb": "25f6v.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_7_v",
         "fpid": 33,
-        "referentie_afb": "25f7v.jpg"
+        "referentie_afb": "25f7v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_32_v",
         "fpid": 34,
-        "referentie_afb": "25f30v32r.jpg"
+        "referentie_afb": "25f30v32r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_42_r",
         "fpid": 35,
-        "referentie_afb": "25f42r.jpg"
+        "referentie_afb": "25f42r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 36,
         "fpdescription": "The penwork is exquisite and detailed, the tiny lettering of the glosses is very precise and regular. Underlinings in the note show where the text is quoted.",
-        "referentie_afb": "17806f4vfr.jpg"
+        "referentie_afb": "17806f4vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 37,
         "fpdescription": "Short summaries or marginal indices make clear what the reader can find in the text: it makes the text easier to consult.",
-        "referentie_afb": "17806f4vfr2.jpg"
+        "referentie_afb": "17806f4vfr2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_90_r",
         "fpid": 38,
         "fpname": "BPL 84 f.90r",
-        "fpdescription": "Dialogue between Alcuin and Charlemagne",
-        "referentie_afb": "84f90r.jpg"
+        "referentie_afb": "84f90r.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_84_r",
         "fpid": 39,
         "fpname": "BPL 84 f.84r",
         "fpdescription": "Leiden UB BPL 84 f.84r",
-        "referentie_afb": "84f84r.jpg"
+        "referentie_afb": "84f84r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_84_r",
         "fpid": 40,
         "fpname": "BPL 84 f.84r",
-        "referentie_afb": "84f84rfr.jpg"
+        "referentie_afb": "84f84rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_89_v",
         "fpid": 41,
         "fpname": "BPL 84 f.89v",
-        "referentie_afb": "84f89vfr.jpg"
+        "referentie_afb": "84f89vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_89_v",
         "fpid": 42,
         "fpname": "BPL 84 f.89v",
         "fpdescription": "Fol 90r: INCIPIT ARS DIALECTICA ALCHOINI PHILOSOPHI. AD KAROLUM MAGNUM; “The Art of reasoning of Alcuin the Philosopher for Charlemagne begins.” Questions from Charlemagne are marked with K (Karolus), answers from Alcuin with A (Alcuin).",
-        "referentie_afb": "84f89vfr2.jpg"
+        "referentie_afb": "84f89vfr2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_90_v",
         "fpid": 43,
         "fpname": "BPL 84 f.90v",
         "fpdescription": "Ch: How many species are there in dialectic? A: The most important are 5: ‘isagogae’, categories, syllogistic formulas and definitions, ‘topica’, and ‘perermeniae’. Ch: What are ‘isagogae’? A: Isagoge is the (Greek) word for Latin ‘introductio’, ‘introduction’. Ch: What does ‘introduction’ mean? A: Introduction is …",
-        "referentie_afb": "84f90vfr.jpg"
+        "referentie_afb": "84f90vfr.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_90_v",
         "fpid": 44,
         "fpname": "BPL 84 f.90v",
         "fpdescription": "Ch: What is ‘genus’? A: ‘Genus’ is what can be divided into species: it describes whatever you are investigating in an inclusive word, such as ‘animal’. For each individual species - man, horse, ox, lion etc. – ‘animal’ is the genus and is applied to them all. Ch: What is ‘species’? A: ‘Species’ is …",
-        "referentie_afb": "84f90vfr2.jpg"
+        "referentie_afb": "84f90vfr2.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_2_rc",
         "fpid": 45,
         "fpname": "BPL 144 f.2r",
-        "referentie_afb": "144f2rfr.jpg"
+        "referentie_afb": "144f2rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_2_r",
         "fpid": 46,
         "fpname": "BPL 144 f.2r",
-        "referentie_afb": "144f2rfr2.jpg"
+        "referentie_afb": "144f2rfr2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_2_r",
         "fpid": 47,
         "fpname": "BPL 144 f.2r",
-        "referentie_afb": "144f2rfr3.jpg"
+        "referentie_afb": "144f2rfr3.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_10_r",
         "fpid": 48,
         "fpname": "BPL 144 f.10r",
-        "referentie_afb": "144f10rfr.jpg"
+        "referentie_afb": "144f10rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_17_v",
         "fpid": 49,
         "fpname": "BPL 144 f.17v",
         "fpdescription": "A foot (?) and a hand at the edge of fol. 17v",
-        "referentie_afb": "144f17v.jpg"
+        "referentie_afb": "144f17v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_37_r",
         "fpid": 50,
         "fpname": "BPL 144 f.37r",
         "fpdescription": "A hand, leg or arm (?) and face on fol. 37r ",
-        "referentie_afb": "144f37r.jpg"
+        "referentie_afb": "144f37r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_49_v",
         "fpid": 51,
         "fpname": "BPL 144 f.49v",
         "fpdescription": "A head and peculiar animal on fol. 49v",
-        "referentie_afb": "144f49v.jpg"
+        "referentie_afb": "144f49v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_18_r",
         "fpid": 52,
         "fpname": "BPL 144 f.18r",
         "fpdescription": "In manuscripts, marginal notes are used to (1) call attention to certain things",
-        "referentie_afb": "144f18r.jpg"
+        "referentie_afb": "144f18r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_20_v",
         "fpid": 53,
         "fpname": "BPL 144 f.20v",
         "fpdescription": "Edge of the page",
-        "referentie_afb": "144f20v.jpg"
+        "referentie_afb": "144f20v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_17_r",
         "fpid": 54,
         "fpname": "BPL 144 f.17r",
         "fpdescription": "Edge of the page",
-        "referentie_afb": "144f17r.jpg"
+        "referentie_afb": "144f17r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_58_r",
         "fpid": 55,
         "fpname": "BPL 144 f.58r",
-        "referentie_afb": "144f58r.jpg"
+        "referentie_afb": "144f58r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_133_r",
         "fpid": 56,
         "fpname": "Paris BnF lat.7900A f.133r",
-        "referentie_afb": "7900Af133r.jpg"
+        "referentie_afb": "7900Af133r.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_25_v",
         "fpid": 57,
         "fpname": "Paris BnF lat. 12949 f.25v",
         "fpdescription": "‘Heiricus magister Remigii fecit has glossas’",
-        "referentie_afb": "12949f25vfr.jpg"
+        "referentie_afb": "12949f25vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_25_v",
         "fpid": 58,
-        "referentie_afb": "12949f25vfr2.jpg"
+        "referentie_afb": "12949f25vfr2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_43_r",
         "fpid": 59,
-        "fpdescription": "In manuscripts, marginal notes are used to (1) call attention to certain things",
-        "referentie_afb": "144f43r.jpg"
+        "fpdescription": "BPL 144, f.43r (1) call attention to certain things",
+        "referentie_afb": "144f43r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_172_v",
         "fpid": 60,
-        "referentie_afb": "88f172v.jpg"
+        "referentie_afb": "88f172v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "dev22_112_",
         "fpid": 61,
-        "referentie_afb": "101F22p112.jpg"
+        "referentie_afb": "101F22p112.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 62,
         "fpdescription": "A later reader added a Nota sign, marking a passage as noteworthy.",
-        "referentie_afb": "17806f4vfr3.jpg"
+        "referentie_afb": "17806f4vfr3.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 63,
         "fpdescription": "In the bottom margin we find a kind of diagram that often appears in these logical texts: the start of a sentence is broken up in two possible continuations, one of which is again broken up in a set of possible continuations.",
-        "referentie_afb": "17806f4vfr4.jpg"
+        "referentie_afb": "17806f4vfr4.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "multiviewid": "bnf178_8_v_9_r",
@@ -403,7 +466,8 @@
         "fpid": 64,
         "fpname": 1,
         "fpdescription": "a",
-        "referentie_afb": "17806f8v.jpg"
+        "referentie_afb": "17806f8v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "multiviewid": "bnf178_8_v_9_r",
@@ -411,22 +475,26 @@
         "fpid": 65,
         "fpname": 2,
         "fpdescription": "b",
-        "referentie_afb": "17806f9r.jpg"
+        "referentie_afb": "17806f9r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_6_r",
         "fpid": 66,
-        "referentie_afb": "17806f6r.jpg"
+        "referentie_afb": "17806f6r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_44_v",
         "fpid": 67,
-        "referentie_afb": "17806f44v.jpg"
+        "referentie_afb": "17806f44v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_17_r",
         "fpid": 68,
-        "referentie_afb": "17806f17r.jpg"
+        "referentie_afb": "17806f17r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "multiviewid": "bnf178_172_r_250_v",
@@ -434,7 +502,8 @@
         "fpid": 69,
         "fpname": 3,
         "fpdescription": "c",
-        "referentie_afb": "17806f172r.jpg"
+        "referentie_afb": "17806f172r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "multiviewid": "bnf178_172_r_250_v",
@@ -442,191 +511,253 @@
         "fpid": 70,
         "fpname": 4,
         "fpdescription": "d",
-        "referentie_afb": "17806f250v.jpg"
+        "referentie_afb": "17806f250v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_46_v",
         "fpid": 71,
-        "referentie_afb": "139f46vfr.jpg"
+        "referentie_afb": "139f46vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_28_v",
         "fpid": 72,
-        "referentie_afb": "139f28vfr.jpg"
+        "referentie_afb": "139f28vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_8_r",
         "fpid": 73,
-        "referentie_afb": "139f8rfr.jpg"
+        "referentie_afb": "139f8rfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "ein315_6_",
         "fpid": 74,
-        "referentie_afb": "ein315p6.jpg"
+        "referentie_afb": "ein315p6.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "ein315_6_",
         "fpid": 75,
         "fpdescription": "The text has been carefully corrected, here ‘ad’ has been corrected to ‘ab’ and ‘actenus’ to ‘hactenus’.",
-        "referentie_afb": "ein315p6fr.jpg"
+        "referentie_afb": "ein315p6fr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "ein315_6_",
         "fpid": 76,
         "fpdescription": "Here small squiggles have been added in the margin alongside the text; these are rudimentary quotation marks indicating original text from the Isagoge, the subject of Boethius’ commentary.",
-        "referentie_afb": "ein315p6fr2.jpg"
+        "referentie_afb": "ein315p6fr2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "ein315_6_",
         "fpid": 77,
         "fpdescription": "Here interlinear glosses have been added to provide Latin equivalents of the Greek terms hyperbaton (transposition of words) and zeuma (where one word can be used in two different contexts). The glossator describes these as ‘confusus ordo’, the confusion of order, and ‘repetitio’, repetition, respectively.",
-        "referentie_afb": "ein315p6fr3.jpg"
+        "referentie_afb": "ein315p6fr3.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_103_v",
         "fpid": 78,
         "fpdescription": "A medieval reader has added a content list at the end of the volume, starting with ‘libri boetius’, books of Boethius, and listing the titles. These match the existing contents of BPL 84, so we know that this collection of texts has been together since at least the time it was in this reader’s hands.",
-        "referentie_afb": "84f103vfr.jpg"
+        "referentie_afb": "84f103vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_36_r",
         "fpid": 79,
         "fpdescription": "UB BPL f.36r",
-        "referentie_afb": "139f36r.jpg"
+        "referentie_afb": "139f36r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_33_v",
         "fpid": 80,
         "fpdescription": "Square of Opposition",
-        "referentie_afb": "139f33v.jpg"
+        "referentie_afb": "139f33v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_46_r",
         "fpid": 81,
-        "referentie_afb": "139f46r.jpg"
+        "referentie_afb": "139f46r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_32_v",
         "fpid": 82,
         "fpdescription": "An example of numbers (‘ii’), from f. 32v",
-        "referentie_afb": "84f32v.jpg"
+        "referentie_afb": "84f32v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_8_v",
         "fpid": 83,
         "fpdescription": "On f. 8v we find the quire signature ‘c’, suggesting that this gathering of leaves was once the third in a collection.",
-        "referentie_afb": "84f8v.jpg"
+        "referentie_afb": "84f8v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_16_v",
         "fpid": 84,
         "fpdescription": "f.16v: 'd'",
-        "referentie_afb": "_"
+        "referentie_afb": "_",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_13_r",
         "fpid": 85,
         "fpdescription": "f. 13r: ‘Retro in libro topicorum iii’: ‘Back in book III of the Topics’",
-        "referentie_afb": "84f13r.jpg"
+        "referentie_afb": "84f13r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_14_r",
         "fpid": 86,
         "fpdescription": "f. 14r: ‘Retro in fine libri tercium topicorum ciceronis’: ‘Back in the end of the third book of Cicero’s Topics’",
-        "referentie_afb": "84f14r.jpg"
+        "referentie_afb": "84f14r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_57_v",
         "fpid": 87,
-        "referentie_afb": "84f57v.jpg"
+        "referentie_afb": "84f57v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_44_v",
         "fpid": 88,
         "fpdescription": "Here on f. 44v, two sets of rubrics (written in red) indicate that one text has ended and that another will begin on the next page.",
-        "referentie_afb": "84f44v.jpg"
+        "referentie_afb": "84f44v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_64_v",
         "fpid": 89,
         "fpdescription": "Initial ‘Q’ on f. 64v",
-        "referentie_afb": "84f64v.jpg"
+        "referentie_afb": "84f64v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_83_v",
         "fpid": 90,
         "fpdescription": "Initial ‘H’ on f. 83v",
-        "referentie_afb": "84f83v.jpg"
+        "referentie_afb": "84f83v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_83_v",
         "fpid": 91,
         "fpdescription": "Initial ‘Q’ on f. 84r",
-        "referentie_afb": "84f83v2.jpg"
+        "referentie_afb": "84f83v2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 92,
-        "referentie_afb": "7900A27r.jpg"
+        "referentie_afb": "7900A27r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 93,
         "fpdescription": "Introductions to the author",
-        "referentie_afb": "7900A27rfr1.jpg"
+        "referentie_afb": "7900A27rfr1.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 94,
         "fpdescription": "Author's portrait",
-        "referentie_afb": "7900A27rfr2.jpg"
+        "referentie_afb": "7900A27rfr2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 95,
         "fpdescription": "Opening of the commentary",
-        "referentie_afb": "7900A27rfr3.jpg"
+        "referentie_afb": "7900A27rfr3.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_127_v",
         "fpid": 96,
-        "fpdescription": "Close-up",
-        "referentie_afb": "7900A127vfr.jpg"
+        "fpdescription": "A personification of the discipline of grammar (Lady Grammar) is teaching a schoolclass. The pupils in the front row have wax tablets to practice their letters and words.\n",
+        "referentie_afb": "7900A127vfr.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_4_v",
         "fpid": 97,
-        "fpdescription": "Text in the green box: ‘According to Calcidius, entelechy is perfecta aetas, completed lifetime. According to Aristotle, it is interpreted as absolute perfection. Plato, on the other hand, says that entelechy is the anima mundi, the soul of the world.’",
-        "referentie_afb": "88f4v.jpg"
+        "fpdescription": "(4) Text in the box: ‘According to Calcidius, entelechy is perfecta aetas, completed lifetime. According to Aristotle, it is interpreted as absolute perfection. Plato, on the other hand, says that entelechy is the anima mundi, the soul of the world.’",
+        "referentie_afb": "88f4v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_171_r",
         "fpid": 98,
-        "referentie_afb": "88f171r.jpg"
+        "referentie_afb": "88f171r.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_172_vb",
         "fpid": 99,
-        "referentie_afb": "88f172v2.jpg"
+        "referentie_afb": "88f172v2.jpg",
+        "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf1296_8_v",
         "fpid": 100,
         "fpdescription": "Paris, BnF, Lat. 12963, f. 8v (detail). Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century.",
-        "referentie_afb": "12963f8v.jpg"
+        "referentie_afb": "12963f8v.jpg",
+        "afbeelding_aanwezig": false
     },
     {
-        "multiviewid": "bnf178_164_v_218_r",
-        "folioid": "bnf178_164_v",
+        "folioid": "bnf165_37_r",
         "fpid": 101,
-        "fpname": 5,
-        "fpdescription": "e"
+        "fpname": "part 2",
+        "fpdescription": "Note the distinction made between mortal (and rational) man and mortal (and irrational) cows, dogs, etc.",
+        "referentie_afb": "16598f37r.jpg",
+        "afbeelding_aanwezig": true
     },
     {
-        "multiviewid": "bnf178_164_v_218_r",
-        "folioid": "bnf178_218_r",
+        "folioid": "bnf165_37_r",
         "fpid": 102,
-        "fpname": 6,
-        "fpdescription": "f"
+        "fpname": "part 3",
+        "fpdescription": "Here, as might befit a book belonging to a theologian, Peter and Paul substitute for Plato and Socrates as examples of the species ‘man’.",
+        "referentie_afb": "16598f37r2.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bnf129_24_vb",
+        "fpid": 103,
+        "fpname": "part 2",
+        "fpdescription": "At the top of the scheme we find ‘Usia’ , meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’",
+        "referentie_afb": "12949f24v2.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "vlf48_95_vb",
+        "fpid": 104,
+        "fpname": "part 2",
+        "fpdescription": "The other scribe added a note on musical pitches, and a two sets of schemes regarding syllogistic propositions.",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "vlf48_95_vb",
+        "fpid": 105,
+        "fpname": "part 3",
+        "fpdescription": "A line separates the sets of examples of syllogisms.",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "vlf48_95_vb",
+        "fpid": 106,
+        "fpname": "part 4",
+        "fpdescription": "We know who one of these scribes was – Rather of Verona (890-974) added a copy of a letter at the base of the page.",
+        "afbeelding_aanwezig": false
     }
 ]

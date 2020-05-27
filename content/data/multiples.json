@@ -17,35 +17,134 @@
     },
     {
         "multipeimageid": "bnf178_164_v_218_r",
-        "foliopartid": 101
+        "alleenfolioid": "bnf178_164_v"
     },
     {
         "multipeimageid": "bnf178_164_v_218_r",
-        "foliopartid": 102
-    }
-][
-    {
-        "multipeimageid": "bnf178_8_v_9_r",
-        "foliopartid": 64
+        "alleenfolioid": "bnf178_218_r"
     },
     {
-        "multipeimageid": "bnf178_8_v_9_r",
-        "foliopartid": 65
+        "multipeimageid": "bnf790_116_r_116_v",
+        "alleenfolioid": "bnf790_116_r"
     },
     {
-        "multipeimageid": "bnf178_172_r_250_v",
-        "foliopartid": 69
+        "multipeimageid": "bnf790_116_r_116_v",
+        "alleenfolioid": "bnf790_116_v"
     },
     {
-        "multipeimageid": "bnf178_172_r_250_v",
-        "foliopartid": 70
+        "multipeimageid": "bnf790_140_v_151_v_153_v",
+        "alleenfolioid": "bnf790_140_v"
     },
     {
-        "multipeimageid": "bnf178_164_v_218_r",
-        "foliopartid": 101
+        "multipeimageid": "bnf790_140_v_151_v_153_v",
+        "alleenfolioid": "bnf790_151_v"
     },
     {
-        "multipeimageid": "bnf178_164_v_218_r",
-        "foliopartid": 102
+        "multipeimageid": "bnf790_140_v_151_v_153_v",
+        "alleenfolioid": "bnf790_153_v"
+    },
+    {
+        "multipeimageid": "11127_49_r",
+        "afbeelding": "11127f49r.jpg"
+    },
+    {
+        "multipeimageid": "11127_49_r",
+        "afbeelding": "11127f49rfr1.jpg"
+    },
+    {
+        "multipeimageid": "11127_49_r",
+        "afbeelding": "11127f49rfr2.jpg"
+    },
+    {
+        "multipeimageid": "11127_49_r",
+        "afbeelding": "11127f49rfr3.jpg"
+    },
+    {
+        "multipeimageid": "11127_49_r",
+        "afbeelding": "11127f49rfr4.jpg"
+    },
+    {
+        "multipeimageid": "11127_49_r",
+        "afbeelding": "11127f49rfr5.jpg"
+    },
+    {
+        "multipeimageid": "11127_49_r",
+        "afbeelding": "11127f49rfr6.jpg"
+    },
+    {
+        "multipeimageid": "doodles",
+        "afbeelding": "144f10rfr.jpg"
+    },
+    {
+        "multipeimageid": "doodles",
+        "afbeelding": "144f37r.jpg"
+    },
+    {
+        "multipeimageid": "doodles",
+        "afbeelding": "144f18r.jpg"
+    },
+    {
+        "multipeimageid": "commentaries",
+        "alleenfolioid": "vlf48_30_vb"
+    },
+    {
+        "multipeimageid": "commentaries",
+        "afbeelding": "1925.jpg"
+    },
+    {
+        "multipeimageid": "commentaries",
+        "alleenfolioid": "bnf178_164_v"
+    },
+    {
+        "multipeimageid": "bnf278_49_r_50_v_52_r",
+        "alleenfolioid": "bnf278_49_r"
+    },
+    {
+        "multipeimageid": "bnf278_49_r_50_v_52_r",
+        "alleenfolioid": "bnf278_50_v"
+    },
+    {
+        "multipeimageid": "bnf278_49_r_50_v_52_r",
+        "alleenfolioid": "bnf278_52_r"
+    },
+    {
+        "multipeimageid": "marginalnotes",
+        "foliopartid": 59
+    },
+    {
+        "multipeimageid": "marginalnotes",
+        "afbeelding": "17806f4vfr2.jpg"
+    },
+    {
+        "multipeimageid": "marginalnotes",
+        "afbeelding": "7900Af84r.jpg"
+    },
+    {
+        "multipeimageid": "marginalnotes",
+        "foliopartid": 97
+    },
+    {
+        "multipeimageid": "marginalnotes",
+        "foliopartid": 28
+    },
+    {
+        "multipeimageid": "marginalnotes",
+        "afbeelding": "11127f161r.jpg"
+    },
+    {
+        "multipeimageid": "circlediagram",
+        "afbeelding": "48f32r.jpg"
+    },
+    {
+        "multipeimageid": "circlediagram",
+        "afbeelding": "88f63r.jpg"
+    },
+    {
+        "multipeimageid": 6638,
+        "afbeelding": "6638.jpg"
+    },
+    {
+        "multipeimageid": 6638,
+        "alleenfolioid": "bnf663_6_bis_r"
     }
 ]

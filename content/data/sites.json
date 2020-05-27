@@ -10,7 +10,7 @@
     },
     {
         "title": "Manuscripts",
-        "docx_file": "manuscripts-lay",
+        "docx_file": "VEmanuscripts",
         "page_id": "mho",
         "theme": "manuscripts",
         "file_name": "manuscripts",
@@ -39,7 +39,7 @@
     },
     {
         "title": "The medieval classroom",
-        "docx_file": "classroom",
+        "docx_file": "VEclassroom",
         "page_id": "1mc",
         "theme": 1,
         "file_name": "Medieval-Classroom",
@@ -48,7 +48,7 @@
     },
     {
         "title": "The curriculum",
-        "docx_file": "curriculum",
+        "docx_file": "VEcurriculum",
         "page_id": "1cu",
         "theme": 1,
         "file_name": "Curriculum",
@@ -57,7 +57,7 @@
     },
     {
         "title": "Dialectica and Rhetorica",
-        "docx_file": "dialecticarhetorica",
+        "docx_file": "VEdialecticaretorica",
         "page_id": "1dr",
         "theme": 1,
         "file_name": "Dialectica-Rhetorica",
@@ -85,7 +85,7 @@
     },
     {
         "title": "John the Scot and his assistant",
-        "docx_file": "johnscot",
+        "docx_file": "VEjohnscot",
         "page_id": "2js",
         "theme": 2,
         "file_name": "John-Scot-his-assistant",
@@ -113,7 +113,7 @@
     },
     {
         "title": "Gerbert of Aurillac-Abbo of Fleury",
-        "docx_file": "empty",
+        "docx_file": "VEabbo",
         "page_id": "2ga",
         "theme": 2,
         "file_name": "Gerbert-Aurillac-AbboFleury",
@@ -141,7 +141,7 @@
     },
     {
         "title": "Glosses and commentaries",
-        "docx_file": "gandc_lay",
+        "docx_file": "VEgandc",
         "page_id": "3gc",
         "summary": "Learn about the glosses and commentaries. Learn about the glosses and commentaries. Learn about the glosses and commentaries.",
         "theme": 3,
@@ -161,7 +161,7 @@
     },
     {
         "title": "Diagrams and schemes",
-        "docx_file": "trees_lay",
+        "docx_file": "VEtrees",
         "page_id": "3ds",
         "summary": "Learn about the diagrams and schemes. Learn about the diagrams and schemes. Learn about the diagrams and schemes. ",
         "theme": 3,
@@ -178,5 +178,16 @@
         "file_name": "syllogism",
         "template_file": "theme-item",
         "navigation_file": "nav-3"
+    },
+    {
+        "title": "±±±t4±±±",
+        "docx_file": "empty",
+        "page_id": "4ho",
+        "summary": "Learn about the diagrams and schemes. Learn about the diagrams and schemes. Learn about the diagrams and schemes. ",
+        "remarks": "Landing page for the 1",
+        "theme": "top",
+        "file_name": "theme4",
+        "template_file": "theme-landing",
+        "navigation_file": "nav-4"
     }
 ]
