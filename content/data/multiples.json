@@ -146,5 +146,32 @@
     {
         "multipeimageid": 6638,
         "alleenfolioid": "bnf663_6_bis_r"
+    },
+    {
+        "multipeimageid": "disputatio",
+        "alleenfolioid": "val404_cover_"
+    },
+    {
+        "multipeimageid": "disputatio",
+        "alleenfolioid": "gal273_cover_"
+    },
+    {
+        "multipeimageid": "bpl144drawings",
+        "afbeelding": "144f17v.jpg"
+    },
+    {
+        "multipeimageid": "bpl144drawings",
+        "afbeelding": "144f37r.jpg"
+    },
+    {
+        "multipeimageid": "bpl144drawings",
+        "afbeelding": "144f49v.jpg"
+    },
+    {
+        "multipeimageid": "bpl144edges",
+        "afbeelding": "144f20v.jpg"
+    },
+    {
+        "multipeimageid": "bpl144edges"
     }
 ]

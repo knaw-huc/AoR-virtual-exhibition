@@ -154,7 +154,7 @@
         "img_file_name": "6400f24r.jpg",
         "alttext": "Paris, BnF, lat. 6400 G f.24r",
         "description": "Paris, BnF, lat. 6400 G f.24r",
-        "resource": "Bron?"
+        "resource": "Bibliotheque Nationale de France"
     },
     {
         "img_file_name": "144side.jpg",
@@ -782,5 +782,17 @@
         "alttext": "UB BPL 88 f.63r",
         "description": "UB BPL 88 f.63r",
         "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "84f84rfr.jpg",
+        "alttext": "UB BPL 84 f.84r",
+        "description": "Initial Q",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "404.51.jpg",
+        "alttext": "Valenciennes, Cod. 404 f.51v",
+        "description": "Valenciennes, Cod. 404 f.51v. Note the use of colour and different sized nodes to structure the scheme.",
+        "resource": "Gallica"
     }
 ]

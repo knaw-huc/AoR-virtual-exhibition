@@ -135,10 +135,11 @@
         "afbeelding_aanwezig": true
     },
     {
+        "folioid": "vlf48_95_vc",
         "fpid": 18,
-        "fpname": "VLF 48",
-        "fpdescription": "VLF 48",
-        "referentie_afb": "48f95v.jpg",
+        "fpname": "Close-up",
+        "fpdescription": "In the second set of schemes lines connect terms of the propositions and conclusion in order to indicate how the argument is constructed. Visualising the argument in this way helps understand why it is valid.",
+        "referentie_afb": "48f95vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
@@ -150,7 +151,7 @@
         "afbeelding_aanwezig": false
     },
     {
-        "folioid": "vlf48_95_v",
+        "folioid": "vlf48_95_vc",
         "fpid": 20,
         "fpname": "Close-up",
         "fpdescription": "The scheme is evidence of a reader trying to understand the steps made by Dialectic in reaching this conclusion; the scheme illustrates the reader’s thought process!",
@@ -277,7 +278,6 @@
         "afbeelding_aanwezig": true
     },
     {
-        "folioid": "bpl84_84_r",
         "fpid": 39,
         "fpname": "BPL 84 f.84r",
         "fpdescription": "Leiden UB BPL 84 f.84r",
@@ -285,7 +285,7 @@
         "afbeelding_aanwezig": false
     },
     {
-        "folioid": "bpl84_84_r",
+        "folioid": "bpl84_84_rb",
         "fpid": 40,
         "fpname": "BPL 84 f.84r",
         "referentie_afb": "84f84rfr.jpg",
@@ -295,6 +295,7 @@
         "folioid": "bpl84_89_v",
         "fpid": 41,
         "fpname": "BPL 84 f.89v",
+        "fpdescription": "Here the scheme offers three examples of simple propositions which share one term (either subject or predicate) ‘homo animal est. animal substantia est.’ [Man is an animal; an animal is a substance’] ‘homo grammaticus est. homo musicus est.’ [Man is a grammarian; man is a musician’] ‘homo animal est. equus animal est.’ [Man is an animal. A horse is an animal]",
         "referentie_afb": "84f89vfr.jpg",
         "afbeelding_aanwezig": false
     },
@@ -302,7 +303,7 @@
         "folioid": "bpl84_89_v",
         "fpid": 42,
         "fpname": "BPL 84 f.89v",
-        "fpdescription": "Fol 90r: INCIPIT ARS DIALECTICA ALCHOINI PHILOSOPHI. AD KAROLUM MAGNUM; “The Art of reasoning of Alcuin the Philosopher for Charlemagne begins.” Questions from Charlemagne are marked with K (Karolus), answers from Alcuin with A (Alcuin).",
+        "fpdescription": "Here the scheme represents Boethius’ account of ‘conversion by opposition’ (‘contraposition’) The second set of propositions: ‘Omnis non homo animal est. Omne animal non homo est.’ (’All non-man is an animal; all animals are not man’) shows how switching the order of the subject and predicate of the sentence generates a new proposition.\n",
         "referentie_afb": "84f89vfr2.jpg",
         "afbeelding_aanwezig": false
     },
@@ -332,16 +333,17 @@
     {
         "folioid": "bpl144_2_r",
         "fpid": 46,
-        "fpname": "BPL 144 f.2r",
+        "fpname": "Margin",
         "referentie_afb": "144f2rfr2.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_2_r",
         "fpid": 47,
-        "fpname": "BPL 144 f.2r",
+        "fpname": "Nota signs",
+        "fpdescription": "Written nota signs from the original annotating hand (below) and from the later one (above)",
         "referentie_afb": "144f2rfr3.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_10_r",
@@ -399,9 +401,9 @@
         "afbeelding_aanwezig": false
     },
     {
-        "folioid": "bpl144_58_r",
         "fpid": 55,
-        "fpname": "BPL 144 f.58r",
+        "fpname": "Damaged page",
+        "fpdescription": "You can see that the material was already damaged when the scribe was copying the commentary into the margins: he/she deals with the damages parchment and the hole in it.",
         "referentie_afb": "144f58r.jpg",
         "afbeelding_aanwezig": false
     },
@@ -648,9 +650,8 @@
         "afbeelding_aanwezig": false
     },
     {
-        "folioid": "bpl84_83_v",
+        "folioid": "bpl84_84_v",
         "fpid": 91,
-        "fpdescription": "Initial ‘Q’ on f. 84r",
         "referentie_afb": "84f83v2.jpg",
         "afbeelding_aanwezig": false
     },
@@ -757,6 +758,56 @@
         "fpid": 106,
         "fpname": "part 4",
         "fpdescription": "We know who one of these scribes was – Rather of Verona (890-974) added a copy of a letter at the base of the page.",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bpl144_66_v",
+        "fpid": 107,
+        "fpname": "close-up",
+        "referentie_afb": "144f66v.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bpl144_2_rd",
+        "fpid": 108,
+        "fpname": "hand 1",
+        "referentie_afb": "144hand1.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bpl144_2_rd",
+        "fpid": 109,
+        "fpname": "hand 2",
+        "referentie_afb": "144hand2.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bpl144_2_r",
+        "fpid": 110,
+        "fpname": "Nota signs 2",
+        "fpdescription": "A written Nota sign in the original hand, and a drawn head as attention sign in the later hand.",
+        "referentie_afb": "144f2rfr4.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bpl144_18_rb",
+        "fpid": 111,
+        "fpname": "Talking Heads",
+        "referentie_afb": "144f18r2.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bpl144_83_r",
+        "fpid": 112,
+        "fpname": "close-up",
+        "referentie_afb": "144f83.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bpl144_85_v",
+        "fpid": 113,
+        "fpname": "close-up",
+        "referentie_afb": "144f85v.jpg",
         "afbeelding_aanwezig": false
     }
 ]

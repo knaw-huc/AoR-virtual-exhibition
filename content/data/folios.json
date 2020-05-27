@@ -1696,5 +1696,100 @@
         "foliofilename": "UB_VLF_48_f95_v.jpg",
         "foliodescription": "Leiden, UB, VLF 48",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618286"
+    },
+    {
+        "manuscript_id": "val404",
+        "folioid": "val404_27_r",
+        "folionr": 27,
+        "foliotype": "r",
+        "foliofilename": "Valenciennes_BM_404_f27_r.jpg",
+        "foliodescription": "Valenciennes, Cod. 404 (Saint Amand, f. 27r)",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452582n/f57.image.r=Valenciennes"
+    },
+    {
+        "manuscript_id": "val404",
+        "folioid": "val404_cover_",
+        "folionr": "cover",
+        "foliofilename": "Valenciennes_BM_404_cover_.jpg",
+        "foliodescription": "Valenciennes, BM Cod. 404, 219 × 148 mm",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452582n/f246.image.r=Valenciennes"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_cover_",
+        "folionr": "cover",
+        "foliofilename": "Gall_SB_Cod_Sang_273_cover_.jpg",
+        "foliodescription": "St Gall SB, Cod. Sang. 273 (145 x 125mm)",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/bindingA/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_225_",
+        "folionr": 225,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.225_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 225.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/225/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_233_",
+        "folionr": 233,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.233_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 233",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/233/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_224_",
+        "folionr": 224,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.224_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 224.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/224/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_234_",
+        "folionr": 234,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.234_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 234.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/234/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_66_v",
+        "folionr": 66,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_144_f66_v.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.66v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357017"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_2_rd",
+        "folionr": 2,
+        "foliotype": "r",
+        "folioextra": "d",
+        "foliofilename": "UB_BPL_144_f2_r.jpg",
+        "foliodescription": "f.2r: Opening of de Consolatio Philosophiae",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357082"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_18_rb",
+        "folionr": 18,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_144_f18_r.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.18r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357066"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_83_r",
+        "folionr": 18,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_144_f83_r.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.83r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357001"
     }
 ]

@@ -457,7 +457,7 @@ function handlePopups(content) {
 
     var find = '±i±'+siteJson[i].page_id+'±i±';
     var regex = new RegExp(find, "g");
-    content = content.replace(regex, '<a href="#" onClick="javascript:popup('1'); return false">*info*</a>');
+    //content = content.replace(regex, '<a href="#" onClick="javascript:popup('1'); return false">*info*</a>');
   }
   return content;
 }
