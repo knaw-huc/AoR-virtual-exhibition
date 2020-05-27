@@ -135,7 +135,6 @@
         "afbeelding_aanwezig": true
     },
     {
-        "folioid": "vlf48_95_v",
         "fpid": 18,
         "fpname": "VLF 48",
         "fpdescription": "VLF 48",
@@ -145,7 +144,7 @@
     {
         "folioid": "vlf48_95_v",
         "fpid": 19,
-        "fpname": "VLF 48 2",
+        "fpname": "Close-up",
         "fpdescription": "VLF 48 2",
         "referentie_afb": "48f95vfr.jpg",
         "afbeelding_aanwezig": false
@@ -153,8 +152,8 @@
     {
         "folioid": "vlf48_95_v",
         "fpid": 20,
-        "fpname": "VLF 48 3",
-        "fpdescription": "VLF 48 3",
+        "fpname": "Close-up",
+        "fpdescription": "The scheme is evidence of a reader trying to understand the steps made by Dialectic in reaching this conclusion; the scheme illustrates the reader’s thought process!",
         "referentie_afb": "48f95vfr2.jpg",
         "afbeelding_aanwezig": false
     },

@@ -1686,5 +1686,15 @@
         "foliofilename": "UB_BPL_139_f39_v.jpg",
         "foliodescription": "Leiden UB BPL 139 B f.39v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "vlf48_95_vc",
+        "folionr": 95,
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "UB_VLF_48_f95_v.jpg",
+        "foliodescription": "Leiden, UB, VLF 48",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618286"
     }
 ]
