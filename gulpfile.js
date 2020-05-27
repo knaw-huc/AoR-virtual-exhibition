@@ -4,7 +4,8 @@
 // npm install -g google-spreadsheet-to-json
 // gulp getj
 // gulp convHtml
-// gulp manuscriptComps
+// gulp manuscriptComps (not active)
+// gulp fc
 
 // gsjson 1k2EgdCT3iSo_8hGwt_dOQvKwEpBcTIFe4wefljkrb5Q >> content/data.json -b
 
@@ -480,12 +481,26 @@ function handleManuscriptComponentMulti(content) {
 }
 
 
-
+// gulp convHtml
 function handletextPre(content) {
     content = content.replace(/±f±<br \/><\/p>/g, "±f±</p>");
     content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
 
-    //<br />±col2span±</p>
+    content = content.replace(/<p>±row±<br \/>±col1±<\/p>/g, "<p>±row±</p><p>±col1±</p>");
+    content = content.replace(/]]] <\/p>/g, "]]]</p>");
+    content = content.replace(/<p>±col3± <\/p>/g, "<p>±col3±</p>");
+    content = content.replace(/<p>±row±<br \/>±col1span±<\/p>/g, "<p>±row±</p><p>±col1span±</p>");
+    content = content.replace(/<h2>±col1±<\/h2>/g, "<p>±col1±</p>");
+    content = content.replace(/<p>±row±<br \/>±col1±<br \/>/g, "<p>±row±</p><p>±col1±</p><p>");
+    content = content.replace(/<p>±col2span± <\/p>/g, "<p>±col2span±</p>");
+    content = content.replace(/<p>±col2±<br \/>/g, "<p>±col2±</p><p>");
+    content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
+    content = content.replace(/<p>±col2span±<br \/>/g, "<p>±col2span±</p><p>");
+    content = content.replace(/<br \/><\/em>±col3±<\/p>/g, "</em></p><p>±col3±</p>");
+    content = content.replace(/<br \/>±col2±<\/p>/g, "</p><p>±col2±</p>");
+    content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
+
+//<p><br />±row±</p>
   return content;
 }
 
