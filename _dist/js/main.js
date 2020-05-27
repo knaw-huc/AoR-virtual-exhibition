@@ -49,26 +49,13 @@ if (pageId == 'home') {
   });
 }
 
-
-// Folioparts  ///
-
-
-
-
-
-
-
-
-// TABS //
-// use .hcTabLabel for labels
-// use .hcTabContent for the content divs.
-
-// use a unique id with both pre codes
 var preListVal = "tab-list-";
 var preContentVal = "tab-content-";
 var firstTabId = '';
 
-//go through al buttons
+hideTabContent();
+firstTabVisable();
+
 var handleTabLabel = document.querySelectorAll(".hcTabLabel");
   for (i = 0; i < handleTabLabel.length; i++) {
     var selectedTab = handleTabLabel[i];
@@ -84,48 +71,75 @@ var handleTabLabel = document.querySelectorAll(".hcTabLabel");
 //handle the name of the tab
 function handleTabs(selectedTab) {
 
-  console.log(selectedTab.target.id);
-  if (selectedTab.target.id == 'tab-list-2') {
-    document.getElementById('f2').style.display= 'block';
-    document.getElementById('vlf48_30_v').setAttribute('viewBox', '500 1050 850 800');
-  } else {
-    document.getElementById('f2').style.display= 'none';
-    document.getElementById('vlf48_30_v').setAttribute('viewBox', '0 0 1899 2353');
-  }
+  //console.log(selectedTab.target.id);
 
-
-
-  // hide all
-  hideTabContent();
 
   var elementId = selectedTab.srcElement.id;
   var tabCore = elementId.replace(preListVal, "");
-  makeTabVisable(tabCore);
+  var compId = document.getElementById(elementId).parentNode.id
+  compId = compId.replace("f_", "");
+  hideTabContent(compId);
+  makeTabVisable(tabCore,compId);
 }
 
-// make one tab visable by core ID
-function makeTabVisable(contentId) {
+
+function makeTabVisable(contentId,compId) {
   document.getElementById(preContentVal+contentId).style.display= 'flex';
+  document.getElementById(preContentVal+'2'+contentId).style.display= 'flex';
 }
 
 // hide all tabs
-function hideTabContent() {
-  var handleTabVis = document.querySelectorAll(".hcTabContent");
+function hideTabContent(compId) {
+  var comp = ''
+  var handleTabVis = [];
+
+  if (typeof compId !== "undefined") {
+    comp  = '#'+compId;
+    handleTabVis = document.querySelectorAll(comp+" .hcTabContent");
+  }
+  else {
+    handleTabVis = document.querySelectorAll(".hcTabContent");
+  }
+
+
     for (i = 0; i < handleTabVis.length; i++) {
       handleTabVis[i].style.display= 'none';
   }
 }
 
-// show the first tab
+
+
 function firstTabVisable() {
-  hideTabContent();
-  if (firstTabId != '') {
-    var firstTabCore = firstTabId.replace(preListVal, "");
-    makeTabVisable(firstTabCore);
-  }
+  var handleTabVis = document.querySelectorAll(".aorFoliosCaption .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child");
+
+    for (i = 0; i < handleTabVis.length; i++) {
+      //handleTabVis[i].style.display= 'none';
+      handleTabVis[i].style.display= 'flex';
+    }
+
 }
 
-firstTabVisable();
+var handleTabLabel = document.querySelectorAll(".aorNoteA");
+  for (i = 0; i < handleTabLabel.length; i++) {
+    handleTabLabel[i].removeAttribute("href");
+
+    var selectedTab = handleTabLabel[i];
+    handleTabLabel[i].addEventListener('click', noteClick, selectedTab);
+}
+
+function noteClick(id) {
+  var footnoteId = id.target.id
+  footnoteId = footnoteId.replace("footnote-ref-", "footnote-");
+
+  var noteContent = document.getElementById(footnoteId).innerHTML;
+  document.getElementById('noteBlockContent').innerHTML= noteContent;
+  document.getElementById("noteBlock").style.display = 'block';
+}
+
+
+function closeNote() {
+  document.getElementById("noteBlock").style.display = 'none';
+}
 
 var toggleVars = [];
 
