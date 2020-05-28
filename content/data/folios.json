@@ -780,7 +780,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_1_v.jpg",
         "foliodescription": "Leiden UB BPL 25 f.1v-2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/7/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617706"
     },
     {
         "manuscript_id": "bpl25",
@@ -789,7 +789,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_f2_v.jpg",
         "foliodescription": "Leiden UB BPL 25 f.2v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/8/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617719"
     },
     {
         "manuscript_id": "bpl25",
@@ -834,7 +834,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_25_f42_r.jpg",
         "foliodescription": "Leiden UB BPL 25 f.42r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/47/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617708"
     },
     {
         "manuscript_id": "bpl84",
@@ -936,7 +936,6 @@
         "folionr": 16,
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f16_v.jpg",
-        "foliodescription": "Furthermore, a new set of quire gatherings starts on f. 17r; from this point to the end of the manuscript quires are numbered with numbers, not letters.",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348865"
     },
     {
@@ -1542,7 +1541,7 @@
         "foliotype": "r",
         "foliofilename": "UB_VLF_48_f32_r.jpg",
         "foliodescription": "Leiden, UB, VLF 48 f.32r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/39/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028456"
     },
     {
         "manuscript_id": "vlf48",
@@ -1551,7 +1550,7 @@
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_1v.jpg",
         "foliodescription": "Leiden UB VLF 48 f.1v-2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/12/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618389"
     },
     {
         "manuscript_id": "vlf48",
@@ -1560,7 +1559,7 @@
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f50_v.jpg",
         "foliodescription": "Leiden UB VLF f.50v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/60/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618334"
     },
     {
         "manuscript_id": "vlf48",
@@ -1569,7 +1568,7 @@
         "foliotype": "r",
         "foliofilename": "UB_VLF_48_f2_r.jpg",
         "foliodescription": "Leiden UB VLF 48 f.2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/12/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618389"
     },
     {
         "manuscript_id": "vlf48",
@@ -1578,7 +1577,7 @@
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f4_v.jpg",
         "foliodescription": "Leiden UB VLF 48 f.4v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/15/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618327"
     },
     {
         "manuscript_id": "vlf48",
@@ -1596,7 +1595,7 @@
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f92_v.jpg",
         "foliodescription": "Leiden UB VLF 48 f.92v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/103/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618295"
     },
     {
         "manuscript_id": "vlf48",
@@ -1791,5 +1790,194 @@
         "foliofilename": "UB_BPL_144_f83_r.jpg",
         "foliodescription": "Leiden UB BPL 144 f.83r",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357001"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_58_rb",
+        "folionr": 58,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_144_f58_r.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.58r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357026"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_93_v",
+        "folionr": 93,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_144_f93_v.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.93v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2356990"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "vlf48_30_vc",
+        "folionr": 30,
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "UB_VLF_48_30_v.jpg",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618307"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "vlf48_32_rb",
+        "folionr": 32,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_VLF_48_f32_r.jpg",
+        "foliodescription": "Leiden, UB, VLF 48 f.32r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028456"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_4_vb",
+        "folionr": 4,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f4_v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.4v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028606"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_171_rb",
+        "folionr": 171,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_171_r.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.171r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028470"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_1_r",
+        "folionr": 1,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f1_r.jpg",
+        "foliodescription": "f. 1r: The opening of Cicero’s De inventione",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668179"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_68_v",
+        "folionr": 68,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f68_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.68v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668199"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_13_v",
+        "folionr": 13,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f13_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.13v-14r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668136"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_11_r",
+        "folionr": 11,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f11_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.11r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668240"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_11_v",
+        "folionr": 11,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f11_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.11v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668197"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_28_r",
+        "folionr": 28,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f28_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.28r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668188"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_58_v",
+        "folionr": 58,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f58_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.58v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668190"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_25_r",
+        "folionr": 25,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f25_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.25r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668224"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_70_v",
+        "folionr": 70,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f70_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.70v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668223"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_95_r",
+        "folionr": 95,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f95_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.95r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668225"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_50_v",
+        "folionr": 50,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f50_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.50v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668152"
+    },
+    {
+        "manuscript_id": "ein29",
+        "folioid": "ein29_165_",
+        "folionr": 165,
+        "foliofilename": "Einsieldeln_29 (878)_p165.jpg",
+        "foliodescription": "Manuscripts were often ruled with a knife; here we can see on p. 165 that the blade has cut through the parchment while ruling the edge of the text block.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/165/0/Sequence-965"
+    },
+    {
+        "manuscript_id": "ein29",
+        "folioid": "ein29_166_",
+        "folionr": 166,
+        "foliofilename": "Einsieldeln_29 (878)_p166.jpg",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/166/0/Sequence-965"
+    },
+    {
+        "manuscript_id": "ein29",
+        "folioid": "ein29_171_",
+        "folionr": 171,
+        "foliofilename": "Einsieldeln_29 (878)_p171.jpg",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/171/0/Sequence-965"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_39_vb",
+        "folionr": 39,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_139_f39_v.jpg",
+        "foliodescription": "Leiden UB BPL 139 B f.39v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
     }
 ]

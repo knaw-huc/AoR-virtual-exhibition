@@ -287,23 +287,26 @@
     {
         "img_file_name": "11127f2r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.2r",
+        "description": "Paris, BnF, lat. 11127 f.2r",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "10510f20v",
         "alttext": "Paris, BnF, lat. 10510 f.20v",
+        "description": "Paris, BnF, lat. 10510 f.20v",
         "resource": "Wikipedia",
         "hyperlink": "https://de.wikipedia.org/wiki/Datei:Willibrord_(Paris,_BN_Lat._10510).jpg"
     },
     {
         "img_file_name": "11127f30v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.30v",
+        "description": "Paris, BnF, lat. 11127 f.30v",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "11127f161r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.161r",
-        "description": "(6) underlining is used to highlight certain passages",
+        "description": "underlining is used to highlight certain passages",
         "resource": "eigen foto"
     },
     {
@@ -314,6 +317,7 @@
     {
         "img_file_name": "11127f64r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.64r",
+        "description": "Paris, BnF, lat. 11127 f.64r",
         "resource": "eigen foto"
     },
     {
@@ -331,7 +335,7 @@
     {
         "img_file_name": "103f1rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Leiden, UB, VLQ 103 f.1r",
+        "description": "Leiden, UB, VLQ 103 f.1r (detail)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
@@ -433,16 +437,19 @@
     {
         "img_file_name": "11127f8v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.8v",
+        "description": "Paris, BnF, lat. 11127 f.8v",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "11127f24r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.24r",
+        "description": "Paris, BnF, lat. 11127 f.24r",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "11127f49r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
+        "description": "Paris, BnF, lat. 11127 f.49r",
         "resource": "eigen foto"
     },
     {
@@ -489,21 +496,25 @@
     {
         "img_file_name": "11127f37vfr1.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.37v",
+        "description": "Paris, BnF, lat. 11127 f.37v",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "11127f37vfr2.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.37v",
+        "description": "Paris, BnF, lat. 11127 f.37v",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "11127f132v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.132v",
+        "description": "Paris, BnF, lat. 11127 f.132v",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "11127f129v.jpg",
-        "alttext": "Paris, BnF, lat. 11127 f.132v",
+        "alttext": "Paris, BnF, lat. 11127 f.129v",
+        "description": "Paris, BnF, lat. 11127 f.129v",
         "resource": "eigen foto"
     },
     {
@@ -527,11 +538,13 @@
     {
         "img_file_name": "11127f63r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.63r",
+        "description": "Paris, BnF, lat. 11127 f.63r",
         "resource": "eigen foto"
     },
     {
         "img_file_name": "11127f170v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.170v",
+        "description": "Paris, BnF, lat. 11127 f.170v",
         "resource": "eigen foto"
     },
     {
@@ -786,7 +799,7 @@
     {
         "img_file_name": "84f84rfr.jpg",
         "alttext": "UB BPL 84 f.84r",
-        "description": "Initial Q",
+        "description": "Initial Q on f.84r",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
@@ -794,5 +807,133 @@
         "alttext": "Valenciennes, Cod. 404 f.51v",
         "description": "Valenciennes, Cod. 404 f.51v. Note the use of colour and different sized nodes to structure the scheme.",
         "resource": "Gallica"
+    },
+    {
+        "img_file_name": "144f90r.jpg",
+        "alttext": "Leiden UB BPL 144 f.90r",
+        "description": "We see the orbits of the Sun, Mercury and Venus, arranged in such a manner that their paths overlap.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "rhetoric.jpg",
+        "alttext": "BnF_lat_7900A_140_v.jpg",
+        "description": "Portrait of Lady Rhetoric on f.140v",
+        "resource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f300.image.r=7900A"
+    },
+    {
+        "img_file_name": "music.jpg",
+        "alttext": "BnF_lat_7900A_153_v.jpg",
+        "description": "The art of music is illustrated on f. 153v",
+        "resource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f326.image.r=7900A"
+    },
+    {
+        "img_file_name": "25f6v.jpg",
+        "alttext": "Leiden UB BPL 25 f.6v",
+        "description": "Leiden UB BPL 25 f.6v"
+    },
+    {
+        "img_file_name": "25f7r.jpg",
+        "alttext": "Leiden UB BPL 25 f.7r",
+        "description": "F. 7r: A bad spot and tear in the parchment were already there before the writing started: the scribe carefully writes around it."
+    },
+    {
+        "img_file_name": "25f7v.jpg",
+        "alttext": "Leiden UB BPL 25 f.7v",
+        "description": "F. 7v: This set up of the two faces that link the note in the margin to the correct place in the text confirms that the faces are part of the thirteenth-century layer of reader’s notes, and not the original tenth-century one."
+    },
+    {
+        "img_file_name": "25f30v32r",
+        "alttext": "Leiden UB BPL 25 f.30v-32r",
+        "description": "Leiden UB BPL 25 f.30v-32r"
+    },
+    {
+        "img_file_name": "22f68v.jpg",
+        "alttext": "Leiden UB GRO 22 f.68v",
+        "description": "Close-up f.68v",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f72v.jpg",
+        "alttext": "Leiden UB GRO 22 f.72v",
+        "description": "Close-up f.72v",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f73v.jpg",
+        "alttext": "Leiden UB GRO 22 f.73v",
+        "description": "Close-up f.73v",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f45v.jpg",
+        "alttext": "Leiden UB GRO 22 f.45v",
+        "description": "Close-up f.45v",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f11r2.jpg",
+        "alttext": "Leiden UB GRO 22 f.11r",
+        "description": "f. 11r: ‘Rara est adeo concordia formae atque pudicitiae’: ‘Beauty rarely coincides with chastity’ (Juvenal, Satires, 10.295) – gloss to De inventione I.XXIV.35, where Cicero notes that a person could be either handsome or ugly.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f41v.jpg",
+        "alttext": "Leiden UB GRO 22 f.41v",
+        "description": "f. 41v: ‘Facilius est commendare paupertatem quam sustinere’: ‘It is easier to praise poverty than to put up with it’. The quotation is attributed to ‘Seneca’ and paraphrases Seneca the Elder’s Controversiae II.18. The passage glosses the question of appropriate reward for virtuous acts (De inventione, II.XXXIX.115)",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f70r.jpg",
+        "alttext": "Leiden UB GRO 22 f.70r",
+        "description": "f. 70r: ‘Nichil est iniquius his qui nusquam putant esse subtilitatem nisi ubi nihil est praeter subtilitatem’: ‘Nothing is more unfair than to think that acuteness is only present when there is nothing present but acuteness’. Quoting again from Seneca the Elder (Controversiae, I.21, trans. Winterbottom, LCL 463, p. 21), the quotation glosses Rhetorica ad Herennium II.XI.16, which concerns the dangers of ambiguous oratory.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f25r.jpg",
+        "alttext": "Leiden UB GRO 22 f.25r",
+        "description": "Who is Magister Iohannes de P[arvi?] ponte? Was he, like Adamus Parvipontus [link], a master who taught on the petit pont in Paris?",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "22f61r.jpg",
+        "alttext": "Leiden UB GRO 22 f.61r",
+        "description": "Who is Magister Alexander, referred to here in a gloss to the Rhetorica ad Herennium (f. 61r)?",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "139f44v.jpg",
+        "alttext": "Leiden UB BPL 139B f.44v",
+        "description": "This little sketch in the margin of Leiden, BPL 139B, f. 44v, represents another manner of visualising the finite number of pairings of the predicables",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "84f32v.jpg",
+        "alttext": "Leiden UB BPL 84 f.32v",
+        "description": "f.32v quire numbered with letters",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "84f8v.jpg",
+        "alttext": "Leiden UB BPL 84 f.8v",
+        "description": "f.8v 'c'",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "84f16v.jpg",
+        "alttext": "Leiden UB BPL 84 f.16v",
+        "description": "f.17v 'd'",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "84f64v.jpg",
+        "alttext": "Leiden UB BPL 84 f.64v",
+        "description": "Initial Q on f.64v",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "84f83v.jpg ",
+        "alttext": "Leiden UB BPL 84 f.83v",
+        "description": "Initial H on f.83v",
+        "resource": "Universiteitsbibliotheek Leiden"
     }
 ]

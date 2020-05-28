@@ -190,19 +190,19 @@
         "folioid": "vlf48_2_r",
         "fpid": 25,
         "referentie_afb": "48f2r.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_2_rb",
         "fpid": 26,
         "referentie_afb": "48f2r2.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_4_v",
         "fpid": 27,
         "referentie_afb": "48f4v.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_32_r",
@@ -217,14 +217,14 @@
         "fpid": 29,
         "fpname": "Commentary",
         "referentie_afb": "7900Af112r.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_1_v",
         "fpid": 30,
         "fpdescription": "In close-up, the dirt and wear and tear on the page are even more visible. We can also see that a later hand wrote the title of the work on the top of the page: ‘Aristotelis liber i peri er[meneias] a boecio comentatus expositusque’ (see green box) (The first book of Aritotle’s Peri hermeneias, commented upon and expounded by Boethius). In the red box you can see the Greek title of Aristotle’s work, Peri Hermeneias. It is written in Greek capitals. A line over the words emphasizes the fact that it is Greek.",
         "referentie_afb": "25f1v2rfr.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_2_v",
@@ -254,7 +254,7 @@
         "folioid": "bpl25_42_r",
         "fpid": 35,
         "referentie_afb": "25f42r.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf178_4_v",
@@ -401,6 +401,7 @@
         "afbeelding_aanwezig": false
     },
     {
+        "folioid": "bpl144_58_rb",
         "fpid": 55,
         "fpname": "Damaged page",
         "fpdescription": "You can see that the material was already damaged when the scribe was copying the commentary into the margins: he/she deals with the damages parchment and the hole in it.",
@@ -537,28 +538,28 @@
         "folioid": "ein315_6_",
         "fpid": 74,
         "referentie_afb": "ein315p6.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "ein315_6_",
         "fpid": 75,
         "fpdescription": "The text has been carefully corrected, here ‘ad’ has been corrected to ‘ab’ and ‘actenus’ to ‘hactenus’.",
         "referentie_afb": "ein315p6fr.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "ein315_6_",
         "fpid": 76,
         "fpdescription": "Here small squiggles have been added in the margin alongside the text; these are rudimentary quotation marks indicating original text from the Isagoge, the subject of Boethius’ commentary.",
         "referentie_afb": "ein315p6fr2.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "ein315_6_",
         "fpid": 77,
         "fpdescription": "Here interlinear glosses have been added to provide Latin equivalents of the Greek terms hyperbaton (transposition of words) and zeuma (where one word can be used in two different contexts). The glossator describes these as ‘confusus ordo’, the confusion of order, and ‘repetitio’, repetition, respectively.",
         "referentie_afb": "ein315p6fr3.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_103_v",
@@ -613,20 +614,20 @@
         "fpid": 85,
         "fpdescription": "f. 13r: ‘Retro in libro topicorum iii’: ‘Back in book III of the Topics’",
         "referentie_afb": "84f13r.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_14_r",
         "fpid": 86,
         "fpdescription": "f. 14r: ‘Retro in fine libri tercium topicorum ciceronis’: ‘Back in the end of the third book of Cicero’s Topics’",
         "referentie_afb": "84f14r.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_57_v",
         "fpid": 87,
         "referentie_afb": "84f57v.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_44_v",
@@ -692,7 +693,7 @@
     {
         "folioid": "bpl88_4_v",
         "fpid": 97,
-        "fpdescription": "(4) Text in the box: ‘According to Calcidius, entelechy is perfecta aetas, completed lifetime. According to Aristotle, it is interpreted as absolute perfection. Plato, on the other hand, says that entelechy is the anima mundi, the soul of the world.’",
+        "fpdescription": "Text in the box: ‘According to Calcidius, entelechy is perfecta aetas, completed lifetime. According to Aristotle, it is interpreted as absolute perfection. Plato, on the other hand, says that entelechy is the anima mundi, the soul of the world.’",
         "referentie_afb": "88f4v.jpg",
         "afbeelding_aanwezig": false
     },
@@ -706,7 +707,7 @@
         "folioid": "bpl88_172_vb",
         "fpid": 99,
         "referentie_afb": "88f172v2.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf1296_8_v",
@@ -809,5 +810,74 @@
         "fpname": "close-up",
         "referentie_afb": "144f85v.jpg",
         "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bpl88_171_rb",
+        "fpid": 114,
+        "fpname": "close-up",
+        "referentie_afb": "88f171rb.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "gro22_13_v",
+        "fpid": 115,
+        "fpname": "gloss 1",
+        "fpdescription": "Here the glossator introduces the characters in the conversation.",
+        "referentie_afb": "22f13v.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "gro22_13_v",
+        "fpid": 116,
+        "fpname": "gloss 2",
+        "fpdescription": "‘Ecce’, ‘Look’, the glossator writes – ‘an example of induction’ . ",
+        "referentie_afb": "22f13v2.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "gro22_13_v",
+        "fpid": 117,
+        "fpname": "gloss 3",
+        "fpdescription": "The glossator indicates who is speaking between the lines (‘Aspasia’s words’, ’Xenophon’s wife responds’ etc). These names and  characters may have been unfamiliar to the reader, so these cues helped them follow the text.",
+        "referentie_afb": "22f13v3.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "gro22_11_r",
+        "fpid": 118,
+        "fpname": "schemata",
+        "fpdescription": "These schemata (f. 11r) summarise Cicero’s discussion of the aspects of human nature (De inventione, I.XXIV.35) which are used to describe people involved in a case.",
+        "referentie_afb": "22f11r.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "gro22_11_v",
+        "fpid": 119,
+        "fpname": "schemata",
+        "referentie_afb": "22f11v.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "gro22_58_v",
+        "fpid": 120,
+        "fpname": "gloss",
+        "fpdescription": "On f. 58v, a glossator adds Augustine’s list of the eight categories of lies (De mendacio, 25).",
+        "referentie_afb": "22f58v.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "gro22_70_v",
+        "fpid": 121,
+        "fpname": "close-up",
+        "referentie_afb": "22f70v.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "ein29_166_",
+        "fpid": 122,
+        "fpname": "annotation",
+        "fpdescription": "This passage of annotation gives us a clue about the kind of readers Cod. 29 (878) was expected to receive. As the first word, ‘ordo’, suggests, this gloss amounts to a reordering of the first words of Porphyry’s text (‘Cum sit necessarium...’). Glosses of this type helped medieval students make sense of Latin, and suggest that this copy of the Isagoge was prepared for an elementary readership.",
+        "referentie_afb": "29f166.jpg",
+        "afbeelding_aanwezig": true
     }
 ]
