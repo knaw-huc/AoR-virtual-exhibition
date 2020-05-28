@@ -4,8 +4,9 @@
 // npm install -g google-spreadsheet-to-json
 // gulp getj
 // gulp convHtml
-// gulp manuscriptComps (not active)
+
 // gulp fc
+// node json
 
 // gsjson 1k2EgdCT3iSo_8hGwt_dOQvKwEpBcTIFe4wefljkrb5Q >> content/data.json -b
 
@@ -306,6 +307,9 @@ gulp.task('buildFromTemplates', function(done) {
       if (page.title != 'lastpage') {
         page.nextHref = siteJson[i+1].file_name;
         page.nextTitle = siteJson[i+1].title;
+        if (page.type == 'manuscript') {
+          page.nextTitle = siteJson[i+1].shelfmark;
+        }
       }
 
       var manuscriptMeta = '';
@@ -501,7 +505,9 @@ function handleManuscriptComponentMulti(content) {
 
 // gulp convHtml
 function handletextPre(content) {
+    content = content.replace(/<strong><br \/><\/strong>/g, "<br />");
     content = content.replace(/±f±<br \/><\/p>/g, "±f±</p>");
+    content = content.replace(/±m±<br \/><\/p>/g, "±m±</p>");
     content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
     content = content.replace(/<p>±row±<br \/>±col1±<\/p>/g, "<p>±row±</p><p>±col1±</p>");
     content = content.replace(/]]] <\/p>/g, "]]]</p>");
@@ -516,15 +522,12 @@ function handletextPre(content) {
     content = content.replace(/<br \/><\/em>±col3±<\/p>/g, "</em></p><p>±col3±</p>");
     content = content.replace(/<br \/>±col2±<\/p>/g, "</p><p>±col2±</p>");
     content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
+    content = content.replace(/<br \/>±col2span±<br \/>/g, "<p><p>±col2span±</p><p>");
+    content = content.replace(/±m± <\/p>/g, "±m±</p>");
+    content = content.replace(/±f± <\/p>/g, "±f±</p>");
+    content = content.replace(/ ±m±<\/p>/g, "±m±</p>");
+    content = content.replace(/ ±f±<\/p>/g, "±f±</p>");
 
-//<p><br />±row±</p>
+//            ±f± </p>
   return content;
-}
-
-
-function guidGenerator() {
-    var S4 = function() {
-       return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
-    };
-    return (S4()+S4());
 }
