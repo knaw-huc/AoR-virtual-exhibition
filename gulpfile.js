@@ -469,38 +469,39 @@ function handleModals(content) {
   return content;
 }
 
-
 function handleManuscriptComponent(content) {
-
-  for (var m = 0; m < manuscriptJson.length; m++) {
-    for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
+    for (var f = 0; f < folioMultiList.length; f++) {
       var rplce='';
-      rplce += '{{> folios/folio-'+manuscriptJson[m].folios[f].folioid+' }}';
-      var find = '<p>±f±'+manuscriptJson[m].folios[f].folioid+'±f±</p>';
-      var regex = new RegExp(find, "g");
-      content = content.replace(regex,rplce);
-
-
+      rplce = '{{> folios/folio-'+folioMultiList[f].folioname+' }}';
+      var find2 = '<p>±f±'+folioMultiList[f].folioname+'±f±</p>';
+      var regex2 = new RegExp(find2, "g");
+      content = content.replace(regex2,rplce);
     }
-  }
   return content;
 }
 
+
+
+
 function handleManuscriptComponentMulti(content) {
 
-  //for (var m = 0; m < manuscriptJson.length; m++) {
+
     for (var f = 0; f < folioMultiList.length; f++) {
       var rplce='';
-      rplce=''
+
       rplce = '{{> folios/folio-'+folioMultiList[f].folioname+' }}';
       var find2 = '<p>±m±'+folioMultiList[f].folioname+'±m±</p>';
       var regex2 = new RegExp(find2, "g");
       content = content.replace(regex2,rplce);
 
     }
-  //}
+
   return content;
 }
+
+
+
+
 
 
 // gulp convHtml
