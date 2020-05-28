@@ -43,7 +43,7 @@ var options = {
   }
 
 
-var dst =       '_dist/';
+var dst =       '_dist/pub/';
 var prebuild =  'prebuild';
 var fScss=      'src/scss/**/*.scss';
 var fHtml=      'src/**/*.html';
