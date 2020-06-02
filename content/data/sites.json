@@ -19,7 +19,7 @@
     },
     {
         "title": "About",
-        "docx_file": "about-lay",
+        "docx_file": "VEintro",
         "page_id": "ack",
         "remarks": "with information about us, but also with link to bibliography?",
         "theme": "top",
@@ -65,6 +65,11 @@
         "navigation_file": "nav-1"
     },
     {
+        "title": "The iconography of dialectica from treacherous to respectable",
+        "docx_file": "VEiconography",
+        "page_id": "1ic"
+    },
+    {
         "title": "±±±t2±±±",
         "docx_file": "VEteachersandstudents",
         "page_id": "2ho",
@@ -104,7 +109,7 @@
     },
     {
         "title": "Abbeville",
-        "docx_file": "abbeville",
+        "docx_file": "VEabbeville",
         "page_id": "2ab",
         "theme": 2,
         "file_name": "Gerard-DAbbeville",
@@ -122,7 +127,7 @@
     },
     {
         "title": "Ramon Lull",
-        "docx_file": "ramonllull",
+        "docx_file": "VEramonllull",
         "page_id": "2rl",
         "theme": 2,
         "file_name": "Ramon-Llull",
@@ -189,5 +194,19 @@
         "file_name": "theme4",
         "template_file": "theme-landing",
         "navigation_file": "nav-4"
+    },
+    {
+        "title": "women and disputation",
+        "docx_file": "VEdisputation",
+        "page_id": "4wd"
+    },
+    {
+        "title": "Abelard and the council of Sense",
+        "docx_file": "VESense",
+        "page_id": "4se"
+    },
+    {
+        "title": "Disputation at Aachen",
+        "docx_file": "VEaachen"
     }
 ]

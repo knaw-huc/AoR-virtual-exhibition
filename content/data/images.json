@@ -935,5 +935,418 @@
         "alttext": "Leiden UB BPL 84 f.83v",
         "description": "Initial H on f.83v",
         "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "12949v1.jpg",
+        "alttext": "BnF lat 12949",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f12rfr2.jpg",
+        "alttext": "BnF lat 12949 f.12r",
+        "description": "Quote dialectica",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f23bisr.jpg",
+        "alttext": "BnF lat 12949 f.23 bis r",
+        "description": "BnF lat 12949 f.23 bis r",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f23bisv.jpg",
+        "alttext": "BnF lat 12949 f.23 bis v",
+        "description": "BnF lat 12949 f.23 bis v",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949v2.jpg",
+        "alttext": "BnF lat 12949",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f29v.jpg",
+        "alttext": "BnF lat 12949 f.29v",
+        "description": "House diagram on f.29v",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f30r.jpg",
+        "alttext": "BnF lat 12949 f.30r",
+        "description": "House diagram on f.30r",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f27bisr.jpg",
+        "alttext": "BnF lat 12949 f.27 bis r",
+        "description": "Diagram on an inserted piece of parchment, f.27 bis r",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f31r.jpg",
+        "alttext": "BnF lat 12949 f.31r",
+        "description": "Tree on f.31r",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f37v.jpg",
+        "alttext": "BnF lat 12949 f.37v",
+        "description": "Fishbone diagrams on f.37v",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "12949f51r.jpg",
+        "alttext": "BnF lat 12949 f.51r",
+        "description": "f.51r",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf3v.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 3v (detail): Ramon Llull disputes with the Arab slave who taught him Arabic.",
+        "resource": "Badische Landesbibliothek"
+    },
+    {
+        "img_file_name": "ramonf1v.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Ramon has a vision of Christ on the cross that would make him turn his life around. Breviculum ex artibus Raimundi Lulli electum – Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 1v (detail)",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf20v.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 20v: page illustrating the schematic reasoning of Ramon Llull",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf5r.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "f.5r",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf5rfr.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Detail: three of the nine wise men asking categorical questions",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf7r.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "f.7r",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf6v.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "f.6v",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "144f18r2.jpg",
+        "alttext": "Leiden UB BPL 144 f.18r",
+        "description": "Leiden, UB, BPL 144, fol. 18r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "2788f50r.jpg",
+        "alttext": "Paris, BnF, Lat. 2788, fol. 50r",
+        "description": "Paris, BnF, Lat. 2788, fol. 50r. Manuscript with Boethius’ Opuscula sacra and Aristotle’s Categories, with commentaries from Remigius of Auxerre. Fleury, last quarter of the 10th century.",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "rowbook.jpg"
+    },
+    {
+        "img_file_name": "ruffilius.jpg",
+        "alttext": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 127, f. 244r",
+        "description": "Selfportrait of ‘Frater Rufillus’ in a 12th-century manuscript from (possibly) Weissenau, who depicts himself decorating the manuscript. Cologny, Fondation Martin Bodmer, Cod. Bodmer 127, f. 244r (detail).",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0127"
+    },
+    {
+        "img_file_name": "chainedbook.jpg",
+        "alttext": "chained book",
+        "description": "Did you know that Ramon Llull was also a frequent user of the library of Sorbonne? In 1311 he donated the library a copy of his works and requested that it would be chained to the bookcase; a common but not so subtle way of preventing a book from being stolen."
+    },
+    {
+        "img_file_name": "103f1r.jpg",
+        "alttext": "Leiden, UB, VLQ 103 f.1r",
+        "description": "Opening of Cicero’s De inventione in Leiden, UB VLQ 103, f. 1r. This manuscript was part of Richard’s collection (Biblionomia, 27), before being included in Gerard d’Abbeville’s bequest to the Sorbonne.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "103f1rfr.jpg",
+        "alttext": "Leiden, UB, VLQ 103 f.1r",
+        "description": "Richard’s entry for this book reads‘[Cicero’s] first book on rhetoric and his second ad herennium in one volume whose sign is the letter C’, the letter indicating the classification of the manuscript in his collection (Paris, Bibliothèque de Sorbonne, MS 636, f. 9r)",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "abelard.jpg",
+        "description": "Statue of Abelard at Louvre Palace"
+    },
+    {
+        "img_file_name": "165p1.jpg",
+        "alttext": "Cambridge, Corpus Christi College, 165, s. XVI, p. 1",
+        "description": "Cambridge, Corpus Christi College, 165, s. XVI, p. 1",
+        "resource": "Parker Library"
+    },
+    {
+        "img_file_name": "165fly.jpg",
+        "alttext": "Cambridge, Corpus Christi College, 165, s. XVI, flyleaf",
+        "description": "Cambridge, Corpus Christi College, 165, s. XVI, flyleaf",
+        "resource": "Parker Library"
+    },
+    {
+        "img_file_name": "bernardus.jpg",
+        "alttext": "Lyon, BM, 1351, c. 1430-40, f. 75",
+        "description": "Bernardus of Clairvaux Lyon, BM, 1351, c. 1430-40, f. 75"
+    },
+    {
+        "img_file_name": "dialectica.jpg"
+    },
+    {
+        "img_file_name": "dialecticahead.jpg",
+        "alttext": "Bnf lat 7900A f.132v",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "dialecticatablet.jpg",
+        "alttext": "Bnf lat 7900A f.132v",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "hornbook.jpg",
+        "description": "Hornbook Washington, Folger Shakespeare Library, STC 13813.6 (dated 1625)",
+        "resource": "Folger Shakespeare Library"
+    },
+    {
+        "img_file_name": "dialecticahook.jpg",
+        "alttext": "Bnf lat 7900A f.132v",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "dialecticasnake.jpg",
+        "alttext": "Bnf lat 7900A f.132v",
+        "description": "The illustrator chose to present two snakes instead of one. Perhaps to increase the level of threat?",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "serpent.jpg",
+        "alttext": "Lyon, BM 5128, f.269v Avignon",
+        "description": "Lyon, BM 5128, f.269v Avignon, c.1350-1360 Decretum Gratianum",
+        "resource": "Lyon"
+    },
+    {
+        "img_file_name": "adameve.jpg",
+        "alttext": "El Escorial, Biblioteca del monasterio, cod. & II, 5, s. 10, f. 18r",
+        "description": "El Escorial, Biblioteca del monasterio, cod. & II, 5, s. 10, f. 18r Beatus de Liébana, Commentary on the Apocalypse",
+        "resource": "Biblioteca del monasterio"
+    },
+    {
+        "img_file_name": "prosper.jpg",
+        "description": "In this ninth-century manuscript of Prosper of Aquitaine’s chronicle, snakes in the margin warn the reader that a heretic is about to enter the narrative. The use of this symbol points to a close association between serpents and heretics.",
+        "resource": "Brussels, KB 5169, fol. 42r copyright Brussels, Koninklijke Bibliotheek, Special Collections"
+    },
+    {
+        "img_file_name": "dialecticadog.jpg",
+        "alttext": "ms. Strassbourg, Bibliothèque municipale",
+        "description": "Detail from an illustration from the Hortus deliciarum, the first encyclopedia written by a woman. The author is Herrad of Landsberg, abbess of Hohenberg. ms. Strassbourg, Bibliothèque municipale, ca. 1180. The manuscript was destroyed in a fire in 1870, but several copies of the illustrations were made in the course of the 19th century. This reproduction was made in 1818.",
+        "resource": "Heidelberg",
+        "hyperlink": "https://digi.ub.uni-heidelberg.de/diglit/engelhardt1818bd2/0001/image"
+    },
+    {
+        "img_file_name": "scorpion.jpg",
+        "alttext": "Valenciennes, BM. 320, f. 138",
+        "description": "De scorpione “According to Solinus, the scorpion is a serpent with a friendly face like a maiden but has a poisonous sting in Its knotty tail” Thomas of Cantimpré, De natura rerum. Valenciennes, BM. 320, f. 138",
+        "resource": "Valenciennes"
+    },
+    {
+        "img_file_name": "chartres.jpg",
+        "description": "West door, Cathedral of Chartres, c. 1150. The throne of wisdom, framed by the liberal arts. The complex iconographical program is believed to have been designed by the scholar Thierry of Chartres, chancellor of the cathedral school from 1141 to c. 1155. Famous twelfth-century scholars such as William of Conches, John of Salisbury and Gilbert of Poitiers studied in Chartres."
+    },
+    {
+        "img_file_name": "chartres2.jpg",
+        "description": "Below each art is a famous practictioner. Dialectica is seated above (or supported by) Aristotle"
+    },
+    {
+        "img_file_name": "chartres3.jpg",
+        "description": "Aristotle is depicted as the architect of thought"
+    },
+    {
+        "img_file_name": "chartres4.jpg",
+        "description": "Dialectica from close up. the creature she is holding is according to some scholars a serpent, according to others a scorpion"
+    },
+    {
+        "img_file_name": "dialecticasculpture.jpg",
+        "description": "Sculpture of Lady Dialectica next to Lady Grammar. Porch of the Münster of Freiburg in Breisgau, 13th century"
+    },
+    {
+        "img_file_name": "admont.jpg",
+        "alttext": "Admont, Stiftsbibliothek 128, f. 13v",
+        "description": "Admont, Stiftsbibliothek 128, f. 13v",
+        "resource": "Stiftsbibliothek"
+    },
+    {
+        "img_file_name": "admont2.jpg",
+        "alttext": "Admont, Stiftsbibliothek 128, f. 13v",
+        "description": "The attribute of the treacherous serpent has disappeared. It is replaced by rational, step by step argumentation",
+        "resource": "Stiftsbibliothek"
+    },
+    {
+        "img_file_name": "logica.jpg",
+        "alttext": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 7r",
+        "description": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 7r. Bayern, 1407 Heinrich von Mügeln, Der Meide Kranz, c. 1355.",
+        "resource": "Heidelberg",
+        "hyperlink": "https://digi.ub.uni-heidelberg.de/diglit/cpg14/0027"
+    },
+    {
+        "img_file_name": "heidelberg.jpg",
+        "alttext": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 2v",
+        "description": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 2v",
+        "resource": "Heidelberg",
+        "hyperlink": "https://digi.ub.uni-heidelberg.de/diglit/cpg14/0027"
+    },
+    {
+        "img_file_name": "dialectica2.jpg",
+        "alttext": "Lyon, BM 244, f. 69v Paris, s. 13 ¾",
+        "description": "Dialectica looks positively saintly in this illustration. She holds a fleur de lis, symbol of the virgin Mary. This meek damsel is a far cry from the dangerous lady depicted by Martianus and Alanus",
+        "resource": "Lyon"
+    },
+    {
+        "img_file_name": "christ.jpg",
+        "description": "Christ as a warrior, treading on the beasts. Mosaic in the Archbishop’s Chapel Ravenna, sixth century"
+    },
+    {
+        "img_file_name": "woodcut.jpg",
+        "alttext": "Typus Logice, woodcut 1517.",
+        "description": "Typus Logice, woodcut 1517. Logica (dialectic) is depicted as a huntress. With her two dogs, veritas and falsitas, she pursues the hare problema in the wood of opinions. Gregor Reisch, Margarita Philosophica Encyclopedia of the liberal arts Basel, 1517",
+        "resource": "Basel"
+    },
+    {
+        "img_file_name": "disputing.jpg",
+        "alttext": "Montpellier, BU Médecine H 437, 1340, f.57v Gossuin de Metz, Image du monde Encyclopedia, discussion of dialectic",
+        "description": "A woman and a clerc disputing. Montpellier, BU Médecine H 437, 1340, f.57v Gossuin de Metz, Image du monde Encyclopedia, discussion of dialectic",
+        "resource": "Montpellier"
+    },
+    {
+        "img_file_name": "marcella.jpg"
+    },
+    {
+        "img_file_name": "jerome.jpg",
+        "alttext": "Jan Hovaert (c. 1615–1665) Jerome with Marcella, Paula and Eustochium",
+        "description": "Jan Hovaert (c. 1615–1665) Jerome with Marcella, Paula and Eustochium"
+    },
+    {
+        "img_file_name": "eulalia.jpg"
+    },
+    {
+        "img_file_name": "crypt.jpg",
+        "description": "Crypt of the Basilica Santa Eulalia in Mérida, rebuilt in the 13th century, after the Reconquista of 1229"
+    },
+    {
+        "img_file_name": "150f141v.jpg",
+        "alttext": "Valenciennes, BM 150, c. 881, f. 141v",
+        "description": "Cantilène de Sainte Eulalie/ Song of St. Eulalia. Valenciennes, BM 150, c. 881, f. 141v. St. Amand, Saint-Amand-les-Eaux.",
+        "resource": "Biblisimma",
+        "hyperlink": "https://portail.biblissima.fr/ark:/43093/mdataed3113afc9818194b4e82463cd0391d702ef7c2b"
+    },
+    {
+        "img_file_name": "court.jpg",
+        "alttext": "Den Haag, KB, KA 20, c.1325-35, p. 208",
+        "description": "The court of Charlemagne. Jacob van Maerlant, Spiegel historiael. Den Haag, KB, KA 20, c.1325-35, p. 208",
+        "resource": "KB"
+    },
+    {
+        "img_file_name": "reims.jpg",
+        "alttext": "Reims, BM, 385, s. IX, f. 158r",
+        "description": "Alcuin’s letter to Gundrada/Eulalia Reims, BM, 385, s. IX, f. 158r. This manuscript forms a dossier on adoptionism. The letter to Gundrada follows the Confessio  of Felix (top of the folio)",
+        "resource": "Reims"
+    },
+    {
+        "img_file_name": "romanrose.jpg",
+        "alttext": "Musée Condé, ms. 482, f. 60v",
+        "description": "Abelard and Heloise, Roman de la Rose Chantilly, Musée Condé, ms. 482, f. 60v Paris. 1350-1360",
+        "resource": "Musée Condé"
+    },
+    {
+        "img_file_name": "romanrosefr.jpg",
+        "alttext": "Musée Condé, ms. 482, f. 60v",
+        "description": "Close-up"
+    },
+    {
+        "img_file_name": "prudentius.jpg",
+        "alttext": "Psychomachia London, BL, Cotton Cleopatra C VIII, f. 11r",
+        "description": "Female personifications of the virtue ‘Long-suffering’ and the vice ‘wrath’ engaging in combat in Prudentius’ Psychomachia London, BL, Cotton Cleopatra C VIII, f. 11r Below, Wrath has thrown down her weapons in defeat (but is still arguing)",
+        "resource": "British Library"
+    },
+    {
+        "img_file_name": "disputing2.jpg",
+        "alttext": "Troyes, BM, 60, f. 132v, s. 12 3/4",
+        "description": "Two disputing clercs. Troyes, BM, 60, f. 132v, s. 12 ¾ Decretum Gratianum",
+        "resource": "Troyes"
+    },
+    {
+        "img_file_name": "aachenpalace.jpg",
+        "description": "Reconstruction of the palace at Aachen in the 9th c.",
+        "hyperlink": "https://www.mozaweb.com/Extra-3D_scenes-Palace_of_Charlemagne_Aachen_9th_century-38645"
+    },
+    {
+        "img_file_name": "psalter.jpg",
+        "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
+        "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?) Scholars have suggested that this image represents the council of Frankfurt of 794, where the doctrine of Adoptionism was condemned for the second time. It has also been suggested that the man in the middle is bishop Felix of Urgel. Notaries are making notes of the discussions. ",
+        "resource": "Utrecht"
+    },
+    {
+        "img_file_name": "throne.jpg",
+        "description": "Throne of Charlemagne in Aachen"
+    },
+    {
+        "img_file_name": "licentia.jpg",
+        "alttext": "Rhetorica ad Herennium IV, 36 Cambridge, UL, Peterhouse 248, s. xi, f. 58v",
+        "description": "Rhetorica ad Herennium IV, 36 Cambridge, UL, Peterhouse 248, s. xi, f. 58v",
+        "resource": "Cambridge"
+    },
+    {
+        "img_file_name": "council.jpg",
+        "alttext": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v",
+        "description": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v Canones conciliarum, The Canons of Councils Last quarter of the eighth or first quarter of the ninth century, Milan?",
+        "resource": "Vercelli"
+    },
+    {
+        "img_file_name": "council2.jpg"
+    },
+    {
+        "img_file_name": "council3.jpg"
+    },
+    {
+        "img_file_name": "ephese.jpg",
+        "alttext": "Paris, BnF 1572 (s. 8, Tours), f. 78v-79r",
+        "description": "Acts of the Council of Ephese, Paris, BnF 1572 (s. 8, Tours), f. 78v-79r. Right margin: S (scribe), d (dimitte) in the hand of Alcuin or his assistant to indicate what should be copied in his dossier against Felix",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "prudentius2.jpg",
+        "alttext": "Corpus Christi College ms 23, f. 18r",
+        "description": "Prudentius, Psychomachia Cambridge, Corpus Christi College ms 23, f. 18r First half of the eleventh century",
+        "resource": "Cambridge"
+    },
+    {
+        "img_file_name": "cyril.jpg"
+    },
+    {
+        "img_file_name": "reims.jpg",
+        "alttext": "Reims, BM, 385, s. IX, f. 154r",
+        "description": "Felix, Confessio fidei. Reims, BM, 385, s. IX, f. 154r “Profession of faith of Felix bishop of the see of Urgel which he brought forth himself to spurn his error”",
+        "resource": "Reims"
+    },
+    {
+        "img_file_name": "reims3.jpg",
+        "alttext": "Reims, BM, 385, s. IX, f. 156r",
+        "description": "Reims, BM, 385, s. IX, f. 156r",
+        "resource": "Reims"
+    },
+    {
+        "img_file_name": "felix.jpg"
     }
 ]

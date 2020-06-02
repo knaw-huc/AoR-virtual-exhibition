@@ -59,7 +59,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f24_r.jpg",
         "foliodescription": "Paris, BnF, lat. 12949 f.24r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f63.item.r=lat.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
     },
     {
         "manuscript_id": "bnf129",
@@ -349,6 +349,16 @@
         "foliofilename": "BnF_lat_7900A_f127_v.jpg",
         "foliodescription": "Paris, BnF, Lat. 7900A f.127v: ‘Lady Grammar’ teaches a group of students. The three in the front row are holding wax tablets.",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f274.item.r=7900A.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_1_rb",
+        "folionr": 1,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f1_r.jpg",
+        "foliodescription": "f. 1 r. Opening of Aristotle’s Peri Hermeneias (On Interpretation) in the translation of Boethius. You may recognize this page from the teaser of this exhibition. Aristotle’s On Interpretation deals with the relationship between words, reality and logic.",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f7.item.r=lat.zoom"
     },
     {
         "manuscript_id": "bnf790",
@@ -1979,5 +1989,140 @@
         "foliofilename": "UB_BPL_139_f39_v.jpg",
         "foliodescription": "Leiden UB BPL 139 B f.39v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_12_r",
+        "folionr": 12,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f12_r.jpg",
+        "foliodescription": "f.12r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f29.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_rb",
+        "folionr": 24,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f24_r.jpg",
+        "foliodescription": "f.24r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f61.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_25_vb",
+        "folionr": 25,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f25_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949 f.25v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f64.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_13_r",
+        "folionr": 13,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f13_r.jpg",
+        "foliodescription": "f.13r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f33.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_46_r",
+        "folionr": 46,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f46_r.jpg",
+        "foliodescription": "46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f121.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_42_r",
+        "folionr": 42,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f42_r.jpg",
+        "foliodescription": "f.42r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f113.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf774",
+        "folioid": "bnf774_cover_",
+        "folionr": "cover",
+        "foliofilename": "BnF_lat_7749_cover_.jpg",
+        "foliodescription": "BnF lat. 7749",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j.r=7749?rk=21459;2"
+    },
+    {
+        "manuscript_id": "bnf774",
+        "folioid": "bnf774_33_v",
+        "folionr": 33,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_7749_33_v.jpg",
+        "foliodescription": "BnF lat. 7749 f.33v. Victorinus’s commentary included a number of summary diagrams. Cicero’s text is added in red in the margins",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j/f70.image.r=7749"
+    },
+    {
+        "manuscript_id": "bnf774",
+        "folioid": "bnf774_10_v",
+        "folionr": 10,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_7749_10_v.jpg",
+        "foliodescription": "BnF lat. 7749 f.10v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j/f24.image.r=7749"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_cover_",
+        "folionr": "cover",
+        "foliofilename": "BnF_lat_14614_cover_.jpg",
+        "foliodescription": "Paris, BnF, lat. 14614, ff. 117-202 (the opening of the text is missing) date: 12th century. The manuscript belonged to the library of St. Victor, Paris",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f.r=14614?rk=42918;4"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_49_r",
+        "folionr": 49,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_2923_r.jpg",
+        "foliodescription": "Abelard, Apologia seu fidei confessio ‘Universis’ (1141) Paris, BnF, lat. 2923, mid 13th c., f. 49 r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206/f115.image.r=2923"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_52_v",
+        "folionr": 52,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_12949_f52_v.jpg",
+        "foliodescription": "f.52v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f136.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_27_v",
+        "folionr": 27,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_12949_f27_v.jpg",
+        "foliodescription": "f.27v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f74.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_53_r",
+        "folionr": 53,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f53_r.jpg",
+        "foliodescription": "f.53r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f139.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf790",
+        "folioid": "bnf790_133_rb",
+        "folionr": 133,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_7900A_133_r.jpg",
+        "foliodescription": "Paris, BnF lat. 7900, s. 10, f.133r The opening of Martianus’ chapter on dialectic, with Remigius; commentary (on the right)",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f285.image.r=7900A"
     }
 ]

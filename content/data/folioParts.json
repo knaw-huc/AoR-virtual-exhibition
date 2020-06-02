@@ -879,5 +879,51 @@
         "fpdescription": "This passage of annotation gives us a clue about the kind of readers Cod. 29 (878) was expected to receive. As the first word, ‘ordo’, suggests, this gloss amounts to a reordering of the first words of Porphyry’s text (‘Cum sit necessarium...’). Glosses of this type helped medieval students make sense of Latin, and suggest that this copy of the Isagoge was prepared for an elementary readership.",
         "referentie_afb": "29f166.jpg",
         "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bnf129_12_r",
+        "fpid": 123,
+        "fpname": "Introduction",
+        "fpdescription": "Introduction to Augustine and an etymology of the word dialectica, with a reference to John Scot.",
+        "referentie_afb": "12949f12rfr.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bnf129_12_r",
+        "fpid": 124,
+        "fpname": "De dialectica",
+        "fpdescription": "Beginning of De dialectica, with the well-known opening words: Dialectic is the art of arguing well. As you know, we use words when we argue.",
+        "referentie_afb": "12949f12rfr1.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bnf129_24_rb",
+        "fpid": 125,
+        "fpname": "Proloque",
+        "referentie_afb": "12949f24rfr.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bnf129_25_vb",
+        "fpid": 126,
+        "fpname": "Paris BnF lat. 12949 f.25v",
+        "fpdescription": "‘Heiricus magister Remigii fecit has glossas’",
+        "referentie_afb": "12949f25vfr.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bnf129_52_v",
+        "fpid": 127,
+        "fpname": "Quote",
+        "referentie_afb": "12949f52v.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bnf129_27_v",
+        "fpid": 128,
+        "fpname": "Close-up",
+        "fpdescription": "‘We should not accept this gloss’ - ‘Non est haec glossa a nobis recipienda.’",
+        "referentie_afb": "12949f27v.jpg",
+        "afbeelding_aanwezig": true
     }
 ]
