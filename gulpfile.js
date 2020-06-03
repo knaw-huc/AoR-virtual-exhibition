@@ -3,10 +3,10 @@
 
 // npm install -g google-spreadsheet-to-json
 // gulp getj
-// gulp convHtml
-
-// gulp fc
 // node json
+
+// gulp convHtml
+// gulp fc
 
 // gsjson 1k2EgdCT3iSo_8hGwt_dOQvKwEpBcTIFe4wefljkrb5Q >> content/data.json -b
 
@@ -528,7 +528,9 @@ function handletextPre(content) {
     content = content.replace(/±f± <\/p>/g, "±f±</p>");
     content = content.replace(/ ±m±<\/p>/g, "±m±</p>");
     content = content.replace(/ ±f±<\/p>/g, "±f±</p>");
+    content = content.replace(/<h2>±colspan±<\/h2>/g, "<p>±colspan±</p>");
+    content = content.replace(/<p>±colspan±<\/p>/g, "<p>±col1span±</p>");
 
-//            ±f± </p>
+//            <h2>±colspan±</h2>
   return content;
 }
