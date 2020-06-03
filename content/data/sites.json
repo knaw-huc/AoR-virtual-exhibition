@@ -199,6 +199,7 @@
         "title": "women and disputation",
         "docx_file": "VEdisputation",
         "page_id": "4wd",
+        "theme": 4,
         "file_name": "women-disputation",
         "template_file": "theme-item",
         "navigation_file": "nav-4"
@@ -207,6 +208,7 @@
         "title": "Abelard and the council of Sense",
         "docx_file": "VESense",
         "page_id": "4se",
+        "theme": 4,
         "file_name": "abelard",
         "template_file": "theme-item",
         "navigation_file": "nav-4"
@@ -215,6 +217,7 @@
         "title": "Disputation at Aachen",
         "docx_file": "VEaachen",
         "page_id": "4da",
+        "theme": 4,
         "file_name": "disputation-aachen",
         "template_file": "theme-item",
         "navigation_file": "nav-4"
