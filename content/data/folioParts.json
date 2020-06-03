@@ -907,7 +907,7 @@
         "folioid": "bnf129_25_vb",
         "fpid": 126,
         "fpname": "Paris BnF lat. 12949 f.25v",
-        "fpdescription": "‘Heiricus magister Remigii fecit has glossas’",
+        "fpdescription": "Heiricus magister Remigii fecit has glossas",
         "referentie_afb": "12949f25vfr.jpg",
         "afbeelding_aanwezig": false
     },
@@ -922,7 +922,7 @@
         "folioid": "bnf129_27_v",
         "fpid": 128,
         "fpname": "Close-up",
-        "fpdescription": "‘We should not accept this gloss’ - ‘Non est haec glossa a nobis recipienda.’",
+        "fpdescription": "We should not accept this gloss - Non est haec glossa a nobis recipienda.",
         "referentie_afb": "12949f27v.jpg",
         "afbeelding_aanwezig": true
     }
