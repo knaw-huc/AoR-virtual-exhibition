@@ -2200,5 +2200,14 @@
         "foliofilename": "Einsieldeln_315 (605)_p114.jpg",
         "foliodescription": "p.114",
         "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/114/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_105_r",
+        "folionr": 105,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f105_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22±a±m22±a±, twelfth century, f. 105r.",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668182"
     }
 ]

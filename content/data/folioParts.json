@@ -970,5 +970,13 @@
         "fpname": "gloss",
         "referentie_afb": "22f23r.jpg",
         "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "gro22_105_r",
+        "fpid": 135,
+        "fpname": "close-up",
+        "fpdescription": "Licentia",
+        "referentie_afb": "licentia2.jpg",
+        "afbeelding_aanwezig": false
     }
 ]

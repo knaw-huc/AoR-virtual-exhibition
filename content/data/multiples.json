@@ -457,7 +457,7 @@
     },
     {
         "multipeimageid": "bpl84_cover_darmstadt",
-        "afbeelding": "[[[darmstadt.jpg]]]"
+        "afbeelding": "darmstadt.jpg"
     },
     {
         "multipeimageid": "bpl84_8_v_16_vb_84f32v",
@@ -701,5 +701,29 @@
     {
         "multipeimageid": "decorating",
         "afbeelding": "315p121.jpg"
+    },
+    {
+        "multipeimageid": "psalter",
+        "afbeelding": "psalter.jpg"
+    },
+    {
+        "multipeimageid": "psalter",
+        "afbeelding": "psalter2.jpg"
+    },
+    {
+        "multipeimageid": "psalter",
+        "afbeelding": "psalter3.jpg"
+    },
+    {
+        "multipeimageid": "psalter",
+        "afbeelding": "psalter4.jpg"
+    },
+    {
+        "multipeimageid": "council",
+        "afbeelding": "council.jpg"
+    },
+    {
+        "multipeimageid": "council",
+        "afbeelding": "council.jpg"
     }
 ]

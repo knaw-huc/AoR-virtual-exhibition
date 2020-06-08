@@ -1305,7 +1305,7 @@
     {
         "img_file_name": "psalter.jpg",
         "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
-        "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?) Scholars have suggested that this image represents the council of Frankfurt of 794, where the doctrine of Adoptionism was condemned for the second time. It has also been suggested that the man in the middle is bishop Felix of Urgel. Notaries are making notes of the discussions. ",
+        "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?) ",
         "resource": "Utrecht"
     },
     {
@@ -1321,11 +1321,13 @@
     {
         "img_file_name": "council.jpg",
         "alttext": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v",
-        "description": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v Canones conciliarum, The Canons of Councils Last quarter of the eighth or first quarter of the ninth century, Milan?",
-        "resource": "Vercelli"
+        "description": "Emperor Constantine presiding over discussions at the Council of Nicaea (323), where the heresy of Arius was condemned. Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v Canones conciliarum, The Canons of Councils Last quarter of the eighth or first quarter of the ninth century, Milan?",
+        "resource": "Vercelli, photo by Warren Pezé"
     },
     {
-        "img_file_name": "council2.jpg"
+        "img_file_name": "council2.jpg",
+        "description": "Emperor Theodosius the Great. Presiding over the council of Constantinople (381). Vercelli, Bibliotheca Capitulare, ms. 165, f. 4v-5r",
+        "resource": "Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé"
     },
     {
         "img_file_name": "council3.jpg"
@@ -1340,10 +1342,14 @@
         "img_file_name": "prudentius2.jpg",
         "alttext": "Corpus Christi College ms 23, f. 18r",
         "description": "Prudentius, Psychomachia Cambridge, Corpus Christi College ms 23, f. 18r First half of the eleventh century",
-        "resource": "Cambridge"
+        "resource": "Parker Library",
+        "hyperlink": "https://parker.stanford.edu/parker/catalog/nz663nv2057"
     },
     {
-        "img_file_name": "cyril.jpg"
+        "img_file_name": "cyril.jpg",
+        "description": "Cyril of Alexandria",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Icon_St._Cyril_of_Alexandria.jpg"
     },
     {
         "img_file_name": "reims.jpg",
@@ -1557,7 +1563,7 @@
     {
         "img_file_name": "platoaristotle.jpg",
         "alttext": "Museo dell’ Opera del Duomo, Florence.",
-        "description": "Pato and Aristotle in dispute. The relief represents the art of dialectic and is part of a series of the seven liberal arts made by Lucca della Robbia for the belltower of the Duomo in Florence, 15th century. Museo dell’ Opera del Duomo, Florence.",
+        "description": "Plato and Aristotle in dispute. The relief represents the art of dialectic and is part of a series of the seven liberal arts made by Lucca della Robbia for the belltower of the Duomo in Florence, 15th century. Museo dell’ Opera del Duomo, Florence.",
         "resource": "Wikipedia",
         "hyperlink": "https://commons.wikimedia.org/wiki/File:Plato_Aristotle_della_Robbia_OPA_Florence.jpg"
     },
@@ -1586,5 +1592,84 @@
         "alttext": "Verona, Bibl. Capitolare CCLI, thirteenth century, f. 10r.",
         "description": "The liberal arts are building a cart. Verona, Bibl. Capitolare CCLI, thirteenth century, f. 10r. Illustrated copy of Alanus de Insulis’ Anticlaudianus",
         "hyperlink": "https://www.flickr.com/photos/quadralectics/8003072562/in/photostream/"
+    },
+    {
+        "img_file_name": "rippol.jpg",
+        "alttext": "Paris, BnF, lat. 4886, f. 48v",
+        "description": "Rippol, eleventh century. Provenance: Moissac. A note in the margin says: “The heresy of bishops Elipand of Toledo and Felix bishop of Urgell [….] and erradicated” “heresim elipanti toletane et felicis urgelletane episcopis […] ta et erradicata”",
+        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+    },
+    {
+        "img_file_name": "baptism.jpg",
+        "description": "Baptism of Christ.  Mosaic in Arian baptistry in Ravenna. The baptistry was built by King Theoderic the Great around 500. The fact that Christ is depicted as a young and beardless man is meant to convey that Christ the Son is inferior to God the Father and not ‘of one substance’ with him.",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Baptism_of_Christ._Mosaic_in_Arian_Baptistry._Ravenna,_Italy.jpg"
+    },
+    {
+        "img_file_name": "emilianensis.jpg",
+        "alttext": "Biblioteca del Monasterio de El Escorial, D. I. I., f. 129v",
+        "description": "Council of Toledo (generic illustration, representing each Visigothic council held in Toledo in the sixth and seventh centuries) Codex Emilianensis, c. 992 Biblioteca del Monasterio de El Escorial, D. I. I., f. 129v",
+        "resource": "Wikipedis",
+        "hyperlink": "https://www.wikiwand.com/es/Escritorio_de_San_Mill%C3%A1n"
+    },
+    {
+        "img_file_name": "tang.jpg",
+        "alttext": "British museum, asset 1613030451",
+        "description": "Tʻang dynasty fragmentary silk painting, ninth century. Christian saint, possibly a Nestorian image of Jesus Christ. British museum, asset 1613030451",
+        "resource": "British Museum",
+        "hyperlink": "https://www.britishmuseum.org/collection/image/1613030451"
+    },
+    {
+        "img_file_name": "reconstruction.jpg",
+        "alttext": "reconstruction",
+        "description": "Reconstruction of the image",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/Category:Nestorian_fragment_of_Jesus_Christ#/media/File:Restoration_of_T'ang_dynasty_Nestorian_image_of_Jesus_Christ.jpg"
+    },
+    {
+        "img_file_name": "psalter2.jpg",
+        "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
+        "description": "Notaries are making notes of the discussions"
+    },
+    {
+        "img_file_name": "psalter3.jpg",
+        "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
+        "description": "The notary in the middle of the arena seems to be agitated. Is he reading from a scroll?"
+    },
+    {
+        "img_file_name": "psalter4.jpg",
+        "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
+        "description": "Bishops in the audience are discussing amongst themselves and are consulting texts."
+    },
+    {
+        "img_file_name": "psalter5.jpg",
+        "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
+        "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)"
+    },
+    {
+        "img_file_name": "throne2.jpg",
+        "description": "Charlemagne’s throne at the Palatine Chapel in Aachen",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/Aachener_Dom#/media/File:K%C3%B6nigsthron_Aachener_Dom.jpg"
+    },
+    {
+        "img_file_name": "tours.jpg",
+        "alttext": "Paris, BnF, lat. 1572, f. 79r",
+        "description": "Paris, BnF, lat. 1572, f. 79r. Tours, eighth century.",
+        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+    },
+    {
+        "img_file_name": "tours2.jpg",
+        "alttext": "Paris, BnF, lat. 2848, f. 1r.",
+        "description": "Alcuin, Seven Books Against Felix (Adversus Felicem) Paris, BnF, lat. 2848, f. 1r. Tours area, ninth century. The Books Against Felix were based on research Alcuin had undertaken in preparation for the disputation",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90659686/f5.image.r=latin%202848"
+    },
+    {
+        "img_file_name": "heu.jpg",
+        "alttext": "Paris, BnF, lat. 2853, f. 7r Lyon, ninth century",
+        "description": "Paris, BnF, lat. 2853, f. 7r Lyon, ninth century",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8572244q/f21.image.r=Adversus%20Felicem"
     }
 ]
