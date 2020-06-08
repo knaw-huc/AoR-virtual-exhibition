@@ -187,36 +187,55 @@ function combineJson(){
                           folioPartData.manuscript_filename = manuscriptJsonOrg[man].file_name;
 
                         }
-
                       }
-
-
                       // manuscrip data
-
-
                     }
                   }
-
-
-
 
                   // add part data
                   multiItem.parts.push(folioPartData);
 
                 }
-
               }
+            } // if is folioParts
 
+            // if only folioPart
+            if (typeof folioPartsmulJson[ol].alleenfolioid !== "undefined") {
+              //console.log(folioPartsmulJson[ol].alleenfolioid);
+              var folioPartData = {};
+              //folioPartData.manuscript = {};
+
+              for (var fol2 = 0; fol2 < folioJson.length; fol2++) {
+                if (folioJson[fol2].folioid == folioPartsmulJson[ol].alleenfolioid) {
+                  folioPartData.imageSource = folioJson[fol2].foliofilename;
+                  folioPartData.foliodescription = folioJson[fol2].foliodescription;
+                  folioPartData.foliosource = folioJson[fol2].foliosource;
+
+                  folioPartData.foliofilename = folioJson[fol2].foliofilename;
+                  folioPartData.fpname = folioJson[fol2].folioid;
+                  folioPartData.fpdescription = folioJson[fol2].foliodescription;
+                  folioPartData.fpid = folioJson[fol2].folioid;
+
+                  // then manuscript
+                  for (var man2 = 0; man2 < manuscriptJsonOrg.length; man2++) {
+                    if (folioJson[fol2].manuscript_id == manuscriptJsonOrg[man2].id) {
+                      folioPartData.manuscript_name = manuscriptJsonOrg[man2].id;
+                      folioPartData.manuscript_location = manuscriptJsonOrg[man2].location;
+                      folioPartData.manuscript_shelfmark = manuscriptJsonOrg[man2].shelfmark;
+                      folioPartData.manuscript_filename = manuscriptJsonOrg[man2].file_name;
+
+                    }
+                  }
+                  // manuscrip data
+                }
+              }
+              multiItem.parts.push(folioPartData);
             }
 
 
-
           }
-
         }
         manuscriptCompList.push(multiItem);
-
-
       }
 
 
