@@ -24,7 +24,7 @@
         "remarks": "with information about us, but also with link to bibliography?",
         "theme": "top",
         "file_name": "about",
-        "template_file": "basic",
+        "template_file": "theme-item",
         "navigation_file": "nav-top"
     },
     {
