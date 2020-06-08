@@ -89,19 +89,19 @@
         "navigation_file": "nav-2"
     },
     {
-        "title": "John the Scot and his assistant",
-        "docx_file": "VEjohnscot",
-        "page_id": "2js",
+        "title": "The school of Auxerre ",
+        "docx_file": "VEauxerre",
+        "page_id": "2sa",
+        "remarks": "(Heiric and Remigius)",
         "theme": 2,
         "file_name": "John-Scot-his-assistant",
         "template_file": "theme-item",
         "navigation_file": "nav-2"
     },
     {
-        "title": "The school of Auxerre ",
-        "docx_file": "VEauxerre",
-        "page_id": "2sa",
-        "remarks": "(Heiric and Remigius)",
+        "title": "John the Scot and his assistant",
+        "docx_file": "VEjohnscot",
+        "page_id": "2js",
         "theme": 2,
         "file_name": "School-Auxerre",
         "template_file": "theme-item",
@@ -122,6 +122,15 @@
         "page_id": "2ga",
         "theme": 2,
         "file_name": "Gerbert-Aurillac-AbboFleury",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2"
+    },
+    {
+        "title": "Abelard",
+        "docx_file": "VEabelard",
+        "page_id": "2ab",
+        "theme": 2,
+        "file_name": "Abelard",
         "template_file": "theme-item",
         "navigation_file": "nav-2"
     },

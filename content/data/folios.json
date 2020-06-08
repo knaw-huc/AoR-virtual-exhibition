@@ -222,7 +222,7 @@
         "folionr": 69,
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f69_r.jpg",
-        "foliodescription": "f.69r Opening De Sophisticis Elenchis",
+        "foliodescription": "Paris, BnF, Lat. 17806, f. 69r: a column for commentary on the left of the tekst, and two columns on the right. The lower margin is also typically large to house large amounts of notes and comments ",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f143.item.zoom"
     },
     {
@@ -806,7 +806,7 @@
         "folioid": "bpl25_6_v",
         "folionr": 6,
         "foliotype": "v",
-        "foliofilename": "UB_BPL_25_f6_v.jpg",
+        "foliofilename": "UB_BPL_25_f7_r.jpg",
         "foliodescription": "Leiden UB BPL 25 f.6v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/12/mode/1up"
     },
@@ -817,7 +817,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_25_f7_r.jpg",
         "foliodescription": "Leiden UB BPL 25 f.7r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/12/mode/1up"
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617734"
     },
     {
         "manuscript_id": "bpl25",
@@ -938,6 +938,7 @@
         "folionr": 8,
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f8_v.jpg",
+        "foliodescription": "On f. 8v we find the quire signature ‘c’, suggesting that this gathering of leaves was once the third in a collection.",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348873"
     },
     {
@@ -994,6 +995,7 @@
         "folionr": 44,
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f44_v.jpg",
+        "foliodescription": "Here on f. 44v, two sets of rubrics (written in red) indicate that one text has ended and that another will begin on the next page",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348837"
     },
     {
@@ -2124,5 +2126,79 @@
         "foliofilename": "BnF_lat_7900A_133_r.jpg",
         "foliodescription": "Paris, BnF lat. 7900, s. 10, f.133r The opening of Martianus’ chapter on dialectic, with Remigius; commentary (on the right)",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f285.image.r=7900A"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_117_r",
+        "folionr": 117,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_14614_f117_r.jpg",
+        "foliodescription": "Abelard, Dialectica. Paris, BnF, lat. 14614, f. 117r. The opening of the Dialectica is missing, but an identification of the text is written at the top of the page: ‘scripta super predicamenta Aristotilis’",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f/f241.image.r=14614"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_130_r",
+        "folionr": 130,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_14614_f130_r.jpg",
+        "foliodescription": "f.130r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f/f267.image.r=14614"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_130_v",
+        "folionr": 130,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_14614_f130_v.jpg",
+        "foliodescription": "f.130v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f/f268.image.r=14614"
+    },
+    {
+        "manuscript_id": "bnf178",
+        "folioid": "bnf178_4_vb",
+        "folionr": 4,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_17806_f4_v.jpg",
+        "foliodescription": "Paris, BnF, lat.17806 f.4v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
+    },
+    {
+        "manuscript_id": "bnf178",
+        "folioid": "bnf178_4_vc",
+        "folionr": 4,
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "BnF_lat_17806_f4_v.jpg",
+        "foliodescription": "Paris, BnF, lat.17806 f.4v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
+    },
+    {
+        "manuscript_id": "bpl25",
+        "folioid": "bpl25_1_vb",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_25_1_v.jpg",
+        "foliodescription": "Leiden UB BPL 25 f.1v-2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617706"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_23_r",
+        "folionr": 23,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f23_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.23r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668232"
+    },
+    {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_114_",
+        "folionr": 114,
+        "foliofilename": "Einsieldeln_315 (605)_p114.jpg",
+        "foliodescription": "p.114",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/114/0/Sequence-1010"
     }
 ]

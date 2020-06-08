@@ -26,7 +26,7 @@
     {
         "img_file_name": "231p276.jpg",
         "alttext": "Glasgow, University Library, MS Hunter 231, p. 276",
-        "description": "Portrait of Plato, Seneca, and Aristole in Glasgow, University Library, MS Hunter 231, p. 276",
+        "description": "Portrait of Plato, Seneca and Aristotle in Glasgow, University Library, MS Hunter 231, p. 276. Book with devotional and philosophical writings, London, c.1325-1335. Reproduced with permission of the of University of Glasgow Library, Archives & Special Collections ",
         "resource": "University of Glasgow",
         "hyperlink": "http://special.lib.gla.ac.uk/exhibns/chaucer/learning.html"
     },
@@ -64,22 +64,23 @@
     {
         "img_file_name": "university.jpg",
         "alttext": "Castres, BM, Ms. 3 (Grandes Chroniques de France, c. 1330), f. 277r",
-        "resource": "nog aanvragen",
+        "description": "Castres, BM, Ms. 3 (Grandes Chroniques de France, c. 1330), f. 277r",
+        "resource": "BVMM",
         "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=757442"
     },
     {
         "img_file_name": "alcuin.jpg",
-        "alttext": "nog aanvragen",
-        "description": "Portrait of Alcuin",
+        "alttext": "Munich, Bayerische Staatsbibliothek, Clm. 19437, f. 19v",
+        "description": "Portrait of Alcuin (on the left) and Charlemagne (on het right) disputing, in a copy of Alcuin’s Dialogus de dialectica: Munich, Bayerische Staatsbibliothek, Clm. 19437, f. 19v",
         "resource": "Bayerische Staatsbibliothek",
         "hyperlink": "https://daten.digitale-sammlungen.de/0006/bsb00065177/images/index.html?id=00065177&groesser=&fip=193.174.98.30&no=&seite=42; see also a description at https://www.wdl.org/en/item/14710/"
     },
     {
         "img_file_name": "hrabanus.jpg",
         "alttext": "Vienna, ÖnB, cod.652, fol. 2v",
-        "description": "Hrabanus (left) and Alcuin (middle) dedicate a work to Archbishop Otgar of Mainz (Right)",
+        "description": "Hrabanus (left) and Alcuin (middle) dedicate a work to Archbishop Otgar of Mainz (Right). As the teacher (with more seniority), Alcuin has his arm around Hrabanus’ shoulder, expressing his support when introducing him to the Archbishop. Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century)\n",
         "resource": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century)",
-        "hyperlink": "nog aanvragen"
+        "hyperlink": "http://data.onb.ac.at/rep/10048D05"
     },
     {
         "img_file_name": "7900Aonbekend.jpg",
@@ -108,7 +109,9 @@
     },
     {
         "img_file_name": "paris.jpg",
-        "alttext": "nog aanvragen"
+        "alttext": "Inv.1975.1.2490",
+        "description": "The descent of the Holy Spirit (detail), from Livre d’Heures d'Étienne Chevalier, New York, The Metropolitan Museum of Art (Inv.1975.1.2490)",
+        "hyperlink": "https://en.wikipedia.org/wiki/Paris_in_the_Middle_Ages#/media/File:La_Descente_du_Saint-Esprit.jpg"
     },
     {
         "img_file_name": "confused.jpg",
@@ -121,6 +124,8 @@
     },
     {
         "img_file_name": "sorbonne.jpg",
+        "alttext": "The Sorbonne, Paris, today",
+        "description": "The Sorbonne, Paris, today",
         "resource": "nog aanvragen"
     },
     {
@@ -631,7 +636,7 @@
     {
         "img_file_name": "karlsruhef11v.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 11v",
-        "description": "). In this image, Ramon Llull is engaged in a dialogue with Thomas Le Myésier. On the left one can follow the structure of the debate, laid out in a diagrammatic form. The two discussants are pointing at the sources for their arguments: a stack of books.",
+        "description": "In this image, Ramon Llull is engaged in a dialogue with Thomas Le Myésier. On the left one can follow the structure of the debate, laid out in a diagrammatic form. The two discussants are pointing at the sources for their arguments: a stack of books.",
         "resource": "BLB",
         "hyperlink": "https://digital.blb-karlsruhe.de/blbhs/content/pageview/105562"
     },
@@ -685,15 +690,15 @@
     },
     {
         "img_file_name": "orleans.jpg",
-        "alttext": "Orleans, BM MS 0277, f. 1r",
-        "description": "Orleans, BM MS 0277, f. 1r. The manuscript opens with Aristotle’s Categories, in the translation by Boethius, a key dialectical work.",
+        "alttext": "Orleans, BM MS 0277, p.1",
+        "description": "Orleans, BM MS 0277, p.1. The manuscript opens with Aristotle’s Categories, in the translation by Boethius, a key dialectical work.",
         "resource": "BVMM",
         "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1273642"
     },
     {
         "img_file_name": "orleans2.jpg",
-        "alttext": "Orleans, BM MS 0277, f. 1r",
-        "description": "Orleans, BM MS 0277, f. 1r",
+        "alttext": "Orleans, BM MS 0277, p.1",
+        "description": "Orleans, BM MS 0277, p.1 ",
         "resource": "BVMM",
         "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1273642"
     },
@@ -714,14 +719,14 @@
     {
         "img_file_name": "7185.jpg",
         "alttext": "BNF MS 7185, f. 49r",
-        "description": "BNF MS 7185, f. 49r – a decorated initial from the opening of a copy of Gerbert’s De geometria",
+        "description": "Paris, BnF, MS lat. 7185, f. 49r – a decorated initial from the opening of a twelfth-century copy of Gerbert’s De geometria",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10544638r/f107.image.r=7185"
     },
     {
         "img_file_name": "71852.jpg",
-        "alttext": "BnF lat. 7185, f. 179v",
-        "description": "Sketches of musical instruments: BnF lat. 7185, f. 179v",
+        "alttext": "BnF lat. 7185, f. 191v",
+        "description": "Sketches of musical instruments: BnF lat. 7185, f. 191v",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10544638r/f370.image.r=7185"
     },
@@ -1055,10 +1060,10 @@
         "resource": "Bibliotheque Nationale de France"
     },
     {
-        "img_file_name": "rowbook.jpg"
+        "img_file_name": "rowbooks.jpg"
     },
     {
-        "img_file_name": "ruffilius.jpg",
+        "img_file_name": "rufillius.jpg",
         "alttext": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 127, f. 244r",
         "description": "Selfportrait of ‘Frater Rufillus’ in a 12th-century manuscript from (possibly) Weissenau, who depicts himself decorating the manuscript. Cologny, Fondation Martin Bodmer, Cod. Bodmer 127, f. 244r (detail).",
         "resource": "e-codices",
@@ -1067,7 +1072,7 @@
     {
         "img_file_name": "chainedbook.jpg",
         "alttext": "chained book",
-        "description": "Did you know that Ramon Llull was also a frequent user of the library of Sorbonne? In 1311 he donated the library a copy of his works and requested that it would be chained to the bookcase; a common but not so subtle way of preventing a book from being stolen."
+        "description": "Ramon Llull was also a frequent user of the library of Sorbonne. In 1311 he donated a copy of his works to the library and requested that it would be chained to the bookcase; a common but not so subtle way of preventing a book from being stolen."
     },
     {
         "img_file_name": "103f1r.jpg",
@@ -1083,19 +1088,24 @@
     },
     {
         "img_file_name": "abelard.jpg",
-        "description": "Statue of Abelard at Louvre Palace"
+        "alttext": "Statue of Abelard by Jules Cavalier, before 1853, Palais de Louvre",
+        "description": "Statue of Abelard by Jules Cavalier, before 1853, Palais de Louvre",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Abelard_cour_Napoleon_Louvre.jpg"
     },
     {
         "img_file_name": "165p1.jpg",
         "alttext": "Cambridge, Corpus Christi College, 165, s. XVI, p. 1",
         "description": "Cambridge, Corpus Christi College, 165, s. XVI, p. 1",
-        "resource": "Parker Library"
+        "resource": "Parker Library",
+        "hyperlink": "https://parker.stanford.edu/parker/catalog/rw051yd4696"
     },
     {
         "img_file_name": "165fly.jpg",
         "alttext": "Cambridge, Corpus Christi College, 165, s. XVI, flyleaf",
         "description": "Cambridge, Corpus Christi College, 165, s. XVI, flyleaf",
-        "resource": "Parker Library"
+        "resource": "Parker Library",
+        "hyperlink": "https://parker.stanford.edu/parker/catalog/rw051yd4696"
     },
     {
         "img_file_name": "bernardus.jpg",
@@ -1108,6 +1118,7 @@
     {
         "img_file_name": "dialecticahead.jpg",
         "alttext": "Bnf lat 7900A f.132v",
+        "description": "The illustrator depicts Dialectic with soft, flowing hair that does not look in the least tangled. A matter of fashion?",
         "resource": "Gallica"
     },
     {
@@ -1128,7 +1139,7 @@
     {
         "img_file_name": "dialecticasnake.jpg",
         "alttext": "Bnf lat 7900A f.132v",
-        "description": "The illustrator chose to present two snakes instead of one. Perhaps to increase the level of threat?",
+        "description": "The illustrator chose to present two snakes instead of one. Perhaps to increase the level of untrustworthiness?",
         "resource": "Gallica"
     },
     {
@@ -1348,5 +1359,232 @@
     },
     {
         "img_file_name": "felix.jpg"
+    },
+    {
+        "img_file_name": "karlsruhe.jpg",
+        "alttext": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92,",
+        "description": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92, Set of miniatures illustrating the life of Raimundus Lullus",
+        "resource": "Badische Landesbibliothek"
+    },
+    {
+        "img_file_name": "dominic.jpg",
+        "alttext": "Saint Dominic and the Albigenses (1480).",
+        "description": "Saint Dominic and the Albigenses (1480). A painting by Pedro Berruguete (c. 1450-1504) depicting Dominic, founder of the Inquisition, checking books for heresy with a trial by fire.",
+        "resource": "UWM",
+        "hyperlink": "https://uwm.edu/libraries/burnedbooks/"
+    },
+    {
+        "img_file_name": "giovanni.jpg",
+        "alttext": "Cambrai, BM, MS 620 (572), f. 1r (detail).",
+        "description": "Cambrai, BM, MS 620 (572), f. 1r (detail). The author, Giovanni di Andrea (c 1270-1348), in his study, surrounded by books in chests, bookcases and on his desk. A special carousel (a wooden wheel on which multiple books could be laid out) allows him to consult multiple books at a time. Depicted in a manuscript from around 1340-1345, made in Bologna.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/99904"
+    },
+    {
+        "img_file_name": "manicula.jpg",
+        "alttext": "Paris, BnF, Fr. 12584, f. 61r",
+        "description": "Paris, BnF, Fr. 12584, f. 61r (detail), manuscript from North-East France, 1300-1350.",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "stvictor.jpg",
+        "alttext": "Hugh Saint-Omer, Bibliothèque d’agglomération, MS 118, f. 1v",
+        "description": "Hugh Saint-Omer, Bibliothèque d’agglomération, MS 118, f. 1v. Manuscript with works of of St. Victor, made in North France in the first third of the 13th century.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/codex/13881/14483"
+    },
+    {
+        "img_file_name": "15350f1r.jpg",
+        "alttext": "Paris, BnF, Lat. 15350, f. 1r (detail):",
+        "description": "Paris, BnF, Lat. 15350, f. 1r (detail): Here is a detail from a manuscript with quodlibetical disputations from, among others, Thomas Aquinas. The structure of the disputation is clear, with three questions (‘tria sunt quesita’, and further division of these into subquestions with ‘utrum’ (‘whether’).",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525048552"
+    },
+    {
+        "img_file_name": "lyon.jpg",
+        "alttext": "Lyon, BM, MS 128 (060), f. 2r:",
+        "description": "Lyon, BM, MS 128 (060), f. 2r: Rhetorical manual from the 15th century, with Rhetorica ad Herennium and, among others, a ars praedicandi.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/codex/2263/6742"
+    },
+    {
+        "img_file_name": "188f10r.jpg",
+        "alttext": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 188, f. 10r (detail)",
+        "description": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 188, f. 10r (detail): manuscript from the thirteenth century with the Dragmaticon of William of Conches. In this image Logica is a part of Philosophia, and Dialectica is a part of Logica.",
+        "resource": "Fondation Martin Bodmer"
+    },
+    {
+        "img_file_name": "germain.jpg",
+        "alttext": "Photo of the monastery of St. Germain and the church in modern times",
+        "description": "Photo of the monastery of St. Germain and the church in modern times",
+        "hyperlink": "http://www.bourgogneromane.com/edifices/auxerre.htm"
+    },
+    {
+        "img_file_name": "702.jpg",
+        "alttext": "Paris, BnF, Bibliothèque de l'Arsenal, MS 702, f. 98r: detail",
+        "description": "Paris, BnF, Bibliothèque de l'Arsenal, MS 702, f. 98r: detail",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "712.jpg",
+        "alttext": "Schønberg collection, ms 712, Germany",
+        "description": "The Rebdorf Psalter, with glosses of Anselm of Laon. Schønberg collection, ms 712, Germany, first half of the twelfth century. The manuscript contains Anselm’s comments to the Psalms, the Song of Songs and the Athanasian Creed  See for the Athanasian Creed the section on adoptionism",
+        "resource": "Schoyen Collection",
+        "hyperlink": "https://www.schoyencollection.com/bible-collection-foreword/latin-bible-translation/rebdorf-psalter-ms-712"
+    },
+    {
+        "img_file_name": "disputing3.jpg",
+        "alttext": "Valenciennes, BM, 396, f. 167",
+        "description": "Disputing masters. Valenciennes, BM, 396, f. 167, Northern France, thirteenth century. Papias the Grammarian, Elementarium doctrinae rudimentum, dictionary, c. 1053",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1315735"
+    },
+    {
+        "img_file_name": "13368.jpg",
+        "alttext": "Paris, BnF, lat. 13368, f. 146r.",
+        "description": "Paris, BnF, lat. 13368, f. 146r. Abbey of Fleury, twelfth century. Petri abaelardi iunioris palatini summi peripatetici. Peter Abelard, the younger supreme peripatetic of Le Pallet",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ein28.jpg",
+        "alttext": "Einsiedeln, Stiftsbibliothek Cod. 29 (878), p. 171: Porphyry’s Isagoge",
+        "description": "Einsiedeln, Stiftsbibliothek Cod. 29 (878), p. 171: Porphyry’s Isagoge",
+        "resource": "e-codices"
+    },
+    {
+        "img_file_name": "karlsruhef5r.jpg",
+        "alttext": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92,",
+        "description": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92, f.5r. ",
+        "resource": "Badische Landesbibliothek"
+    },
+    {
+        "img_file_name": "boethius.jpg",
+        "alttext": "Paris, Bibliothèque de l’Institut de France, 264, f. 1r.",
+        "description": "Boethius in his prison, discussing with Philosophy. Paris, Bibliothèque de l’Institut de France, 264, f. 1r. Manuscript made around 1400 in Northern France (possibly Paris).",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/codex/7492/8196"
+    },
+    {
+        "img_file_name": "48f4vfr.jpg",
+        "alttext": "UB VLF 48 f.4v",
+        "description": "UB VLF 48 f.4v",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "48f2vfr.jpg",
+        "alttext": "UB VLF 48 f.2v",
+        "description": "Once spotted, we see them in more places. Do you see them in between the lines on folio 2v?",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "48f4vfr2.jpg",
+        "alttext": "UB VLF 48 f.4v",
+        "description": "Hand of Rather",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "48f95vfr3.jpg",
+        "alttext": "UB VLF 48 f.95v",
+        "description": "f. 95v (detail): Rather of Verona also used a bit of empty space on the last page of the manuscript to write a short letter.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "48f66vfr.jpg",
+        "alttext": "UB VLF 48 f.66v",
+        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "48f66vfr2.jpg",
+        "alttext": "UB VLF 48 f.66v",
+        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "48f81vfr.jpg",
+        "alttext": "UB VLF 48 f.81v",
+        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "48f70vfr.jpg",
+        "alttext": "UB VLF 48 f.70v",
+        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "315p130.jpg",
+        "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.130",
+        "description": "Initial ‘G’ with added penwork detail.",
+        "resource": "e-codices"
+    },
+    {
+        "img_file_name": "315p121.jpg",
+        "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.121",
+        "description": "Note the lead outline of the initial ‘P’ which was marked out to guide the rubricator.",
+        "resource": "e-codices"
+    },
+    {
+        "img_file_name": "karlsruhef4r.jpg",
+        "alttext": "Breviculum ex artibus Raimundi Lulli electum – Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 4r (detail).",
+        "description": "Breviculum ex artibus Raimundi Lulli electum – Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 4r (detail). The image shows Ramon Llull sitting on an elevated chair, teaching an attentive crowd. He discusses (in green letters) how to distinguish between right and false arguments and opinions.",
+        "resource": "Badische Landesbibliothek"
+    },
+    {
+        "img_file_name": "ramonf6vfr.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "The army is lead by by Aristotle, riding his horse ‘Ratiocinatio’ (reasoning). Averroes follows, on the horse, ‘Ymaginatio’ (imagination).",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf6vfr2.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "In the tower of falsehood rhetorical and dialectical sins are found, such as ignorance, confusion, impossibility, emptyness. Truth is held capture in the dungeon.",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf7rfr.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Ramon Lull pulls a chariot with eighteen principles of the art of arguing well: among them are goodness, greatness, wisdom, endurance, etc.",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "ramonf28v.jpg",
+        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "f. 28v (detail): Note that the circle on the bottom right is designed to become part of an assembled stack of circles, which can then be moved to make different combinations.",
+        "resource": "Bibliotheque Nationale de France"
+    },
+    {
+        "img_file_name": "platoaristotle.jpg",
+        "alttext": "Museo dell’ Opera del Duomo, Florence.",
+        "description": "Pato and Aristotle in dispute. The relief represents the art of dialectic and is part of a series of the seven liberal arts made by Lucca della Robbia for the belltower of the Duomo in Florence, 15th century. Museo dell’ Opera del Duomo, Florence.",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Plato_Aristotle_della_Robbia_OPA_Florence.jpg"
+    },
+    {
+        "img_file_name": "zeno.jpg",
+        "alttext": "Fresco by Pellegrino Tibaldi, c. 1588- 1599, Madrid, El Escoria.",
+        "description": "Zeno of Elea shows youths the door to truth and falsity. Fresco by Pellegrino Tibaldi, c. 1588- 1599, Madrid, El Escoria.",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/Category:Zeno_of_Elea#/media/File:Zeno_of_Elea_Tibaldi_or_Carducci_Escorial.jpg"
+    },
+    {
+        "img_file_name": "boxing.jpg",
+        "alttext": "c. 470 BC Louvre, department of Greek, Etruscan and Roman Antiquities, G384",
+        "description": "Boxing scene: athletes in guard position. Detail from an Attic cup, c. 470 BC Louvre, department of Greek, Etruscan and Roman Antiquities, G384",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Boxing_scene_Louvre_G384.jpg"
+    },
+    {
+        "img_file_name": "brussels.jpg",
+        "alttext": "Brussels, KB 5169, fol. 42r.",
+        "description": "Brussels, KB 5169, fol. 42r.",
+        "resource": "Copyright Brussels, Koninklijke Bibliotheek, Special Collections"
+    },
+    {
+        "img_file_name": "cart.jpg",
+        "alttext": "Verona, Bibl. Capitolare CCLI, thirteenth century, f. 10r.",
+        "description": "The liberal arts are building a cart. Verona, Bibl. Capitolare CCLI, thirteenth century, f. 10r. Illustrated copy of Alanus de Insulis’ Anticlaudianus",
+        "hyperlink": "https://www.flickr.com/photos/quadralectics/8003072562/in/photostream/"
     }
 ]

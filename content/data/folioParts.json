@@ -146,7 +146,7 @@
         "folioid": "vlf48_95_v",
         "fpid": 19,
         "fpname": "Close-up",
-        "fpdescription": "VLF 48 2",
+        "fpdescription": "For example, using a ‘mixed’ syllogism: ‘Whether the knowledge of discussing is useful. If good discussion is useful, the science of discussing well is useful. But good discussion is useful... Therefore dialectic is useful.’\n",
         "referentie_afb": "48f95vfr.jpg",
         "afbeelding_aanwezig": false
     },
@@ -259,14 +259,14 @@
     {
         "folioid": "bnf178_4_v",
         "fpid": 36,
-        "fpdescription": "The penwork is exquisite and detailed, the tiny lettering of the glosses is very precise and regular. Underlinings in the note show where the text is quoted.",
+        "fpdescription": "A close up shows how equisite and detailed the penwork is. The size of the initial signifies the structure of the text: the larger the initial, the more important the unit of text is it opens. Red and blue are the usual colours of ink to use for these initials and the penwork, often in alternation.\n",
         "referentie_afb": "17806f4vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 37,
-        "fpdescription": "Short summaries or marginal indices make clear what the reader can find in the text: it makes the text easier to consult.",
+        "fpdescription": "In the red triangle we read: “in voce earum quae sunt”. This is a correction for a passage in the main text, which originally read “que sunt in voce”. In the main tekst, the passage is marked with dots under the letters, signifying that these words should be deleted and replaced by the correction in het margin.\n",
         "referentie_afb": "17806f4vfr2.jpg",
         "afbeelding_aanwezig": false
     },
@@ -295,8 +295,8 @@
         "folioid": "bpl84_89_v",
         "fpid": 41,
         "fpname": "BPL 84 f.89v",
-        "fpdescription": "Here the scheme offers three examples of simple propositions which share one term (either subject or predicate) ‘homo animal est. animal substantia est.’ [Man is an animal; an animal is a substance’] ‘homo grammaticus est. homo musicus est.’ [Man is a grammarian; man is a musician’] ‘homo animal est. equus animal est.’ [Man is an animal. A horse is an animal]",
-        "referentie_afb": "84f89vfr.jpg",
+        "fpdescription": "The scheme begins with two examples of simple propositions which do not ‘convert’: ‘Plato is a philosopher’ ‘Virtue is good’ These syllogisms cannot be converted by simply swopping the subject and predicate terms. ‘A philosopher’ is not necessarily Plato! Similarly, virtue is not the only ‘good’.",
+        "referentie_afb": "84f89vfr3.jpg",
         "afbeelding_aanwezig": false
     },
     {
@@ -495,6 +495,8 @@
     {
         "folioid": "bnf178_17_r",
         "fpid": 68,
+        "fpname": "Paris BnF lat. 17806 f.17r",
+        "fpdescription": "Portrait of a master teaching a student",
         "referentie_afb": "17806f17r.jpg",
         "afbeelding_aanwezig": false
     },
@@ -744,7 +746,7 @@
         "folioid": "vlf48_95_vb",
         "fpid": 104,
         "fpname": "part 2",
-        "fpdescription": "The other scribe added a note on musical pitches, and a two sets of schemes regarding syllogistic propositions.",
+        "fpdescription": "The other scribe added a note on musical pitches, and two sets of schemes regarding syllogistic propositions.",
         "afbeelding_aanwezig": false
     },
     {
@@ -916,7 +918,7 @@
         "fpid": 127,
         "fpname": "Quote",
         "referentie_afb": "12949f52v.jpg",
-        "afbeelding_aanwezig": false
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_27_v",
@@ -924,6 +926,49 @@
         "fpname": "Close-up",
         "fpdescription": "‘We should not accept this gloss’ - ‘Non est haec glossa a nobis recipienda.’",
         "referentie_afb": "12949f27v.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bnf178_4_vc",
+        "fpid": 129,
+        "fpname": "Grid",
+        "fpdescription": "Grid on f.4v",
+        "referentie_afb": "17806f4vfr5.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bpl88_2_vb",
+        "fpid": 130,
+        "fpname": "Ninth-century script",
+        "referentie_afb": "88f2vfr.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bpl88_2_vb",
+        "fpid": 131,
+        "fpname": "Eleventh-century additions",
+        "referentie_afb": "88f2vfr2.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bpl25_1_vb",
+        "fpid": 132,
+        "fpname": "close-up",
+        "referentie_afb": "25f2rfr.jpg",
+        "afbeelding_aanwezig": true
+    },
+    {
+        "folioid": "bpl25_7_r",
+        "fpid": 133,
+        "fpname": "close-up",
+        "referentie_afb": "25f7r.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "gro22_23_r",
+        "fpid": 134,
+        "fpname": "gloss",
+        "referentie_afb": "22f23r.jpg",
         "afbeelding_aanwezig": true
     }
 ]
