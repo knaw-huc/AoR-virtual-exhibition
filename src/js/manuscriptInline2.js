@@ -35,6 +35,7 @@ function handleTabs(selectedTab) {
 function makeTabVisable(contentId,compId) {
   document.getElementById(preContentVal+contentId).style.display= 'flex';
   document.getElementById(preContentVal+'2'+contentId).style.display= 'flex';
+  document.getElementById(preContentVal+'3'+contentId).style.display= 'flex';
 }
 
 // hide all tabs
@@ -59,7 +60,7 @@ function hideTabContent(compId) {
 
 
 function firstTabVisable() {
-  var handleTabVis = document.querySelectorAll(".aorFoliosCaption .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child");
+  var handleTabVis = document.querySelectorAll(".aorFoliosCaption .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, svg .hcTabContent:first-child");
 
     for (i = 0; i < handleTabVis.length; i++) {
       //handleTabVis[i].style.display= 'none';
