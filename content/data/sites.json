@@ -65,11 +65,6 @@
         "navigation_file": "nav-1"
     },
     {
-        "title": "The iconography of dialectica from treacherous to respectable",
-        "docx_file": "VEiconography",
-        "page_id": "1ic"
-    },
-    {
         "title": "±±±t2±±±",
         "docx_file": "VEteachersandstudents",
         "page_id": "2ho",
@@ -230,5 +225,10 @@
         "file_name": "disputation-aachen",
         "template_file": "theme-item",
         "navigation_file": "nav-4"
+    },
+    {
+        "title": "A controversial art?",
+        "docx_file": "VEiconography",
+        "page_id": "1ca"
     }
 ]
