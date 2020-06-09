@@ -199,7 +199,7 @@ function combineJson(){
               }
             } // if is folioParts
 
-            // if only folioPart
+            // if only folio
             if (typeof folioPartsmulJson[ol].alleenfolioid !== "undefined") {
               //console.log(folioPartsmulJson[ol].alleenfolioid);
               var folioPartData = {};
@@ -227,6 +227,29 @@ function combineJson(){
                     }
                   }
                   // manuscrip data
+                }
+              }
+              multiItem.parts.push(folioPartData);
+            }
+
+
+            // if only afbeelding
+            if (typeof folioPartsmulJson[ol].afbeelding !== "undefined") {
+              //console.log(folioPartsmulJson[ol].alleenfolioid);
+              var folioPartData = {};
+
+              for (var imi = 0; imi < imagesJson.length; imi++) {
+                if (imagesJson[imi].img_file_name == folioPartsmulJson[ol].afbeelding) {
+                  folioPartData.imageSource = imagesJson[imi].img_file_name;
+                  folioPartData.foliodescription = imagesJson[imi].description;
+                  folioPartData.foliosource = imagesJson[imi].resource;
+
+                  folioPartData.foliofilename = imagesJson[imi].img_file_name;
+                  folioPartData.fpname = imagesJson[imi].alttext;
+                  folioPartData.fpdescription = imagesJson[imi].description;
+                  folioPartData.fpid = imagesJson[imi].img_file_name;
+                  folioPartData.fimagePath = 'images/content/';
+
                 }
               }
               multiItem.parts.push(folioPartData);
