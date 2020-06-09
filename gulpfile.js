@@ -81,6 +81,7 @@ function createHtml(fileName) {
           htmlOut = handletextPre(htmlOut);
           htmlOut = handleManuscriptComponent(htmlOut);
           htmlOut = handleManuscriptComponentMulti(htmlOut);
+          htmlOut = handleModals(htmlOut);
 
           messages = result.messages; // Any messages, such as warnings during conversion
           //console.log(htmlOut);
@@ -459,12 +460,23 @@ function handleLinks(content) {
   return content;
 }
 
+
+
+
+
 function handleModals(content) {
   for (var i = 0; i < extraInfo.length; i++) {
 
     var find = '±i±'+extraInfo[i].info_id+'±i±';
+    if (content.includes(find)) {
+      var str1 = '<div class="aorModalFade" id="'+extraInfo[i].info_id+'"><div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal(\''+extraInfo[i].info_id+'\');"><img src="images/icons/close.png" alt=""></span><div class="aorModalContent">';
+      var str2 = '</div></div></div>';
+      content += str1+'{{> '+extraInfo[i].docx_file+' }}'+str2;
+    }
+
     var regex = new RegExp(find, "g");
     content = content.replace(regex, '<span class="modalNote"><a href="#" onClick="javascript:modalLoad(\''+extraInfo[i].info_id+'\'); return false">i</a></span>');
+
   }
   return content;
 }
@@ -484,8 +496,6 @@ function handleManuscriptComponent(content) {
 
 
 function handleManuscriptComponentMulti(content) {
-
-
     for (var f = 0; f < folioMultiList.length; f++) {
       var rplce='';
 
@@ -493,9 +503,7 @@ function handleManuscriptComponentMulti(content) {
       var find2 = '<p>±m±'+folioMultiList[f].folioname+'±m±</p>';
       var regex2 = new RegExp(find2, "g");
       content = content.replace(regex2,rplce);
-
     }
-
   return content;
 }
 
