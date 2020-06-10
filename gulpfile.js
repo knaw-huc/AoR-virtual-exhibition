@@ -240,41 +240,6 @@ gulp.task('fc', function(done) {
 
 
 
-// gulp.task('manuscriptComps2', function(done) {
-//   for (var m = 0; m < manuscriptJson.length; m++) {
-//     var manuscriptData = manuscriptJson[m];
-//
-//     // get data from site to get filename of manuscriptpage
-//     for (var i = 0; i < siteJson.length; i++) {
-//       if (siteJson[i].manuscript_id == manuscriptJson[m].id) {
-//         //console.log(siteJson[i].manuscript_id);
-//         var pageFilename = siteJson[i].file_name+'.html';
-//       }
-//     }
-//     manuscriptData.filename=pageFilename;
-//
-//
-//
-//     //ff build the comp
-//     for (var f = 0; f < manuscriptJson[m].folios.length; f++) {
-//       //console.log(manuscriptData);
-//
-//       manuscriptJson[m].folios[f].manuscriptData = manuscriptData;
-//
-//       gulp.src('./src/templates/manuscriptComp.html') //
-//           .pipe(plumber())
-//           .pipe(handlebars(manuscriptJson[m].folios[f], options))
-//           .pipe(rename('folio-' + manuscriptJson[m].folios[f].folioid+ ".html"))
-//           .pipe(gulp.dest('src/components/folios'));
-//     }
-//   }
-//
-//    done();
-// });
-
-
-
-
 gulp.task('sass', function(){
   return gulp.src('./src/scss/*')
     .pipe(plumber())
@@ -317,11 +282,19 @@ gulp.task('buildFromTemplates', function(done) {
       var manuscriptMeta = '';
       if (page.type == 'manuscript') {
         manuscriptMeta += '</div></div>';
-        manuscriptMeta += '<div class="aoRow aoMetadata"><div class="aoCol1"></div>';
-        manuscriptMeta += '<div class="aoCol1"><h3>Metadata</h3>';
+        manuscriptMeta += '<div class="aoRow aoMetadata">';
+        manuscriptMeta += '<div class="aoCol1">';
+        manuscriptMeta += '<h3>Metadata</h3>';
         manuscriptMeta += '<h4>Date</h4>'+page.dateS1+'-'+page.dateS2;
+        manuscriptMeta += '<h4>Language</h4>'+page.language;
         manuscriptMeta += '<h4>Place of origin</h4>'+page.origin;
-        manuscriptMeta += '<h4>Material</h4>'+page.material+'</div>';
+        manuscriptMeta += '</div>';
+        manuscriptMeta += '<div class="aoCol1">';
+        manuscriptMeta += '<h3>Physics</h3>';
+        manuscriptMeta += '<h4>Dimensions</h4>'+page.dimensions;
+        manuscriptMeta += '<h4>Material</h4>'+page.material;
+        manuscriptMeta += '<h4>Foliation</h4>'+page.foliation;
+        manuscriptMeta += '</div>';
         manuscriptMeta += '<div class="aoCol1"><h3>Content</h3>'+page.contents;
 
 
