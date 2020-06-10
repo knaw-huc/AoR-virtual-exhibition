@@ -6,7 +6,8 @@
         "theme": "top",
         "file_name": "index",
         "template_file": "home",
-        "navigation_file": "nav-top"
+        "navigation_file": "nav-top",
+        "thme": "home"
     },
     {
         "title": "Manuscripts",
@@ -15,27 +16,30 @@
         "theme": "manuscripts",
         "file_name": "manuscripts",
         "template_file": "manuscript-overview",
-        "navigation_file": "nav-manuscripts"
+        "navigation_file": "nav-manuscripts",
+        "thme": "manuscripts"
     },
     {
         "title": "About",
         "docx_file": "VEintro",
         "page_id": "ack",
         "remarks": "with information about us, but also with link to bibliography?",
-        "theme": "about",
+        "theme": "top",
         "file_name": "about",
         "template_file": "theme-item",
-        "navigation_file": "nav-about"
+        "navigation_file": "nav-top",
+        "thme": "about"
     },
     {
         "title": "±±±t1±±±",
         "docx_file": "VEmedievalclassroom",
         "page_id": "1ho",
         "remarks": "Landing page for the 1",
-        "theme": 1,
+        "theme": "top",
         "file_name": "theme1",
         "template_file": "theme-landing",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-1",
+        "thme": 1
     },
     {
         "title": "The medieval classroom",
@@ -44,7 +48,8 @@
         "theme": 1,
         "file_name": "Medieval-Classroom",
         "template_file": "theme-item",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-1",
+        "thme": 1
     },
     {
         "title": "The curriculum",
@@ -53,7 +58,8 @@
         "theme": 1,
         "file_name": "Curriculum",
         "template_file": "theme-item",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-1",
+        "thme": 1
     },
     {
         "title": "Dialectica and Rhetorica",
@@ -62,17 +68,19 @@
         "theme": 1,
         "file_name": "Dialectica-Rhetorica",
         "template_file": "theme-item",
-        "navigation_file": "nav-1"
+        "navigation_file": "nav-1",
+        "thme": 1
     },
     {
         "title": "±±±t2±±±",
         "docx_file": "VEteachersandstudents",
         "page_id": "2ho",
         "remarks": "Landing page for the 2",
-        "theme": 2,
+        "theme": "top",
         "file_name": "theme2",
         "template_file": "theme-landing",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "Alcuin and dialogue",
@@ -81,7 +89,8 @@
         "theme": 2,
         "file_name": "Alcuin-dialogue",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "The school of Auxerre ",
@@ -91,7 +100,8 @@
         "theme": 2,
         "file_name": "John-Scot-his-assistant",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "John the Scot and his assistant",
@@ -100,7 +110,8 @@
         "theme": 2,
         "file_name": "School-Auxerre",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "Abbeville",
@@ -109,7 +120,8 @@
         "theme": 2,
         "file_name": "Gerard-DAbbeville",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "Gerbert of Aurillac-Abbo of Fleury",
@@ -118,7 +130,8 @@
         "theme": 2,
         "file_name": "Gerbert-Aurillac-AbboFleury",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "Abelard",
@@ -127,7 +140,8 @@
         "theme": 2,
         "file_name": "Abelard",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "Ramon Lull",
@@ -136,17 +150,19 @@
         "theme": 2,
         "file_name": "Ramon-Llull",
         "template_file": "theme-item",
-        "navigation_file": "nav-2"
+        "navigation_file": "nav-2",
+        "thme": 2
     },
     {
         "title": "±±±t3±±±",
         "docx_file": "VEtechniquesofranda",
         "page_id": "3ho",
         "remarks": "Landing page for the 3",
-        "theme": 3,
+        "theme": "top",
         "file_name": "theme3",
         "template_file": "theme-landing",
-        "navigation_file": "nav-3"
+        "navigation_file": "nav-3",
+        "thme": 3
     },
     {
         "title": "Glosses and commentaries",
@@ -156,7 +172,8 @@
         "theme": 3,
         "file_name": "Glosses-commentaries",
         "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "navigation_file": "nav-3",
+        "thme": 3
     },
     {
         "title": "Diagrams in the rhetorical tradition",
@@ -166,7 +183,8 @@
         "theme": 3,
         "file_name": "debatescand-controversies",
         "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "navigation_file": "nav-3",
+        "thme": 3
     },
     {
         "title": "Diagrams and schemes",
@@ -176,7 +194,8 @@
         "theme": 3,
         "file_name": "Trees-Diagrams-Schemes",
         "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "navigation_file": "nav-3",
+        "thme": 3
     },
     {
         "title": "How to make sense with Syllogism",
@@ -186,7 +205,8 @@
         "theme": 3,
         "file_name": "syllogism",
         "template_file": "theme-item",
-        "navigation_file": "nav-3"
+        "navigation_file": "nav-3",
+        "thme": 3
     },
     {
         "title": "±±±t4±±±",
@@ -194,10 +214,11 @@
         "page_id": "4ho",
         "summary": "Learn about the diagrams and schemes. Learn about the diagrams and schemes. Learn about the diagrams and schemes. ",
         "remarks": "Landing page for the 1",
-        "theme": 4,
+        "theme": "top",
         "file_name": "theme4",
         "template_file": "theme-landing",
-        "navigation_file": "nav-4"
+        "navigation_file": "nav-4",
+        "thme": 4
     },
     {
         "title": "Women and disputation",
@@ -206,7 +227,8 @@
         "theme": 4,
         "file_name": "women-disputation",
         "template_file": "theme-item",
-        "navigation_file": "nav-4"
+        "navigation_file": "nav-4",
+        "thme": 4
     },
     {
         "title": "Abelard and the council of Sense",
@@ -215,7 +237,8 @@
         "theme": 4,
         "file_name": "abelard-council-sense",
         "template_file": "theme-item",
-        "navigation_file": "nav-4"
+        "navigation_file": "nav-4",
+        "thme": 4
     },
     {
         "title": "Disputation at Aachen",
@@ -224,7 +247,8 @@
         "theme": 4,
         "file_name": "disputation-aachen",
         "template_file": "theme-item",
-        "navigation_file": "nav-4"
+        "navigation_file": "nav-4",
+        "thme": 4
     },
     {
         "title": "A controversial art?",
