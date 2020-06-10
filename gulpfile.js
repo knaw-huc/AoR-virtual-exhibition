@@ -81,6 +81,7 @@ function createHtml(fileName) {
           htmlOut = handletextPre(htmlOut);
           htmlOut = handleManuscriptComponent(htmlOut);
           htmlOut = handleManuscriptComponentMulti(htmlOut);
+          htmlOut = handleMetadata(htmlOut);
           htmlOut = handleModals(htmlOut);
 
           messages = result.messages; // Any messages, such as warnings during conversion
@@ -315,14 +316,14 @@ gulp.task('buildFromTemplates', function(done) {
 
       var manuscriptMeta = '';
       if (page.type == 'manuscript') {
-
+        manuscriptMeta += '</div></div>';
         manuscriptMeta += '<div class="aoRow aoMetadata"><div class="aoCol1"></div>';
         manuscriptMeta += '<div class="aoCol1"><h3>Metadata</h3>';
         manuscriptMeta += '<h4>Date</h4>'+page.dateS1+'-'+page.dateS2;
         manuscriptMeta += '<h4>Place of origin</h4>'+page.origin;
         manuscriptMeta += '<h4>Material</h4>'+page.material+'</div>';
         manuscriptMeta += '<div class="aoCol1"><h3>Content</h3>'+page.contents;
-        manuscriptMeta += '</div></div>';
+
 
 
       }
@@ -366,7 +367,6 @@ gulp.task('buildFromTemplates', function(done) {
             var newContent = handleImages(content);
             newContent = handleThemes(newContent);
             newContent = handleLinks(newContent);
-            newContent = handleModals(newContent);
             callback(null, newContent);
             }))
           .pipe(useref())
@@ -540,5 +540,13 @@ function handletextPre(content) {
     content = content.replace(/<p>±colspan±<\/p>/g, "<p>±col1span±</p>");
 
 //            <h2>±colspan±</h2>
+  return content;
+}
+
+//±meta±
+
+function handleMetadata(content) {
+    content = content.replace('<p>±row±</p>', '±meta±<p>±row±</p>');
+
   return content;
 }
