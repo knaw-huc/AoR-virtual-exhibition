@@ -22,17 +22,17 @@
         "docx_file": "VEintro",
         "page_id": "ack",
         "remarks": "with information about us, but also with link to bibliography?",
-        "theme": "top",
+        "theme": "about",
         "file_name": "about",
         "template_file": "theme-item",
-        "navigation_file": "nav-top"
+        "navigation_file": "nav-about"
     },
     {
         "title": "±±±t1±±±",
         "docx_file": "VEmedievalclassroom",
         "page_id": "1ho",
         "remarks": "Landing page for the 1",
-        "theme": "top",
+        "theme": 1,
         "file_name": "theme1",
         "template_file": "theme-landing",
         "navigation_file": "nav-1"
@@ -69,7 +69,7 @@
         "docx_file": "VEteachersandstudents",
         "page_id": "2ho",
         "remarks": "Landing page for the 2",
-        "theme": "top",
+        "theme": 2,
         "file_name": "theme2",
         "template_file": "theme-landing",
         "navigation_file": "nav-2"
@@ -143,7 +143,7 @@
         "docx_file": "VEtechniquesofranda",
         "page_id": "3ho",
         "remarks": "Landing page for the 3",
-        "theme": "top",
+        "theme": 3,
         "file_name": "theme3",
         "template_file": "theme-landing",
         "navigation_file": "nav-3"
@@ -194,13 +194,13 @@
         "page_id": "4ho",
         "summary": "Learn about the diagrams and schemes. Learn about the diagrams and schemes. Learn about the diagrams and schemes. ",
         "remarks": "Landing page for the 1",
-        "theme": "top",
+        "theme": 4,
         "file_name": "theme4",
         "template_file": "theme-landing",
         "navigation_file": "nav-4"
     },
     {
-        "title": "women and disputation",
+        "title": "Women and disputation",
         "docx_file": "VEdisputation",
         "page_id": "4wd",
         "theme": 4,
