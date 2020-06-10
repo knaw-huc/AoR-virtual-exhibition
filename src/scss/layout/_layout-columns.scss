@@ -7,8 +7,8 @@
 .aoWrapper {
   max-width: 1300px;
   width: 100%;
-  padding-left: #{$marginDouble};
-  padding-right: #{$marginDouble};
+  padding-left: #{$margin};
+  padding-right: #{$margin};
 }
 
 .aoRContent {
@@ -51,10 +51,10 @@
 
 
 @media (min-width: 1000px) {
-  .aoWrapper {
-    padding-left: #{$margin};
-    padding-right: #{$margin};
-  }
+  // .aoWrapper {
+  //   padding-left: #{$margin};
+  //   padding-right: #{$margin};
+  // }
 
 
   .aoRow {
@@ -75,10 +75,10 @@
 
 $captionBoxWidth: 100px;
 
-.aoCol1, .aoCol2, .aoCol3 {
+.aoCol1, .aoCol2, .aoCol1Span, .aoCol2Span {
   flex: 1;
 
-  figure {
+  .aorIllu {
     margin: 0;
     padding: 0;
 
@@ -90,18 +90,17 @@ $captionBoxWidth: 100px;
   }
 
     img {
-      width: 350px;
+      width: 100%;
       height: auto;
     }
 }
 
 
 @media (min-width: 1000px) {
-  .aoCol1 img {
-    width: 100%;
-    height: auto;
+  .aorIllu {
+      width: 100%;
+      max-width: 355px;
   }
-
 }
 
 

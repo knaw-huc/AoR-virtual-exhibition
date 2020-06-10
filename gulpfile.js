@@ -406,7 +406,7 @@ function ifEmp(input, pre, post) {
 function handleImages(content) {
   var output;
   for (var i = 0; i < imagesJson.length; i++) {
-    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure><img src="images/content/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br>Source: '+imagesJson[i].resource+'</figcaption></figure>');
+    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure class="aorIllu"><img src="images/content/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br>Source: '+imagesJson[i].resource+'</figcaption></figure>');
   }
 
   return content;

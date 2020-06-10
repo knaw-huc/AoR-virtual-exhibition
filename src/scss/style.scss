@@ -92,7 +92,10 @@ figure{
 	margin-inline-end: 0px;
 
 	figcaption {
-		font-size: .9rem;
+		font-size: .85rem;
+		line-height: 130%;
+		color: $manuscriptBegeTint;
+		padding-left: .5rem;
 	}
 }
 
@@ -293,4 +296,8 @@ h4 {
 		float: right;
 	}
 
+}
+
+.notes {
+	display: none;
 }

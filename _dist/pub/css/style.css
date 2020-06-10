@@ -15,8 +15,8 @@ a {
 .aoWrapper {
   max-width: 1300px;
   width: 100%;
-  padding-left: 4rem;
-  padding-right: 4rem; }
+  padding-left: 2rem;
+  padding-right: 2rem; }
 
 .aoRContent {
   margin-top: 3rem; }
@@ -41,9 +41,6 @@ a {
   flex-direction: column; }
 
 @media (min-width: 1000px) {
-  .aoWrapper {
-    padding-left: 2rem;
-    padding-right: 2rem; }
   .aoRow {
     flex-direction: row; }
     .aoRow > * {
@@ -51,23 +48,23 @@ a {
   .aoRowIntro .aoIntroTextCols {
     flex-direction: row; } }
 
-.aoCol1, .aoCol2, .aoCol3 {
+.aoCol1, .aoCol2, .aoCol1Span, .aoCol2Span {
   flex: 1; }
-  .aoCol1 figure, .aoCol2 figure, .aoCol3 figure {
+  .aoCol1 .aorIllu, .aoCol2 .aorIllu, .aoCol1Span .aorIllu, .aoCol2Span .aorIllu {
     margin: 0;
     padding: 0; }
-    .aoCol1 figure figcaption, .aoCol2 figure figcaption, .aoCol3 figure figcaption {
+    .aoCol1 .aorIllu figcaption, .aoCol2 .aorIllu figcaption, .aoCol1Span .aorIllu figcaption, .aoCol2Span .aorIllu figcaption {
       margin-bottom: calc(0 - 100px);
       height: 100px;
       display: none; }
-  .aoCol1 img, .aoCol2 img, .aoCol3 img {
-    width: 350px;
+  .aoCol1 img, .aoCol2 img, .aoCol1Span img, .aoCol2Span img {
+    width: 100%;
     height: auto; }
 
 @media (min-width: 1000px) {
-  .aoCol1 img {
+  .aorIllu {
     width: 100%;
-    height: auto; } }
+    max-width: 355px; } }
 
 .aoCol1Span, .aoCol2Span {
   flex: 2; }
@@ -75,11 +72,11 @@ a {
 .aoMetadata {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  border-top: 1px solid #403E3B;
-  border-bottom: 1px solid #403E3B; }
+  border-top: 1px solid #403e3b;
+  border-bottom: 1px solid #403e3b; }
 
 .aorCompManuscript {
-  background-color: black;
+  background-color: #1a1a1a;
   display: inline-block;
   padding: 1rem;
   font-size: .85rem; }
@@ -90,6 +87,8 @@ a {
     .aorCompManuscript svg image {
       width: 100%;
       height: auto; }
+  .aorCompManuscript figcaption {
+    padding-left: 0rem; }
 
 .aorFilioInfo {
   display: flex;
@@ -108,7 +107,7 @@ a {
 
 .aorFoliosManuscript {
   flex: 1;
-  border-left: 1px solid #403E3B;
+  border-left: 1px solid #403e3b;
   padding-left: 1rem; }
 
 .aorHighLightStroke {
@@ -167,7 +166,7 @@ a {
 
 .aorNote {
   display: inline-block;
-  border: 1px solid #403E3B;
+  border: 1px solid #403e3b;
   width: 25px;
   height: 25px;
   font-size: .8rem;
@@ -246,7 +245,7 @@ a {
 
 .modalNote {
   display: inline-block;
-  border: 1px solid #403E3B;
+  border: 1px solid #403e3b;
   width: 25px;
   height: 25px;
   font-size: .8rem;
@@ -390,7 +389,7 @@ body {
   flex-direction: column;
   padding-top: 6rem;
   padding-bottom: 6rem;
-  border-bottom: 1px solid #403E3B; }
+  border-bottom: 1px solid #403e3b; }
 
 .aorHeaderLogo img {
   width: auto;
@@ -429,7 +428,10 @@ figure {
   margin-inline-start: 0px;
   margin-inline-end: 0px; }
   figure figcaption {
-    font-size: .9rem; }
+    font-size: .85rem;
+    line-height: 130%;
+    color: #85817a;
+    padding-left: .5rem; }
 
 .tempContainer {
   width: 100vw;
@@ -560,3 +562,6 @@ h4 {
     width: 100px;
     height: auto;
     float: right; }
+
+.notes {
+  display: none; }
