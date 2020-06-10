@@ -265,10 +265,6 @@ function combineJson(){
 
 
 
-
-
-
-
 fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
   if (err) throw err;
   console.log('Saved1!');

@@ -279,6 +279,7 @@ gulp.task('buildFromTemplates', function(done) {
         }
       }
 
+      // manuscript data
       var manuscriptMeta = '';
       if (page.type == 'manuscript') {
         manuscriptMeta += '</div></div>';

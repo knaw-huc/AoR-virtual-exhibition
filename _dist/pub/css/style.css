@@ -15,8 +15,8 @@ a {
 .aoWrapper {
   max-width: 1300px;
   width: 100%;
-  padding-left: 8rem;
-  padding-right: 8rem; }
+  padding-left: 4rem;
+  padding-right: 4rem; }
 
 .aoRContent {
   margin-top: 3rem; }
@@ -34,7 +34,7 @@ a {
 .aoRowIntro .aoCol1 {
   display: flex;
   flex-direction: column;
-  margin-right: 4rem; }
+  margin-right: 2rem; }
 
 .aoRowIntro .aoIntroTextCols {
   display: flex;
@@ -42,12 +42,12 @@ a {
 
 @media (min-width: 1000px) {
   .aoWrapper {
-    padding-left: 4rem;
-    padding-right: 4rem; }
+    padding-left: 2rem;
+    padding-right: 2rem; }
   .aoRow {
     flex-direction: row; }
     .aoRow > * {
-      margin-right: 3rem; }
+      margin-right: 5rem; }
   .aoRowIntro .aoIntroTextCols {
     flex-direction: row; } }
 
@@ -275,7 +275,7 @@ a {
   padding: 3rem 0;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   height: 100%;
   min-height: 75vh; }
@@ -283,15 +283,20 @@ a {
     text-align: center;
     max-width: 650px;
     margin-bottom: 2rem; }
-    .aorHomeHero .aorHomeHeroLogo .logoLines, .aorHomeHero .aorHomeHeroText .logoLines {
-      height: 60px;
-      width: auto; }
+    .aorHomeHero .aorHomeHeroLogo .logoLines1, .aorHomeHero .aorHomeHeroText .logoLines1 {
+      height: auto;
+      width: 557px;
+      max-width: 100%; }
+    .aorHomeHero .aorHomeHeroLogo .logoLines2, .aorHomeHero .aorHomeHeroText .logoLines2 {
+      height: auto;
+      width: 623px;
+      max-width: 100%; }
     .aorHomeHero .aorHomeHeroLogo .logoIcon, .aorHomeHero .aorHomeHeroText .logoIcon {
       height: 80px;
       width: auto; }
 
 .aorHomeThemes {
-  padding: 3rem 4rem; }
+  padding: 3rem 2rem; }
 
 .aorHomeOpenManuscript {
   display: flex;
@@ -316,8 +321,8 @@ a {
   .aorHome3Themes {
     flex-direction: row; }
     .aorHome3Themes > * {
-      width: calc(33% - 4rem);
-      margin-right: 4rem; } }
+      width: calc(33% - 2rem);
+      margin-right: 2rem; } }
 
 .aorHomeManuscripts {
   padding: 3rem 0; }
@@ -340,7 +345,7 @@ a {
 
 .aorHomeManuscriptsAllLink {
   background-color: #02F7E8;
-  padding: 3rem 4rem;
+  padding: 3rem 2rem;
   color: #242424;
   font-weight: 700;
   display: flex;
@@ -390,7 +395,7 @@ body {
 .aorHeaderLogo img {
   width: auto;
   height: 32px;
-  max-width: calc(100vw - 8rem); }
+  max-width: calc(100vw - 4rem); }
 
 .aoTopnav {
   display: flex;
@@ -399,7 +404,12 @@ body {
   font-size: .85rem; }
   .aoTopnav a {
     color: #DFD2BE;
-    margin-right: 1rem; }
+    margin-right: 1rem;
+    padding-bottom: .5rem; }
+
+.aorCurrPage {
+  font-weight: 700;
+  border-bottom: 2px solid #DFD2BE; }
 
 @media (min-width: 1000px) {
   .aorHeader {

@@ -1,4 +1,4 @@
-$margin: 4rem;
+$margin: 2rem;
 $marginDouble: 2 * $margin;
 
 @import 'brand';
@@ -56,7 +56,13 @@ body{
 	a {
 		color: $manuscriptBege;
 		margin-right: 1rem;
+		padding-bottom: .5rem;
 	}
+}
+
+.aorCurrPage {
+	font-weight: 700;
+	border-bottom: 2px solid #{$manuscriptBege};
 }
 
 @media (min-width: 1000px) {
