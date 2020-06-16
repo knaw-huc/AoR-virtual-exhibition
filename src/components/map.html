@@ -1,0 +1,10 @@
+<div class="aorMap">
+  <div class="aorDivMap">{{> mapFile}}</div>
+  <div class="aorDivList">
+    {{#each manuscriptsList}}
+        <div onclick="highLightMap('{{shelfmark}}');">{{shelfmark}}</div>
+    {{/each}}
+
+  </div>
+
+</div>

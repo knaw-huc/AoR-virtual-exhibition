@@ -1,0 +1,31 @@
+.aorMap {
+  display: flex;
+  flex-direction: column;
+}
+.aorDivMap{
+  background-color: rgb(203, 213, 238)
+
+}
+.aorDivList{
+  font-size: .8rem;
+  line-height: 145%;
+  columns: 2;
+  padding: 1rem;
+
+
+  background-color: rgb(56, 44, 55)
+}
+
+
+@media (min-width: 1000px) {
+  .aorMap {
+    display: flex;
+    flex-direction: row;
+  }
+  .aorDivMap{
+
+  }
+  .aorDivList{
+
+  }
+}

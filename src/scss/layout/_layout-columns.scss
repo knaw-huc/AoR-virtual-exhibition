@@ -76,7 +76,6 @@
 $captionBoxWidth: 100px;
 
 .aoCol1, .aoCol2, .aoCol1Span, .aoCol2Span {
-  flex: 1;
 
   .aorIllu {
     margin: 0;
@@ -85,7 +84,6 @@ $captionBoxWidth: 100px;
     figcaption {
       margin-bottom: calc(0 - #{$captionBoxWidth});
       height: $captionBoxWidth;
-      display: none;
     }
   }
 
@@ -103,7 +101,9 @@ $captionBoxWidth: 100px;
   }
 }
 
-
+.aoCol1 {
+  flex: 1;
+}
 
 .aoCol1Span, .aoCol2Span {
   flex: 2;
