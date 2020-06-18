@@ -1,5 +1,5 @@
 .aorHomeHero {
-  padding: 3rem 0;
+  padding: 3rem 2rem;
   display: flex;
   flex-direction: column;
   justify-content:space-between;
@@ -11,31 +11,57 @@
   .aorHomeHeroLogo, .aorHomeHeroText {
     text-align: center;
     max-width: 650px;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 
     .logoLines1 {
       height: auto;
-      width: 557px;
+      width: 300px;
       max-width: 100%;
     }
     .logoLines2 {
       height: auto;
-      width: 623px;
+      width: 330px;
       max-width: 100%;
     }
 
 
     .logoIcon{
-      height: 80px;
+      height: 50px;
       width: auto;
+      margin-top: 2rem;
     }
   }
 }
 
 
+@media (min-width: 500px) {
+  .aorHomeHero {
+    min-height: 75vh;
+    .aorHomeHeroLogo, .aorHomeHeroText {
+      .logoLines1 {
+        width: 557px;
+      }
+      .logoLines2 {
+        width: 623px;
+      }
+
+
+      .logoIcon{
+        height: 80px;
+        margin-top: 0rem;
+      }
+    }
+  }
+}
+
+
+
 .aorHomeHero .aoTopnav {
   //align-self: flex-start;
+
+  width: 100%;
 }
+
 
 
 .aorHomeThemes {

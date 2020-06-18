@@ -272,7 +272,7 @@ a {
   text-align: center; }
 
 .aorHomeHero {
-  padding: 3rem 0;
+  padding: 3rem 2rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -282,18 +282,33 @@ a {
   .aorHomeHero .aorHomeHeroLogo, .aorHomeHero .aorHomeHeroText {
     text-align: center;
     max-width: 650px;
-    margin-bottom: 2rem; }
+    margin-bottom: 1rem; }
     .aorHomeHero .aorHomeHeroLogo .logoLines1, .aorHomeHero .aorHomeHeroText .logoLines1 {
       height: auto;
-      width: 557px;
+      width: 300px;
       max-width: 100%; }
     .aorHomeHero .aorHomeHeroLogo .logoLines2, .aorHomeHero .aorHomeHeroText .logoLines2 {
       height: auto;
-      width: 623px;
+      width: 330px;
       max-width: 100%; }
     .aorHomeHero .aorHomeHeroLogo .logoIcon, .aorHomeHero .aorHomeHeroText .logoIcon {
+      height: 50px;
+      width: auto;
+      margin-top: 2rem; }
+
+@media (min-width: 500px) {
+  .aorHomeHero {
+    min-height: 75vh; }
+    .aorHomeHero .aorHomeHeroLogo .logoLines1, .aorHomeHero .aorHomeHeroText .logoLines1 {
+      width: 557px; }
+    .aorHomeHero .aorHomeHeroLogo .logoLines2, .aorHomeHero .aorHomeHeroText .logoLines2 {
+      width: 623px; }
+    .aorHomeHero .aorHomeHeroLogo .logoIcon, .aorHomeHero .aorHomeHeroText .logoIcon {
       height: 80px;
-      width: auto; }
+      margin-top: 0rem; } }
+
+.aorHomeHero .aoTopnav {
+  width: 100%; }
 
 .aorHomeThemes {
   padding: 3rem 2rem; }
