@@ -311,26 +311,34 @@ a {
   width: 100%; }
 
 .aorHomeThemes {
-  padding: 3rem 2rem; }
+  padding: 6rem 2rem; }
 
 .aorHomeOpenManuscript {
   display: flex;
   flex-direction: column;
   align-items: center; }
-  .aorHomeOpenManuscript img {
+  .aorHomeOpenManuscript svg {
     width: 100%;
     max-width: 800px;
     height: auto;
     transform: rotate(5deg); }
 
 .aorHomeThemesIntro {
-  text-align: center; }
+  text-align: center;
+  padding: 2rem 0; }
 
 .aorHome3Themes {
   display: flex;
   flex-direction: column; }
+  .aorHome3Themes h3 {
+    border-bottom: 2px solid #02F7E8;
+    padding-bottom: .5rem;
+    margin-bottom: 0rem; }
   .aorHome3Themes > * {
     width: 100%; }
+
+.aorThemeHighlight h3 {
+  border-bottom: 2px solid #242424; }
 
 @media (min-width: 1000px) {
   .aorHome3Themes {
@@ -340,10 +348,15 @@ a {
       margin-right: 2rem; } }
 
 .aorHomeManuscripts {
-  padding: 3rem 0; }
+  padding: 3rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
 
 .aorHomeManuscriptsIntro {
-  text-align: center; }
+  text-align: center;
+  padding: 2rem 0;
+  max-width: 700px; }
 
 .aorHomeManuscriptsFeaturedList {
   display: flex;
