@@ -374,6 +374,12 @@ a {
     display: flex;
     flex-direction: row; } }
 
+.aorLegend {
+  display: block; }
+  .aorLegend img {
+    width: 15px;
+    height: auto; }
+
 html,
 body {
   padding: 0;
