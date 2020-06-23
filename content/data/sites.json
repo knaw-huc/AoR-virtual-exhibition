@@ -10,16 +10,6 @@
         "thme": "home"
     },
     {
-        "title": "Manuscripts",
-        "docx_file": "VEmanuscripts",
-        "page_id": "mho",
-        "theme": "manuscripts",
-        "file_name": "manuscripts",
-        "template_file": "manuscript-overview",
-        "navigation_file": "nav-manuscripts",
-        "thme": "manuscripts"
-    },
-    {
         "title": "About",
         "docx_file": "VEintro",
         "page_id": "ack",
@@ -98,7 +88,7 @@
         "page_id": "2sa",
         "remarks": "(Heiric and Remigius)",
         "theme": 2,
-        "file_name": "John-Scot-his-assistant",
+        "file_name": "School-Auxerre",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -108,7 +98,7 @@
         "docx_file": "VEjohnscot",
         "page_id": "2js",
         "theme": 2,
-        "file_name": "School-Auxerre",
+        "file_name": "John-Scot-his-assistant",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -181,7 +171,7 @@
         "page_id": "3cc",
         "summary": "Learn about the debates and controversies. Learn about the debates and controversies. Learn about the debates and controversies. ",
         "theme": 3,
-        "file_name": "debatescand-controversies",
+        "file_name": "diagrams-hetorical-tradition",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
         "thme": 3
@@ -253,6 +243,20 @@
     {
         "title": "A controversial art?",
         "docx_file": "VEiconography",
-        "page_id": "1ca"
+        "page_id": "1ca",
+        "theme": 4,
+        "file_name": "controversial-art",
+        "template_file": "theme-item",
+        "navigation_file": "nav-4"
+    },
+    {
+        "title": "Manuscripts",
+        "docx_file": "VEmanuscripts",
+        "page_id": "mho",
+        "theme": "manuscripts",
+        "file_name": "manuscripts",
+        "template_file": "manuscript-overview",
+        "navigation_file": "nav-manuscripts",
+        "thme": "manuscripts"
     }
 ]

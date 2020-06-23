@@ -745,22 +745,24 @@
     {
         "folioid": "vlf48_95_vb",
         "fpid": 104,
-        "fpname": "part 2",
+        "fpname": "Musical pitches",
         "fpdescription": "The other scribe added a note on musical pitches, and two sets of schemes regarding syllogistic propositions.",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_vb",
         "fpid": 105,
-        "fpname": "part 3",
+        "fpname": "Syllogisms",
         "fpdescription": "A line separates the sets of examples of syllogisms.",
+        "referentie_afb": "48f95vfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_vb",
         "fpid": 106,
-        "fpname": "part 4",
+        "fpname": "Rather",
         "fpdescription": "We know who one of these scribes was – Rather of Verona (890-974) added a copy of a letter at the base of the page.",
+        "referentie_afb": "48f95vfr3.jpg",
         "afbeelding_aanwezig": false
     },
     {
