@@ -1258,7 +1258,7 @@
     {
         "img_file_name": "150f141v.jpg",
         "alttext": "Valenciennes, BM 150, c. 881, f. 141v",
-        "description": "Cantilène de Sainte Eulalie/ Song of St. Eulalia. Valenciennes, BM 150, c. 881, f. 141v. St. Amand, Saint-Amand-les-Eaux.",
+        "description": "Cantilène de Sainte Eulalie/ Song of St. Eulalia. Valenciennes, BM 150, c. 881, f. 141v. St. Amand, Saint-Amand-les-Eaux. The verses are written in the langue d’oil, the vernacular language of the northern half of medieval France\n",
         "resource": "Biblisimma",
         "hyperlink": "https://portail.biblissima.fr/ark:/43093/mdataed3113afc9818194b4e82463cd0391d702ef7c2b"
     },
@@ -1278,7 +1278,8 @@
         "img_file_name": "romanrose.jpg",
         "alttext": "Musée Condé, ms. 482, f. 60v",
         "description": "Abelard and Heloise, Roman de la Rose Chantilly, Musée Condé, ms. 482, f. 60v Paris. 1350-1360",
-        "resource": "Musée Condé"
+        "resource": "Musée Condé",
+        "hyperlink": "http://initiale.irht.cnrs.fr/en/decor/78892"
     },
     {
         "img_file_name": "romanrosefr.jpg",
@@ -1671,5 +1672,96 @@
         "description": "Paris, BnF, lat. 2853, f. 7r Lyon, ninth century",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8572244q/f21.image.r=Adversus%20Felicem"
+    },
+    {
+        "img_file_name": "marcella2.jpg",
+        "alttext": "Dijon, BM, 132, f. 1r",
+        "description": "Jerome delivers his work to Marcella, accompanied by her student Principia. Dijon, BM, 132, f. 1r Citeaux, Abbey of Notre-Dame, twelfth century.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/en/decor/13176"
+    },
+    {
+        "img_file_name": "origen.jpg",
+        "alttext": "Bayerische Staatsbibliothek, CLM 17092, f. 130",
+        "description": "Author’s portrait of Origen, pen-and-ink drawing,ca. 1160 München, Bayerische Staatsbibliothek, CLM 17092, f. 130. Above the portrait is written: “scribere cum penna (d)oceat me sacrata maria” – “May holy Mary teach me to write with a pen”",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/Category:Origen#/media/File:Origen3.jpg"
+    },
+    {
+        "img_file_name": "gal136.jpg",
+        "alttext": "St. Gallen, Stiftsbibliothek 136, p. 2",
+        "description": "St. Gallen, Stiftsbibliothek 136, p. 2",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0134"
+    },
+    {
+        "img_file_name": "eulalia2.jpg",
+        "alttext": "Bernat Mortorell",
+        "description": "Martyrdom of St. Eulalia of Mérida, 1427-1437 by the Catalan artist Bernat Mortorell. Vic, Museu Episcopal de Vic.",
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:MEpiscopalVIc-Martorell-Eul%C3%A0lia-neu.jpg"
+    },
+    {
+        "img_file_name": "reims4.jpg",
+        "alttext": "Reims. Bibliothèque Carnegie, 385, f. 195",
+        "description": "Alcuin offers words of praise:  “I know you to be well versed in the subtleties of dialectic” “novi prudentiam vestram optime in dialecticae eruditam esse” Reims. Bibliothèque Carnegie, 385, f. 195",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w/f321.image"
+    },
+    {
+        "img_file_name": "wheel.jpg",
+        "alttext": "Le Puy-en-Velay, c. 1200.",
+        "description": "Catherine and the spiked breaking wheel. Fresco in the Cathedral of Notre Dame, Le Puy-en-Velay, c. 1200.",
+        "resource": "Wikipedia, photo by Richard Stracke",
+        "hyperlink": "https://en.wikipedia.org/wiki/File:Catherine.Wheel.jpg"
+    },
+    {
+        "img_file_name": "passio.jpg",
+        "alttext": "Paris, BnF. Lat. 1970, f. 54r. Fécamp, eleventh century.",
+        "description": "The Martyrdom of Saint Katharine/Passio Sanctae Catharinae. Paris, BnF. Lat. 1970, f. 54r. Fécamp, eleventh century.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10539943g/f115.image.r=passio%20sanctae%20catharinae"
+    },
+    {
+        "img_file_name": "mural.jpg",
+        "alttext": "mural in the cathedral of La Seu d’Urgell",
+        "description": "The murals were removed from the cathedral of La Seu d’Urgell between 1927 and 1933 and are now in the Museu Nacional d’Art de Catalunya.",
+        "resource": "Museu Nacional",
+        "hyperlink": "https://www.museunacional.cat/en/colleccio/dispute-and-arrest-saint-catherine-cathedral-la-seu-durgell/anonim-catalunya/214241-000"
+    },
+    {
+        "img_file_name": "katharine.jpg",
+        "alttext": "Stiftsbiliothek 516",
+        "description": "Stiftsbiliothek 516",
+        "resource": "Stiftbibliothek",
+        "hyperlink": "https://manuscripta.at/images/AT/6000/AT6000-516/AT6000-516_VDS.jpg"
+    },
+    {
+        "img_file_name": "problemata.jpg",
+        "alttext": "Paris, BnF. Lat. 14511, f. 17v and 18r",
+        "description": "Heloise, Problemata. Paris, BnF. Lat. 14511, f. 17v and 18r. St. Victor, late 14th, early 15th c. This section of the manuscript was copied for the humanist scholar Simon Plumetot (1371-1443), who collected texts written by Abelard, which perhaps explains the added title at the top of the page. Plumetot donated this and other manuscripts related to Abelard to the abbey of St-Victor, where he had studied.",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "problemata2.jpg",
+        "alttext": "Paris, BnF. Lat. 14511, f. 44v",
+        "description": "Paris, BnF. Lat. 14511, f. 44v “Incipit sermo magistri abaelardi ad virgines paraclitenses de studio litterarum”",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "12949notes.jpg",
+        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+    },
+    {
+        "img_file_name": "12949f23v.jpg",
+        "alttext": "Paris, BnF. Lat. 12949, f.23v",
+        "description": "Paris, BnF. Lat. 12949, f.23v",
+        "resource": "Gallica"
+    },
+    {
+        "img_file_name": "12949f23bisrfr",
+        "alttext": "Paris, BnF. Lat. 12949, f.23 bis r",
+        "description": "Underlined are: versuS iohanni Scotti, bedae, Virgilii, Prudentii, Persii, epitaphium sancti augustini. “Vivere post obitus vatem vis nosse viator? Quod legis, ecce loquor, vox tua nempe mea est” “Passerby, do you wish to know how poets still live after death? Those words you read, behold I speak. Your voice is very much mine” [Possidius, Vita Augustini, 3.18]",
+        "resource": "Gallica"
     }
 ]

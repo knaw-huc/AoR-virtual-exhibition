@@ -886,7 +886,7 @@
         "folioid": "bnf129_12_r",
         "fpid": 123,
         "fpname": "Introduction",
-        "fpdescription": "Introduction to Augustine and an etymology of the word dialectica, with a reference to John Scot.",
+        "fpdescription": "Introduction (accessus) to the author, Augustine, and an etymology of the word dialectica, with a reference to John Scot Eriugenia.",
         "referentie_afb": "12949f12rfr.jpg",
         "afbeelding_aanwezig": false
     },
@@ -894,16 +894,16 @@
         "folioid": "bnf129_12_r",
         "fpid": 124,
         "fpname": "De dialectica",
-        "fpdescription": "Beginning of De dialectica, with the well-known opening words: Dialectic is the art of arguing well. As you know, we use words when we argue.",
+        "fpdescription": "Opening of De dialectica, with the well-known opening words: “Dialectia est bene disputandi scientia”; “Dialectic is the art of arguing well.",
         "referentie_afb": "12949f12rfr1.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_24_rb",
         "fpid": 125,
-        "fpname": "Proloque",
-        "referentie_afb": "12949f24rfr.jpg",
-        "afbeelding_aanwezig": false
+        "fpname": "Categoriae decem",
+        "referentie_afb": "12949f24rfr2.jpg",
+        "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_25_vb",
@@ -977,6 +977,21 @@
         "fpname": "close-up",
         "fpdescription": "Licentia",
         "referentie_afb": "licentia2.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "gal128_3_",
+        "fpid": 136,
+        "fpname": "p.4",
+        "fpdescription": "The passage about Marcella",
+        "referentie_afb": "gal128.jpg",
+        "afbeelding_aanwezig": false
+    },
+    {
+        "folioid": "bnf129_24_rc",
+        "fpid": 137,
+        "fpname": "Prologue",
+        "referentie_afb": "12949f24rfr.jpg",
         "afbeelding_aanwezig": false
     }
 ]

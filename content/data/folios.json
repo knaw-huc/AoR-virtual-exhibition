@@ -106,9 +106,10 @@
     },
     {
         "manuscript_id": "bnf165",
-        "folioid": "bnf165_37_a",
+        "folioid": "bnf165_37_ra",
         "folionr": 37,
-        "foliotype": "a",
+        "foliotype": "r",
+        "folioextra": "a",
         "foliofilename": "BnF_lat_16598_f37_a.jpg",
         "foliodescription": "Containing Augustinus’ Dialectica and John of Damascus’ Logica",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z/f39.image.r=16598"
@@ -2209,5 +2210,33 @@
         "foliofilename": "UB_GRO_22_f105_r.jpg",
         "foliodescription": "Leiden, UB, GRO 22±a±m22±a±, twelfth century, f. 105r.",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668182"
+    },
+    {
+        "manuscript_id": "gal128",
+        "folioid": "gal128_3_",
+        "folionr": 3,
+        "foliofilename": "Gall_SB_Cod_Sang_128_p.3_.jpg",
+        "foliodescription": "St. Gallen, 128, p. 3 prologue to Jerome’s Commentary on the Epistle to the Galatians (c. 389) St. Gallen, first third of the ninth century",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0128/3/0/Sequence-320"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_rc",
+        "folionr": 24,
+        "foliotype": "r",
+        "folioextra": "c",
+        "foliofilename": "BnF_lat_12949_f24_r.jpg",
+        "foliodescription": "f.24r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f61.item.r=lat.zoom"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_vb",
+        "folionr": 24,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949 f.24v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
     }
 ]
