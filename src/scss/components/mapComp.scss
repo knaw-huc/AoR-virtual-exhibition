@@ -1,19 +1,23 @@
 .aorMap {
   display: flex;
   flex-direction: column;
+  background-color: $manuscriptBege;
+  color: $darkBG;
 }
 .aorDivMap{
-  background-color: rgb(203, 213, 238)
 
 }
 .aorDivList{
   font-size: .8rem;
   line-height: 145%;
-  columns: 2;
   padding: 1rem;
+  margin-bottom: 2rem;
 
+  >* {
+    cursor: pointer;
+    margin-bottom: .5rem;
+  }
 
-  background-color: rgb(56, 44, 55)
 }
 
 
@@ -33,6 +37,14 @@
 
 .aorLegend {
   display: block;
+  background-color: $manuscriptBege;
+  color: $darkBG;
+  padding: .4rem;
+  font-size: .85rem;
+
+  span {
+    margin-left: 1rem;
+  }
 
   img {
     width: 15px;

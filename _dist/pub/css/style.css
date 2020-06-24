@@ -385,17 +385,18 @@ a {
 
 .aorMap {
   display: flex;
-  flex-direction: column; }
-
-.aorDivMap {
-  background-color: #cbd5ee; }
+  flex-direction: column;
+  background-color: #DFD2BE;
+  color: #242424; }
 
 .aorDivList {
   font-size: .8rem;
   line-height: 145%;
-  columns: 2;
   padding: 1rem;
-  background-color: #382c37; }
+  margin-bottom: 2rem; }
+  .aorDivList > * {
+    cursor: pointer;
+    margin-bottom: .5rem; }
 
 @media (min-width: 1000px) {
   .aorMap {
@@ -403,7 +404,13 @@ a {
     flex-direction: row; } }
 
 .aorLegend {
-  display: block; }
+  display: block;
+  background-color: #DFD2BE;
+  color: #242424;
+  padding: .4rem;
+  font-size: .85rem; }
+  .aorLegend span {
+    margin-left: 1rem; }
   .aorLegend img {
     width: 15px;
     height: auto; }

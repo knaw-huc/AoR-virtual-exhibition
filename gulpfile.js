@@ -515,8 +515,8 @@ function handletextPre(content) {
     content = content.replace(/<p>±col3±<br \/>/g, "<p>±col3±</p><p>");
 
 
-    content = content.replace(/±timeline±/g, '<div class="aoRow">{{> timeline}}</div>');
-    content = content.replace(/±map±/g, '<div class="aoRow">{{> map}}</div>');
+    content = content.replace(/±timeline±/g, '<div class="">{{> timeline}}</div>');
+    content = content.replace(/±map±/g, '<div class="">{{> map}}</div>');
 
 //            <h2>±colspan±</h2>
   return content;
