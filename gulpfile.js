@@ -513,12 +513,13 @@ function handletextPre(content) {
     content = content.replace(/<h2>±colspan±<\/h2>/g, "<p>±colspan±</p>");
     content = content.replace(/<p>±colspan±<\/p>/g, "<p>±col1span±</p>");
     content = content.replace(/<p>±col3±<br \/>/g, "<p>±col3±</p><p>");
+    content = content.replace(/<p>±row±<br \/>±col1± <\/p>/g, "<p>±row±</p><p>±col1±</p>");
 
 
     content = content.replace(/±timeline±/g, '<div class="">{{> timeline}}</div>');
     content = content.replace(/±map±/g, '<div class="">{{> map}}</div>');
 
-//            <h2>±colspan±</h2>
+//            <p>±row±<br />±col1± </p>
   return content;
 }
 
