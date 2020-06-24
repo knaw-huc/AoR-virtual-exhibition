@@ -339,8 +339,8 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(each(function(content, file, callback) {
             // replace images and theme names
             var newContent = handleImages(content);
-            newContent = handleThemes(newContent);
             newContent = handleLinks(newContent);
+            newContent = handleThemes(newContent);
             callback(null, newContent);
             }))
           .pipe(useref())
@@ -512,6 +512,11 @@ function handletextPre(content) {
     content = content.replace(/ ±f±<\/p>/g, "±f±</p>");
     content = content.replace(/<h2>±colspan±<\/h2>/g, "<p>±colspan±</p>");
     content = content.replace(/<p>±colspan±<\/p>/g, "<p>±col1span±</p>");
+    content = content.replace(/<p>±col3±<br \/>/g, "<p>±col3±</p><p>");
+
+
+    content = content.replace(/±timeline±/g, '<div class="aoRow">{{> timeline}}</div>');
+    content = content.replace(/±map±/g, '<div class="aoRow">{{> map}}</div>');
 
 //            <h2>±colspan±</h2>
   return content;

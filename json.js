@@ -66,7 +66,7 @@ function combineJson(){
     "navigation_file": "nav-manuscripts"
   })
   siteJson[0].manuscriptsList = manuscriptJson;
-  siteJson[1].manuscriptsList = manuscriptJson;
+  siteJson[24].manuscriptsList = manuscriptJson;
 
 
   //create list for making folio components
