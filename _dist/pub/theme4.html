@@ -1,52 +1,16 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Debates and Controversies - The Art of Reasoning in Medieval Manuscripts</title>
-    	<meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" href="css/style.css">
-     <link rel="icon" href="images/favi.png" sizes="any" type="image/png">
-  </head>
-  <script type="text/javascript">
-    var pageId="4ho";
-    var sectionId="4";
-  </script>
-  <body lang="nl-NL">
-    <noscript>
-      Beste bezoeker, deze website maakt gebruik van javascript. U heeft javascript uitstaan. Hierdoor kan het zijn dat de site niet optimaal werkt.
-    </noscript>
+{{> html-head}}
 
 <div class="aoSite">
-  <div class="aoWrapper aorHeader">
-    <div class="aorHeaderLogo">
-      <a href="/"><img src="images/logo_aor-1@2x.png" alt="logo Art of Reasoning"><img src="images/logo_aor-2@2x.png" alt="logo Art of Reasoning"></a>
-    </div>
-    <div class="aoTopnav">
-      <nav class="aoNavMainContent">
-        <a href="/">Home</a>
-        <a href="theme1.html" id="ht_1">Dialectica and retorica</a>
-        <a href="theme2.html" id="ht_2">Teachers and Students</a>
-        <a href="theme3.html" id="ht_3">Techniques of reading and learning</a>
-        <a href="theme4.html" id="ht_4">Debates and Controversies</a>
-        <a href="manuscripts.html" id="ht_manuscripts">Manuscripts</a>
-      </nav>
-      <nav class="aoNavAbout">
-        <a href="about.html" id="ht_about">About this site</a>
-      </nav>
-    </div>
-  </div>
+  {{> page-header}}
 
   <div class="aoWrapper aoRContent">
     <div class="aoRow aoRowIntro">
       <div class="aoCol1Span">
         <div class="aoIntroTitle">
-          <h1>Debates and Controversies</h1>
+          <h1>{{title}}</h1>
         </div>
         <div class="aoIntroTextCols">
-      <p>!! No text for this page yet !!</p><p>Got to the <a href="http:///">home page</a></p><p><span class="modalNote"><a href="#" onClick="javascript:modalLoad('porphyry'); return false">i</a></span></p><p><span class="modalNote"><a href="#" onClick="javascript:modalLoad('porphyry2'); return false">i</a></span></p><div class="aorModalFade" id="porphyry"><div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('porphyry');"><img src="images/icons/close.png" alt=""></span><div class="aorModalContent"><h1>111111111111</h1>
-<p> rgwergwerg wergwergwergwergwergwergwergw erg </p>
-</div></div></div><div class="aorModalFade" id="porphyry2"><div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('porphyry2');"><img src="images/icons/close.png" alt=""></span><div class="aorModalContent"><h1>3412341234123412342341</h1>
-<p> rgwergwerg wergwergwergwergwergwergwergw erg </p>
-</div></div></div></div>
+      {{> (lookup . 'docx_file') }}</div>
       </div>
     </div>
   </div>
@@ -54,26 +18,9 @@
 
 <div class="aorBege aoSite">
   <div class="aorHomeThemes aoWrapper">
-        <div class="themeItemSummary" onclick="javascript:location.href='women-disputation.html'">
-          <h3>Women and disputation</h3>
-          <p></p>
-          <p><a href="women-disputation.html">Learn about Women and disputation</a></p>
-        </div>
-        <div class="themeItemSummary" onclick="javascript:location.href='abelard-council-sense.html'">
-          <h3>Abelard and the council of Sense</h3>
-          <p></p>
-          <p><a href="abelard-council-sense.html">Learn about Abelard and the council of Sense</a></p>
-        </div>
-        <div class="themeItemSummary" onclick="javascript:location.href='disputation-aachen.html'">
-          <h3>Disputation at Aachen</h3>
-          <p></p>
-          <p><a href="disputation-aachen.html">Learn about Disputation at Aachen</a></p>
-        </div>
-        <div class="themeItemSummary" onclick="javascript:location.href='controversial-art.html'">
-          <h3>A controversial art?</h3>
-          <p></p>
-          <p><a href="controversial-art.html">Learn about A controversial art?</a></p>
-        </div>
+    {{#each allPages}}
+        {{>theme-item-summary}}
+    {{/each}}
   </div>
 </div>
 
@@ -83,18 +30,5 @@
 
 
 
-
-<div class="noteBlock" id="noteBlock">
-  <div class="aoSite">
-    <div class="aoWrapper">
-    <span class="closeNote closeButton" onclick="javascript:closeNote();"><img src="images/icons/close.png" alt=""></span>
-    <span  id="noteBlockContent">Note The Art of Resoning in Medieval Manuscripts</span>
-    </div>
-  </div>
-</div>
-
-
-
-    <script src="js/main.js"></script>
-  </body>
-</html>
+{{> page-foot}}
+{{> html-foot}}
