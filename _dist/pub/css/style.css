@@ -616,3 +616,6 @@ h4 {
   width: 100%;
   height: auto;
   overflow-x: auto; }
+
+.hideSvg {
+  display: none; }

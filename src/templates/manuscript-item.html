@@ -35,7 +35,18 @@
   </div>
 </div>
 
+<div id="tlHide" class="hideSvg"><h2>Timeline</h2>
+{{> timeline}}
+</div>
 
+<div id="mpHide" class="hideSvg"><h2>Map</h2>
+{{> map}}
+</div>
+
+<script type="text/javascript">
+  document.getElementById("spotTL").innerHTML = document.getElementById("tlHide").innerHTML;
+  document.getElementById("spotMp").innerHTML = document.getElementById("mpHide").innerHTML;
+</script>
 
 {{> page-foot}}
 {{> html-foot}}

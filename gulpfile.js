@@ -68,7 +68,6 @@ var folioMultiList = require('./folioMultiList.json');
 var extraInfo = require('./content/data/extraInfo.json');
 
 
-
 var copyPath = require('./content/data/copyPath.json');
 
 
@@ -281,6 +280,8 @@ gulp.task('buildFromTemplates', function(done) {
 
       // manuscript data
       var manuscriptMeta = '';
+      var showTl = '';
+      var showMap = '';
       if (page.type == 'manuscript') {
         manuscriptMeta += '</div></div>';
         manuscriptMeta += '<div class="aoRow aoMetadata">';
@@ -297,6 +298,10 @@ gulp.task('buildFromTemplates', function(done) {
         manuscriptMeta += '<h4>Foliation</h4>'+page.foliation;
         manuscriptMeta += '</div>';
         manuscriptMeta += '<div class="aoCol1"><h3>Content</h3>'+page.contents;
+        manuscriptMeta += '</div></div>';
+
+        showTl = '<div id="spotTL">1111</div>';
+        showMap = '<div><div id="spotMp">2222';
 
 
 
@@ -305,6 +310,7 @@ gulp.task('buildFromTemplates', function(done) {
 
 
       gulp.src('./src/templates/'+template+'.html')
+
           .pipe(plumber())
           .pipe(handlebars(page, options))
           .pipe(rename(fileName + ".html"))
@@ -313,7 +319,6 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<br /></p>', '</p>'))
           .pipe(replace('± </p>', '±</p>'))
           .pipe(replace('<p> ±', '<p>±'))
-          //.pipe(replace('<p>±col3i±</p><p>±row±</p>', '<p>±col3i±</p>'+manuscriptMeta+'<p>±row±</p>'))
           .pipe(replace('<p>±row±</p>', '</div></div><div class="aoRow">'))
           .pipe(replace('<p>±col1±</p>', '<div class="aoCol1">'))
           .pipe(replace('<p>±col1span±</p>', '<div class="aoCol1Span">'))
@@ -335,6 +340,8 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('</li></ol>', '</li></ol></div>'))
 
           .pipe(replace('±meta±', manuscriptMeta))
+          .pipe(replace('±timeline±', showTl))
+          .pipe(replace('±map±', showMap))
 
           .pipe(each(function(content, file, callback) {
             // replace images and theme names
@@ -517,8 +524,15 @@ function handletextPre(content) {
     content = content.replace(/<p>±col1± <\/p>/g, "<p>±col1±</p>");
 
 
-    content = content.replace(/±timeline±/g, '<div class="">{{> timeline}}</div>');
-    content = content.replace(/±map±/g, '<div class="">{{> map}}</div>');
+    //content = content.replace(/±timeline±/g, '<div class="">{{> timeline}}</div>');
+    //content = content.replace(/±map±/g, '<div class="">{{> map}}</div>');
+    content = content.replace(/<p>±timeline±<\/p>/g, '');
+    content = content.replace(/<p>±map±<\/p>/g, '');
+    content = content.replace(/±timeline±/g, '');
+    content = content.replace(/±map±/g, '');
+
+    //content = content.replace(/±meta±/g, '±meta±');
+    //<div><h2>Timeline</h2>{{> timeline}}</div><div><h2>Map</h2>{{> map}}</div>
 
 //            <p>±row±<br />±col1± </p>
   return content;
@@ -527,7 +541,8 @@ function handletextPre(content) {
 //±meta±
 
 function handleMetadata(content) {
-    content = content.replace('<p>±row±</p>', '±meta±<p>±row±</p>');
+    //content = content.replace('<p>±row±</p>', '±meta± <p>±row±</p>'); // ±timeline± ±map±
+    content = content.replace('<p>±row±</p>', '±meta± ±timeline± ±map± <p>±row±</p>'); // ±timeline± ±map±
 
   return content;
 }
