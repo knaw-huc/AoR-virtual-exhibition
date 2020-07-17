@@ -522,6 +522,7 @@ function handletextPre(content) {
     content = content.replace(/<p>±col3±<br \/>/g, "<p>±col3±</p><p>");
     content = content.replace(/<p>±row±<br \/>/g, "<p>±row±</p><p>");
     content = content.replace(/<p>±col1± <\/p>/g, "<p>±col1±</p>");
+    content = content.replace(/<p>±row± /g, "<p>±row±");
 
 
     //content = content.replace(/±timeline±/g, '<div class="">{{> timeline}}</div>');
@@ -534,7 +535,7 @@ function handletextPre(content) {
     //content = content.replace(/±meta±/g, '±meta±');
     //<div><h2>Timeline</h2>{{> timeline}}</div><div><h2>Map</h2>{{> map}}</div>
 
-//            <p>±row±<br />±col1± </p>
+//            <p>±row± </p>
   return content;
 }
 
