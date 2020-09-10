@@ -1,11 +1,25 @@
 <figure class="aorCompManuscript" id="{{folioname}}">
-	<svg id="vlf48_30_v" preserveAspectRatio="xMinYMin meet" viewBox="0 0 {{width}} {{height}}" class="{{folioname}}">
+	<div id="img_{{folioname}}" class="aorImgWindow">
 
 		{{#each parts}}
-		<image href="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}" id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}" />
-			{{{svggroup}}}
+		<div id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}">
+			<script type="text/javascript">
+				document.addEventListener('DOMContentLoaded', function(){
+	    		zoomImg('tab-content-3{{fpid}}', {{#if fpzoom}}{{fpzoom}}{{else}}1{{/if}}, {{#if fpmargin}}{{fpmargin}}{{else}}0{{/if}});
+				});
+
+			</script>
+			<div class="aorZoom">
+				 <button type="button" name="button" onclick="viewfc('tab-content-3{{fpid}}')">+</button>
+			</div>
+
+			<img src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
+			<img src="images/svg-layers/{{{svggroup}}}"  onerror="this.style.display='none'">
+
+		</div>
+
 		{{/each}}
-	</svg>
+	</div>
 
 
 

@@ -1,8 +1,8 @@
 [
     {
         "id": "bnf178",
-        "location": "Parijs",
-        "shelfmark": "BnF lat. 17806",
+        "location": "Paris",
+        "shelfmark": "BnF, Lat. 17806",
         "title": "Aristoteles, Praedicamenta and other texts",
         "dateS1": 1250,
         "dateS2": 1275,
@@ -27,8 +27,8 @@
     },
     {
         "id": "bnf790",
-        "location": "Parijs",
-        "shelfmark": "BnF lat. 7900A",
+        "location": "Paris",
+        "shelfmark": "BnF, Lat. 7900A",
         "title": "Six Comedies and other texts",
         "dateS1": 901,
         "dateS2": 1000,
@@ -57,7 +57,7 @@
     {
         "id": "vlq103",
         "location": "Leiden",
-        "shelfmark": "VLQ 103",
+        "shelfmark": "UB, VLQ 103",
         "title": "Cicero’s De inventione and other texts",
         "dateS1": 1150,
         "dateS2": 1200,
@@ -79,7 +79,7 @@
     {
         "id": "bpl25",
         "location": "Leiden",
-        "shelfmark": "BPL 25",
+        "shelfmark": "UB, BPL 25",
         "title": "Libri Missalis fragmenta. – Boethii in Aristotelem de Interpretatione Commentarius. – L. Apuleius Madaurensis de Interpretatione",
         "dateS1": 900,
         "dateS2": 1000,
@@ -107,7 +107,7 @@
     {
         "id": "bpl84",
         "location": "Leiden",
-        "shelfmark": "BPL 84",
+        "shelfmark": "UB, BPL 84",
         "title": "Severini Boethii Opera. – Alcuinus de Dialectica",
         "dateS1": 1000,
         "dateS2": 1100,
@@ -135,7 +135,7 @@
     {
         "id": "bpl88",
         "location": "Leiden",
-        "shelfmark": "BPL 88",
+        "shelfmark": "UB, BPL 88",
         "title": "Martianus Capella’s De nuptiis Philologiae et Mercurii and some additional material.",
         "dateS1": 850,
         "dateS2": 875,
@@ -164,7 +164,7 @@
     {
         "id": "bpl139",
         "location": "Leiden",
-        "shelfmark": "BPL 139B",
+        "shelfmark": "UB, BPL 139",
         "title": "De syllogismis categoricis and other text(s)",
         "dateS1": 975,
         "dateS2": 1025,
@@ -190,7 +190,7 @@
     {
         "id": "bpl144",
         "location": "Leiden",
-        "shelfmark": "BPL 144",
+        "shelfmark": "UB, BPL 144",
         "title": "De consolatione philosophiae and other text(s)",
         "dateS1": 1175,
         "dateS2": 1200,
@@ -220,7 +220,7 @@
     {
         "id": "ein315",
         "location": "Einsiedeln",
-        "shelfmark": "Codex MS 315(605)",
+        "shelfmark": "Stiftsbibliothek, Codex 315(605)",
         "title": "Boethius, Isagoge",
         "dateS1": 900,
         "dateS2": 1000,
@@ -246,7 +246,7 @@
     {
         "id": "gro22",
         "location": "Leiden",
-        "shelfmark": "GRO 22",
+        "shelfmark": "UB, GRO 22",
         "title": "De inventione and other text(s)",
         "dateS1": 1100,
         "dateS2": 1150,
@@ -273,7 +273,7 @@
     {
         "id": "vlf48",
         "location": "Leiden",
-        "shelfmark": "VLF 48",
+        "shelfmark": "UB, VLF 48",
         "title": "Martianus Capella, De nuptiis and other texts",
         "dateS1": 840,
         "dateE2": 2020,
@@ -298,8 +298,8 @@
     },
     {
         "id": "bnf111",
-        "location": "Parijs",
-        "shelfmark": "BnF lat. 11127",
+        "location": "Paris",
+        "shelfmark": "BnF, Lat. 11127",
         "title": "Commentarium Boetii in periermenias librum Aristotelis – S. X",
         "dateS1": 999,
         "dateS2": 1000,
@@ -325,8 +325,8 @@
     },
     {
         "id": "bnf129",
-        "location": "Parijs",
-        "shelfmark": "BnF lat. 12949",
+        "location": "Paris",
+        "shelfmark": "BnF, Lat. 12949",
         "title": "Aristotelis periermeniae and other texts",
         "dateS1": 900,
         "dateE2": 2020,
@@ -349,8 +349,8 @@
     },
     {
         "id": "bnf146",
-        "location": "Parijs",
-        "shelfmark": "BnF lat. 14614",
+        "location": "Paris",
+        "shelfmark": "BnF, Lat. 14614",
         "title": "Petrus Abaelardus, Dialectica and other texts",
         "dateS1": 1100,
         "dateS2": 1400,

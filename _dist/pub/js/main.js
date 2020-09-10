@@ -89,13 +89,45 @@ function hideTabContent(compId) {
 
 
 function firstTabVisable() {
-  var handleTabVis = document.querySelectorAll(".aorFoliosCaption .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, svg .hcTabContent:first-child");
+  var handleTabVis = document.querySelectorAll(".aorFoliosCaption .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, .hcTabContent:first-child");
 
     for (i = 0; i < handleTabVis.length; i++) {
       //handleTabVis[i].style.display= 'none';
       handleTabVis[i].style.display= 'flex';
     }
 
+}
+
+function zoomImg(imgId, zoom, margin){
+  var allImages = document.querySelectorAll('#'+imgId+' img');
+  var zoomVal= zoom*100;
+
+  for (var i = 0; i < allImages.length; i++) {
+    if (zoom > 1) {
+      allImages[i].style.width = '100%';
+      allImages[i].style.height = 'auto';
+    }
+
+    allImages[i].style.marginTop = 0 - margin+'px';
+  }
+
+
+
+}
+
+
+function viewfc(id){
+  console.log(id);
+  var content = document.getElementById(id).innerHTML;
+  document.getElementById('aorImgFScontent').innerHTML = content;
+  document.getElementById('aorImgFS').style.display = 'flex';
+
+}
+
+
+function closeViewfc(){
+
+  document.getElementById('aorImgFS').style.display= 'none';
 }
 
 var handleTabLabel = document.querySelectorAll(".aorNoteA");

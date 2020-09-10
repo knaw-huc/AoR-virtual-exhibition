@@ -10,6 +10,16 @@
         "thme": "home"
     },
     {
+        "title": "Intro",
+        "docx_file": "VEintro",
+        "page_id": "int",
+        "theme": "top",
+        "file_name": "introduction",
+        "template_file": "theme-item",
+        "navigation_file": "nav-top",
+        "thme": "about"
+    },
+    {
         "title": "About",
         "docx_file": "VEintro",
         "page_id": "ack",
@@ -164,7 +174,7 @@
         "thme": 3
     },
     {
-        "title": "Glosses and commentaries",
+        "title": "Techniques of reading and learning",
         "docx_file": "VEgandc",
         "page_id": "3gc",
         "summary": "Techniques of reading and learning are visible between the lines and in the margins of the manuscript.",

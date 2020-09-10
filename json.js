@@ -112,6 +112,8 @@ function combineJson(){
         partData.manuscript_shelfmark = shelfmark;
         partData.manuscript_filename = filename;
         partData.foliofilename = folioJson[fo].foliofilename;
+        var fileNoExtention = folioJson[fo].foliofilename.replace(".jpg", "");
+        partData.foliofilename_exten = fileNoExtention;
 
         folioData.parts.push(partData);
       }
@@ -122,6 +124,8 @@ function combineJson(){
       partData.fpname = folioJson[fo].folionr+''+folioJson[fo].foliotype;
       partData.fpdescription = folioJson[fo].foliodescription;
       partData.foliofilename = folioJson[fo].foliofilename;
+      var fileNoExtention = folioJson[fo].foliofilename.replace(".jpg", "");
+      partData.foliofilename_exten = fileNoExtention;
 
       partData.manuscript_name = manu
       partData.manuscript_location = location;
@@ -212,6 +216,8 @@ function combineJson(){
                   folioPartData.foliosource = folioJson[fol2].foliosource;
 
                   folioPartData.foliofilename = folioJson[fol2].foliofilename;
+                  var fileNoExtention = folioPartData.foliofilename.replace(".jpg", "");
+                  folioPartData.foliofilename_exten = fileNoExtention;
                   folioPartData.fpname = folioJson[fol2].folioid;
                   folioPartData.fpdescription = folioJson[fol2].foliodescription;
                   folioPartData.fpid = folioJson[fol2].folioid;
@@ -245,6 +251,9 @@ function combineJson(){
                   folioPartData.foliosource = imagesJson[imi].resource;
 
                   folioPartData.foliofilename = imagesJson[imi].img_file_name;
+                  var fileNoExtention = folioPartData.foliofilename.replace(".jpg", "");
+                  folioPartData.foliofilename_exten = fileNoExtention;
+
                   folioPartData.fpname = imagesJson[imi].alttext;
                   folioPartData.fpdescription = imagesJson[imi].description;
                   folioPartData.fpid = imagesJson[imi].img_file_name;

@@ -6,5 +6,53 @@
     {
         "info_id": "video",
         "docx_file": "video"
+    },
+    {
+        "info_id": "Apuleius",
+        "docx_file": "Apuleius"
+    },
+    {
+        "info_id": "Aristotle1",
+        "docx_file": "Aristotle1"
+    },
+    {
+        "info_id": "Aristotle2",
+        "docx_file": "Aristotle2"
+    },
+    {
+        "info_id": "Boethius1",
+        "docx_file": "Boethius1"
+    },
+    {
+        "info_id": "Boethius2",
+        "docx_file": "Boethius2"
+    },
+    {
+        "info_id": "Categoriae",
+        "docx_file": "Categoriae"
+    },
+    {
+        "info_id": "Cicero",
+        "docx_file": "Cicero"
+    },
+    {
+        "info_id": "Martianus",
+        "docx_file": "Martianus"
+    },
+    {
+        "info_id": "MLR",
+        "docx_file": "MLR"
+    },
+    {
+        "info_id": "Porphyry",
+        "docx_file": "Porphyry"
+    },
+    {
+        "info_id": "Augustine",
+        "docx_file": "Augustine"
+    },
+    {
+        "info_id": "Herennium",
+        "docx_file": "Herennium"
     }
 ]

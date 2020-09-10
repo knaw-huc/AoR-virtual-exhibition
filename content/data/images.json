@@ -64,7 +64,7 @@
     {
         "img_file_name": "university.jpg",
         "alttext": "Castres, BM, Ms. 3 (Grandes Chroniques de France, c. 1330), f. 277r",
-        "description": "Castres, BM, Ms. 3 (Grandes Chroniques de France, c. 1330), f. 277r",
+        "description": "Onderschrift: Castres, BM, Ms. 3 (Grandes Chroniques de France, c. 1330), fol. 277r (detail)",
         "resource": "BVMM",
         "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=757442"
     },
@@ -245,7 +245,7 @@
         "hyperlink": "https://www.flickr.com/photos/pelegrino/5168056334/in/photostream/"
     },
     {
-        "img_file_name": "aristotle.jpg",
+        "img_file_name": "aristotle2.jpg",
         "alttext": "Glasgow, University Library, MS Hunter 231, p. 276",
         "description": "Portrait of Aristole in Glasgow, University Library, MS Hunter 231, p. 276",
         "resource": "University of Glasgow",
@@ -455,7 +455,7 @@
         "img_file_name": "11127f49r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127 f.49r",
-        "resource": "eigen foto"
+        "resource": "eigen foto Irene O'Daly"
     },
     {
         "img_file_name": "11127f49rfr1.jpg",
@@ -555,7 +555,7 @@
     {
         "img_file_name": "7900Af84r.jpg",
         "alttext": "Paris, BnF, lat. 7900A f.84r",
-        "description": "(3) inserted slips",
+        "description": "Inserted slips",
         "resource": "eigen foto"
     },
     {
@@ -767,7 +767,7 @@
     {
         "img_file_name": "scholar.jpg",
         "alttext": "Chantilly, Musée Condé, MS 291 (660), f. 1r. Bruges, c. 1470-1480.",
-        "description": "Portrait of a medieval scholar ‘in his study’, consulting multiple books and taking notes. Image: Chantilly, Musée Condé, MS 291 (660), f. 1r. Bruges, c. 1470-1480.",
+        "description": "Portrait of a medieval scholar ‘in his study’, consulting multiple books and taking notes. The books are organized for consultation on a caroussel, a shelf that can spin around to have multiple books at hand. Image: Chantilly, Musée Condé, MS 291 (660), f. 1r. Bruges, c. 1470-1480.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/codex/10419/4348"
     },
@@ -828,23 +828,26 @@
     {
         "img_file_name": "music.jpg",
         "alttext": "BnF_lat_7900A_153_v.jpg",
-        "description": "The art of music is illustrated on f. 153v",
+        "description": "Paris, BnF. Lat. 7900A, f.153v (detail)",
         "resource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f326.image.r=7900A"
     },
     {
         "img_file_name": "25f6v.jpg",
         "alttext": "Leiden UB BPL 25 f.6v",
-        "description": "Leiden UB BPL 25 f.6v"
+        "description": "Leiden UB BPL 25 f.6v",
+        "resource": "https://digitalcollections.universiteitleiden.nl/view/item/1617734"
     },
     {
         "img_file_name": "25f7r.jpg",
         "alttext": "Leiden UB BPL 25 f.7r",
-        "description": "F. 7r: A bad spot and tear in the parchment were already there before the writing started: the scribe carefully writes around it."
+        "description": "F. 7r: A bad spot and tear in the parchment were already there before the writing started: the scribe carefully writes around it.",
+        "resource": "https://digitalcollections.universiteitleiden.nl/view/item/1617734"
     },
     {
         "img_file_name": "25f7v.jpg",
         "alttext": "Leiden UB BPL 25 f.7v",
-        "description": "F. 7v: This set up of the two faces that link the note in the margin to the correct place in the text confirms that the faces are part of the thirteenth-century layer of reader’s notes, and not the original tenth-century one."
+        "description": "F. 7v: This set up of the two faces that link the note in the margin to the correct place in the text confirms that the faces are part of the thirteenth-century layer of reader’s notes, and not the original tenth-century one.",
+        "resource": "https://digitalcollections.universiteitleiden.nl/view/item/1617692"
     },
     {
         "img_file_name": "25f30v32r",
@@ -1835,5 +1838,240 @@
         "alttext": "Paris, BnF. Lat. 16611, f.14v",
         "description": "Paris, BnF. Lat. 16611, f.14v",
         "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+    },
+    {
+        "img_file_name": "7900A27rfr2.jpg",
+        "alttext": "Paris, BnF. Lat. 7900A, f.27r",
+        "description": "Paris, BnF. Lat. 7900A, f.27r (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f61.item.r=7900A.zoom"
+    },
+    {
+        "img_file_name": "7900A27rfr1.jpg",
+        "alttext": "Paris, BnF. Lat. 7900A, f.27r",
+        "description": "Paris, BnF. Lat. 7900A, f.27r (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f61.item.r=7900A.zoom"
+    },
+    {
+        "img_file_name": "7900Af151vfr.jpg",
+        "alttext": "Paris, BnF. Lat. 7900A, f.151v",
+        "description": "Paris, BnF. Lat. 7900A, f.151v (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f322.item.r=7900A.zoom"
+    },
+    {
+        "img_file_name": "BnF_lat_7900A_116_r.jpg",
+        "alttext": "Paris, BnF. Lat. 7900A, f.116r",
+        "description": "Paris, BnF. Lat. 7900A, f.116r",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f251.image.r=7900A"
+    },
+    {
+        "img_file_name": "BnF_lat_7900A_116_v.jpg",
+        "alttext": "Paris, BnF. Lat. 7900A, f.116v",
+        "description": "Paris, BnF. Lat. 7900A, f.116v",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f252.image.r=7900A"
+    },
+    {
+        "img_file_name": "bnf790_127_vfr.jpg",
+        "alttext": "Paris, BnF, Lat. 7900A, fol. 127v",
+        "description": "Paris, BnF, Lat. 7900A, fol. 127v (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f274.item.r=7900A"
+    },
+    {
+        "img_file_name": "BnF_lat_7900A_cover.jpg",
+        "alttext": "Paris, BnF, Lat. 7900A",
+        "description": "Paris, BnF, Lat. 7900A",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f1.image"
+    },
+    {
+        "img_file_name": "BnF_lat_7900A_cover_side.jpg",
+        "alttext": "Paris, BnF, Lat. 7900A",
+        "description": "Paris, BnF, Lat. 7900A",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f337.image"
+    },
+    {
+        "img_file_name": "2788f49r.jpg",
+        "alttext": "Paris, BnF, Lat. 2788",
+        "description": "Paris, BnF, Lat. 2788 f.49r",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f105.image.r=2788"
+    },
+    {
+        "img_file_name": "2788f50v.jpg",
+        "alttext": "Paris, BnF, Lat. 2788",
+        "description": "Paris, BnF, Lat. 2788 f.50v",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f108.image.r=2788"
+    },
+    {
+        "img_file_name": "2788f52r.jpg",
+        "alttext": "Paris, BnF, Lat. 2788",
+        "description": "Paris, BnF, Lat. 2788 f.52r",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f111.image.r=2788"
+    },
+    {
+        "img_file_name": "48f30vgroot.jpg",
+        "alttext": "Leiden, UB, VLF 48, f. 30v",
+        "description": "Leiden, UB, VLF 48, f. 30v: example of an extensive commentary added in the margin. The book is 307 mm high.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618307"
+    },
+    {
+        "img_file_name": "1925f139r.jpg",
+        "alttext": "Leiden, UB, BPL 1925, f. 139r",
+        "description": "Leiden, UB, BPL 1925, f. 139r: example of a text with a narrow margin and only occasional notes. The book is only ca 135 mm high.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/877694"
+    },
+    {
+        "img_file_name": "17806f164v.jpg",
+        "alttext": "Paris, BnF, Lat. 17806, f. 164v",
+        "description": "Paris, BnF, Lat. 17806, f. 164v: example of a lay-out in columns to give different sets of commentary a designated space on the page. The book is 300 mm high.",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f334.image"
+    },
+    {
+        "img_file_name": "12949f24v.jpg",
+        "alttext": "Paris, BnF, Lat. 12949, f. 24v",
+        "description": "Paris, BnF, Lat. 12949, f. 24v",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.image"
+    },
+    {
+        "img_file_name": "17806f44v.jpg",
+        "alttext": "Paris, BnF, Lat. 17806, f. 44v",
+        "description": "Paris, BnF, Lat. 17806, f. 44v",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f94.image.r=17806"
+    },
+    {
+        "img_file_name": "88f171r.jpg",
+        "alttext": "Leiden, UB, BPL 88, f. 171r",
+        "description": "Leiden, UB, BPL 88, f. 171r",
+        "resource": "Universiteitsbibliotheek Leiden eigen foto"
+    },
+    {
+        "img_file_name": "48f92v.jpg",
+        "alttext": "Leiden, UB, VLF 48, f. 92v",
+        "description": "Leiden, UB, VLF 48, f. 92v",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618295"
+    },
+    {
+        "img_file_name": "88f4v.jpg",
+        "alttext": "Leiden, UB, BPL 88, f. 4v",
+        "description": "Leiden, UB, BPL 88, f. 4v",
+        "resource": "Universiteitsbibliotheek Leiden eigen foto"
+    },
+    {
+        "img_file_name": "84f89v.jpg",
+        "alttext": "Leiden, UB, BPL 84, f. 89v",
+        "description": "Leiden, UB, BPL 84, f. 89v",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/2348792"
+    },
+    {
+        "img_file_name": "144cover.jpg",
+        "alttext": "Leiden, UB, BPL 144",
+        "description": "Leiden, UB, BPL 144",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/2357089"
+    },
+    {
+        "img_file_name": "144f10r.jpg",
+        "alttext": "Leiden, UB, BPL 144, f.10r",
+        "description": "Leiden, UB, BPL 144, f.10r",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/2357074"
+    },
+    {
+        "img_file_name": "apuleius.jpg",
+        "alttext": "Paris, Bibliothèque Sainte Geneviève, 0246, f. 170v",
+        "description": "Augustine (left) and Apuleius (right) discussing the nature of angels and demons in manuscript Paris, Bibliothèque Sainte Geneviève, 0246, f. 170v (detail).",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/53658"
+    },
+    {
+        "img_file_name": "aristotle.jpg",
+        "alttext": "Angers, Bibliothèque Municipale, MS 0478 (0462), p. 28.",
+        "description": "Portrait of Aristotle in manuscript Angers, Bibliothèque Municipale, MS 0478 (0462), p. 28. Manuscript from around 1400, made in England.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/13788"
+    },
+    {
+        "img_file_name": "posterior.jpg",
+        "alttext": "Basel, Universitätsbibliothek, F I 1, fol. 247r",
+        "description": "Basel, Universitätsbibliothek, F I 1, fol. 247r (detail): opening page of Aristotle’s Posterior Analytics with a large commentary. Manuscript made in France at the beginning of the fourteenth century.",
+        "resource": "e-Codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/ubb/F-I-0001"
+    },
+    {
+        "img_file_name": "boethiusphilosophy.jpg",
+        "alttext": "Paris, Bibliothèque de l’Institut de France, 264, f. 1r.",
+        "description": "Boethius in his prison, discussing with Philosophy. Paris, Bibliothèque de l’Institut de France, 264, f. 1r. Manuscript made around 1400 in Northern France (possibly Paris).",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/codex/7492/8196"
+    },
+    {
+        "img_file_name": "philosophers.jpg",
+        "alttext": "Avranches, Bibliothèque Municipale, 0228, fol. 39r.",
+        "description": "Two philosophers, probably Aristotle and Boethius, engaged in a discussion. Avranches, Bibliothèque Municipale, 0228, fol. 39r. Manuscript made in Northern France (perhaps in Paris), ca 1225-1250.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/34208"
+    },
+    {
+        "img_file_name": "decem.jpg",
+        "alttext": "St. Gallen, Stiftsbibliothek, Cod. Sang. 274, fol. 5r",
+        "description": "St. Gallen, Stiftsbibliothek, Cod. Sang. 274, fol. 5r (detail): Opening of the Categoriae Decem in a heavily annotated manuscript made in Sankt Gallen in the ninth century.",
+        "resource": "e-Codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0274"
+    },
+    {
+        "img_file_name": "cicerohague.jpg",
+        "alttext": "The Hague, KB, 66 B 13, fol. 245r",
+        "description": "Cicero in his study in manuscript The Hague, KB, 66 B 13, fol. 245r (detail). The manuscript is a late fifteenth-century illustrated manuscript of the French translation of Valerius Maximus, “Des faits et dits mémorables”. It was made in the Loire valley.",
+        "resource": "KB",
+        "hyperlink": "https://manuscripts.kb.nl/zoom/BYVANCKB%3Amimi_66b13%3A245r_min_05"
+    },
+    {
+        "img_file_name": "martianus.jpg",
+        "alttext": "Leiden, UB, VLF 48, f. 2r",
+        "description": "Leiden, UB, VLF 48, f. 2r (detail): the opening of Martianus Capella’s De nuptiis",
+        "resource": "Universiteitsbibliotheek Leiden"
+    },
+    {
+        "img_file_name": "MLR.jpg",
+        "alttext": "Paris, BnF, Lat. 7730, fol. 1r",
+        "description": "Paris, BnF, Lat. 7730, fol. 1r (detail): Opening of Fortunatianus’ treatise on Rhetoric. Ninth-century manuscript from Fleury",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8478988x"
+    },
+    {
+        "img_file_name": "ptree.jpg",
+        "alttext": "Paris, Bibliothèque Mazarine, 3795, fol. 10r",
+        "description": "Porphyrian tree, in manuscript Paris, Bibliothèque Mazarine, 3795, fol. 10r. The manuscript is dated in 1484.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/83261"
+    },
+    {
+        "img_file_name": "macon.jpg",
+        "alttext": "Macon, Bibliothèque Municipale, MS 002, fol. 19r",
+        "description": "Macon, Bibliothèque Municipale, MS 002, fol. 19r (detail): Augustine is disputing with philosophers. The manuscript was made in northern France (perhaps Paris), and is dated to 1480.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/34302"
+    },
+    {
+        "img_file_name": "memory.jpg",
+        "alttext": "Paris, BnF, Lat. 15140, fol. 65v",
+        "description": "Paris, BnF, Lat. 15140, fol. 65v (detail): the section on Memory starts with a decorated initial. Manuscript from the second half of the twelfth century, made in western France.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546175v"
     }
 ]

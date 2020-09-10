@@ -30,7 +30,9 @@ var reload      = browserSync.reload;
 const using = require('gulp-using');
 
 var options = {
+    ignorePartials: true,
     batch : ['./src/components', './content/html/'],
+
     helpers: {
 			capitals : function(str){
 				return str.toUpperCase();
@@ -338,6 +340,10 @@ gulp.task('buildFromTemplates', function(done) {
 
           .pipe(replace('<ol><li id="footnote-1">', '<div class="notes"><ol><li id="footnote-1">'))
           .pipe(replace('</li></ol>', '</li></ol></div>'))
+
+          .pipe(replace('±ac±', '<a id="'))
+          .pipe(replace('±/ac±', '" ></a>'))
+          .pipe(replace('&quot; \\l &quot;', '#'))
 
           .pipe(replace('±meta±', manuscriptMeta))
           .pipe(replace('±timeline±', showTl))
