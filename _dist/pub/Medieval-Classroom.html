@@ -50,15 +50,17 @@
 	<div id="img_bnf178_17_r" class="aorImgWindow">
 
 		<div id="tab-content-368" class="hcTabContent ">
-			<script type="text/javascript">
-				document.addEventListener('DOMContentLoaded', function(){
-	    		zoomImg('tab-content-368', 1, 0);
-				});
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(){
+				zoomImg('tab-content-368', 1, 0);
+			});
 
-			</script>
-			<div class="aorZoom">
-				 <button type="button" name="button" onclick="viewfc('tab-content-368')">+</button>
-			</div>
+		</script>
+		<div class="aorZoom" id="zoom-tab-content-368">
+			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-368')" />
+		</div>
+
+
 
 			<img src="images/manuscripts/BnF_lat_17806_f17_r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
@@ -104,15 +106,17 @@
 	<div id="img_doodles" class="aorImgWindow">
 
 		<div id="tab-content-3144f10rfr.jpg" class="hcTabContent ">
-			<script type="text/javascript">
-				document.addEventListener('DOMContentLoaded', function(){
-	    		zoomImg('tab-content-3144f10rfr.jpg', 1, 0);
-				});
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(){
+				zoomImg('tab-content-3144f10rfr.jpg', 1, 0);
+			});
 
-			</script>
-			<div class="aorZoom">
-				 <button type="button" name="button" onclick="viewfc('tab-content-3144f10rfr.jpg')">+</button>
-			</div>
+		</script>
+		<div class="aorZoom" id="zoom-tab-content-3144f10rfr.jpg">
+			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3144f10rfr.jpg')" />
+		</div>
+
+
 
 			<img src="images/content/144f10rfr.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
@@ -120,15 +124,17 @@
 		</div>
 
 		<div id="tab-content-3144f37r.jpg" class="hcTabContent ">
-			<script type="text/javascript">
-				document.addEventListener('DOMContentLoaded', function(){
-	    		zoomImg('tab-content-3144f37r.jpg', 1, 0);
-				});
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(){
+				zoomImg('tab-content-3144f37r.jpg', 1, 0);
+			});
 
-			</script>
-			<div class="aorZoom">
-				 <button type="button" name="button" onclick="viewfc('tab-content-3144f37r.jpg')">+</button>
-			</div>
+		</script>
+		<div class="aorZoom" id="zoom-tab-content-3144f37r.jpg">
+			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3144f37r.jpg')" />
+		</div>
+
+
 
 			<img src="images/content/144f37r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
@@ -136,15 +142,17 @@
 		</div>
 
 		<div id="tab-content-3144f18r.jpg" class="hcTabContent ">
-			<script type="text/javascript">
-				document.addEventListener('DOMContentLoaded', function(){
-	    		zoomImg('tab-content-3144f18r.jpg', 1, 0);
-				});
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(){
+				zoomImg('tab-content-3144f18r.jpg', 1, 0);
+			});
 
-			</script>
-			<div class="aorZoom">
-				 <button type="button" name="button" onclick="viewfc('tab-content-3144f18r.jpg')">+</button>
-			</div>
+		</script>
+		<div class="aorZoom" id="zoom-tab-content-3144f18r.jpg">
+			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3144f18r.jpg')" />
+		</div>
+
+
 
 			<img src="images/content/144f18r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
@@ -226,10 +234,7 @@
 </div>
 
 
-<div class="aorImgFS" id="aorImgFS">
-  <div class="aorImgFShead"><span class=" closeButton"><img src="images/icons/close.png" onclick="closeViewfc();" alt=""></span></div>
-  <div id="aorImgFScontent"></div>
-</div>
+
 
 
 
@@ -240,6 +245,13 @@
     <span  id="noteBlockContent">Note The Art of Resoning in Medieval Manuscripts</span>
     </div>
   </div>
+</div>
+
+<div class="aorImgFS" id="aorImgFS">
+  <div class="aorImgFShead">
+    <span class=" closeButton"><img src="images/icons/close.png" onclick="closeViewfc();" alt=""></span>
+  </div>
+  <div class="aorImgFSwrapper"><div id="aorImgFScontent" class="aorImgFScontent"></div></div>
 </div>
 
 

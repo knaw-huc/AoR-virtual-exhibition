@@ -50,15 +50,17 @@
 	<div id="img_bpl139_2_v" class="aorImgWindow">
 
 		<div id="tab-content-3" class="hcTabContent ">
-			<script type="text/javascript">
-				document.addEventListener('DOMContentLoaded', function(){
-	    		zoomImg('tab-content-3', 1, 0);
-				});
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(){
+				zoomImg('tab-content-3', 1, 0);
+			});
 
-			</script>
-			<div class="aorZoom">
-				 <button type="button" name="button" onclick="viewfc('tab-content-3')">+</button>
-			</div>
+		</script>
+		<div class="aorZoom" id="zoom-tab-content-3">
+			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3')" />
+		</div>
+
+
 
 			<img src="images/manuscripts/UB_BPL_139_f2_v.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
@@ -121,10 +123,7 @@
 </div>
 
 
-<div class="aorImgFS" id="aorImgFS">
-  <div class="aorImgFShead"><span class=" closeButton"><img src="images/icons/close.png" onclick="closeViewfc();" alt=""></span></div>
-  <div id="aorImgFScontent"></div>
-</div>
+
 
 
 
@@ -135,6 +134,13 @@
     <span  id="noteBlockContent">Note The Art of Resoning in Medieval Manuscripts</span>
     </div>
   </div>
+</div>
+
+<div class="aorImgFS" id="aorImgFS">
+  <div class="aorImgFShead">
+    <span class=" closeButton"><img src="images/icons/close.png" onclick="closeViewfc();" alt=""></span>
+  </div>
+  <div class="aorImgFSwrapper"><div id="aorImgFScontent" class="aorImgFScontent"></div></div>
 </div>
 
 

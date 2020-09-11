@@ -95,11 +95,13 @@
 .aorZoom {
 
   width: 100%;
-  text-align: center;
+  text-align: right;
   z-index: 100;
 
-  button{
-    background-color: rgba(#ffffff, 0.5);
+  input{
+    width: 30px;
+    opacity: .5;
+    height: auto;
     border: none;
     padding: .2rem .5rem;
   }
@@ -116,6 +118,10 @@
   display: none;
   flex-direction: column;
   z-index: 500;
+
+  .aorZoom {
+    display: none;
+  }
 }
 
 .aorImgFShead {
@@ -124,15 +130,27 @@
   justify-content: flex-end;
   align-items: center;
   background-color: #5b5b5b;
+  padding: 0 1rem;
 }
-#aorImgFScontent {
+
+.aorImgFSwrapper {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: auto;
 
-  >* {
-    margin-top: 0;
-    width: 100%;
-    max-width: 900px;
+
+  .aorImgFScontent {
+    position: relative;
+    margin-left: -49%;
+
+    img {
+      margin-top: 0;
+      height: 95vh;
+      position: absolute;
+
+    }
   }
+
+
 }

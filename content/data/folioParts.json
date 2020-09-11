@@ -11,10 +11,10 @@
         "fpid": 2,
         "fpname": "Tied notes",
         "fpdescription": "Leiden, UB, VLF 48, f. 30v.",
+        "afbeelding_aanwezig": true,
         "svggroup": "l-UB_VLF_48_30_v.svg",
         "fpzoom": 2,
-        "fpmargin": 250,
-        "afbeelding_aanwezig": true
+        "fpmargin": 250
     },
     {
         "folioid": "dev23_4 and 5_",
@@ -54,10 +54,10 @@
         "fpname": "Porphyrian Tree",
         "fpdescription": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
         "referentie_afb": "12949f24v2.jpg",
+        "afbeelding_aanwezig": false,
         "svggroup": "12949_f24_v-1.svg",
         "fpzoom": 2,
-        "fpmargin": 0,
-        "afbeelding_aanwezig": false
+        "fpmargin": 0
     },
     {
         "folioid": "bnf129_24_v",
@@ -65,10 +65,10 @@
         "fpname": "Nota signs",
         "fpdescription": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
         "referentie_afb": "12949f24v3.jpg",
+        "afbeelding_aanwezig": true,
         "svggroup": "12949_f24_v-2.svg",
         "fpzoom": 2,
-        "fpmargin": 500,
-        "afbeelding_aanwezig": true
+        "fpmargin": 500
     },
     {
         "folioid": "bnf129_24_v",
@@ -76,10 +76,10 @@
         "fpname": "Tiemark",
         "fpdescription": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
         "referentie_afb": "12949f24v4.jpg",
+        "afbeelding_aanwezig": true,
         "svggroup": "12949_f24_v-3.svg",
         "fpzoom": 2,
-        "fpmargin": 380,
-        "afbeelding_aanwezig": true
+        "fpmargin": 380
     },
     {
         "folioid": "vlf48_divers_",

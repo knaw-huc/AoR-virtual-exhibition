@@ -93,6 +93,31 @@ function viewfc(id){
   document.getElementById('aorImgFScontent').innerHTML = content;
   document.getElementById('aorImgFS').style.display = 'flex';
 
+  var allImages = document.querySelectorAll('#aorImgFScontent img');
+
+
+
+  for (var i = 0; i < allImages.length; i++) {
+
+      allImages[i].style.width = 'auto';
+      allImages[i].style.height = '95vh';
+      allImages[i].style.marginTop ='0px';
+
+  }
+  allImages = document.querySelectorAll('#aorImgFScontent img');
+
+  var element = allImages[0];
+  console.log(element);
+  var positionInfo = element.getBoundingClientRect();
+  var eWidth = positionInfo.offsetWidth;
+  document.getElementById('aorImgFScontent').style.width = eWidth;
+
+  // var zoomId = 'zoom-'+id;
+  // console.log(zoomId);
+  //
+  // var myobj = document.getElementById('zoom-'+id);
+  // myobj.remove();
+
 }
 
 

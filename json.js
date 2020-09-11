@@ -13,6 +13,8 @@ var folioPartsmulJson = require('./content/data/multiples.json');
 
 var folioMultiList = [];
 
+manuscriptJson.sort(dynamicSort("order"));
+
 
 function combineJson(){
   var folioCount= -1;
@@ -66,7 +68,7 @@ function combineJson(){
     "navigation_file": "nav-manuscripts"
   })
   siteJson[0].manuscriptsList = manuscriptJson;
-  siteJson[24].manuscriptsList = manuscriptJson;
+  siteJson[25].manuscriptsList = manuscriptJson; //manuscript page
 
 
   //create list for making folio components
@@ -288,3 +290,19 @@ fs.writeFile('folioMultiList.json', JSON.stringify(manuscriptCompList), function
 });
 }// function
 combineJson();
+
+
+function dynamicSort(property) {
+    var sortOrder = 1;
+    if(property[0] === "-") {
+        sortOrder = -1;
+        property = property.substr(1);
+    }
+    return function (a,b) {
+        /* next line works with strings and numbers,
+         * and you may want to customize it to your needs
+         */
+        var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
+        return result * sortOrder;
+    }
+}

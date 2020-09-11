@@ -288,18 +288,18 @@ gulp.task('buildFromTemplates', function(done) {
         manuscriptMeta += '</div></div>';
         manuscriptMeta += '<div class="aoRow aoMetadata">';
         manuscriptMeta += '<div class="aoCol1">';
-        manuscriptMeta += '<h3>Metadata</h3>';
+        //manuscriptMeta += '<h3>Metadata</h3>';
         manuscriptMeta += '<h4>Date</h4>'+page.dateS1+'-'+page.dateS2;
-        manuscriptMeta += '<h4>Language</h4>'+page.language;
+        //manuscriptMeta += '<h4>Language</h4>'+page.language;
         manuscriptMeta += '<h4>Place of origin</h4>'+page.origin;
         manuscriptMeta += '</div>';
         manuscriptMeta += '<div class="aoCol1">';
-        manuscriptMeta += '<h3>Physics</h3>';
-        manuscriptMeta += '<h4>Dimensions</h4>'+page.dimensions;
-        manuscriptMeta += '<h4>Material</h4>'+page.material;
-        manuscriptMeta += '<h4>Foliation</h4>'+page.foliation;
+        //manuscriptMeta += '<h3>Physics</h3>';
+        //manuscriptMeta += '<h4>Dimensions</h4>'+page.dimensions;
+        manuscriptMeta += ''+page.material+' manuscript,<br> ' +page.foliation + ' folia,<br>  '+ page.dimensions+ ',<br> '+page.type+ ',<br>  '+ page.language;
+        //manuscriptMeta += '<h4>Foliation</h4>'+page.foliation;
         manuscriptMeta += '</div>';
-        manuscriptMeta += '<div class="aoCol1"><h3>Content</h3>'+page.contents;
+        manuscriptMeta += '<div class="aoCol1">'+page.contents;
         manuscriptMeta += '</div></div>';
 
         showTl = '<div id="spotTL">1111</div>';

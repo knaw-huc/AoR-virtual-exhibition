@@ -1,6 +1,7 @@
 [
     {
         "id": "bnf178",
+        "order": 14,
         "location": "Paris",
         "shelfmark": "BnF, Lat. 17806",
         "title": "Aristoteles, Praedicamenta and other texts",
@@ -27,6 +28,7 @@
     },
     {
         "id": "bnf790",
+        "order": 4,
         "location": "Paris",
         "shelfmark": "BnF, Lat. 7900A",
         "title": "Six Comedies and other texts",
@@ -56,6 +58,7 @@
     },
     {
         "id": "vlq103",
+        "order": 12,
         "location": "Leiden",
         "shelfmark": "UB, VLQ 103",
         "title": "Cicero’s De inventione and other texts",
@@ -78,6 +81,7 @@
     },
     {
         "id": "bpl25",
+        "order": 5,
         "location": "Leiden",
         "shelfmark": "UB, BPL 25",
         "title": "Libri Missalis fragmenta. – Boethii in Aristotelem de Interpretatione Commentarius. – L. Apuleius Madaurensis de Interpretatione",
@@ -106,6 +110,7 @@
     },
     {
         "id": "bpl84",
+        "order": 9,
         "location": "Leiden",
         "shelfmark": "UB, BPL 84",
         "title": "Severini Boethii Opera. – Alcuinus de Dialectica",
@@ -134,6 +139,7 @@
     },
     {
         "id": "bpl88",
+        "order": 2,
         "location": "Leiden",
         "shelfmark": "UB, BPL 88",
         "title": "Martianus Capella’s De nuptiis Philologiae et Mercurii and some additional material.",
@@ -163,6 +169,7 @@
     },
     {
         "id": "bpl139",
+        "order": 7,
         "location": "Leiden",
         "shelfmark": "UB, BPL 139",
         "title": "De syllogismis categoricis and other text(s)",
@@ -189,6 +196,7 @@
     },
     {
         "id": "bpl144",
+        "order": 13,
         "location": "Leiden",
         "shelfmark": "UB, BPL 144",
         "title": "De consolatione philosophiae and other text(s)",
@@ -219,6 +227,7 @@
     },
     {
         "id": "ein315",
+        "order": 6,
         "location": "Einsiedeln",
         "shelfmark": "Stiftsbibliothek, Codex 315(605)",
         "title": "Boethius, Isagoge",
@@ -245,6 +254,7 @@
     },
     {
         "id": "gro22",
+        "order": 10,
         "location": "Leiden",
         "shelfmark": "UB, GRO 22",
         "title": "De inventione and other text(s)",
@@ -272,6 +282,7 @@
     },
     {
         "id": "vlf48",
+        "order": 1,
         "location": "Leiden",
         "shelfmark": "UB, VLF 48",
         "title": "Martianus Capella, De nuptiis and other texts",
@@ -298,6 +309,7 @@
     },
     {
         "id": "bnf111",
+        "order": 8,
         "location": "Paris",
         "shelfmark": "BnF, Lat. 11127",
         "title": "Commentarium Boetii in periermenias librum Aristotelis – S. X",
@@ -325,6 +337,7 @@
     },
     {
         "id": "bnf129",
+        "order": 3,
         "location": "Paris",
         "shelfmark": "BnF, Lat. 12949",
         "title": "Aristotelis periermeniae and other texts",
@@ -349,6 +362,7 @@
     },
     {
         "id": "bnf146",
+        "order": 11,
         "location": "Paris",
         "shelfmark": "BnF, Lat. 14614",
         "title": "Petrus Abaelardus, Dialectica and other texts",
