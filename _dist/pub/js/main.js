@@ -155,6 +155,45 @@ function closeViewfc(){
   document.getElementById('aorImgFS').style.display= 'none';
 }
 
+
+function zoom(e){
+  var zoomer = e.currentTarget;
+  var images = zoomer.querySelectorAll('img');
+  var layer = zoomer.querySelector('.zoomOverlay');
+  //layer.style.opacity = 1;
+  var staticW = zoomer.getAttribute('data-w');
+  var staticH = zoomer.getAttribute('data-h');
+
+
+  var rect = zoomer.getBoundingClientRect(),
+  scrollLeft = window.pageXOffset || document.documentElement.scrollLeft,
+  scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+  var x = rect.left + scrollLeft;
+  var y = rect.top + scrollTop;
+
+
+  var xPercent = ((e.pageX - x)/staticW)*100;
+  var yPercent = ((e.pageY - y)/staticH)*100;
+  console.log(layer);
+
+
+  var xDiv = (((layer.clientWidth/2)/100)*xPercent);
+  var yDiv = (((layer.clientHeight-staticH)/100)*yPercent);
+  //console.log('div',yDiv);
+
+  layer.style.marginTop = 0-yDiv+'px';
+  layer.style.marginLeft = 0-xDiv+'px';
+
+
+
+  //var zoomee = e.currentTarget;
+  // e.offsetX ? offsetX = e.offsetX : offsetX = e.touches[0].pageX
+  // e.offsetY ? offsetY = e.offsetY : offsetX = e.touches[0].pageX
+  // x = offsetX/zoomer.offsetWidth*100
+  // y = offsetY/zoomer.offsetHeight*100
+  // zoomer.style.backgroundPosition = x + '% ' + y + '%';
+}
+
 var handleTabLabel = document.querySelectorAll(".aorNoteA");
   for (i = 0; i < handleTabLabel.length; i++) {
     handleTabLabel[i].removeAttribute("href");

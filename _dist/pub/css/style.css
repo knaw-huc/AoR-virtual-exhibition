@@ -82,18 +82,34 @@ a {
   padding: 1rem;
   font-size: .85rem;
   width: 100%; }
-  .aorCompManuscript .aorImgWindow .hcTabContent {
-    justify-content: center;
-    margin: -1rem -1rem 1rem -1rem;
-    position: relative;
-    width: calc(100% + 2rem);
-    height: 400px;
-    overflow: scroll; }
-    .aorCompManuscript .aorImgWindow .hcTabContent img {
-      height: 100%;
-      width: auto;
+  .aorCompManuscript .aorImgWindow {
+    cursor: zoom-in; }
+    .aorCompManuscript .aorImgWindow .hcTabContent {
+      justify-content: center;
+      margin: -1rem -1rem 1rem -1rem;
+      position: relative;
+      width: calc(100% + 2rem);
+      height: 400px;
+      overflow: hidden; }
+      .aorCompManuscript .aorImgWindow .hcTabContent img {
+        height: 100%;
+        width: auto;
+        position: absolute;
+        z-index: 00; }
+    .aorCompManuscript .aorImgWindow .zoomOverlay {
       position: absolute;
-      z-index: 00; }
+      opacity: 0;
+      width: 400%;
+      height: 400%;
+      left: 0;
+      top: 0;
+      z-index: 1000; }
+      .aorCompManuscript .aorImgWindow .zoomOverlay img {
+        display: block;
+        width: auto;
+        height: 100%; }
+    .aorCompManuscript .aorImgWindow .zoomOverlay:hover {
+      opacity: 1; }
   .aorCompManuscript figcaption {
     padding-left: 0rem; }
 

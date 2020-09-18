@@ -23,7 +23,7 @@
         "folionr": 24,
         "foliotype": "v",
         "foliofilename": "BnF_lat_12949_f24_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.24v",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
     },
     {
@@ -32,7 +32,7 @@
         "folionr": 25,
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f25_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.24v",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
     },
     {
@@ -40,8 +40,8 @@
         "folioid": "bnf129_cover_",
         "folionr": "cover",
         "foliofilename": "BnF_lat_12949_cover_.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949: A 9th or 10th century manuscript from a monastery",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v.r=lat%2012949?rk=21459;2"
+        "foliodescription": "Paris, BnF, lat. 12949",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf129",
@@ -49,8 +49,8 @@
         "folionr": 1,
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f1_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.1r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f7.item.r=lat.zoom"
+        "foliodescription": "Paris, BnF, lat. 12949, f. 1r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf129",
@@ -58,8 +58,8 @@
         "folionr": 24,
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f24_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.24r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf129",
@@ -67,8 +67,8 @@
         "folionr": 25,
         "foliotype": "v",
         "foliofilename": "BnF_lat_12949_f25_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.25v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f64.item.r=lat.zoom"
+        "foliodescription": "Paris, BnF, lat. 12949, f. 25v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf129",
@@ -76,8 +76,8 @@
         "folionr": 24,
         "foliotype": "v",
         "foliofilename": "BnF_lat_12949_f24_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.24v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf129",
@@ -85,16 +85,191 @@
         "folionr": 27,
         "foliotype": "bisr",
         "foliofilename": "BnF_lat_12949_f27_bisr.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.27 bis r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f75.image.r=12949"
+        "foliodescription": "Paris, BnF, lat. 12949, f. 27 bis r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_1_rb",
+        "folionr": 1,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f1_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 1r. Opening of Aristotle’s Peri Hermeneias (On Interpretation) in the translation of Boethius. You may recognize this page from the teaser of this exhibition. Aristotle’s On Interpretation deals with the relationship between words, reality and logic.",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_1_rb",
+        "folionr": 1,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f1_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 1r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_vb",
+        "folionr": 24,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_12_r",
+        "folionr": 12,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f12_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 12r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_rb",
+        "folionr": 24,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f24_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_25_vb",
+        "folionr": 25,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f25_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949 f. 25v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_13_r",
+        "folionr": 13,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f13_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 13r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_46_r",
+        "folionr": 46,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f46_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_42_r",
+        "folionr": 42,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f42_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 42r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_52_v",
+        "folionr": 52,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_12949_f52_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 52v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_27_v",
+        "folionr": 27,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_12949_f27_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 27v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_53_r",
+        "folionr": 53,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f53_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 53r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_rc",
+        "folionr": 24,
+        "foliotype": "r",
+        "folioextra": "c",
+        "foliofilename": "BnF_lat_12949_f24_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_vb",
+        "folionr": 24,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949 f. 24v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_v2",
+        "folionr": 24,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf1296",
         "folioid": "bnf1296_8_v",
         "folionr": 8,
         "foliotype": "v",
-        "foliofilename": "BnF_lat_12963_8_v.jpg",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b105442152/f24.item.zoom"
+        "foliofilename": "BnF_lat_12963_8_v.jpg"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_cover_",
+        "folionr": "cover",
+        "foliofilename": "BnF_lat_14614_cover_.jpg",
+        "foliodescription": "Paris, BnF, lat. 14614, ff. 117-202 (the opening of the text is missing). Date: 12th century. The manuscript belonged to the library of St. Victor, Paris.",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_117_r",
+        "folionr": 117,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_14614_f117_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 14614, f. 117r: Abelard, Dialectica. The opening of the Dialectica is missing, but an identification of the text is written at the top of the page: ‘scripta super predicamenta Aristotilis’.",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_130_r",
+        "folionr": 130,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_14614_f130_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 14614, f.130r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
+    },
+    {
+        "manuscript_id": "bnf146",
+        "folioid": "bnf146_130_v",
+        "folionr": 130,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_14614_f130_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 14614, f.130v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
     },
     {
         "manuscript_id": "bnf165",
@@ -120,8 +295,8 @@
         "folionr": 37,
         "foliotype": "r",
         "foliofilename": "BnF_lat_16598_f37_r.jpg",
-        "foliodescription": "f.37r Porphyrian Tree",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z/f39.image.r=16598"
+        "foliodescription": "Paris, BnF, lat. 16598, f.37r: Porphyrian Tree",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z"
     },
     {
         "manuscript_id": "bnf166",
@@ -206,8 +381,8 @@
         "folionr": 17,
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f17_r.jpg",
-        "foliodescription": "Portrait of magister and student",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f39.item.zoom"
+        "foliodescription": "Paris, BnF, lat. 17806, f. 17r (detail): Portrait of magister and student",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -223,8 +398,8 @@
         "folionr": 69,
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f69_r.jpg",
-        "foliodescription": "Paris, BnF, Lat. 17806, f. 69r: a column for commentary on the left of the tekst, and two columns on the right. The lower margin is also typically large to house large amounts of notes and comments ",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f143.item.zoom"
+        "foliodescription": "Paris, BnF, lat. 17806, f. 69r: a column for commentary on the left of the tekst, and two columns on the right. The lower margin is also typically large to house large amounts of notes and comments ",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -232,8 +407,8 @@
         "folionr": 4,
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f4_v.jpg",
-        "foliodescription": "Paris, BnF, lat.17806 f.4v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
+        "foliodescription": "Paris, BnF, lat.17806, f. 4v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -241,7 +416,7 @@
         "folionr": 6,
         "foliotype": "r",
         "foliofilename": "BnF_lat_178_f6_r.jpg",
-        "foliodescription": "Paris, BnF, lat.17806 f.6r",
+        "foliodescription": "Paris, BnF, lat.17806 f.8v",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f17.item.zoom"
     },
     {
@@ -250,7 +425,6 @@
         "folionr": 8,
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f8_v.jpg",
-        "foliodescription": "Paris, BnF, lat.17806 f.8v",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f22.item.zoom"
     },
     {
@@ -263,13 +437,33 @@
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f23.item.zoom"
     },
     {
+        "manuscript_id": "bnf178",
+        "folioid": "bnf178_4_vb",
+        "folionr": 4,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_17806_f4_v.jpg",
+        "foliodescription": "Paris, BnF, lat.17806, f. 4v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "manuscript_id": "bnf178",
+        "folioid": "bnf178_4_vc",
+        "folionr": 4,
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "BnF_lat_17806_f4_v.jpg",
+        "foliodescription": "Paris, BnF, lat.17806 f. 4v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
         "manuscript_id": "bnf278",
         "folioid": "bnf278_49_r",
         "folionr": 49,
         "foliotype": "r",
         "foliofilename": "BnF_lat_2788_f49_r.jpg",
-        "foliodescription": "Opening page of Aristotle’s Categories in Paris, BnF, Lat. 2788 (ca. 1000), f. 49r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f105.item.r=2788.zoom"
+        "foliodescription": "Paris, BnF, lat 2788 (ca 1000), f. 49r: Opening page of Aristotle’s Categories",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
     },
     {
         "manuscript_id": "bnf278",
@@ -277,8 +471,8 @@
         "folionr": 50,
         "foliotype": "v",
         "foliofilename": "BnF_lat_2788_f50_v.jpg",
-        "foliodescription": "f.50v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f108.item.r=2788.zoom"
+        "foliodescription": "Paris, BnF, lat. 2788, f. 50v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
     },
     {
         "manuscript_id": "bnf278",
@@ -286,8 +480,17 @@
         "folionr": 52,
         "foliotype": "r",
         "foliofilename": "BnF_lat_2788_f52_r.jpg",
-        "foliodescription": "f.52r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f111.item.r=2788.zoom"
+        "foliodescription": "Paris, BnF, lat. 2788, f. 52r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_49_r",
+        "folionr": 49,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_2923_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923 (mid 13th c.), f. 49r: Abelard, Apologia seu fidei confessio ‘Universis’ (1141)",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "manuscript_id": "bnf663",
@@ -295,8 +498,8 @@
         "folionr": "6_bis",
         "foliotype": "r",
         "foliofilename": "BnF_lat_6638_f6bis_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 6638 f.6 bis r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10548529s/f17.item.r=6638.zoom"
+        "foliodescription": "Paris, BnF, lat. 6638, f. 6bis r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10548529s"
     },
     {
         "manuscript_id": "bnf663",
@@ -326,6 +529,32 @@
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10548475p/f107.image.r=7709"
     },
     {
+        "manuscript_id": "bnf774",
+        "folioid": "bnf774_cover_",
+        "folionr": "cover",
+        "foliofilename": "BnF_lat_7749_cover_.jpg",
+        "foliodescription": "Paris, BnF, lat. 7749",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j"
+    },
+    {
+        "manuscript_id": "bnf774",
+        "folioid": "bnf774_33_v",
+        "folionr": 33,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_7749_33_v.jpg",
+        "foliodescription": "BnF lat. 7749 f.33v. Victorinus’s commentary included a number of summary diagrams. Cicero’s text is added in red in the margins",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j/f70.image.r=7749"
+    },
+    {
+        "manuscript_id": "bnf774",
+        "folioid": "bnf774_10_v",
+        "folionr": 10,
+        "foliotype": "v",
+        "foliofilename": "BnF_lat_7749_10_v.jpg",
+        "foliodescription": "BnF lat. 7749 f.10v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j/f24.image.r=7749"
+    },
+    {
         "manuscript_id": "bnf790",
         "folioid": "bnf790_27_r",
         "folionr": 27,
@@ -350,16 +579,6 @@
         "foliofilename": "BnF_lat_7900A_f127_v.jpg",
         "foliodescription": "Paris, BnF, Lat. 7900A f.127v: ‘Lady Grammar’ teaches a group of students. The three in the front row are holding wax tablets.",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f274.item.r=7900A.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_1_rb",
-        "folionr": 1,
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_12949_f1_r.jpg",
-        "foliodescription": "f. 1 r. Opening of Aristotle’s Peri Hermeneias (On Interpretation) in the translation of Boethius. You may recognize this page from the teaser of this exhibition. Aristotle’s On Interpretation deals with the relationship between words, reality and logic.",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f7.item.r=lat.zoom"
     },
     {
         "manuscript_id": "bnf790",
@@ -457,6 +676,25 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_7900A_133_r.jpg",
         "foliodescription": "Paris BnF lat.7900A f.133r",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f285.image.r=7900A"
+    },
+    {
+        "manuscript_id": "bnf790",
+        "folioid": "bnf790_113_r",
+        "folionr": 113,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_7900A_113_r.jpg",
+        "foliodescription": "Paris, BnF, Lat. 7900A, f. 113r: Martianus Capella’s De nuptiis in the narrow column on the left, Remigius of Auxerre’s commentary written as a continuous tekst on the right.",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f245.image.r=7900A"
+    },
+    {
+        "manuscript_id": "bnf790",
+        "folioid": "bnf790_133_rb",
+        "folionr": 133,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_7900A_133_r.jpg",
+        "foliodescription": "Paris, BnF lat. 7900, s. 10, f.133r The opening of Martianus’ chapter on dialectic, with Remigius; commentary (on the right)",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f285.image.r=7900A"
     },
     {
@@ -584,6 +822,26 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_139_f46_r.jpg",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687125"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_39_vb",
+        "folionr": 39,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_139_f39_v.jpg",
+        "foliodescription": "Leiden UB BPL 139 B f.39v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
+    },
+    {
+        "manuscript_id": "bpl139",
+        "folioid": "bpl139_39_vb",
+        "folionr": 39,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_139_f39_v.jpg",
+        "foliodescription": "Leiden UB BPL 139 B f.39v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
     },
     {
         "manuscript_id": "bpl144",
@@ -758,6 +1016,63 @@
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357082"
     },
     {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_66_v",
+        "folionr": 66,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_144_f66_v.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.66v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357017"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_2_rd",
+        "folionr": 2,
+        "foliotype": "r",
+        "folioextra": "d",
+        "foliofilename": "UB_BPL_144_f2_r.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357082"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_18_rb",
+        "folionr": 18,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_144_f18_r.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.18r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357066"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_83_r",
+        "folionr": 18,
+        "foliotype": "r",
+        "foliofilename": "UB_BPL_144_f83_r.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.83r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357001"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_58_rb",
+        "folionr": 58,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_144_f58_r.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.58r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357026"
+    },
+    {
+        "manuscript_id": "bpl144",
+        "folioid": "bpl144_93_v",
+        "folionr": 93,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_144_f93_v.jpg",
+        "foliodescription": "Leiden UB BPL 144 f.93v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2356990"
+    },
+    {
         "manuscript_id": "bpl25",
         "folioid": "bpl25_12_rb",
         "folionr": 12,
@@ -846,6 +1161,16 @@
         "foliofilename": "UB_BPL_25_f42_r.jpg",
         "foliodescription": "Leiden UB BPL 25 f.42r",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617708"
+    },
+    {
+        "manuscript_id": "bpl25",
+        "folioid": "bpl25_1_vb",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_25_1_v.jpg",
+        "foliodescription": "Leiden UB BPL 25 f.1v-2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617706"
     },
     {
         "manuscript_id": "bpl84",
@@ -1090,6 +1415,16 @@
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348792"
     },
     {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_63_rb",
+        "folionr": 63,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_84_f63_r.jpg",
+        "foliodescription": "‘All that is just is good. All that is virtuous is just. Therefore, all that is virtuous is good.’ This syllogism joins two universal affirmative propositions (‘all that is just is good’ and ‘all that is virtuous is just’) and deduces the conclusion ‘all that is virtuous is good’.",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348819"
+    },
+    {
         "manuscript_id": "bpl88",
         "folioid": "bpl88_1_v",
         "folionr": 1,
@@ -1190,6 +1525,46 @@
         "foliofilename": "UB_BPL_88_172_v.jpg",
         "foliodescription": "Leiden UB BPL 88 f.172v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/islandora/object/item:2028417#page/180/mode/1up"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_1_vb",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f1 _v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.1v-2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028514"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_1_vc",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "UB_BPL_88_f1 _v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.1v-2r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028514"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_4_vb",
+        "folionr": 4,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f4_v.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.4v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028606"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_171_rb",
+        "folionr": 171,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_171_r.jpg",
+        "foliodescription": "Leiden UB BPL 88 f.171r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028470"
     },
     {
         "manuscript_id": "bur275",
@@ -1296,6 +1671,28 @@
         "foliosource": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd02498-3487-11e6-a926-3323b3261c2b/media/52d8940b-15a9-74df-7948-34ddb1002b17"
     },
     {
+        "manuscript_id": "ein29",
+        "folioid": "ein29_165_",
+        "folionr": 165,
+        "foliofilename": "Einsieldeln_29 (878)_p165.jpg",
+        "foliodescription": "Manuscripts were often ruled with a knife; here we can see on p. 165 that the blade has cut through the parchment while ruling the edge of the text block.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/165/0/Sequence-965"
+    },
+    {
+        "manuscript_id": "ein29",
+        "folioid": "ein29_166_",
+        "folionr": 166,
+        "foliofilename": "Einsieldeln_29 (878)_p166.jpg",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/166/0/Sequence-965"
+    },
+    {
+        "manuscript_id": "ein29",
+        "folioid": "ein29_171_",
+        "folionr": 171,
+        "foliofilename": "Einsieldeln_29 (878)_p171.jpg",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/171/0/Sequence-965"
+    },
+    {
         "manuscript_id": "ein315",
         "folioid": "ein315_139_",
         "folionr": 139,
@@ -1400,6 +1797,62 @@
         "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/139/0/Sequence-1010"
     },
     {
+        "manuscript_id": "ein315",
+        "folioid": "ein315_114_",
+        "folionr": 114,
+        "foliofilename": "Einsieldeln_315 (605)_p114.jpg",
+        "foliodescription": "p.114",
+        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/114/0/Sequence-1010"
+    },
+    {
+        "manuscript_id": "gal128",
+        "folioid": "gal128_3_",
+        "folionr": 3,
+        "foliofilename": "Gall_SB_Cod_Sang_128_p.3_.jpg",
+        "foliodescription": "St. Gallen, 128, p. 3 prologue to Jerome’s Commentary on the Epistle to the Galatians (c. 389) St. Gallen, first third of the ninth century",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0128/3/0/Sequence-320"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_cover_",
+        "folionr": "cover",
+        "foliofilename": "Gall_SB_Cod_Sang_273_cover_.jpg",
+        "foliodescription": "St Gall SB, Cod. Sang. 273 (145 x 125mm)",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/bindingA/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_225_",
+        "folionr": 225,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.225_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 225.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/225/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_233_",
+        "folionr": 233,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.233_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 233",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/233/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_224_",
+        "folionr": 224,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.224_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 224.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/224/0/Sequence-457"
+    },
+    {
+        "manuscript_id": "gal273",
+        "folioid": "gal273_234_",
+        "folionr": 234,
+        "foliofilename": "Gall_SB_Cod_Sang_273_p.234_.jpg",
+        "foliodescription": "St Gall, Cod. Sang. 273, p. 234.",
+        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/234/0/Sequence-457"
+    },
+    {
         "manuscript_id": "gro22",
         "folioid": "gro22_page_2_",
         "folionr": "page_2",
@@ -1424,6 +1877,123 @@
         "foliofilename": "UB_GRO_22_f113_v.jpg",
         "foliodescription": "Summary in Leiden UB GRO 22, f.113v",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/120/mode/1up"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_1_r",
+        "folionr": 1,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f1_r.jpg",
+        "foliodescription": "f. 1r: The opening of Cicero’s De inventione",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668179"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_68_v",
+        "folionr": 68,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f68_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.68v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668199"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_13_v",
+        "folionr": 13,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f13_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.13v-14r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668136"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_11_r",
+        "folionr": 11,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f11_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.11r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668240"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_11_v",
+        "folionr": 11,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f11_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.11v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668197"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_28_r",
+        "folionr": 28,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f28_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.28r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668188"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_58_v",
+        "folionr": 58,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f58_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.58v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668190"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_25_r",
+        "folionr": 25,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f25_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.25r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668224"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_70_v",
+        "folionr": 70,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f70_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.70v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668223"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_95_r",
+        "folionr": 95,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f95_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.95r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668225"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_50_v",
+        "folionr": 50,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f50_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.50v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668152"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_23_r",
+        "folionr": 23,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f23_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22 f.23r",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668232"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_105_r",
+        "folionr": 105,
+        "foliotype": "r",
+        "foliofilename": "UB_GRO_22_f105_r.jpg",
+        "foliodescription": "Leiden, UB, GRO 22±a±m22±a±, twelfth century, f. 105r.",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668182"
     },
     {
         "manuscript_id": "kar92",
@@ -1494,6 +2064,23 @@
         "foliotype": "r",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f5_r.jpg",
         "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105549"
+    },
+    {
+        "manuscript_id": "val404",
+        "folioid": "val404_27_r",
+        "folionr": 27,
+        "foliotype": "r",
+        "foliofilename": "Valenciennes_BM_404_f27_r.jpg",
+        "foliodescription": "Valenciennes, Cod. 404 (Saint Amand, f. 27r)",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452582n/f57.image.r=Valenciennes"
+    },
+    {
+        "manuscript_id": "val404",
+        "folioid": "val404_cover_",
+        "folionr": "cover",
+        "foliofilename": "Valenciennes_BM_404_cover_.jpg",
+        "foliodescription": "Valenciennes, BM Cod. 404, 219 × 148 mm",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452582n/f246.image.r=Valenciennes"
     },
     {
         "manuscript_id": "val406",
@@ -1621,25 +2208,6 @@
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618282#page/12/mode/1up"
     },
     {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_1_rb",
-        "folionr": 1,
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_12949_f1_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.1r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f7.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf790",
-        "folioid": "bnf790_113_r",
-        "folionr": 113,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_7900A_113_r.jpg",
-        "foliodescription": "Paris, BnF, Lat. 7900A, f. 113r: Martianus Capella’s De nuptiis in the narrow column on the left, Remigius of Auxerre’s commentary written as a continuous tekst on the right.",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f245.image.r=7900A"
-    },
-    {
         "manuscript_id": "vlf48",
         "folioid": "vlf48_30_vb",
         "folionr": 30,
@@ -1650,56 +2218,6 @@
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618307"
     },
     {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_24_vb",
-        "folionr": 24,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_12949_f24_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.24v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_63_rb",
-        "folionr": 63,
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_84_f63_r.jpg",
-        "foliodescription": "‘All that is just is good. All that is virtuous is just. Therefore, all that is virtuous is good.’ This syllogism joins two universal affirmative propositions (‘all that is just is good’ and ‘all that is virtuous is just’) and deduces the conclusion ‘all that is virtuous is good’.",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348819"
-    },
-    {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_1_vb",
-        "folionr": 1,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_88_f1 _v.jpg",
-        "foliodescription": "Leiden UB BPL 88 f.1v-2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028514"
-    },
-    {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_1_vc",
-        "folionr": 1,
-        "foliotype": "v",
-        "folioextra": "c",
-        "foliofilename": "UB_BPL_88_f1 _v.jpg",
-        "foliodescription": "Leiden UB BPL 88 f.1v-2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028514"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_39_vb",
-        "folionr": 39,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_139_f39_v.jpg",
-        "foliodescription": "Leiden UB BPL 139 B f.39v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
-    },
-    {
         "manuscript_id": "vlf48",
         "folioid": "vlf48_95_vc",
         "folionr": 95,
@@ -1708,120 +2226,6 @@
         "foliofilename": "UB_VLF_48_f95_v.jpg",
         "foliodescription": "Leiden, UB, VLF 48",
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618286"
-    },
-    {
-        "manuscript_id": "val404",
-        "folioid": "val404_27_r",
-        "folionr": 27,
-        "foliotype": "r",
-        "foliofilename": "Valenciennes_BM_404_f27_r.jpg",
-        "foliodescription": "Valenciennes, Cod. 404 (Saint Amand, f. 27r)",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452582n/f57.image.r=Valenciennes"
-    },
-    {
-        "manuscript_id": "val404",
-        "folioid": "val404_cover_",
-        "folionr": "cover",
-        "foliofilename": "Valenciennes_BM_404_cover_.jpg",
-        "foliodescription": "Valenciennes, BM Cod. 404, 219 × 148 mm",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8452582n/f246.image.r=Valenciennes"
-    },
-    {
-        "manuscript_id": "gal273",
-        "folioid": "gal273_cover_",
-        "folionr": "cover",
-        "foliofilename": "Gall_SB_Cod_Sang_273_cover_.jpg",
-        "foliodescription": "St Gall SB, Cod. Sang. 273 (145 x 125mm)",
-        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/bindingA/0/Sequence-457"
-    },
-    {
-        "manuscript_id": "gal273",
-        "folioid": "gal273_225_",
-        "folionr": 225,
-        "foliofilename": "Gall_SB_Cod_Sang_273_p.225_.jpg",
-        "foliodescription": "St Gall, Cod. Sang. 273, p. 225.",
-        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/225/0/Sequence-457"
-    },
-    {
-        "manuscript_id": "gal273",
-        "folioid": "gal273_233_",
-        "folionr": 233,
-        "foliofilename": "Gall_SB_Cod_Sang_273_p.233_.jpg",
-        "foliodescription": "St Gall, Cod. Sang. 273, p. 233",
-        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/233/0/Sequence-457"
-    },
-    {
-        "manuscript_id": "gal273",
-        "folioid": "gal273_224_",
-        "folionr": 224,
-        "foliofilename": "Gall_SB_Cod_Sang_273_p.224_.jpg",
-        "foliodescription": "St Gall, Cod. Sang. 273, p. 224.",
-        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/224/0/Sequence-457"
-    },
-    {
-        "manuscript_id": "gal273",
-        "folioid": "gal273_234_",
-        "folionr": 234,
-        "foliofilename": "Gall_SB_Cod_Sang_273_p.234_.jpg",
-        "foliodescription": "St Gall, Cod. Sang. 273, p. 234.",
-        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0273/234/0/Sequence-457"
-    },
-    {
-        "manuscript_id": "bpl144",
-        "folioid": "bpl144_66_v",
-        "folionr": 66,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_144_f66_v.jpg",
-        "foliodescription": "Leiden UB BPL 144 f.66v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357017"
-    },
-    {
-        "manuscript_id": "bpl144",
-        "folioid": "bpl144_2_rd",
-        "folionr": 2,
-        "foliotype": "r",
-        "folioextra": "d",
-        "foliofilename": "UB_BPL_144_f2_r.jpg",
-        "foliodescription": "Leiden UB BPL 144 f.2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357082"
-    },
-    {
-        "manuscript_id": "bpl144",
-        "folioid": "bpl144_18_rb",
-        "folionr": 18,
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_144_f18_r.jpg",
-        "foliodescription": "Leiden UB BPL 144 f.18r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357066"
-    },
-    {
-        "manuscript_id": "bpl144",
-        "folioid": "bpl144_83_r",
-        "folionr": 18,
-        "foliotype": "r",
-        "foliofilename": "UB_BPL_144_f83_r.jpg",
-        "foliodescription": "Leiden UB BPL 144 f.83r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357001"
-    },
-    {
-        "manuscript_id": "bpl144",
-        "folioid": "bpl144_58_rb",
-        "folionr": 58,
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_144_f58_r.jpg",
-        "foliodescription": "Leiden UB BPL 144 f.58r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357026"
-    },
-    {
-        "manuscript_id": "bpl144",
-        "folioid": "bpl144_93_v",
-        "folionr": 93,
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_144_f93_v.jpg",
-        "foliodescription": "Leiden UB BPL 144 f.93v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2356990"
     },
     {
         "manuscript_id": "vlf48",
@@ -1843,400 +2247,12 @@
         "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028456"
     },
     {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_4_vb",
-        "folionr": 4,
+        "manuscript_id": "vlf48",
+        "folioid": "vlf48_30_v2",
+        "folionr": 30,
         "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_88_f4_v.jpg",
-        "foliodescription": "Leiden UB BPL 88 f.4v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028606"
-    },
-    {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_171_rb",
-        "folionr": 171,
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_88_171_r.jpg",
-        "foliodescription": "Leiden UB BPL 88 f.171r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2028470"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_1_r",
-        "folionr": 1,
-        "foliotype": "r",
-        "foliofilename": "UB_GRO_22_f1_r.jpg",
-        "foliodescription": "f. 1r: The opening of Cicero’s De inventione",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668179"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_68_v",
-        "folionr": 68,
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f68_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.68v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668199"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_13_v",
-        "folionr": 13,
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f13_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.13v-14r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668136"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_11_r",
-        "folionr": 11,
-        "foliotype": "r",
-        "foliofilename": "UB_GRO_22_f11_r.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.11r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668240"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_11_v",
-        "folionr": 11,
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f11_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.11v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668197"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_28_r",
-        "folionr": 28,
-        "foliotype": "r",
-        "foliofilename": "UB_GRO_22_f28_r.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.28r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668188"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_58_v",
-        "folionr": 58,
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f58_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.58v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668190"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_25_r",
-        "folionr": 25,
-        "foliotype": "r",
-        "foliofilename": "UB_GRO_22_f25_r.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.25r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668224"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_70_v",
-        "folionr": 70,
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f70_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.70v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668223"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_95_r",
-        "folionr": 95,
-        "foliotype": "r",
-        "foliofilename": "UB_GRO_22_f95_r.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.95r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668225"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_50_v",
-        "folionr": 50,
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f50_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.50v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668152"
-    },
-    {
-        "manuscript_id": "ein29",
-        "folioid": "ein29_165_",
-        "folionr": 165,
-        "foliofilename": "Einsieldeln_29 (878)_p165.jpg",
-        "foliodescription": "Manuscripts were often ruled with a knife; here we can see on p. 165 that the blade has cut through the parchment while ruling the edge of the text block.",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/165/0/Sequence-965"
-    },
-    {
-        "manuscript_id": "ein29",
-        "folioid": "ein29_166_",
-        "folionr": 166,
-        "foliofilename": "Einsieldeln_29 (878)_p166.jpg",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/166/0/Sequence-965"
-    },
-    {
-        "manuscript_id": "ein29",
-        "folioid": "ein29_171_",
-        "folionr": 171,
-        "foliofilename": "Einsieldeln_29 (878)_p171.jpg",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0029/171/0/Sequence-965"
-    },
-    {
-        "manuscript_id": "bpl139",
-        "folioid": "bpl139_39_vb",
-        "folionr": 39,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_139_f39_v.jpg",
-        "foliodescription": "Leiden UB BPL 139 B f.39v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1687140"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_12_r",
-        "folionr": 12,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_12949_f12_r.jpg",
-        "foliodescription": "f.12r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f29.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_24_rb",
-        "folionr": 24,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_12949_f24_r.jpg",
-        "foliodescription": "f.24r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f61.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_25_vb",
-        "folionr": 25,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_12949_f25_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.25v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f64.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_13_r",
-        "folionr": 13,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_12949_f13_r.jpg",
-        "foliodescription": "f.13r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f33.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_46_r",
-        "folionr": 46,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_12949_f46_r.jpg",
-        "foliodescription": "46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f121.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_42_r",
-        "folionr": 42,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_12949_f42_r.jpg",
-        "foliodescription": "f.42r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f113.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf774",
-        "folioid": "bnf774_cover_",
-        "folionr": "cover",
-        "foliofilename": "BnF_lat_7749_cover_.jpg",
-        "foliodescription": "BnF lat. 7749",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j.r=7749?rk=21459;2"
-    },
-    {
-        "manuscript_id": "bnf774",
-        "folioid": "bnf774_33_v",
-        "folionr": 33,
-        "foliotype": "v",
-        "foliofilename": "BnF_lat_7749_33_v.jpg",
-        "foliodescription": "BnF lat. 7749 f.33v. Victorinus’s commentary included a number of summary diagrams. Cicero’s text is added in red in the margins",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j/f70.image.r=7749"
-    },
-    {
-        "manuscript_id": "bnf774",
-        "folioid": "bnf774_10_v",
-        "folionr": 10,
-        "foliotype": "v",
-        "foliofilename": "BnF_lat_7749_10_v.jpg",
-        "foliodescription": "BnF lat. 7749 f.10v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b8530356j/f24.image.r=7749"
-    },
-    {
-        "manuscript_id": "bnf146",
-        "folioid": "bnf146_cover_",
-        "folionr": "cover",
-        "foliofilename": "BnF_lat_14614_cover_.jpg",
-        "foliodescription": "Paris, BnF, lat. 14614, ff. 117-202 (the opening of the text is missing) date: 12th century. The manuscript belonged to the library of St. Victor, Paris",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f.r=14614?rk=42918;4"
-    },
-    {
-        "manuscript_id": "bnf292",
-        "folioid": "bnf292_49_r",
-        "folionr": 49,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_2923_r.jpg",
-        "foliodescription": "Abelard, Apologia seu fidei confessio ‘Universis’ (1141) Paris, BnF, lat. 2923, mid 13th c., f. 49 r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206/f115.image.r=2923"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_52_v",
-        "folionr": 52,
-        "foliotype": "v",
-        "foliofilename": "BnF_lat_12949_f52_v.jpg",
-        "foliodescription": "f.52v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f136.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_27_v",
-        "folionr": 27,
-        "foliotype": "v",
-        "foliofilename": "BnF_lat_12949_f27_v.jpg",
-        "foliodescription": "f.27v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f74.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_53_r",
-        "folionr": 53,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_12949_f53_r.jpg",
-        "foliodescription": "f.53r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f139.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf790",
-        "folioid": "bnf790_133_rb",
-        "folionr": 133,
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_7900A_133_r.jpg",
-        "foliodescription": "Paris, BnF lat. 7900, s. 10, f.133r The opening of Martianus’ chapter on dialectic, with Remigius; commentary (on the right)",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f285.image.r=7900A"
-    },
-    {
-        "manuscript_id": "bnf146",
-        "folioid": "bnf146_117_r",
-        "folionr": 117,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_14614_f117_r.jpg",
-        "foliodescription": "Abelard, Dialectica. Paris, BnF, lat. 14614, f. 117r. The opening of the Dialectica is missing, but an identification of the text is written at the top of the page: ‘scripta super predicamenta Aristotilis’",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f/f241.image.r=14614"
-    },
-    {
-        "manuscript_id": "bnf146",
-        "folioid": "bnf146_130_r",
-        "folionr": 130,
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_14614_f130_r.jpg",
-        "foliodescription": "f.130r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f/f267.image.r=14614"
-    },
-    {
-        "manuscript_id": "bnf146",
-        "folioid": "bnf146_130_v",
-        "folionr": 130,
-        "foliotype": "v",
-        "foliofilename": "BnF_lat_14614_f130_v.jpg",
-        "foliodescription": "f.130v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f/f268.image.r=14614"
-    },
-    {
-        "manuscript_id": "bnf178",
-        "folioid": "bnf178_4_vb",
-        "folionr": 4,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_17806_f4_v.jpg",
-        "foliodescription": "Paris, BnF, lat.17806 f.4v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
-    },
-    {
-        "manuscript_id": "bnf178",
-        "folioid": "bnf178_4_vc",
-        "folionr": 4,
-        "foliotype": "v",
-        "folioextra": "c",
-        "foliofilename": "BnF_lat_17806_f4_v.jpg",
-        "foliodescription": "Paris, BnF, lat.17806 f.4v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f14.item.zoom"
-    },
-    {
-        "manuscript_id": "bpl25",
-        "folioid": "bpl25_1_vb",
-        "folionr": 1,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_25_1_v.jpg",
-        "foliodescription": "Leiden UB BPL 25 f.1v-2r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617706"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_23_r",
-        "folionr": 23,
-        "foliotype": "r",
-        "foliofilename": "UB_GRO_22_f23_r.jpg",
-        "foliodescription": "Leiden, UB, GRO 22 f.23r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668232"
-    },
-    {
-        "manuscript_id": "ein315",
-        "folioid": "ein315_114_",
-        "folionr": 114,
-        "foliofilename": "Einsieldeln_315 (605)_p114.jpg",
-        "foliodescription": "p.114",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/114/0/Sequence-1010"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_105_r",
-        "folionr": 105,
-        "foliotype": "r",
-        "foliofilename": "UB_GRO_22_f105_r.jpg",
-        "foliodescription": "Leiden, UB, GRO 22±a±m22±a±, twelfth century, f. 105r.",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668182"
-    },
-    {
-        "manuscript_id": "gal128",
-        "folioid": "gal128_3_",
-        "folionr": 3,
-        "foliofilename": "Gall_SB_Cod_Sang_128_p.3_.jpg",
-        "foliodescription": "St. Gallen, 128, p. 3 prologue to Jerome’s Commentary on the Epistle to the Galatians (c. 389) St. Gallen, first third of the ninth century",
-        "foliosource": "https://www.e-codices.unifr.ch/en/csg/0128/3/0/Sequence-320"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_24_rc",
-        "folionr": 24,
-        "foliotype": "r",
-        "folioextra": "c",
-        "foliofilename": "BnF_lat_12949_f24_r.jpg",
-        "foliodescription": "f.24r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f61.item.r=lat.zoom"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_24_vb",
-        "folionr": 24,
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_12949_f24_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949 f.24v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+        "foliofilename": "UB_VLF_48_30_v.jpg",
+        "foliodescription": "Leiden UB VLF 48 f.30v",
+        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1618307"
     }
 ]

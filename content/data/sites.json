@@ -21,7 +21,7 @@
     },
     {
         "title": "About",
-        "docx_file": "VEintro",
+        "docx_file": "VEAboutThisSite",
         "page_id": "ack",
         "remarks": "with information about us, but also with link to bibliography?",
         "theme": "top",
