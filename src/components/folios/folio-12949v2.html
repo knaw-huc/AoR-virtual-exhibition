@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="12949v2">
 	<div id="img_12949v2" class="aorImgWindow">
 
-		<div id="tab-content-312949v2.jpg" class="hcTabContent ">
+		<div id="tab-content-312949v2.jpg" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-312949v2.jpg', 1, 0);
+
+				var el = document.getElementById('tab-content-312949v2.jpg');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/content/12949v2.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/content/12949v2.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -42,8 +51,7 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-212949v2.jpg" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href=".html">More about the manuscript  </a><br>
+					<a href=".html">About the manuscript  </a><br>
 					<a href="Bibliotheque Nationale de France" target="_blank">Source</a>
 					</span>
 				</figcaption>

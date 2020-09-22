@@ -5,6 +5,7 @@ $marginDouble: 2 * $margin;
 @import 'layout/_layout-columns';
 @import 'components/manuscriptInline';
 @import 'components/manuscriptCards';
+@import 'components/portraitsCards';
 @import 'noten';
 @import 'modal';
 @import 'home';
@@ -280,6 +281,10 @@ h4 {
 	border-bottom: 1px solid hsl(36, 34%, 70%);
 	display: block;
 	cursor: pointer;
+
+	a {
+		text-decoration: underline;
+	}
 }
 
 

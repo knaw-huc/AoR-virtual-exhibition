@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="7900Af26v">
 	<div id="img_7900Af26v" class="aorImgWindow">
 
-		<div id="tab-content-37900Af26v.jpg" class="hcTabContent ">
+		<div id="tab-content-37900Af26v.jpg" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-37900Af26v.jpg', 1, 0);
+
+				var el = document.getElementById('tab-content-37900Af26v.jpg');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/content/7900Af26v.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/content/7900Af26v.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -30,7 +39,7 @@
 					<div class="aorFolioSections hcTabLabel" id="tab-list-7900Af26v.jpg">Paris, BnF, lat. 7900A f.26v</div>
 			</div>
 			<div class="aorFoliosCaption">
-					<figcaption id="tab-content-7900Af26v.jpg" class="hcTabContent">Paris, BnF, lat. 7900A f.26v. The underlying text has been identified: it was, presumably, an abridged version of Pseudo-Quintilian’s Declamationes XIX maiores.</figcaption>
+					<figcaption id="tab-content-7900Af26v.jpg" class="hcTabContent">Paris, BnF, lat. 7900A, f. 26v: The underlying text has been identified: it was, presumably, an abridged version of Pseudo-Quintilian’s Declamationes XIX maiores.</figcaption>
 			</div>
 
 		</div>
@@ -42,9 +51,6 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-27900Af26v.jpg" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href=".html">More about the manuscript  </a><br>
-					<a href="" target="_blank">Source</a>
 					</span>
 				</figcaption>
 		</div>

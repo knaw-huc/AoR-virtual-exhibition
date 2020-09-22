@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="12949f23bisrfr">
 	<div id="img_12949f23bisrfr" class="aorImgWindow">
 
-		<div id="tab-content-312949f23bisrfr" class="hcTabContent ">
+		<div id="tab-content-312949f23bisrfr" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-312949f23bisrfr', 1, 0);
+
+				var el = document.getElementById('tab-content-312949f23bisrfr');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/content/12949f23bisrfr"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/content/12949f23bisrfr"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -42,8 +51,7 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-212949f23bisrfr" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href=".html">More about the manuscript  </a><br>
+					<a href=".html">About the manuscript  </a><br>
 					<a href="Gallica" target="_blank">Source</a>
 					</span>
 				</figcaption>

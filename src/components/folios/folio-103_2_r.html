@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="103_2_r">
 	<div id="img_103_2_r" class="aorImgWindow">
 
-		<div id="tab-content-3103f2r.jpg" class="hcTabContent ">
+		<div id="tab-content-3103f2r.jpg" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-3103f2r.jpg', 1, 0);
+
+				var el = document.getElementById('tab-content-3103f2r.jpg');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/content/103f2r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/content/103f2r.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -30,7 +39,7 @@
 					<div class="aorFolioSections hcTabLabel" id="tab-list-103f2r.jpg">Leiden, UB, VLQ 103 f.2r</div>
 			</div>
 			<div class="aorFoliosCaption">
-					<figcaption id="tab-content-103f2r.jpg" class="hcTabContent">Leiden, UB, VLQ 103 f.2r</figcaption>
+					<figcaption id="tab-content-103f2r.jpg" class="hcTabContent">Leiden, UB, VLQ 103, f. 2r</figcaption>
 			</div>
 
 		</div>
@@ -42,9 +51,8 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-2103f2r.jpg" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href=".html">More about the manuscript  </a><br>
-					<a href="Universiteitsbibliotheek Leiden" target="_blank">Source</a>
+					<a href=".html">About the manuscript  </a><br>
+					<a href="photo MT" target="_blank">Source</a>
 					</span>
 				</figcaption>
 		</div>

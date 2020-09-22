@@ -102,6 +102,12 @@ gulp.task('convHtml', function (done) {
       fileName = page.docx_file;
       createHtml(fileName);
       }
+      //extra popup
+    for(var iii=0; iii<extraInfo.length; iii++) {
+        page = extraInfo[iii];
+        fileName = page.docx_file;
+        createHtml(fileName);
+        }
 done();
 });
 
@@ -285,8 +291,8 @@ gulp.task('buildFromTemplates', function(done) {
       var showTl = '';
       var showMap = '';
       if (page.type == 'manuscript') {
-        manuscriptMeta += '</div></div>';
-        manuscriptMeta += '<div class="aoRow aoMetadata">';
+        //manuscriptMeta += '</div></div>';
+        //manuscriptMeta += '<div class="aoRow aoMetadata">';
         manuscriptMeta += '<div class="aoCol1">';
         //manuscriptMeta += '<h3>Metadata</h3>';
         manuscriptMeta += '<h4>Date</h4>'+page.dateS1+'-'+page.dateS2;
@@ -300,7 +306,8 @@ gulp.task('buildFromTemplates', function(done) {
         //manuscriptMeta += '<h4>Foliation</h4>'+page.foliation;
         manuscriptMeta += '</div>';
         manuscriptMeta += '<div class="aoCol1">'+page.contents;
-        manuscriptMeta += '</div></div>';
+        manuscriptMeta += '</div>';
+        //manuscriptMeta += '</div></div>';
 
         showTl = '<div id="spotTL">1111</div>';
         showMap = '<div><div id="spotMp">2222';
@@ -419,7 +426,7 @@ function ifEmp(input, pre, post) {
 function handleImages(content) {
   var output;
   for (var i = 0; i < imagesJson.length; i++) {
-    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure class="aorIllu"><img src="images/content/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br>Source: '+imagesJson[i].resource+'</figcaption></figure>');
+    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure class="aorIllu"><img src="images/content/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br><a href="'+imagesJson[i].hyperlink+'" class="aorSourceLink">'+imagesJson[i].hyperlink+'</a></figcaption></figure>');
   }
 
   return content;
@@ -513,6 +520,10 @@ function handletextPre(content) {
     content = content.replace(/<p>±row±<br \/>±col1±<br \/>/g, "<p>±row±</p><p>±col1±</p><p>");
     content = content.replace(/<p>±col2span± <\/p>/g, "<p>±col2span±</p>");
     content = content.replace(/<p>±col2±<br \/>/g, "<p>±col2±</p><p>");
+
+
+    content = content.replace(/<p>±col2± <\/p>/g, "<p>±col2±</p>");
+
     content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
     content = content.replace(/<p>±col2span±<br \/>/g, "<p>±col2span±</p><p>");
     content = content.replace(/<br \/><\/em>±col3±<\/p>/g, "</em></p><p>±col3±</p>");
@@ -551,7 +562,7 @@ function handletextPre(content) {
 
 function handleMetadata(content) {
     //content = content.replace('<p>±row±</p>', '±meta± <p>±row±</p>'); // ±timeline± ±map±
-    content = content.replace('<p>±row±</p>', '±meta± ±timeline± ±map± <p>±row±</p>'); // ±timeline± ±map±
+    //content = content.replace('<p>±row±</p>', '±meta± ±timeline± ±map± <p>±row±</p>'); // ±timeline± ±map±
 
   return content;
 }

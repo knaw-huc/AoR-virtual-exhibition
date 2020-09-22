@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="11127_8_v">
 	<div id="img_11127_8_v" class="aorImgWindow">
 
-		<div id="tab-content-311127f8v.jpg" class="hcTabContent ">
+		<div id="tab-content-311127f8v.jpg" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-311127f8v.jpg', 1, 0);
+
+				var el = document.getElementById('tab-content-311127f8v.jpg');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/content/11127f8v.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/content/11127f8v.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -30,7 +39,7 @@
 					<div class="aorFolioSections hcTabLabel" id="tab-list-11127f8v.jpg">Paris, BnF, lat. 11127 f.8v</div>
 			</div>
 			<div class="aorFoliosCaption">
-					<figcaption id="tab-content-11127f8v.jpg" class="hcTabContent">Paris, BnF, lat. 11127 f.8v</figcaption>
+					<figcaption id="tab-content-11127f8v.jpg" class="hcTabContent">Paris, BnF, lat. 11127, f. 8v</figcaption>
 			</div>
 
 		</div>
@@ -42,9 +51,6 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-211127f8v.jpg" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href=".html">More about the manuscript  </a><br>
-					<a href="photographed by I. O&#x27;D" target="_blank">Source</a>
 					</span>
 				</figcaption>
 		</div>

@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="circlediagram">
 	<div id="img_circlediagram" class="aorImgWindow">
 
-		<div id="tab-content-348f32r.jpg" class="hcTabContent ">
+		<div id="tab-content-348f32r.jpg" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-348f32r.jpg', 1, 0);
+
+				var el = document.getElementById('tab-content-348f32r.jpg');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -17,12 +21,21 @@
 			<img src="images/content/48f32r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
 
+			<div class="zoomOverlay">
+				<img src="images/content/48f32r.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
+
 		</div>
 
-		<div id="tab-content-388f63r.jpg" class="hcTabContent ">
+		<div id="tab-content-388f63r.jpg" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-388f63r.jpg', 1, 0);
+
+				var el = document.getElementById('tab-content-388f63r.jpg');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -34,6 +47,11 @@
 
 			<img src="images/content/88f63r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/content/88f63r.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -49,8 +67,8 @@
 					<div class="aorFolioSections hcTabLabel" id="tab-list-88f63r.jpg">UB BPL 88 f.63r</div>
 			</div>
 			<div class="aorFoliosCaption">
-					<figcaption id="tab-content-48f32r.jpg" class="hcTabContent">UB VLF 48 f.32r</figcaption>
-					<figcaption id="tab-content-88f63r.jpg" class="hcTabContent">UB BPL 88 f.63r</figcaption>
+					<figcaption id="tab-content-48f32r.jpg" class="hcTabContent">Leiden, UB, VLF 48, f. 32r</figcaption>
+					<figcaption id="tab-content-88f63r.jpg" class="hcTabContent">Leiden, UB, BPL 88, f. 63r</figcaption>
 			</div>
 
 		</div>
@@ -62,15 +80,13 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-248f32r.jpg" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href=".html">More about the manuscript  </a><br>
+					<a href=".html">About the manuscript  </a><br>
 					<a href="Universiteitsbibliotheek Leiden" target="_blank">Source</a>
 					</span>
 				</figcaption>
 				<figcaption id="tab-content-288f63r.jpg" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href=".html">More about the manuscript  </a><br>
+					<a href=".html">About the manuscript  </a><br>
 					<a href="Universiteitsbibliotheek Leiden" target="_blank">Source</a>
 					</span>
 				</figcaption>

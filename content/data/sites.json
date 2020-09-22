@@ -75,6 +75,17 @@
         "thme": 1
     },
     {
+        "title": "Portaits",
+        "docx_file": "empty",
+        "page_id": "1po",
+        "summary": "Portaits page",
+        "theme": 1,
+        "file_name": "portraits",
+        "template_file": "theme-portraits",
+        "navigation_file": "nav-1",
+        "thme": 1
+    },
+    {
         "title": "±±±t2±±±",
         "docx_file": "VEteachersandstudents",
         "page_id": "2ho",

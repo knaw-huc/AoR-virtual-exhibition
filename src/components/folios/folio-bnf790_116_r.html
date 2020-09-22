@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="bnf790_116_r">
 	<div id="img_bnf790_116_r" class="aorImgWindow">
 
-		<div id="tab-content-3" class="hcTabContent ">
+		<div id="tab-content-3" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-3', 1, 0);
+
+				var el = document.getElementById('tab-content-3');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/manuscripts/BnF_lat_7900A_116_r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/manuscripts/BnF_lat_7900A_116_r.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -30,7 +39,7 @@
 					<div class="aorFolioSections hcTabLabel" id="tab-list-">116r</div>
 			</div>
 			<div class="aorFoliosCaption">
-					<figcaption id="tab-content-" class="hcTabContent">Paris BnF lat.7900A f.116r</figcaption>
+					<figcaption id="tab-content-" class="hcTabContent">Paris, BnF, lat.7900A, f. 116r</figcaption>
 			</div>
 
 		</div>
@@ -42,9 +51,6 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-2" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href="bnflat7900A.html">More about the manuscript Paris Paris, BnF, Lat. 7900A</a><br>
-					<a href="" target="_blank">Source</a>
 					</span>
 				</figcaption>
 		</div>

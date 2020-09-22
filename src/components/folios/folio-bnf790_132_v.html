@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="bnf790_132_v">
 	<div id="img_bnf790_132_v" class="aorImgWindow">
 
-		<div id="tab-content-3" class="hcTabContent ">
+		<div id="tab-content-3" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-3', 1, 0);
+
+				var el = document.getElementById('tab-content-3');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/manuscripts/BnF_lat_7900A_f132_v.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/manuscripts/BnF_lat_7900A_f132_v.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -30,7 +39,7 @@
 					<div class="aorFolioSections hcTabLabel" id="tab-list-">132v</div>
 			</div>
 			<div class="aorFoliosCaption">
-					<figcaption id="tab-content-" class="hcTabContent">In this image (Paris, BnF, Lat. 7900A, f. 132v) Dialectica is depicted as a dangerous lady: with a hook she lures students into a trap, while at the same time snakes come out of her sleeve ready to attack them.</figcaption>
+					<figcaption id="tab-content-" class="hcTabContent">Paris, BnF, lat. 7900A, f. 132v: &#x27;Lady Dialectica&#x27; (left) lures in students (right).</figcaption>
 			</div>
 
 		</div>
@@ -42,9 +51,6 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-2" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href="bnflat7900A.html">More about the manuscript Paris Paris, BnF, Lat. 7900A</a><br>
-					<a href="" target="_blank">Source</a>
 					</span>
 				</figcaption>
 		</div>

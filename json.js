@@ -10,6 +10,7 @@ var manuscriptJsonOrg = require('./content/data/metadata.json');
 var folioJson = require('./content/data/folios.json');
 var folioPartsJson = require('./content/data/folioParts.json');
 var folioPartsmulJson = require('./content/data/multiples.json');
+var portaits = require('./content/data/extraInfo.json');
 
 var folioMultiList = [];
 
@@ -68,7 +69,8 @@ function combineJson(){
     "navigation_file": "nav-manuscripts"
   })
   siteJson[0].manuscriptsList = manuscriptJson;
-  siteJson[25].manuscriptsList = manuscriptJson; //manuscript page
+  siteJson[26].manuscriptsList = manuscriptJson; //manuscript page
+  siteJson[7].portaitList = portaits; //portait page
 
 
   //create list for making folio components

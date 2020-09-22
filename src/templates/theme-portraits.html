@@ -1,0 +1,100 @@
+{{> html-head}}
+
+<div class="aoSite">
+  {{> page-header}}
+
+  <div class="aoWrapper aoRContent">
+    <div class="aoRow aoRowIntro">
+      <div class="aoCol1Span">
+        <div class="aoIntroTitle">
+          <h1>{{title}}</h1>
+        </div>
+        <div class="aoIntroTextCols">
+      {{> (lookup . 'docx_file') }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="aorBege aoSite">
+  <div class="aoWrapper">
+  <div class="aorPortraitsCrdList aoRow">
+          {{#each portaitList}}
+          <div class="aorPortraitsCrd">
+            <span class="modalNote"><a href="#" onClick="javascript:modalLoad('{{info_id}}'); return false">{{info_id}}</a></span>
+          </div>
+          {{/each}}
+    </div>
+  </div>
+</div>
+
+
+
+<div class="aorModalFade" id="Apuleius">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Apuleius');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Apuleius }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Aristotle1">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Aristotle1');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Aristotle1 }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Aristotle2">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Aristotle2');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Aristotle2 }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Boethius1">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Boethius1');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Boethius1 }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Boethius2">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Boethius2');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Boethius2 }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Categoriae">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Categoriae');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Categoriae }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Cicero">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Cicero');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Cicero }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Martianus">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Martianus');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Martianus }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="MLR">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('MLR');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> MLR }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Porphyry">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Porphyry');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Porphyry }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Augustine">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Augustine');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Augustine }}</div>
+  </div>
+</div>
+<div class="aorModalFade" id="Herennium">
+  <div class="aorModalPop"><span class="closeModal closeButton" onclick="javascript:closeModal('Herennium');"><img src="images/icons/close.png" alt=""></span>
+    <div class="aorModalContent">{{> Herennium }}</div>
+  </div>
+</div>
+
+
+
+
+
+
+{{> page-foot}}
+{{> html-foot}}

@@ -1,0 +1,37 @@
+.aorPortraitsCrdList {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    >* {
+      width: 100%;
+    }
+  }
+
+  $cardMargin: 1px;
+  @media (min-width: 1000px) {
+    .aorPortraitsCrdList {
+      flex-direction: row;
+
+      >* {
+        width: calc(33% - #{$cardMargin});
+        margin-right: $cardMargin;
+        margin-bottom: $cardMargin;
+      }
+    }
+  }
+
+
+.aorPortraitsCrd {
+  background-color: hsl(36, 34%, 75%);
+  padding: 1.5rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+.aorPortraits:hover {
+  background-color: hsl(36, 34%, 70%);;
+}

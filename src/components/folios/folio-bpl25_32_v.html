@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="bpl25_32_v">
 	<div id="img_bpl25_32_v" class="aorImgWindow">
 
-		<div id="tab-content-334" class="hcTabContent ">
+		<div id="tab-content-334" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-334', 1, 0);
+
+				var el = document.getElementById('tab-content-334');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/manuscripts/UB_BPL_25_f32_v.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/manuscripts/UB_BPL_25_f32_v.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -42,9 +51,6 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-234" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href="BPL25.html">More about the manuscript Leiden Leiden, UB, BPL 25</a><br>
-					<a href="" target="_blank">Source</a>
 					</span>
 				</figcaption>
 		</div>

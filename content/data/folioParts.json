@@ -1013,44 +1013,5 @@
         "fpname": "BPL 144 f.10r",
         "referentie_afb": "144f10rfr.jpg",
         "afbeelding_aanwezig": false
-    },
-    {
-        "folioid": "vlf48_30_v2",
-        "fpid": 139,
-        "fpname": "Tied Notes",
-        "referentie_afb": "48f30v2.jpg",
-        "afbeelding_aanwezig": false
-    },
-    {
-        "folioid": "bnf129_24_v2",
-        "fpid": 140,
-        "fpname": "Paris, BnF, lat. 12949 f.24v",
-        "fpdescription": "Paris, BnF, lat. 12949 f.24v",
-        "referentie_afb": "BnF_lat_12949_f24_v.jpg",
-        "afbeelding_aanwezig": false
-    },
-    {
-        "folioid": "bnf129_24_v2",
-        "fpid": 141,
-        "fpname": "Porphyrian Tree",
-        "fpdescription": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
-        "referentie_afb": "12949f24v2.jpg",
-        "afbeelding_aanwezig": false
-    },
-    {
-        "folioid": "bnf129_24_v2",
-        "fpid": 142,
-        "fpname": "Nota signs",
-        "fpdescription": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
-        "referentie_afb": "12949f24v3.jpg",
-        "afbeelding_aanwezig": false
-    },
-    {
-        "folioid": "bnf129_24_v2",
-        "fpid": 143,
-        "fpname": "Tiemark",
-        "fpdescription": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
-        "referentie_afb": "12949f24v4.jpg",
-        "afbeelding_aanwezig": false
     }
 ]

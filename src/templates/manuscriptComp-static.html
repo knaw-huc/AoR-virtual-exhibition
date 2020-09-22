@@ -1,22 +1,30 @@
 <figure class="aorCompManuscript" id="{{folioname}}">
-	<svg id="img_{{folioname}}" preserveAspectRatio="xMinYMin meet" viewBox="0 0 {{width}} {{height}}" class="{{folioname}}">
+	<div id="img_{{folioname}}" class="aorImgWindow">
 
 		{{#each parts}}
-		<g id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}">
-			<image href="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
+		<div id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}">
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(){
+				zoomImg('tab-content-3{{fpid}}', {{#if fpzoom}}{{fpzoom}}{{else}}1{{/if}}, {{#if fpmargin}}{{fpmargin}}{{else}}0{{/if}});
+			});
 
-			<image href="images/svg-layers/{{{svggroup}}}">
+		</script>
+		<div class="aorZoom" id="zoom-tab-content-3{{fpid}}">
+			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3{{fpid}}')" />
+		</div>
 
 
-		</g>
+
+			<img src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
+			<img src="images/svg-layers/{{{svggroup}}}"  onerror="this.style.display='none'">
+
+		</div>
 
 		{{/each}}
-	</svg>
-
-
-	<div class="aorZoom">
-		 <button type="button" name="button" onclick="zoomImg('out','img_{{folioname}}')">+</button>
 	</div>
+
+
+
 
 	<div class="aorFilioInfo">
 		<div class="aorFolioToggles">

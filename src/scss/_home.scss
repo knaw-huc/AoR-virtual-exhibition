@@ -37,6 +37,9 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #{$manuscriptBegeDark};
 }
 .aorHomeHeroText {
   width: 50%;
@@ -45,7 +48,10 @@
 .aorHomeSplit{
   display: flex;
   flex-direction: column;
-  max-width: 800px
+  align-items: center;
+  justify-content: space-between;
+  max-width: 650px;
+  width:auto;
 }
 .aorHomeTrailer img{
   width: 200px;
@@ -55,6 +61,26 @@
 
 }
 
+.aorPartners {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: .8rem;
+  padding-top: 1rem;
+
+  >* {
+    margin-right: 1rem;
+    line-height: 100%;
+  }
+
+  img {
+    height: 50px;
+    width: auto;
+    opacity: .7;
+  }
+
+}
 
 @media (min-width: 500px) {
   .aorHomeHero {
@@ -70,7 +96,7 @@
 
       .logoIcon{
         height: 80px;
-        margin-top: 0rem;
+        margin-top: 1rem;
       }
     }
   }

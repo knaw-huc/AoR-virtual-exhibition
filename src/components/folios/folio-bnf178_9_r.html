@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="bnf178_9_r">
 	<div id="img_bnf178_9_r" class="aorImgWindow">
 
-		<div id="tab-content-365" class="hcTabContent ">
+		<div id="tab-content-365" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-365', 1, 0);
+
+				var el = document.getElementById('tab-content-365');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/manuscripts/BnF_lat_178_f9_r.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/manuscripts/BnF_lat_178_f9_r.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -42,8 +51,7 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-265" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href="bnflat17806.html">More about the manuscript Paris Paris, BnF, Lat. 17806</a><br>
+					<a href="bnflat17806.html">About the manuscript Paris Paris, BnF, Lat. 17806</a><br>
 					<a href="https://gallica.bnf.fr/ark:/12148/btv1b525053525/f23.item.zoom" target="_blank">Source</a>
 					</span>
 				</figcaption>

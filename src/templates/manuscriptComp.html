@@ -2,10 +2,14 @@
 	<div id="img_{{folioname}}" class="aorImgWindow">
 
 		{{#each parts}}
-		<div id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}">
+		<div id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}" onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-3{{fpid}}', {{#if fpzoom}}{{fpzoom}}{{else}}1{{/if}}, {{#if fpmargin}}{{fpmargin}}{{else}}0{{/if}});
+
+				var el = document.getElementById('tab-content-3{{fpid}}');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -17,6 +21,11 @@
 
 			<img src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
 			<img src="images/svg-layers/{{{svggroup}}}"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
+				<img src="images/svg-layers/{{{svggroup}}}"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -49,9 +58,10 @@
 			{{#each parts}}
 				<figcaption id="tab-content-2{{fpid}}" class="hcTabContent {{folioname}}">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href="{{manuscript_filename}}.html">More about the manuscript {{manuscript_location}} {{manuscript_shelfmark}}</a><br>
+					{{#if foliosource}}
+					<a href="{{manuscript_filename}}.html">About the manuscript {{manuscript_location}} {{manuscript_shelfmark}}</a><br>
 					<a href="{{foliosource}}" target="_blank">Source</a>
+					{{/if}}
 					</span>
 				</figcaption>
 			{{/each}}

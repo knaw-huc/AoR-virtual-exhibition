@@ -1,10 +1,14 @@
 <figure class="aorCompManuscript" id="ein29_165_">
 	<div id="img_ein29_165_" class="aorImgWindow">
 
-		<div id="tab-content-3" class="hcTabContent ">
+		<div id="tab-content-3" class="hcTabContent " onmousemove='zoom(event)'>
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
 				zoomImg('tab-content-3', 1, 0);
+
+				var el = document.getElementById('tab-content-3');
+				el.setAttribute('data-h', el.offsetHeight);
+				el.setAttribute('data-w', el.offsetWidth);
 			});
 
 		</script>
@@ -16,6 +20,11 @@
 
 			<img src="images/manuscripts/Einsieldeln_29 (878)_p165.jpg"  />
 			<img src="images/svg-layers/"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="images/manuscripts/Einsieldeln_29 (878)_p165.jpg"  />
+				<img src="images/svg-layers/"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 
@@ -30,7 +39,7 @@
 					<div class="aorFolioSections hcTabLabel" id="tab-list-">165undefined</div>
 			</div>
 			<div class="aorFoliosCaption">
-					<figcaption id="tab-content-" class="hcTabContent">Manuscripts were often ruled with a knife; here we can see on p. 165 that the blade has cut through the parchment while ruling the edge of the text block.</figcaption>
+					<figcaption id="tab-content-" class="hcTabContent">Einsiedeln, Stiftsbibliothek, Codex 29 (878), p. 165: Manuscripts were often ruled with a knife; here we can see on p. 165 that the blade has cut through the parchment while ruling the edge of the text block.</figcaption>
 			</div>
 
 		</div>
@@ -42,9 +51,6 @@
 		<div class="aorFoliosManuscript">
 				<figcaption id="tab-content-2" class="hcTabContent ">
 					<span>
-					<strong>About the manuscript</strong><br>
-					<a href="BPL88.html">More about the manuscript Leiden Leiden, UB, BPL 88</a><br>
-					<a href="" target="_blank">Source</a>
 					</span>
 				</figcaption>
 		</div>
