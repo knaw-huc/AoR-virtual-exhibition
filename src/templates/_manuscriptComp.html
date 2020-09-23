@@ -3,30 +3,29 @@
 
 		{{#each parts}}
 		<div id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}" onmousemove='zoom(event)'>
-
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
+				zoomImg('tab-content-3{{fpid}}', {{#if fpzoom}}{{fpzoom}}{{else}}1{{/if}}, {{#if fpmargin}}{{fpmargin}}{{else}}0{{/if}});
+
 				var el = document.getElementById('tab-content-3{{fpid}}');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
-
-				getMeta("{{fpid}}{{foliofilename}}");
-				//getMeta("ol_{{fpid}}{{foliofilename}}");
-
-				zoomImg('{{fpid}}{{foliofilename}}');
 			});
+
 		</script>
-
-
 		<div class="aorZoom" id="zoom-tab-content-3{{fpid}}">
 			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3{{fpid}}')" />
 		</div>
 
-		<img id="{{fpid}}{{foliofilename}}" src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
 
-		<div class="zoomOverlay">
-			<img id="ol_{{fpid}}{{foliofilename}}" src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
-		</div>
+
+			<img src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/th_{{/if}}{{foliofilename}}"  />
+			<img src="images/svg-layers/{{{svggroup}}}"  onerror="this.style.display='none'">
+
+			<div class="zoomOverlay">
+				<img src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
+				<img src="images/svg-layers/{{{svggroup}}}"  onerror="this.style.display='none'">
+			</div>
 
 		</div>
 

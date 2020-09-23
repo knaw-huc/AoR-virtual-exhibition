@@ -35,11 +35,7 @@ function handleTabs(selectedTab) {
 function makeTabVisable(contentId,compId) {
   document.getElementById(preContentVal+contentId).style.display= 'flex';
   document.getElementById(preContentVal+'2'+contentId).style.display= 'flex';
-  var viewWindow = document.getElementById(preContentVal+'3'+contentId);
-  viewWindow.style.display= 'flex';
-
-  viewWindow.setAttribute('data-h', viewWindow.offsetHeight);
-  viewWindow.setAttribute('data-w', viewWindow.offsetWidth);
+  document.getElementById(preContentVal+'3'+contentId).style.display= 'flex';
 }
 
 // hide all tabs
@@ -73,25 +69,26 @@ function firstTabVisable() {
 
 }
 
-function zoomImg(imgId){
-  console.log(document.getElementById(imgId));
-  //var allImages = document.querySelectorAll('#'+imgId+' img');
-  // var zoomVal= zoom*100;
-  //
-  // for (var i = 0; i < allImages.length; i++) {
-  //   if (zoom > 1) {
-  //     allImages[i].style.width = '100%';
-  //     allImages[i].style.height = 'auto';
-  //   }
-  //
-  //   allImages[i].style.marginTop = 0 - margin+'px';
-  // }
+function zoomImg(imgId, zoom, margin){
+  var allImages = document.querySelectorAll('#'+imgId+' img');
+  var zoomVal= zoom*100;
+
+  for (var i = 0; i < allImages.length; i++) {
+    if (zoom > 1) {
+      allImages[i].style.width = '100%';
+      allImages[i].style.height = 'auto';
+    }
+
+    allImages[i].style.marginTop = 0 - margin+'px';
+  }
+
+
 
 }
 
 
 function viewfc(id){
-  //console.log(id);
+  console.log(id);
   var content = document.getElementById(id).innerHTML;
   document.getElementById('aorImgFScontent').innerHTML = content;
   document.getElementById('aorImgFS').style.display = 'flex';
@@ -110,7 +107,7 @@ function viewfc(id){
   allImages = document.querySelectorAll('#aorImgFScontent img');
 
   var element = allImages[0];
-  //console.log(element);
+  console.log(element);
   var positionInfo = element.getBoundingClientRect();
   var eWidth = positionInfo.offsetWidth;
   document.getElementById('aorImgFScontent').style.width = eWidth;
@@ -134,14 +131,12 @@ function zoom(e){
   var zoomer = e.currentTarget;
   var images = zoomer.querySelectorAll('img');
   var layer = zoomer.querySelector('.zoomOverlay');
-  console.log(zoomer);
-
+  //layer.style.opacity = 1;
   var staticW = zoomer.getAttribute('data-w');
   var staticH = zoomer.getAttribute('data-h');
 
-
-  var imgW = images[0].getAttribute('data-imgw');
-  var imgH = images[0].getAttribute('data-imgh');
+  getMeta(images[0].src);
+  //console.log(images[0].src);
 
 
   var rect = zoomer.getBoundingClientRect(),
@@ -156,41 +151,23 @@ function zoom(e){
 
 
 
-  var xDiv = ( (imgW-staticW )/100)*xPercent;
-  var yDiv = ( (imgH-staticH )/100)*yPercent;
-  //console.log(yDiv,imgH,yPercent);
+  var xDiv = (((layer.clientWidth/2)/100)*xPercent);
+  var yDiv = (((layer.clientHeight-staticH)/100)*yPercent);
 
 
-  layer.style.left = 0-( xDiv ) +'px';
-  layer.style.top =  0-( yDiv ) +'px';
+  layer.style.marginTop = 0-yDiv+'px';
+  layer.style.marginLeft = 0-xDiv+'px';
 
 
 
 }
 
 
-function getMeta(id){
-    var elemSrc = document.getElementById(id);
-    //console.log(elemSrc);
+function getMeta(url){
     var img = new Image();
-    var out = {}
     img.onload = function(){
-      viewerImages(id, this.width, this.height)
-      elemSrc.setAttribute('data-imgh', this.height);
-			elemSrc.setAttribute('data-imgw', this.width);
-      elemSrc.setAttribute('height', this.height);
-      elemSrc.setAttribute('width', this.width);
+        //console.log( this.width+' '+ this.height );
+        return {w:this.width, h:this.height}
     };
-    img.src = elemSrc.src;
-    //return out
-}
-
-function viewerImages(id, w, h) {
-  var elem = document.getElementById(id);
-  if (w>h) {
-    elem.style.width = '100%';
-    elem.style.height = 'auto'
-  }
-
-
+    img.src = url;
 }

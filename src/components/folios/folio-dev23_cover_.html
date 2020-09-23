@@ -2,29 +2,30 @@
 	<div id="img_dev23_cover_" class="aorImgWindow">
 
 		<div id="tab-content-3" class="hcTabContent " onmousemove='zoom(event)'>
+
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
-				zoomImg('tab-content-3', 1, 0);
-
 				var el = document.getElementById('tab-content-3');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
-			});
 
+				getMeta("Deventer_AB_101 F 23 KL_cover.jpg");
+				//getMeta("ol_Deventer_AB_101 F 23 KL_cover.jpg");
+
+				zoomImg('Deventer_AB_101 F 23 KL_cover.jpg');
+			});
 		</script>
+
+
 		<div class="aorZoom" id="zoom-tab-content-3">
 			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3')" />
 		</div>
 
+		<img id="Deventer_AB_101 F 23 KL_cover.jpg" src="images/manuscripts/Deventer_AB_101 F 23 KL_cover.jpg"  />
 
-
-			<img src="images/manuscripts/Deventer_AB_101 F 23 KL_cover.jpg"  />
-			<img src="images/svg-layers/"  onerror="this.style.display='none'">
-
-			<div class="zoomOverlay">
-				<img src="images/manuscripts/Deventer_AB_101 F 23 KL_cover.jpg"  />
-				<img src="images/svg-layers/"  onerror="this.style.display='none'">
-			</div>
+		<div class="zoomOverlay">
+			<img id="ol_Deventer_AB_101 F 23 KL_cover.jpg" src="images/manuscripts/Deventer_AB_101 F 23 KL_cover.jpg"  />
+		</div>
 
 		</div>
 

@@ -2,29 +2,30 @@
 	<div id="img_bur275_390_v" class="aorImgWindow">
 
 		<div id="tab-content-3" class="hcTabContent " onmousemove='zoom(event)'>
+
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
-				zoomImg('tab-content-3', 1, 0);
-
 				var el = document.getElementById('tab-content-3');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
-			});
 
+				getMeta("Burney_275_f390_v.jpg");
+				//getMeta("ol_Burney_275_f390_v.jpg");
+
+				zoomImg('Burney_275_f390_v.jpg');
+			});
 		</script>
+
+
 		<div class="aorZoom" id="zoom-tab-content-3">
 			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3')" />
 		</div>
 
+		<img id="Burney_275_f390_v.jpg" src="images/manuscripts/Burney_275_f390_v.jpg"  />
 
-
-			<img src="images/manuscripts/Burney_275_f390_v.jpg"  />
-			<img src="images/svg-layers/"  onerror="this.style.display='none'">
-
-			<div class="zoomOverlay">
-				<img src="images/manuscripts/Burney_275_f390_v.jpg"  />
-				<img src="images/svg-layers/"  onerror="this.style.display='none'">
-			</div>
+		<div class="zoomOverlay">
+			<img id="ol_Burney_275_f390_v.jpg" src="images/manuscripts/Burney_275_f390_v.jpg"  />
+		</div>
 
 		</div>
 

@@ -42,7 +42,7 @@
   border-bottom: 1px solid #{$manuscriptBegeDark};
 }
 .aorHomeHeroText {
-  width: 50%;
+  //width: 50%;
 }
 
 .aorHomeSplit{
@@ -50,14 +50,18 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  max-width: 650px;
+  max-width: 800px;
   width:auto;
 }
-.aorHomeTrailer img{
-  width: 200px;
-  height: auto;
-  margin-left: 2rem;
-  border-radius: 5px;
+.aorHomeTrailer {
+  width: 240px;
+
+  img{
+    width: 200px;
+    height: auto;
+    margin-left: 2rem;
+    border-radius: 5px;
+}
 
 }
 
@@ -82,9 +86,34 @@
 
 }
 
+
 @media (min-width: 500px) {
   .aorHomeHero {
     min-height: 75vh;
+    .aorHomeHeroLogo, .aorHomeHeroText {
+      .logoLines1 {
+        width: 400px;
+      }
+      .logoLines2 {
+        width: 450px;
+      }
+
+
+      .logoIcon{
+        height: 50px;
+      }
+    }
+  }
+
+  .aorHomeSplit{
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+
+@media (min-width: 1300px) {
+  .aorHomeHero {
     .aorHomeHeroLogo, .aorHomeHeroText {
       .logoLines1 {
         width: 557px;
@@ -96,15 +125,10 @@
 
       .logoIcon{
         height: 80px;
-        margin-top: 1rem;
       }
     }
   }
 
-  .aorHomeSplit{
-    display: flex;
-    flex-direction: row;
-  }
 }
 
 

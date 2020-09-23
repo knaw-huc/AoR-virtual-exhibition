@@ -2,29 +2,30 @@
 	<div id="img_aru348_128_r" class="aorImgWindow">
 
 		<div id="tab-content-3" class="hcTabContent " onmousemove='zoom(event)'>
+
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
-				zoomImg('tab-content-3', 1, 0);
-
 				var el = document.getElementById('tab-content-3');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
-			});
 
+				getMeta("Arundel_348_f128_r.jpg");
+				//getMeta("ol_Arundel_348_f128_r.jpg");
+
+				zoomImg('Arundel_348_f128_r.jpg');
+			});
 		</script>
+
+
 		<div class="aorZoom" id="zoom-tab-content-3">
 			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3')" />
 		</div>
 
+		<img id="Arundel_348_f128_r.jpg" src="images/manuscripts/Arundel_348_f128_r.jpg"  />
 
-
-			<img src="images/manuscripts/Arundel_348_f128_r.jpg"  />
-			<img src="images/svg-layers/"  onerror="this.style.display='none'">
-
-			<div class="zoomOverlay">
-				<img src="images/manuscripts/Arundel_348_f128_r.jpg"  />
-				<img src="images/svg-layers/"  onerror="this.style.display='none'">
-			</div>
+		<div class="zoomOverlay">
+			<img id="ol_Arundel_348_f128_r.jpg" src="images/manuscripts/Arundel_348_f128_r.jpg"  />
+		</div>
 
 		</div>
 

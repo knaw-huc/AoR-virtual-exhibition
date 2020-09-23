@@ -2,29 +2,30 @@
 	<div id="img_romanrose" class="aorImgWindow">
 
 		<div id="tab-content-3romanrose.jpg" class="hcTabContent " onmousemove='zoom(event)'>
+
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
-				zoomImg('tab-content-3romanrose.jpg', 1, 0);
-
 				var el = document.getElementById('tab-content-3romanrose.jpg');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
-			});
 
+				getMeta("romanrose.jpgromanrose.jpg");
+				//getMeta("ol_romanrose.jpgromanrose.jpg");
+
+				zoomImg('romanrose.jpgromanrose.jpg');
+			});
 		</script>
+
+
 		<div class="aorZoom" id="zoom-tab-content-3romanrose.jpg">
 			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3romanrose.jpg')" />
 		</div>
 
+		<img id="romanrose.jpgromanrose.jpg" src="images/content/romanrose.jpg"  />
 
-
-			<img src="images/content/romanrose.jpg"  />
-			<img src="images/svg-layers/"  onerror="this.style.display='none'">
-
-			<div class="zoomOverlay">
-				<img src="images/content/romanrose.jpg"  />
-				<img src="images/svg-layers/"  onerror="this.style.display='none'">
-			</div>
+		<div class="zoomOverlay">
+			<img id="ol_romanrose.jpgromanrose.jpg" src="images/content/romanrose.jpg"  />
+		</div>
 
 		</div>
 

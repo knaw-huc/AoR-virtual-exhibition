@@ -2,29 +2,30 @@
 	<div id="img_dev22_112_" class="aorImgWindow">
 
 		<div id="tab-content-361" class="hcTabContent " onmousemove='zoom(event)'>
+
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
-				zoomImg('tab-content-361', 1, 0);
-
 				var el = document.getElementById('tab-content-361');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
-			});
 
+				getMeta("61Deventer_AB_101 F 22 KL_p122.jpg");
+				//getMeta("ol_61Deventer_AB_101 F 22 KL_p122.jpg");
+
+				zoomImg('61Deventer_AB_101 F 22 KL_p122.jpg');
+			});
 		</script>
+
+
 		<div class="aorZoom" id="zoom-tab-content-361">
 			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-361')" />
 		</div>
 
+		<img id="61Deventer_AB_101 F 22 KL_p122.jpg" src="images/manuscripts/Deventer_AB_101 F 22 KL_p122.jpg"  />
 
-
-			<img src="images/manuscripts/Deventer_AB_101 F 22 KL_p122.jpg"  />
-			<img src="images/svg-layers/"  onerror="this.style.display='none'">
-
-			<div class="zoomOverlay">
-				<img src="images/manuscripts/Deventer_AB_101 F 22 KL_p122.jpg"  />
-				<img src="images/svg-layers/"  onerror="this.style.display='none'">
-			</div>
+		<div class="zoomOverlay">
+			<img id="ol_61Deventer_AB_101 F 22 KL_p122.jpg" src="images/manuscripts/Deventer_AB_101 F 22 KL_p122.jpg"  />
+		</div>
 
 		</div>
 

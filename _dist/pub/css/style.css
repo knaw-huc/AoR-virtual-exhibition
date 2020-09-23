@@ -61,8 +61,9 @@ a {
 
 @media (min-width: 1000px) {
   .aorIllu {
-    width: 100%;
-    max-width: 355px; } }
+    width: 100%; }
+  .aoCol1Span .aorIllu, .aoCol2Span .aorIllu {
+    width: 100%; } }
 
 .aoCol1 {
   flex: 1; }
@@ -99,15 +100,15 @@ a {
     .aorCompManuscript .aorImgWindow .zoomOverlay {
       position: absolute;
       opacity: 0;
-      width: 400%;
-      height: 400%;
+      width: 100%;
+      height: 100%;
       left: 0;
       top: 0;
       z-index: 1000; }
       .aorCompManuscript .aorImgWindow .zoomOverlay img {
         display: block;
         width: auto;
-        height: 100%; }
+        height: auto; }
     .aorCompManuscript .aorImgWindow .zoomOverlay:hover {
       opacity: 1; }
   .aorCompManuscript figcaption {
@@ -342,7 +343,6 @@ a {
 
 .modalNote {
   display: inline-block;
-  border: 1px solid #403e3b;
   width: 25px;
   height: 25px;
   font-size: .8rem;
@@ -400,22 +400,21 @@ a {
   padding-bottom: 1rem;
   border-bottom: 1px solid #403e3b; }
 
-.aorHomeHeroText {
-  width: 50%; }
-
 .aorHomeSplit {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  max-width: 650px;
+  max-width: 800px;
   width: auto; }
 
-.aorHomeTrailer img {
-  width: 200px;
-  height: auto;
-  margin-left: 2rem;
-  border-radius: 5px; }
+.aorHomeTrailer {
+  width: 240px; }
+  .aorHomeTrailer img {
+    width: 200px;
+    height: auto;
+    margin-left: 2rem;
+    border-radius: 5px; }
 
 .aorPartners {
   display: flex;
@@ -436,15 +435,22 @@ a {
   .aorHomeHero {
     min-height: 75vh; }
     .aorHomeHero .aorHomeHeroLogo .logoLines1, .aorHomeHero .aorHomeHeroText .logoLines1 {
-      width: 557px; }
+      width: 400px; }
     .aorHomeHero .aorHomeHeroLogo .logoLines2, .aorHomeHero .aorHomeHeroText .logoLines2 {
-      width: 623px; }
+      width: 450px; }
     .aorHomeHero .aorHomeHeroLogo .logoIcon, .aorHomeHero .aorHomeHeroText .logoIcon {
-      height: 80px;
-      margin-top: 1rem; }
+      height: 50px; }
   .aorHomeSplit {
     display: flex;
     flex-direction: row; } }
+
+@media (min-width: 1300px) {
+  .aorHomeHero .aorHomeHeroLogo .logoLines1, .aorHomeHero .aorHomeHeroText .logoLines1 {
+    width: 557px; }
+  .aorHomeHero .aorHomeHeroLogo .logoLines2, .aorHomeHero .aorHomeHeroText .logoLines2 {
+    width: 623px; }
+  .aorHomeHero .aorHomeHeroLogo .logoIcon, .aorHomeHero .aorHomeHeroText .logoIcon {
+    height: 80px; } }
 
 .aorHomeHero .aoTopnav {
   width: 100%; }

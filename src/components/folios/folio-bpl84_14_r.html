@@ -2,29 +2,30 @@
 	<div id="img_bpl84_14_r" class="aorImgWindow">
 
 		<div id="tab-content-386" class="hcTabContent " onmousemove='zoom(event)'>
+
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
-				zoomImg('tab-content-386', 1, 0);
-
 				var el = document.getElementById('tab-content-386');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
-			});
 
+				getMeta("86UB_BPL_84_f14_r.jpg");
+				//getMeta("ol_86UB_BPL_84_f14_r.jpg");
+
+				zoomImg('86UB_BPL_84_f14_r.jpg');
+			});
 		</script>
+
+
 		<div class="aorZoom" id="zoom-tab-content-386">
 			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-386')" />
 		</div>
 
+		<img id="86UB_BPL_84_f14_r.jpg" src="images/manuscripts/UB_BPL_84_f14_r.jpg"  />
 
-
-			<img src="images/manuscripts/UB_BPL_84_f14_r.jpg"  />
-			<img src="images/svg-layers/"  onerror="this.style.display='none'">
-
-			<div class="zoomOverlay">
-				<img src="images/manuscripts/UB_BPL_84_f14_r.jpg"  />
-				<img src="images/svg-layers/"  onerror="this.style.display='none'">
-			</div>
+		<div class="zoomOverlay">
+			<img id="ol_86UB_BPL_84_f14_r.jpg" src="images/manuscripts/UB_BPL_84_f14_r.jpg"  />
+		</div>
 
 		</div>
 

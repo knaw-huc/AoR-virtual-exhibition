@@ -97,8 +97,12 @@ $captionBoxWidth: 100px;
 @media (min-width: 1000px) {
   .aorIllu {
       width: 100%;
-      max-width: 355px;
+      //max-width: 355px;
   }
+  .aoCol1Span .aorIllu, .aoCol2Span .aorIllu {
+      width: 100%;
+  }
+
 
 }
 
