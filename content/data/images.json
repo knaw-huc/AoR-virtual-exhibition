@@ -9,20 +9,23 @@
     {
         "img_file_name": "12949f25v.jpg",
         "alttext": "Paris, BnF, lat. 12949, f. 25v",
-        "description": "Paris, BnF, lat. 12949, f. 25v",
-        "resource": "eigen foto"
+        "description": "Paris, BnF, lat. 12949, f. 25v (photo RS)",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949fr1.jpg",
         "alttext": "Paris, BnF, lat. 12949 fragment 1",
-        "description": "Paris, BnF, lat. 12949, f. 25v: “Heiric the master of Remigius wrote these glosses”",
-        "resource": "eigen foto"
+        "description": "Paris, BnF, lat. 12949, f. 25v: “Heiric the master of Remigius wrote these glosses” (photo RS)",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949fr2.jpg",
         "alttext": "Paris, BnF, lat. 12949 fragment 2",
-        "description": "Paris, BnF, lat. 1249: Inserted parchment slips",
-        "resource": "eigen foto"
+        "description": "Paris, BnF, lat. 1249: Inserted parchment slips (photo RS)",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "231p276.jpg",
@@ -43,16 +46,16 @@
     {
         "img_file_name": "101F23p4.jpg",
         "alttext": "Deventer AB 101 F 23 KL pp4-5",
-        "description": "Drawings on 101 F 23 pp. 4-5",
+        "description": "Deventer, Athenaeumbibliohteek, 101 F 23 KL, pp. 4-5",
         "resource": "Athenaeumbibliotheek",
         "hyperlink": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd02498-3487-11e6-a926-3323b3261c2b/media/52d8940b-15a9-74df-7948-34ddb1002b17"
     },
     {
         "img_file_name": "101F22p112.jpg",
         "alttext": "Deventer AB 101 F 22 KL p.112",
-        "description": "Concluding page of 101 F 22 p.112",
+        "description": "Deventer, Athenaeumbibliotheek, 101 F 22, p.112 (concluding page)",
         "resource": "Athenaeumbibliotheek",
-        "hyperlink": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd006f2-3487-11e6-a8e3-9b07db995e78/media/dfe84f5c-426e-42d9-418e-6f6f9f52158a"
+        "hyperlink": "https://athenaeumcollecties.nl/collecties/topstukken/detail/0bd02498-3487-11e6-a926-3323b3261c2b/media/52d8940b-15a9-74df-7948-34ddb1002b17"
     },
     {
         "img_file_name": "debate.jpg",
@@ -104,7 +107,7 @@
     {
         "img_file_name": "88onbekend.jpg",
         "alttext": "Nisifortinus in Leiden UB, BPL 88, f. 172v",
-        "description": "Leiden, UB, BPL 88, f. 172v: Nisifortinus in Leiden UB, BPL 88",
+        "description": "Leiden, UB, BPL 88, f. 172v: the hand of Nisifortinus in the margin",
         "resource": "Universiteits Bibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
@@ -117,7 +120,8 @@
     {
         "img_file_name": "confused.jpg",
         "alttext": "Grandes Chroniques de France (Castres, bibliothèque municipale, ms. 3, f. 277r).",
-        "resource": "nog aanvragen"
+        "resource": "nog aanvragen",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/99412"
     },
     {
         "img_file_name": "protest.jpg",
@@ -155,8 +159,8 @@
     {
         "img_file_name": "12f27r.jpg",
         "alttext": "Leiden, UB, VLF 12 part 3 f. 27r",
-        "description": "Leiden, UB, VLF 12, part 3 (f. 27r): a gloss about ‘eloquentia’ (eloquence)",
-        "resource": "BRILL "
+        "description": "Leiden, UB, VLF 12, part 3 (f. 27r): a gloss about ‘eloquentia’ (eloquence) (photo MT)",
+        "resource": "UB Leiden"
     },
     {
         "img_file_name": "6400f24r.jpg",
@@ -168,89 +172,90 @@
     {
         "img_file_name": "144side.jpg",
         "alttext": "Leiden UB BPL 144",
-        "description": "Leiden UB BPL 144",
+        "description": "Leiden, UB, BPL 144",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr.jpg",
         "alttext": "Leiden UB BPL 144 f.2r",
-        "description": "Leiden UB BPL 144 f.2r",
+        "description": "Leiden, UB, BPL 144, f. 2r",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f10rfr.jpg",
         "alttext": "Leiden UB BPL 144 f.10r",
-        "description": "Leiden UB BPL 144, f. 10r. In a copy of Boethius’Consolation of Philosophy, a reader added this drawing of the metaphore of the wheel of fortune, which spins us up and down on the road of life.",
+        "description": "Leiden, UB, BPL 144, f. 10r. In a copy of Boethius’ Consolation of Philosophy, a reader added this drawing of the metaphore of the wheel of fortune, which spins us up and down on the road of life.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr2.jpg",
         "alttext": "Leiden UB BPL 144 f.2r",
-        "description": "Leiden UB BPL 144 f.2r",
+        "description": "Leiden, UB, BPL 144, f. 2r",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr3.jpg",
         "alttext": "Leiden UB BPL 144 f.2r",
-        "description": "Written nota signs from the original annotating hand (below) and from the later one (above)",
+        "description": "Leiden, UB, BPL 144, f. 2r: Written nota signs from the original annotating hand (below) and from the later one (above)",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr4.jpg",
         "alttext": "Leiden UB BPL 144 f.2r",
-        "description": "A written Nota sign in the original hand, and a drawn head as attention sign in the later hand.",
+        "description": "Leiden, UB, BPL 144, f. 2r: A Nota sign in the original hand, and a head as an attention sign in the later hand.",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f17v.jpg",
         "alttext": "Leiden UB BPL 144 f.17v",
-        "description": "A foot (?) and a hand at the edge of fol. 17v",
+        "description": "Leiden, UB, BPL 144, f. 17v: A foot (?) and a hand at the edge of the page",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f37r.jpg",
         "alttext": "Leiden UB BPL 144 f.37r",
-        "description": "Leiden UB BPL 144 f37r: Along the edges of the pages we find heads, hands and here even feet, pointing at passages in the text. When leafing through the manuscript, important passages thus pop out.\n",
+        "description": "Leiden, UB, BPL 144, f. 37r: Along the edges of the pages we find heads, hands and here even feet, pointing at passages in the text. When leafing through the manuscript, important passages thus pop out.\n",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f49v.jpg",
         "alttext": "Leiden UB BPL 144 f.49v",
-        "description": "A head and peculiar animal on fol. 49v.",
+        "description": "Leiden, UB, BPL 144, f. 49v",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f18r.jpg",
         "alttext": "Leiden UB BPL 144 f.18r",
-        "description": "Leiden UB BPL 144, f. 18r. In the same manuscript we also find a doodle of a student discussing with a teacher. The teacher is wearing a cappa (cap), the student is not.",
+        "description": "Leiden, UB, BPL 144, f. 18r: In the same manuscript we also find a doodle of a student discussing with a teacher. The teacher is wearing a cappa (cap), the student is not.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f20v.jpg",
         "alttext": "Leiden UB BPL 144 f.20v",
-        "description": "Edge of f.20v",
+        "description": "Leiden, UB, BPL 144, f. 20v (edge)",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f17r.jpg",
         "alttext": "Leiden UB BPL 144 f.17r",
-        "description": "Edge of f.17r",
+        "description": "Leiden, UB, BPL 144, f. 17r (edge)",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f58r.jpg",
+        "description": "Leiden, UB, BPL 144, f. 58r",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -264,7 +269,7 @@
     {
         "img_file_name": "aristotle2.jpg",
         "alttext": "Glasgow, University Library, MS Hunter 231, p. 276",
-        "description": "Portrait of Aristole in Glasgow, University Library, MS Hunter 231, p. 276",
+        "description": "Glasgow, University Library, MS Hunter 231, p. 276: Portrait of Aristole",
         "resource": "University of Glasgow",
         "hyperlink": "http://special.lib.gla.ac.uk/exhibns/chaucer/learning.html"
     },
@@ -290,292 +295,293 @@
     {
         "img_file_name": "darmstadt2.jpg",
         "alttext": "Darmstadt, ULB, HS 2882",
-        "description": "Darmstadt, ULB, HS 2882 f.2r",
+        "description": "Darmstadt, ULB, HS 2882, f. 2r",
         "resource": "Universitäts- und Landesbibliothek",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
     },
     {
         "img_file_name": "11127f119v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.119v",
-        "description": "Paris, BnF, lat. 11127 f.119v",
+        "description": "Paris, BnF, lat. 11127 f. 119v",
         "resource": "eigen foto",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f119vfr.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.119v",
-        "description": "Here we see a number (‘xv’) which marks the end of the quire, while the first words of the next gathering are also indicated. This helped ensure the correct ordering of the gatherings.",
+        "description": "Paris, BnF, lat. 11127, f. 119v: Here we see a number (‘xv’) which marks the end of the quire, while the first words of the next gathering are also indicated. This helped ensure the correct ordering of the gatherings.",
         "resource": "eigen foto",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f2r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.2r",
-        "description": "Paris, BnF, lat. 11127 f.2r",
+        "description": "Paris, BnF, lat. 11127, f. 2r",
         "resource": "eigen foto",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "10510f20v",
         "alttext": "Paris, BnF, lat. 10510 f.20v",
-        "description": "Paris, BnF, lat. 10510 f.20v",
-        "resource": "Wikipedia",
+        "description": "Paris, BnF, lat. 10510, f. 20v",
+        "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9066124k"
     },
     {
         "img_file_name": "11127f30v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.30v",
-        "description": "Paris, BnF, lat. 11127 f.30v",
+        "description": "Paris, BnF, lat. 11127, f. 30v",
         "resource": "eigen foto",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f161r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.161r",
-        "description": "underlining is used to highlight certain passages",
+        "description": "Paris, BnF, lat. 11127, f. 161r: Underlining is used to highlight certain passages",
         "resource": "eigen foto",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f30r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.30r",
+        "description": "Paris, BnF, lat. 11127, f. 30r",
         "resource": "eigen foto",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f64r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.64r",
-        "description": "Paris, BnF, lat. 11127 f.64r",
+        "description": "Paris, BnF, lat. 11127, f. 64r",
         "resource": "eigen foto",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "103cover.jpg",
         "alttext": "Leiden, UB, VLQ 103 ",
-        "description": "Leiden, UB, VLQ 103 ",
+        "description": "Leiden, UB, VLQ 103 (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f1r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Leiden, UB, VLQ 103, f. 1r",
+        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f1rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Leiden, UB, VLQ 103, f. 1r (detail)",
+        "description": "Leiden, UB, VLQ 103, f. 1r (detail) (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f102r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.102r",
-        "description": "Leiden, UB, VLQ 103, f. 102r",
+        "description": "Leiden, UB, VLQ 103, f. 102r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f2r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.2r",
-        "description": "Leiden, UB, VLQ 103, f. 2r",
+        "description": "Leiden, UB, VLQ 103, f. 2r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f2rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.2r",
-        "description": "Leiden, UB, VLQ 103, f. 2r",
+        "description": "Leiden, UB, VLQ 103, f. 2r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f6v.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.6v",
-        "description": "Leiden, UB, VLQ 103, f. 6v",
+        "description": "Leiden, UB, VLQ 103, f. 6v (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f6vfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.6v",
-        "description": "Leiden, UB, VLQ 103, f. 6v",
+        "description": "Leiden, UB, VLQ 103, f. 6v (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f62r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.63r",
-        "description": "Leiden, UB, VLQ 103, f. 63r",
+        "description": "Leiden, UB, VLQ 103, f. 63r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f62rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.63r",
-        "description": "Leiden, UB, VLQ 103, f. 63r",
+        "description": "Leiden, UB, VLQ 103, f. 63r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f58r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.55r",
-        "description": "Leiden, UB, VLQ 103, f. 55r",
+        "description": "Leiden, UB, VLQ 103, f. 55r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f58rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.55r",
-        "description": "Leiden, UB, VLQ 103, f. 55r",
+        "description": "Leiden, UB, VLQ 103, f. 55r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f56rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.56r",
-        "description": "Leiden, UB, VLQ 103, f. 56r",
+        "description": "Leiden, UB, VLQ 103, f. 56r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f65vfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.59v",
-        "description": "Leiden, UB, VLQ 103, f. 59v",
+        "description": "Leiden, UB, VLQ 103, f. 59v (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f71r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.71r",
-        "description": "Leiden, UB, VLQ 103, f. 71r",
+        "description": "Leiden, UB, VLQ 103, f. 71r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f71rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.71r",
-        "description": "Leiden, UB, VLQ 103, f. 71r",
+        "description": "Leiden, UB, VLQ 103, f. 71r (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f46r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.46r",
-        "description": "Leiden, UB, VLQ 103, f. 46r: Boethius’s text is introduced with a heading written in alternating blue and red letters - ‘Incipit quartus thopicorum’ – and an opening initial – ‘S’ – decorated with gold.",
+        "description": "Leiden, UB, VLQ 103, f. 46r (photo MT): Boethius’s text is introduced with a heading written in alternating blue and red letters - ‘Incipit quartus thopicorum’ – and an opening initial – ‘S’ – decorated with gold.",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f47v.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.47v",
-        "description": "Leiden, UB, VLQ 103, f. 47v",
+        "description": "Leiden, UB, VLQ 103, f. 47v (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f47vfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.47v",
-        "description": "Leiden, UB, VLQ 103, f. 47v",
+        "description": "Leiden, UB, VLQ 103, f. 47v (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "11127f8v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.8v",
         "description": "Paris, BnF, lat. 11127, f. 8v",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f24r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.24r",
         "description": "Paris, BnF, lat. 11127, f. 24r",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f49r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127, f. 49r",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f49rfr1.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127, f. 49r: Different terms are used to introduce the interlinear gloss. These include abbreviations for ‘scilicet’ (‘s’) and ‘id est’ (‘i’), both meaning ‘that is’ and offering explanations of Boethius’ wording.",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f49rfr2.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127, f. 49r: Different terms are used to introduce the interlinear gloss. These include abbreviations for ‘scilicet’ (‘s’) and ‘id est’ (‘i’), both meaning ‘that is’ and offering explanations of Boethius’ wording.",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f49rfr3.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127, f. 49r: Here the word ‘exemplum’, ‘example’, has been added above the word ‘dico’, ‘I say’, in the text, indicating that Boethius is about to introduce an example.",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f49rfr4.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127, f. 49r: Keywords are used summarise main points of the text.",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f49rfr5.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127, f. 49r: Here a later reader has noted that the second book of the text starts here.",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f49rfr6.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
         "description": "Paris, BnF, lat. 11127, f. 49r: The gloss in this case is a correction, supplying text missed by the scribe.",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f14r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.14r",
         "description": "Paris, BnF, lat. 11127, f. 14r",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f37vfr1.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.37v",
         "description": "Paris, BnF, lat. 11127, f. 37v",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f37vfr2.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.37v",
         "description": "Paris, BnF, lat. 11127, f. 37v",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f132v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.132v",
         "description": "Paris, BnF, lat. 11127, f. 132v",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f129v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.129v",
         "description": "Paris, BnF, lat. 11127, f. 129v",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f93r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.93r",
         "description": "Paris, BnF, lat. 11127, f. 93r",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f93rfr.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.93r",
         "description": "Paris, BnF, lat. 11127, f. 93r",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f94r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.94r",
         "description": "Paris, BnF, lat. 11127, f. 94r",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f63r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.63r",
         "description": "Paris, BnF, lat. 11127, f. 63r",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "11127f170v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.170v",
         "description": "Paris, BnF, lat. 11127, f. 170v",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
         "img_file_name": "7900Af84r.jpg",
@@ -614,13 +620,13 @@
         "alttext": "Paris, BnF, Français 13342, f. 1r (detail):",
         "description": "Paris, BnF, Français 13342, f. 1r (detail): a master teaching a large class depicted in a fourteenth century manuscript with theological and moral materials in French.",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105094193/f7.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105094193"
     },
     {
         "img_file_name": "aquinas.jpg",
         "alttext": "Angers, BM, MS 208, f. 1r (detail):",
         "description": "Angers, BM, MS 208, f. 1r (detail): Initial with Thomas Aquinas teaching two students in a thirteenth century manuscript.",
-        "resource": "BVMM",
+        "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/16176"
     },
     {
@@ -628,14 +634,14 @@
         "alttext": "Paris, BnF, Lat. 17806, f. 17r",
         "description": "Paris, BnF, Lat. 17806, f. 17r: portrait of a master teaching a student",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f39.image.r=17806"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "img_file_name": "cassiodorus.jpg",
         "alttext": "Paris, BnF, lat. 12963, f.8v (detail)",
         "description": "Paris, BnF, Lat. 12963, f. 8v (detail): Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century.",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105442152/f24.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105442152"
     },
     {
         "img_file_name": "genevieve.jpg",
@@ -647,14 +653,14 @@
     {
         "img_file_name": "genevieve2.jpg",
         "alttext": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002 (detail)",
-        "description": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 1v-2r (detail)",
+        "description": "Paris, Bibl. Sainte-Geneviève, Ms. 1041, f. 1v-2r (detail)",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/72821"
     },
     {
         "img_file_name": "genevieve3.jpg",
         "alttext": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 001v-002 (detail)",
-        "description": "Paris, Bibl. Sainte-Geneviève, ms. 1041, f. 1v-2r (detail)",
+        "description": "Paris, Bibl. Sainte-Geneviève, Ms. 1041, f. 1v-2r (detail)",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/72821"
     },
@@ -676,8 +682,8 @@
         "img_file_name": "herennium.jpg",
         "alttext": "Cambridge, Corpus Christi College, MS 158, f. 73r",
         "description": "Cambridge, Corpus Christi College, MS 158, f. 73r (detail): Opening of Ad Herennium, here ascribed to Cicero, with a splendid dragon-adorned A.",
-        "resource": "source",
-        "hyperlink": "https://stacks.stanford.edu/file/druid:kc332yb0904/MS_158.pdf"
+        "resource": "Parker Library On the Web",
+        "hyperlink": "https://parker.stanford.edu/parker/catalog/sp902vq7011"
     },
     {
         "img_file_name": "darmstadt3.jpg",
@@ -689,30 +695,30 @@
     {
         "img_file_name": "municipale.jpg",
         "alttext": "AVRANCHES, Bibliothèque municipale, 0222 (Detail)",
-        "description": "Avranches, Bibliothèque municipale, MS 222, f.  1r (detail)",
+        "description": "Avranches, Bibliothèque municipale, MS 222, f. 1r (detail)",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/codex/799/2017"
     },
     {
         "img_file_name": "plato.jpg",
         "alttext": "Bodleian Library MS. Ashmole 304, fol. 31v",
-        "description": "Bodleian Library MS. Ashmole 304, fol. 31v: medieval portrait of Plato and Socrates.",
+        "description": "Oxford, Bodleian Library, MS. Ashmole 304, fol. 31v: medieval portrait of Plato and Socrates.",
         "resource": "Bodleian Libraries, University of Oxford.",
-        "hyperlink": "https://digital.bodleian.ox.ac.uk/inquire/p/94fd3103-ee64-4182-9c80-6dda7c7e3ca0"
+        "hyperlink": "https://www.flickr.com/photos/medievalfragments/9686689516/in/photostream/"
     },
     {
         "img_file_name": "6734f2r.jpg",
         "alttext": "Paris, BnF, lat. 6734 f.2r",
         "description": "Paris, BnF, lat. 6734, f. 2r",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f9.item.r=6734.zoom"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n"
     },
     {
         "img_file_name": "bpl67f32v.jpg",
         "alttext": "Leiden, UB, BPL 67, f. 32v.",
         "description": "Leiden, UB, BPL 67, f. 32v",
         "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1603936"
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1603880"
     },
     {
         "img_file_name": "orleans.jpg",
@@ -775,13 +781,13 @@
         "alttext": "BnF lat. 7740, f. 1r",
         "description": "Decorated initial from BnF lat. 7740, f. 1r, depicting Cicero and Plato arguing over the nature of rhetoric.",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b100343611/f2.image.r=7740"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b100343611"
     },
     {
         "img_file_name": "vlq33.jpg",
         "alttext": "Leiden UB, VLQ 33, f. 1v",
         "description": "Leiden UB, VLQ 33, f. 1v: Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures dressed in antiquated clothing.",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "hyperlink": "https://www.flickr.com/people/medievalfragments/"
     },
     {
         "img_file_name": "1925.jpg",
@@ -806,15 +812,14 @@
     },
     {
         "img_file_name": "14756.jpg",
-        "alttext": "BnF lat. 14756 f.2v",
-        "description": "Paris, BnF, lat. 14756, f. 2v",
-        "resource": "Gallica",
-        "hyperlink": "???"
+        "alttext": "BnF lat. 14716 f.17v",
+        "description": "Paris, BnF, lat. 14716, f. 17v",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90767401"
     },
     {
         "img_file_name": "16611.jpg",
         "alttext": "BnF lat. 16611 f.8v",
-        "description": "Paris, BnF, lat. 16611, f. 8v",
+        "description": "Paris, BnF, lat. 16611, f. 8v (photo I O'D)",
         "resource": "Photo I O'D",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515"
     },
@@ -1075,55 +1080,64 @@
         "img_file_name": "ramonf3v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
         "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 3v (detail): Ramon Llull disputes with the Arab slave who taught him Arabic.",
-        "resource": "Badische Landesbibliothek"
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf1v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Ramon has a vision of Christ on the cross that would make him turn his life around. Breviculum ex artibus Raimundi Lulli electum – Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 1v (detail)",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 1v (detail): Ramon has a vision of Christ on the cross that would make him turn his life around.",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf20v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
         "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 20v: page illustrating the schematic reasoning of Ramon Llull",
-        "resource": "Bibliotheque Nationale de France"
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf5r.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "f.5r",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 5r",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf5rfr.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Detail: three of the nine wise men asking categorical questions",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 5r (detail): three of the nine wise men asking categorical questions",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf7r.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "f.7r",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 7r",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf6v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "f.6v",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "144f18r2.jpg",
         "alttext": "Leiden UB BPL 144 f.18r",
         "description": "Leiden, UB, BPL 144, fol. 18r (detail)",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "2788f50r.jpg",
         "alttext": "Paris, BnF, Lat. 2788, fol. 50r",
         "description": "Paris, BnF, Lat. 2788, fol. 50r. Manuscript with Boethius’ Opuscula sacra and Aristotle’s Categories, with commentaries from Remigius of Auxerre. Fleury, last quarter of the 10th century.",
-        "resource": "Bibliotheque Nationale de France"
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
     },
     {
         "img_file_name": "rowbooks.jpg"
@@ -1143,14 +1157,14 @@
     {
         "img_file_name": "103f1r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Opening of Cicero’s De inventione in Leiden, UB VLQ 103, f. 1r. This manuscript was part of Richard’s collection (Biblionomia, 27), before being included in Gerard d’Abbeville’s bequest to the Sorbonne.",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT): Opening of Cicero’s De inventione. This manuscript was part of Richard’s collection (Biblionomia, 27), before being included in Gerard d’Abbeville’s bequest to the Sorbonne.",
+        "resource": "photo MT"
     },
     {
         "img_file_name": "103f1rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Richard’s entry for this book reads‘[Cicero’s] first book on rhetoric and his second ad herennium in one volume whose sign is the letter C’, the letter indicating the classification of the manuscript in his collection (Paris, Bibliothèque de Sorbonne, MS 636, f. 9r)",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLQ 103, f. 14 (photo MT): Richard’s entry for this book reads‘[Cicero’s] first book on rhetoric and his second ad herennium in one volume whose sign is the letter C’, the letter indicating the classification of the manuscript in his collection (Paris, Bibliothèque de Sorbonne, MS 636, f. 9r)",
+        "resource": "photo MT"
     },
     {
         "img_file_name": "abelard.jpg",
@@ -1163,20 +1177,22 @@
         "img_file_name": "165p1.jpg",
         "alttext": "Cambridge, Corpus Christi College, 165, s. XVI, p. 1",
         "description": "Cambridge, Corpus Christi College, 165, s. XVI, p. 1",
-        "resource": "Parker Library",
+        "resource": "Parker Library On the Web",
         "hyperlink": "https://parker.stanford.edu/parker/catalog/rw051yd4696"
     },
     {
         "img_file_name": "165fly.jpg",
         "alttext": "Cambridge, Corpus Christi College, 165, s. XVI, flyleaf",
         "description": "Cambridge, Corpus Christi College, 165, s. XVI, flyleaf",
-        "resource": "Parker Library",
+        "resource": "Parker Library On the Web",
         "hyperlink": "https://parker.stanford.edu/parker/catalog/rw051yd4696"
     },
     {
         "img_file_name": "bernardus.jpg",
         "alttext": "Lyon, BM, 1351, c. 1430-40, f. 75",
-        "description": "Bernardus of Clairvaux Lyon, BM, 1351, c. 1430-40, f. 75"
+        "description": "Lyon, BM, Ms. 1351 (1223), c. 1430-40, f. 75r: Portret of Bernardus of Clairvaux",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/61031"
     },
     {
         "img_file_name": "dialectica.jpg"
@@ -1184,13 +1200,16 @@
     {
         "img_file_name": "dialecticahead.jpg",
         "alttext": "Bnf lat 7900A f.132v",
-        "description": "The illustrator depicts Dialectic with soft, flowing hair that does not look in the least tangled. A matter of fashion?",
-        "resource": "Gallica"
+        "description": "Paris, BnF, lat. 7900A, f. 132v: The illustrator depicts Dialectic with soft, flowing hair that does not look in the least tangled. A matter of fashion?",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "dialecticatablet.jpg",
         "alttext": "Bnf lat 7900A f.132v",
-        "resource": "Gallica"
+        "description": "Paris, BnF, lat. 7900A, f. 132v (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "hornbook.jpg",
@@ -1200,19 +1219,23 @@
     {
         "img_file_name": "dialecticahook.jpg",
         "alttext": "Bnf lat 7900A f.132v",
-        "resource": "Gallica"
+        "description": "Paris, BnF, lat. 7900A, f. 132v (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "dialecticasnake.jpg",
         "alttext": "Bnf lat 7900A f.132v",
-        "description": "The illustrator chose to present two snakes instead of one. Perhaps to increase the level of untrustworthiness?",
-        "resource": "Gallica"
+        "description": "Paris, BnF, lat. 7900A, f. 132v (detail): The illustrator chose to present two snakes instead of one. Perhaps to increase the level of untrustworthiness?",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "serpent.jpg",
         "alttext": "Lyon, BM 5128, f.269v Avignon",
-        "description": "Lyon, BM 5128, f.269v Avignon, c.1350-1360 Decretum Gratianum",
-        "resource": "Lyon"
+        "description": "Lyon, BM, Ms. 5128, f.269v: Avignon, c.1350-1360, Decretum Gratianum",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/32039"
     },
     {
         "img_file_name": "adameve.jpg",
@@ -1222,21 +1245,24 @@
     },
     {
         "img_file_name": "prosper.jpg",
-        "description": "In this ninth-century manuscript of Prosper of Aquitaine’s chronicle, snakes in the margin warn the reader that a heretic is about to enter the narrative. The use of this symbol points to a close association between serpents and heretics.",
-        "resource": "Brussels, KB 5169, fol. 42r copyright Brussels, Koninklijke Bibliotheek, Special Collections"
+        "alttext": "Brussels, KB 5169, fol. 42r copyright Brussels, Koninklijke Bibliotheek, Special Collections",
+        "description": "Brussels, KB, Ms. 5169, fol. 42r: In this ninth-century manuscript of Prosper of Aquitaine’s chronicle, snakes in the margin warn the reader that a heretic is about to enter the narrative. The use of this symbol points to a close association between serpents and heretics.",
+        "resource": "Europeana Regia Manuscripts",
+        "hyperlink": "http://images.kbr.be/multi/ms_5169Viewer/imageViewer.html"
     },
     {
         "img_file_name": "dialecticadog.jpg",
-        "alttext": "ms. Strassbourg, Bibliothèque municipale",
-        "description": "Detail from an illustration from the Hortus deliciarum, the first encyclopedia written by a woman. The author is Herrad of Landsberg, abbess of Hohenberg. ms. Strassbourg, Bibliothèque municipale, ca. 1180. The manuscript was destroyed in a fire in 1870, but several copies of the illustrations were made in the course of the 19th century. This reproduction was made in 1818.",
-        "resource": "Heidelberg",
+        "alttext": "Facsimile made in 1818 of a lost original of Herrad of Landsberg, Hortus Deliciarum",
+        "description": "Detail from an illustration in the Hortus deliciarum, the first encyclopedia written by a woman. The author is Herrad of Landsberg, abbess of Hohenberg. The manuscript was made around 1180 and kept in the Bibliothèque municipale of Strassbourg. It was destroyed in a fire in 1870, but several copies of the illustrations were made in the course of the 19th century. This reproduction was made in 1818.",
+        "resource": "Heidelberg UB",
         "hyperlink": "https://digi.ub.uni-heidelberg.de/diglit/engelhardt1818bd2/0001/image"
     },
     {
         "img_file_name": "scorpion.jpg",
-        "alttext": "Valenciennes, BM. 320, f. 138",
-        "description": "De scorpione “According to Solinus, the scorpion is a serpent with a friendly face like a maiden but has a poisonous sting in Its knotty tail” Thomas of Cantimpré, De natura rerum. Valenciennes, BM. 320, f. 138",
-        "resource": "Valenciennes"
+        "alttext": "Valenciennes, BM. 320, f. 138r",
+        "description": "Valenciennes, BM, Ms. 320 (304), f. 138r (detail): Thomas of Cantimpré, De natura rerum, De scorpione: “According to Solinus, the scorpion is a serpent with a friendly face like a maiden but has a poisonous sting in Its knotty tail”. ",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/86928"
     },
     {
         "img_file_name": "chartres.jpg",
@@ -1260,35 +1286,38 @@
     },
     {
         "img_file_name": "admont.jpg",
-        "alttext": "Admont, Stiftsbibliothek 128, f. 13v",
-        "description": "Admont, Stiftsbibliothek 128, f. 13v",
-        "resource": "Stiftsbibliothek"
+        "alttext": "Admont, Benediktinerstift, Cod. 128, f. 13v",
+        "description": "Admont, Benediktinerstift, Cod. 128, f. 13v",
+        "resource": "https://manuscripta.at/",
+        "hyperlink": "https://manuscripta.at/?ID=26018"
     },
     {
         "img_file_name": "admont2.jpg",
-        "alttext": "Admont, Stiftsbibliothek 128, f. 13v",
-        "description": "The attribute of the treacherous serpent has disappeared. It is replaced by rational, step by step argumentation",
-        "resource": "Stiftsbibliothek"
+        "alttext": "Admont, Benediktinerstift, Cod. 128, f. 13v",
+        "description": "Admont, Benediktinerstift, Cod. 128, f. 13v: The attribute of the treacherous serpent has disappeared. It is replaced by rational, step by step argumentation.",
+        "resource": "https://manuscripta.at/",
+        "hyperlink": "https://manuscripta.at/?ID=26018"
     },
     {
         "img_file_name": "logica.jpg",
         "alttext": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 7r",
-        "description": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 7r. Bayern, 1407 Heinrich von Mügeln, Der Meide Kranz, c. 1355.",
-        "resource": "Heidelberg",
+        "description": "Heidelberg, UB, Cod. Pal. germ. 14, f. 7r. Manuscript made in Bayern, 1407. Heinrich von Mügeln, Der Meide Kranz (c. 1355).",
+        "resource": "Heidelberg UB",
         "hyperlink": "https://digi.ub.uni-heidelberg.de/diglit/cpg14/0027"
     },
     {
         "img_file_name": "heidelberg.jpg",
         "alttext": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 2v",
         "description": "Heidelberg, UB, Cod. Pal. Germ. 14, f. 2v",
-        "resource": "Heidelberg",
+        "resource": "Heidelberg UB",
         "hyperlink": "https://digi.ub.uni-heidelberg.de/diglit/cpg14/0027"
     },
     {
         "img_file_name": "dialectica2.jpg",
         "alttext": "Lyon, BM 244, f. 69v Paris, s. 13 ¾",
-        "description": "Dialectica looks positively saintly in this illustration. She holds a fleur de lis, symbol of the virgin Mary. This meek damsel is a far cry from the dangerous lady depicted by Martianus and Alanus",
-        "resource": "Lyon"
+        "description": "Lyon, BM, Ms. 244 (176) (Paris, ca 1250-1275), f. 69v: Dialectica looks positively saintly in this illustration. She holds a fleur de lis, symbol of the virgin Mary. This meek damsel is a far cry from the dangerous lady depicted by Martianus and Alanus",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/5080"
     },
     {
         "img_file_name": "christ.jpg",
@@ -1298,13 +1327,15 @@
         "img_file_name": "woodcut.jpg",
         "alttext": "Typus Logice, woodcut 1517.",
         "description": "Typus Logice, woodcut 1517. Logica (dialectic) is depicted as a huntress. With her two dogs, veritas and falsitas, she pursues the hare problema in the wood of opinions. Gregor Reisch, Margarita Philosophica Encyclopedia of the liberal arts Basel, 1517",
-        "resource": "Basel"
+        "resource": "Wikimedia Commons",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Gregor_Reisch_-_Margarita_philosophica_-_4th_ed._Basel_1517_-_p._067_-_Typus_logicae_-_1000ppi.png#metadata"
     },
     {
         "img_file_name": "disputing.jpg",
         "alttext": "Montpellier, BU Médecine H 437, 1340, f.57v Gossuin de Metz, Image du monde Encyclopedia, discussion of dialectic",
-        "description": "A woman and a clerc disputing. Montpellier, BU Médecine H 437, 1340, f.57v Gossuin de Metz, Image du monde Encyclopedia, discussion of dialectic",
-        "resource": "Montpellier"
+        "description": "Montpellier, BU Médecine, H. 437 (1340, Gossuin de Metz, Image du monde), f. 57v: A woman and a clerc disputing.",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/104988"
     },
     {
         "img_file_name": "marcella.jpg"
@@ -1324,45 +1355,51 @@
     {
         "img_file_name": "150f141v.jpg",
         "alttext": "Valenciennes, BM 150, c. 881, f. 141v",
-        "description": "Cantilène de Sainte Eulalie/ Song of St. Eulalia. Valenciennes, BM 150, c. 881, f. 141v. St. Amand, Saint-Amand-les-Eaux. The verses are written in the langue d’oil, the vernacular language of the northern half of medieval France\n",
-        "resource": "Biblisimma",
+        "description": "Valenciennes, BM, Ms.150 (St. Amand, c. 881), f. 141v: Song of Saint Eulalia. The verses are written in the langue d’oil, the vernacular language of the northern half of medieval France.",
+        "resource": "Biblissima",
         "hyperlink": "https://portail.biblissima.fr/ark:/43093/mdataed3113afc9818194b4e82463cd0391d702ef7c2b"
     },
     {
         "img_file_name": "court.jpg",
-        "alttext": "Den Haag, KB, KA 20, c.1325-35, p. 208",
-        "description": "The court of Charlemagne. Jacob van Maerlant, Spiegel historiael. Den Haag, KB, KA 20, c.1325-35, p. 208",
-        "resource": "KB"
+        "alttext": "Den Haag, KB, KA 20, c.1325-35, f. 208r",
+        "description": "Den Haag, KB, KA 20 (Jacob van Maerlant, Spiegel historiael, ca. 1325-1335), f. 208r: Portrait of Charlemagne's court",
+        "resource": "Byvanck",
+        "hyperlink": "https://manuscripts.kb.nl/show/manuscript/KA+20"
     },
     {
         "img_file_name": "reims.jpg",
         "alttext": "Reims, BM, 385, s. IX, f. 158r",
-        "description": "Alcuin’s letter to Gundrada/Eulalia Reims, BM, 385, s. IX, f. 158r. This manuscript forms a dossier on adoptionism. The letter to Gundrada follows the Confessio  of Felix (top of the folio)",
-        "resource": "Reims"
+        "description": "Reims, Bibliothèque Carnegie, Ms. 385 (9th century), f. 158r: Alcuin’s letter to Gundrada/Eulalia. This manuscript forms a dossier on adoptionism. The letter to Gundrada follows the Confessio of Felix (top of the folio).",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w"
     },
     {
         "img_file_name": "romanrose.jpg",
         "alttext": "Musée Condé, ms. 482, f. 60v",
-        "description": "Abelard and Heloise, Roman de la Rose Chantilly, Musée Condé, ms. 482, f. 60v Paris. 1350-1360",
-        "resource": "Musée Condé",
+        "description": "Chantilly, Musée Condé, Ms. 482 (Roman de la Rose, Paris, 1350-1360), f. 60v: Portrait of Abelard and Heloise",
+        "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/en/decor/78892"
     },
     {
         "img_file_name": "romanrosefr.jpg",
         "alttext": "Musée Condé, ms. 482, f. 60v",
-        "description": "Close-up"
+        "description": "Chantilly, Musée Condé, Ms. 482 (Roman de la Rose, Paris, 1350-1360), f. 60v: Portrait of Abelard and Heloise",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/en/decor/78892"
     },
     {
         "img_file_name": "prudentius.jpg",
         "alttext": "Psychomachia London, BL, Cotton Cleopatra C VIII, f. 11r",
-        "description": "Female personifications of the virtue ‘Long-suffering’ and the vice ‘wrath’ engaging in combat in Prudentius’ Psychomachia London, BL, Cotton Cleopatra C VIII, f. 11r Below, Wrath has thrown down her weapons in defeat (but is still arguing)",
-        "resource": "British Library"
+        "description": "London, BL, Cotton Cleopatra C VIII, f. 11r: Female personifications of the virtue ‘Long-suffering’ and the vice ‘wrath’ engaging in combat in Prudentius’ Psychomachia. Below, Wrath has thrown down her weapons in defeat (but is still arguing)",
+        "resource": "British Library",
+        "hyperlink": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_cleopatra_c_viii_f011r"
     },
     {
         "img_file_name": "disputing2.jpg",
         "alttext": "Troyes, BM, 60, f. 132v, s. 12 3/4",
-        "description": "Two disputing clercs. Troyes, BM, 60, f. 132v, s. 12 ¾ Decretum Gratianum",
-        "resource": "Troyes"
+        "description": "Troyes, BM, Ms. 60 (Gratianus, Decretum, ca. 1150-1175, Northern Italy), f. 132v: clerics in dispute",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/35670"
     },
     {
         "img_file_name": "aachenpalace.jpg",
@@ -1372,8 +1409,9 @@
     {
         "img_file_name": "psalter.jpg",
         "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
-        "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?) ",
-        "resource": "Utrecht"
+        "description": "Utrecht, UB, Ms. 32 (Utrecht Psalter, c. 820), f. 90v: Council of Frankfurt 794 (?)",
+        "resource": "Utrecht UB",
+        "hyperlink": "http://psalter.library.uu.nl/"
     },
     {
         "img_file_name": "throne.jpg",
@@ -1388,12 +1426,12 @@
     {
         "img_file_name": "council.jpg",
         "alttext": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v",
-        "description": "Emperor Constantine presiding over discussions at the Council of Nicaea (323), where the heresy of Arius was condemned. Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v Canones conciliarum, The Canons of Councils Last quarter of the eighth or first quarter of the ninth century, Milan?",
-        "resource": "Vercelli, photo by Warren Pezé"
+        "description": "Vercelli, Bibliotheca Capitulare, ms. 165 (The Canons of Councils, manuscript made around 800, perhaps in Milan), f. 2v, 3v. Emperor Constantine presiding over discussions at the Council of Nicaea (323), where the heresy of Arius was condemned. Photo Warren Pezé",
+        "resource": "Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé"
     },
     {
         "img_file_name": "council2.jpg",
-        "description": "Emperor Theodosius the Great. Presiding over the council of Constantinople (381). Vercelli, Bibliotheca Capitulare, ms. 165, f. 4v-5r",
+        "description": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 4v-5r: Emperor Theodosius the Great. Presiding over the council of Constantinople (381). Photo Warren Pezé",
         "resource": "Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé"
     },
     {
@@ -1402,14 +1440,15 @@
     {
         "img_file_name": "ephese.jpg",
         "alttext": "Paris, BnF 1572 (s. 8, Tours), f. 78v-79r",
-        "description": "Acts of the Council of Ephese, Paris, BnF 1572 (s. 8, Tours), f. 78v-79r. Right margin: S (scribe), d (dimitte) in the hand of Alcuin or his assistant to indicate what should be copied in his dossier against Felix",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Paris, BnF, lat. 1572 (Acts of the Council of Ephese, manuscript made in the 8th century in Tours), f. 78v-79r: The letters s (scribe) and d (dimitte) in the right margin are in the hand of Alcuin or his assistant. They indicate what should be copied and what not in his dossier against Felix.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9078172j"
     },
     {
         "img_file_name": "prudentius2.jpg",
         "alttext": "Corpus Christi College ms 23, f. 18r",
-        "description": "Prudentius, Psychomachia Cambridge, Corpus Christi College ms 23, f. 18r First half of the eleventh century",
-        "resource": "Parker Library",
+        "description": "Cambridge, Corpus Christi College, Ms 23, f. 18r: Prudentius, Psychomachia. Manuscript made in the first half of the 11th century.",
+        "resource": "Parker Library On the Web",
         "hyperlink": "https://parker.stanford.edu/parker/catalog/nz663nv2057"
     },
     {
@@ -1421,14 +1460,16 @@
     {
         "img_file_name": "reims.jpg",
         "alttext": "Reims, BM, 385, s. IX, f. 154r",
-        "description": "Felix, Confessio fidei. Reims, BM, 385, s. IX, f. 154r “Profession of faith of Felix bishop of the see of Urgel which he brought forth himself to spurn his error”",
-        "resource": "Reims"
+        "description": "Reims, Bibliothèque Carnegie, Ms. 385 (9th century), f. 154r: Felix, Confessio fidei.  “Profession of faith of Felix bishop of the see of Urgel which he brought forth himself to spurn his error”",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w"
     },
     {
         "img_file_name": "reims3.jpg",
         "alttext": "Reims, BM, 385, s. IX, f. 156r",
-        "description": "Reims, BM, 385, s. IX, f. 156r",
-        "resource": "Reims"
+        "description": "Reims, Bibliothèque Carnegie, Ms. 385 (9th century), f. 156r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w"
     },
     {
         "img_file_name": "felix.jpg"
@@ -1436,8 +1477,9 @@
     {
         "img_file_name": "karlsruhe.jpg",
         "alttext": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92,",
-        "description": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92, Set of miniatures illustrating the life of Raimundus Lullus",
-        "resource": "Badische Landesbibliothek"
+        "description": "Karlsruhe, BadischeLandesbibliothek, St. Peter Perg. 92: Set of miniatures illustrating the life of Raimundus Lullus",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "dominic.jpg",
@@ -1449,20 +1491,21 @@
     {
         "img_file_name": "giovanni.jpg",
         "alttext": "Cambrai, BM, MS 620 (572), f. 1r (detail).",
-        "description": "Cambrai, BM, MS 620 (572), f. 1r (detail). The author, Giovanni di Andrea (c 1270-1348), in his study, surrounded by books in chests, bookcases and on his desk. A special carousel (a wooden wheel on which multiple books could be laid out) allows him to consult multiple books at a time. Depicted in a manuscript from around 1340-1345, made in Bologna.",
+        "description": "Cambrai, BM, MS 620 (572), f. 1r (detail). The author, Giovanni di Andrea (c 1270-1348), in his study, surrounded by books in chests, bookcases and on his desk. A special carousel (a wooden wheel on which multiple books could be laid out) allows him to consult multiple books at a time. Depicted in a manuscript made c. 1340-1345 in Bologna.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/99904"
     },
     {
         "img_file_name": "manicula.jpg",
         "alttext": "Paris, BnF, Fr. 12584, f. 61r",
-        "description": "Paris, BnF, Fr. 12584, f. 61r (detail), manuscript from North-East France, 1300-1350.",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Paris, BnF, Fr. 12584 (Roman de Renart, manuscript made in North-East France, c.1300-1350), f. 61r (detail): Peculiar pointing hands",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b60004625"
     },
     {
         "img_file_name": "stvictor.jpg",
-        "alttext": "Hugh Saint-Omer, Bibliothèque d’agglomération, MS 118, f. 1v",
-        "description": "Hugh Saint-Omer, Bibliothèque d’agglomération, MS 118, f. 1v. Manuscript with works of of St. Victor, made in North France in the first third of the 13th century.",
+        "alttext": "Saint-Omer, Bibliothèque d’agglomération, MS 118, f. 1v",
+        "description": "Saint-Omer, BASO, Ms. 118, f. 1v: Manuscript with works of of Richard of St. Victor, made in North France in the first third of the 13th century.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/codex/13881/14483"
     },
@@ -1470,13 +1513,13 @@
         "img_file_name": "15350f1r.jpg",
         "alttext": "Paris, BnF, Lat. 15350, f. 1r (detail):",
         "description": "Paris, BnF, Lat. 15350, f. 1r (detail): Here is a detail from a manuscript with quodlibetical disputations from, among others, Thomas Aquinas. The structure of the disputation is clear, with three questions (‘tria sunt quesita’, and further division of these into subquestions with ‘utrum’ (‘whether’).",
-        "resource": "Bibliotheque Nationale de France",
+        "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525048552"
     },
     {
         "img_file_name": "lyon.jpg",
         "alttext": "Lyon, BM, MS 128 (060), f. 2r:",
-        "description": "Lyon, BM, MS 128 (060), f. 2r: Rhetorical manual from the 15th century, with Rhetorica ad Herennium and, among others, a ars praedicandi.",
+        "description": "Lyon, BM, MS 128 (060), f. 2r: Rhetorical manual from the 15th century, with Rhetorica ad Herennium and, among others, an ars praedicandi.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/codex/2263/6742"
     },
@@ -1484,7 +1527,8 @@
         "img_file_name": "188f10r.jpg",
         "alttext": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 188, f. 10r (detail)",
         "description": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 188, f. 10r (detail): manuscript from the thirteenth century with the Dragmaticon of William of Conches. In this image Logica is a part of Philosophia, and Dialectica is a part of Logica.",
-        "resource": "Fondation Martin Bodmer"
+        "resource": "e-codices.ch",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0188"
     },
     {
         "img_file_name": "germain.jpg",
@@ -1494,138 +1538,157 @@
     },
     {
         "img_file_name": "702.jpg",
-        "alttext": "Paris, BnF, Bibliothèque de l'Arsenal, MS 702, f. 98r: detail",
-        "description": "Paris, BnF, Bibliothèque de l'Arsenal, MS 702, f. 98r: detail",
-        "resource": "Bibliotheque Nationale de France"
+        "alttext": "Paris, Bibliothèque de l'Arsenal, MS 702, f. 98r: detail",
+        "description": "Paris, Bibliothèque de l'Arsenal, MS 702, f. 98r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b52506839q"
     },
     {
         "img_file_name": "712.jpg",
-        "alttext": "Schønberg collection, ms 712, Germany",
-        "description": "The Rebdorf Psalter, with glosses of Anselm of Laon. Schønberg collection, ms 712, Germany, first half of the twelfth century. The manuscript contains Anselm’s comments to the Psalms, the Song of Songs and the Athanasian Creed  See for the Athanasian Creed the section on adoptionism",
+        "alttext": "Schoyen Collection, ms 712",
+        "description": "The Schoyen Collection, Ms. 712: Rebdorf Psalter with a gloss from Anselm of Laon",
         "resource": "Schoyen Collection",
         "hyperlink": "https://www.schoyencollection.com/bible-collection-foreword/latin-bible-translation/rebdorf-psalter-ms-712"
     },
     {
         "img_file_name": "disputing3.jpg",
         "alttext": "Valenciennes, BM, 396, f. 167",
-        "description": "Disputing masters. Valenciennes, BM, 396, f. 167, Northern France, thirteenth century. Papias the Grammarian, Elementarium doctrinae rudimentum, dictionary, c. 1053",
-        "resource": "BVMM",
-        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1315735"
+        "description": "Valenciennes, BM, Ms. 396 (379) (manuscript made in Northern France, c. 1250-1275, Papias the Grammarian, Elementarium doctrinae rudimentum), f. 167r: disputing masters",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/decor/95961"
     },
     {
         "img_file_name": "13368.jpg",
         "alttext": "Paris, BnF, lat. 13368, f. 146r.",
-        "description": "Paris, BnF, lat. 13368, f. 146r. Abbey of Fleury, twelfth century. Petri abaelardi iunioris palatini summi peripatetici. Peter Abelard, the younger supreme peripatetic of Le Pallet",
-        "resource": "Bibliotheque Nationale de France"
+        "description": "Paris, BnF, lat. 13368 (Fleury, twelfth century), f. 146r: \"Petri abaelardi iunioris palatini summi peripatetici.\" (Peter Abelard, the younger supreme peripatetic of Le Pallet)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b52504523s"
     },
     {
         "img_file_name": "ein28.jpg",
         "alttext": "Einsiedeln, Stiftsbibliothek Cod. 29 (878), p. 171: Porphyry’s Isagoge",
-        "description": "Einsiedeln, Stiftsbibliothek Cod. 29 (878), p. 171: Porphyry’s Isagoge",
-        "resource": "e-codices"
+        "description": "Einsiedeln, Stiftsbibliothek, Cod. 29 (878), p. 171: Porphyry’s Isagoge",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/sbe/0029"
     },
     {
         "img_file_name": "karlsruhef5r.jpg",
         "alttext": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92,",
-        "description": "Karlsruhe, Bad.Landesbibliothek, St. Peter, Perg. 92, f.5r. ",
-        "resource": "Badische Landesbibliothek"
+        "description": "Karlsruhe, BadischeLandesbibliothek, St. Peter perg. 92, f. 5r",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "boethius.jpg",
         "alttext": "Paris, Bibliothèque de l’Institut de France, 264, f. 1r.",
-        "description": "Boethius in his prison, discussing with Philosophy. Paris, Bibliothèque de l’Institut de France, 264, f. 1r. Manuscript made around 1400 in Northern France (possibly Paris).",
+        "description": "Paris, Bibliothèque de l’Institut de France, Ms. 264, f. 1r: Boethius in his prison, discussing with Philosophy. Manuscript made around 1400 in Northern France (possibly Paris).",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/codex/7492/8196"
     },
     {
         "img_file_name": "48f4vfr.jpg",
         "alttext": "UB VLF 48 f.4v",
-        "description": "UB VLF 48 f.4v",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 4v",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "48f2vfr.jpg",
         "alttext": "UB VLF 48 f.2v",
-        "description": "Once spotted, we see them in more places. Do you see them in between the lines on folio 2v?",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 2v: Once spotted, we see them in more places. Do you see them in between the lines on this page?",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "48f4vfr2.jpg",
         "alttext": "UB VLF 48 f.4v",
-        "description": "Hand of Rather",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 4v: Hand of Rather",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "48f95vfr3.jpg",
         "alttext": "UB VLF 48 f.95v",
-        "description": "f. 95v (detail): Rather of Verona also used a bit of empty space on the last page of the manuscript to write a short letter.",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 95v (detail): Rather of Verona also used a bit of empty space on the last page of the manuscript to write a short letter.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "48f66vfr.jpg",
         "alttext": "UB VLF 48 f.66v",
-        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 66v: the names of other authorities (Augustine, Plato, Pythagoras, Boethius, Pliny)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "48f66vfr2.jpg",
         "alttext": "UB VLF 48 f.66v",
-        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 66v: the names of other authorities (Augustine, Plato, Pythagoras, Boethius, Pliny)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "48f81vfr.jpg",
         "alttext": "UB VLF 48 f.81v",
-        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 81v: the names of other authorities (Augustine, Plato, Pythagoras, Boethius, Pliny)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "48f70vfr.jpg",
         "alttext": "UB VLF 48 f.70v",
-        "description": "In the bubbles: the names of Augustine, Plato, Pythagoras, Boethius and Pliny.",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 70v: the names of other authorities (Augustine, Plato, Pythagoras, Boethius, Pliny)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "315p130.jpg",
         "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.130",
-        "description": "Initial ‘G’ with added penwork detail.",
-        "resource": "e-codices"
+        "description": "Einsiedeln, Stiftsbibliothek, Cod. 315 (605), p. 130: Initial ‘G’ with added penwork detail.",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
     },
     {
         "img_file_name": "315p121.jpg",
         "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.121",
-        "description": "Note the lead outline of the initial ‘P’ which was marked out to guide the rubricator.",
-        "resource": "e-codices"
+        "description": "Einsiedeln, Stiftsbibliothek, Cod. 315 (605), p. 121: Note the lead outline of the initial ‘P’ which was marked out to guide the rubricator.",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
     },
     {
         "img_file_name": "karlsruhef4r.jpg",
         "alttext": "Breviculum ex artibus Raimundi Lulli electum – Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 4r (detail).",
-        "description": "Breviculum ex artibus Raimundi Lulli electum – Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 4r (detail). The image shows Ramon Llull sitting on an elevated chair, teaching an attentive crowd. He discusses (in green letters) how to distinguish between right and false arguments and opinions.",
-        "resource": "Badische Landesbibliothek"
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92 (Breviculum ex artibus Raimundi Lulli electum), f. 4r (detail). The image shows Ramon Llull sitting on an elevated chair, teaching an attentive crowd. He discusses (in green letters) how to distinguish between right and false arguments and opinions.",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf6vfr.jpg",
-        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "The army is lead by by Aristotle, riding his horse ‘Ratiocinatio’ (reasoning). Averroes follows, on the horse, ‘Ymaginatio’ (imagination).",
-        "resource": "Bibliotheque Nationale de France"
+        "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v: The army is lead by by Aristotle, riding his horse ‘Ratiocinatio’ (reasoning). Averroes follows, on the horse, ‘Ymaginatio’ (imagination).",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf6vfr2.jpg",
-        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "In the tower of falsehood rhetorical and dialectical sins are found, such as ignorance, confusion, impossibility, emptyness. Truth is held capture in the dungeon.",
-        "resource": "Bibliotheque Nationale de France"
+        "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v: In the tower of falsehood rhetorical and dialectical sins are found, such as ignorance, confusion, impossibility, emptyness. Truth is held capture in the dungeon.",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf7rfr.jpg",
-        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Ramon Lull pulls a chariot with eighteen principles of the art of arguing well: among them are goodness, greatness, wisdom, endurance, etc.",
-        "resource": "Bibliotheque Nationale de France"
+        "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 7r: Ramon Lull pulls a chariot with eighteen principles of the art of arguing well: among them are goodness, greatness, wisdom, endurance, etc.",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf28v.jpg",
-        "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "f. 28v (detail): Note that the circle on the bottom right is designed to become part of an assembled stack of circles, which can then be moved to make different combinations.",
-        "resource": "Bibliotheque Nationale de France"
+        "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 28v (detail): Note that the circle on the bottom right is designed to become part of an assembled stack of circles, which can then be moved to make different combinations.",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "platoaristotle.jpg",
@@ -1651,20 +1714,22 @@
     {
         "img_file_name": "brussels.jpg",
         "alttext": "Brussels, KB 5169, fol. 42r.",
-        "description": "Brussels, KB 5169, fol. 42r.",
-        "resource": "Copyright Brussels, Koninklijke Bibliotheek, Special Collections"
+        "description": "Brussels, KB, Ms. 5169, fol. 42r",
+        "resource": "Europeana Regia Manuscripts",
+        "hyperlink": "http://images.kbr.be/multi/ms_5169Viewer/imageViewer.html"
     },
     {
         "img_file_name": "cart.jpg",
         "alttext": "Verona, Bibl. Capitolare CCLI, thirteenth century, f. 10r.",
-        "description": "The liberal arts are building a cart. Verona, Bibl. Capitolare CCLI, thirteenth century, f. 10r. Illustrated copy of Alanus de Insulis’ Anticlaudianus",
+        "description": "Verona, Bibl. Capitolare CCLI (Illustrated copy of Alanus de Insulis’ Anticlaudianus, 13th century), f. 10r: The liberal arts are building a cart. ",
         "hyperlink": "https://www.flickr.com/photos/quadralectics/8003072562/in/photostream/"
     },
     {
         "img_file_name": "rippol.jpg",
         "alttext": "Paris, BnF, lat. 4886, f. 48v",
-        "description": "Rippol, eleventh century. Provenance: Moissac. A note in the margin says: “The heresy of bishops Elipand of Toledo and Felix bishop of Urgell [….] and erradicated” “heresim elipanti toletane et felicis urgelletane episcopis […] ta et erradicata”",
-        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+        "description": "Paris, BnF, lat. 4886 (11th-century manuscript made in Rippol), f. 48v: A note in the margin reads: “heresim elipanti toletane et felicis urgelletane episcopis […] ta et erradicata” (The heresy of bishops Elipand of Toledo and Felix bishop of Urgell [….] and erradicated). ",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10540997j"
     },
     {
         "img_file_name": "baptism.jpg",
@@ -1696,22 +1761,30 @@
     {
         "img_file_name": "psalter2.jpg",
         "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
-        "description": "Notaries are making notes of the discussions"
+        "description": "Utrecht, UB, Ms. 32 (Utrecht Psalter, c. 820), f. 90v: Notaries are making notes of the discussions",
+        "resource": "Utrecht UB",
+        "hyperlink": "http://psalter.library.uu.nl/"
     },
     {
         "img_file_name": "psalter3.jpg",
         "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
-        "description": "The notary in the middle of the arena seems to be agitated. Is he reading from a scroll?"
+        "description": "Utrecht, UB, Ms. 32 (Utrecht Psalter, c. 820), f. 90v: The notary in the middle of the arena seems to be agitated. Is he reading from a scroll?",
+        "resource": "Utrecht UB",
+        "hyperlink": "http://psalter.library.uu.nl/"
     },
     {
         "img_file_name": "psalter4.jpg",
         "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
-        "description": "Bishops in the audience are discussing amongst themselves and are consulting texts."
+        "description": "Utrecht, UB, Ms. 32 (Utrecht Psalter, c. 820), f. 90v: Bishops in the audience are discussing amongst themselves and are consulting texts.",
+        "resource": "Utrecht UB",
+        "hyperlink": "http://psalter.library.uu.nl/"
     },
     {
         "img_file_name": "psalter5.jpg",
         "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
-        "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)"
+        "description": "Utrecht, UB, Ms. 32 (Utrecht Psalter, c. 820), f. 90v: Council of Frankfurt 794 (?)",
+        "resource": "Utrecht UB",
+        "hyperlink": "http://psalter.library.uu.nl/"
     },
     {
         "img_file_name": "throne2.jpg",
@@ -1722,41 +1795,42 @@
     {
         "img_file_name": "tours.jpg",
         "alttext": "Paris, BnF, lat. 1572, f. 79r",
-        "description": "Paris, BnF, lat. 1572, f. 79r. Tours, eighth century.",
-        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+        "description": "Paris, BnF, lat. 1572 (manuscript made in Tours in the 8th century), f. 79r. Photo IvR",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9078172j?rk=21459;2"
     },
     {
         "img_file_name": "tours2.jpg",
         "alttext": "Paris, BnF, lat. 2848, f. 1r.",
-        "description": "Alcuin, Seven Books Against Felix (Adversus Felicem) Paris, BnF, lat. 2848, f. 1r. Tours area, ninth century. The Books Against Felix were based on research Alcuin had undertaken in preparation for the disputation",
+        "description": "Paris, BnF, lat. 2848, f. 1r: Alcuin, Seven Books Against Felix (Adversus Felicem). Manuscript made in theTours area in the ninth century. The Books Against Felix were based on research Alcuin had undertaken in preparation for the disputation",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90659686/f5.image.r=latin%202848"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90659686"
     },
     {
         "img_file_name": "heu.jpg",
         "alttext": "Paris, BnF, lat. 2853, f. 7r Lyon, ninth century",
-        "description": "Paris, BnF, lat. 2853, f. 7r Lyon, ninth century",
+        "description": "Paris, BnF, lat. 2853, f. 7r: Manuscript made in Lyon in the ninth century",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8572244q/f21.image.r=Adversus%20Felicem"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8572244q"
     },
     {
         "img_file_name": "marcella2.jpg",
         "alttext": "Dijon, BM, 132, f. 1r",
-        "description": "Jerome delivers his work to Marcella, accompanied by her student Principia. Dijon, BM, 132, f. 1r Citeaux, Abbey of Notre-Dame, twelfth century.",
+        "description": "Dijon, BM, Ms. 132 (99) (Cîteaux, Abbey of Notre-Dame, 12th century), f. 1r: Jerome delivers his work to Marcella, accompanied by her student Principia",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/en/decor/13176"
     },
     {
         "img_file_name": "origen.jpg",
-        "alttext": "Bayerische Staatsbibliothek, CLM 17092, f. 130",
-        "description": "Author’s portrait of Origen, pen-and-ink drawing,ca. 1160 München, Bayerische Staatsbibliothek, CLM 17092, f. 130. Above the portrait is written: “scribere cum penna (d)oceat me sacrata maria” – “May holy Mary teach me to write with a pen”",
+        "alttext": "Munich, Bayerische Staatsbibliothek, Clm 17092, f. 130v",
+        "description": "Munich, Bayerische Staatsbibliothek, Clm 17092 (c. 1160), f. 130v: Author’s portrait of Origen, pen-and-ink drawing. Above the portrait is written: “scribere cum penna (d)oceat me sacrata maria” – “May the blessed Mary teach me to write with a pen”.",
         "resource": "Wikipedia",
         "hyperlink": "https://commons.wikimedia.org/wiki/Category:Origen#/media/File:Origen3.jpg"
     },
     {
         "img_file_name": "gal136.jpg",
-        "alttext": "St. Gallen, Stiftsbibliothek 136, p. 2",
-        "description": "St. Gallen, Stiftsbibliothek 136, p. 2",
+        "alttext": "St. Gallen, Stiftsbibliothek, Cod. sang. 134, p. 2",
+        "description": "St. Gallen, Stiftsbibliothek, Cod. sang. 134, p. 2",
         "resource": "e-codices",
         "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0134"
     },
@@ -1769,24 +1843,24 @@
     },
     {
         "img_file_name": "reims4.jpg",
-        "alttext": "Reims. Bibliothèque Carnegie, 385, f. 195",
-        "description": "Alcuin offers words of praise:  “I know you to be well versed in the subtleties of dialectic” “novi prudentiam vestram optime in dialecticae eruditam esse” Reims. Bibliothèque Carnegie, 385, f. 195",
+        "alttext": "Reims, Bibliothèque Carnegie, Ms. 385, f. 159r",
+        "description": "Reims, Bibliothèque Carnegie, Ms. 385, f. 159r: Alcuin offers words of praise: “novi prudentiam vestram optime in dialecticae eruditam esse” (I knew you to be well versed in the subtleties of dialectic).",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w/f321.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w"
     },
     {
         "img_file_name": "wheel.jpg",
         "alttext": "Le Puy-en-Velay, c. 1200.",
-        "description": "Catherine and the spiked breaking wheel. Fresco in the Cathedral of Notre Dame, Le Puy-en-Velay, c. 1200.",
+        "description": "Catherine and the spiked breaking wheel. Fresco in the Cathedral of Notre Dame, Le Puy-en-Velay, c. 1200. Photo Richard Stracke",
         "resource": "Wikipedia, photo by Richard Stracke",
         "hyperlink": "https://en.wikipedia.org/wiki/File:Catherine.Wheel.jpg"
     },
     {
         "img_file_name": "passio.jpg",
         "alttext": "Paris, BnF. Lat. 1970, f. 54r. Fécamp, eleventh century.",
-        "description": "The Martyrdom of Saint Katharine/Passio Sanctae Catharinae. Paris, BnF. Lat. 1970, f. 54r. Fécamp, eleventh century.",
+        "description": "Paris, BnF, lat. 1970 (Fécamp, 11th century), f. 54r: The Martyrdom of Saint Katharine/Passio Sanctae Catharinae",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10539943g/f115.image.r=passio%20sanctae%20catharinae"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10539943g"
     },
     {
         "img_file_name": "mural.jpg",
@@ -1797,274 +1871,281 @@
     },
     {
         "img_file_name": "katharine.jpg",
-        "alttext": "Stiftsbiliothek 516",
-        "description": "Stiftsbiliothek 516",
-        "resource": "Stiftbibliothek",
-        "hyperlink": "https://manuscripta.at/images/AT/6000/AT6000-516/AT6000-516_VDS.jpg"
+        "alttext": "Melk, Benediktinerstift, Cod. 516 (26, A 29)",
+        "description": "Melk, Benediktinerstift, Cod. 516 (26, A 29)",
+        "resource": "manuscripta.at",
+        "hyperlink": "https://manuscripta.at/?ID=9027"
     },
     {
         "img_file_name": "problemata.jpg",
-        "alttext": "Paris, BnF. Lat. 14511, f. 17v and 18r",
-        "description": "Heloise, Problemata. Paris, BnF. Lat. 14511, f. 17v and 18r. St. Victor, late 14th, early 15th c. This section of the manuscript was copied for the humanist scholar Simon Plumetot (1371-1443), who collected texts written by Abelard, which perhaps explains the added title at the top of the page. Plumetot donated this and other manuscripts related to Abelard to the abbey of St-Victor, where he had studied.",
-        "resource": "Gallica"
+        "alttext": "Paris, BnF. lat. 14511, f. 17v-18r",
+        "description": "Paris, BnF. Lat. 14511 (Heloise, Problemata; manuscript made in St. Victor around 1400), f. 17v-18r: This section of the manuscript was copied for the humanist scholar Simon Plumetot (1371-1443), who collected texts written by Abelard, which perhaps explains the added title at the top of the page. Plumetot donated this and other manuscripts related to Abelard to the abbey of St-Victor, where he had studied.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9068387d"
     },
     {
         "img_file_name": "problemata2.jpg",
         "alttext": "Paris, BnF. Lat. 14511, f. 44v",
-        "description": "Paris, BnF. Lat. 14511, f. 44v “Incipit sermo magistri abaelardi ad virgines paraclitenses de studio litterarum”",
-        "resource": "Gallica"
+        "description": "Paris, BnF, lat. 14511, f. 44v: “Incipit sermo magistri abaelardi ad virgines paraclitenses de studio litterarum”",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9068387d"
     },
     {
         "img_file_name": "12949notes.jpg",
-        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+        "resource": "BnF, photo IvR"
     },
     {
         "img_file_name": "12949f23v.jpg",
         "alttext": "Paris, BnF. Lat. 12949, f.23v",
         "description": "Paris, BnF. Lat. 12949, f.23v",
-        "resource": "Gallica"
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f23bisrfr",
         "alttext": "Paris, BnF. Lat. 12949, f.23 bis r",
         "description": "Underlined are: versuS iohanni Scotti, bedae, Virgilii, Prudentii, Persii, epitaphium sancti augustini. “Vivere post obitus vatem vis nosse viator? Quod legis, ecce loquor, vox tua nempe mea est” “Passerby, do you wish to know how poets still live after death? Those words you read, behold I speak. Your voice is very much mine” [Possidius, Vita Augustini, 3.18]",
-        "resource": "Gallica"
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "103f55r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.55r",
-        "description": "Leiden, UB, VLQ 103 f.55r",
+        "description": "Leiden, UB, VLQ 103, f. 55r (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f55rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.55r",
-        "description": "Leiden, UB, VLQ 103 f.55r",
+        "description": "Leiden, UB, VLQ 103, f. 55r (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f56r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.56r",
-        "description": "Leiden, UB, VLQ 103 f.56r",
+        "description": "Leiden, UB, VLQ 103, f. 56r (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f56rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.56r",
-        "description": "Leiden, UB, VLQ 103 f.56r",
+        "description": "Leiden, UB, VLQ 103, f. 56r (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f59v.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.59v",
-        "description": "Leiden, UB, VLQ 103 f.59v",
+        "description": "Leiden, UB, VLQ 103, f. 59v (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f59vfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.59v",
-        "description": "Leiden, UB, VLQ 103 f.59v",
+        "description": "Leiden, UB, VLQ 103, f. 59v (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f71r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.71r",
-        "description": "Leiden, UB, VLQ 103 f.71r",
+        "description": "Leiden, UB, VLQ 103, f. 71r (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f71rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.71r",
-        "description": "Leiden, UB, VLQ 103 f.71r",
+        "description": "Leiden, UB, VLQ 103, f. 71r (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f46r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.46r",
-        "description": "Leiden, UB, VLQ 103 f.46r: Boethius’s text is introduced with a heading written in alternating blue and red letters - ‘Incipit quartus thopicorum’ – and an opening initial – ‘S’ – decorated with gold.",
+        "description": "Leiden, UB, VLQ 103, f. 46r (photo MT): Boethius’s text is introduced with a heading written in alternating blue and red letters - ‘Incipit quartus thopicorum’ – and an opening initial – ‘S’ – decorated with gold.",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f47v.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.47v",
-        "description": "Leiden, UB, VLQ 103 f.47v",
+        "description": "Leiden, UB, VLQ 103, f. 47v (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "103f47vfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.47v",
-        "description": "Leiden, UB, VLQ 103 f.47v",
+        "description": "Leiden, UB, VLQ 103, f. 47v (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
         "img_file_name": "16611f14v.jpg",
         "alttext": "Paris, BnF. Lat. 16611, f.14v",
-        "description": "Paris, BnF. Lat. 16611, f.14v",
-        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude"
+        "description": "Paris, BnF. Lat. 16611, f. 14v (photo IvR)",
+        "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515"
     },
     {
         "img_file_name": "7900A27rfr2.jpg",
         "alttext": "Paris, BnF. Lat. 7900A, f.27r",
-        "description": "Paris, BnF. Lat. 7900A, f.27r (detail)",
+        "description": "Paris, BnF, lat. 7900A, f. 27r (detail)",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f61.item.r=7900A.zoom"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "7900A27rfr1.jpg",
         "alttext": "Paris, BnF. Lat. 7900A, f.27r",
-        "description": "Paris, BnF. Lat. 7900A, f.27r (detail)",
+        "description": "Paris, BnF, lat. 7900A, f. 27r (detail)",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f61.item.r=7900A.zoom"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "7900Af151vfr.jpg",
         "alttext": "Paris, BnF. Lat. 7900A, f.151v",
-        "description": "Paris, BnF. Lat. 7900A, f.151v (detail)",
+        "description": "Paris, BnF, lat. 7900A, f. 151v (detail)",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f322.item.r=7900A.zoom"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "BnF_lat_7900A_116_r.jpg",
         "alttext": "Paris, BnF. Lat. 7900A, f.116r",
-        "description": "Paris, BnF. Lat. 7900A, f.116r",
+        "description": "Paris, BnF, lat. 7900A, f. 116r",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f251.image.r=7900A"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "BnF_lat_7900A_116_v.jpg",
         "alttext": "Paris, BnF. Lat. 7900A, f.116v",
-        "description": "Paris, BnF. Lat. 7900A, f.116v",
+        "description": "Paris, BnF, lat. 7900A, f. 116v",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f252.image.r=7900A"
     },
     {
         "img_file_name": "bnf790_127_vfr.jpg",
         "alttext": "Paris, BnF, Lat. 7900A, fol. 127v",
-        "description": "Paris, BnF, Lat. 7900A, fol. 127v (detail)",
+        "description": "Paris, BnF, lat. 7900A, fol. 127v (detail)",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f274.item.r=7900A"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "BnF_lat_7900A_cover.jpg",
         "alttext": "Paris, BnF, Lat. 7900A",
-        "description": "Paris, BnF, Lat. 7900A",
+        "description": "Paris, BnF, lat. 7900A",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f1.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "BnF_lat_7900A_cover_side.jpg",
         "alttext": "Paris, BnF, Lat. 7900A",
-        "description": "Paris, BnF, Lat. 7900A",
+        "description": "Paris, BnF, lat. 7900A",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f337.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "2788f49r.jpg",
         "alttext": "Paris, BnF, Lat. 2788",
-        "description": "Paris, BnF, Lat. 2788 f.49r",
+        "description": "Paris, BnF, Lat. 2788, f. 49r",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f105.image.r=2788"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
     },
     {
         "img_file_name": "2788f50v.jpg",
         "alttext": "Paris, BnF, Lat. 2788",
-        "description": "Paris, BnF, Lat. 2788 f.50v",
+        "description": "Paris, BnF, Lat. 2788, f. 50v",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f108.image.r=2788"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
     },
     {
         "img_file_name": "2788f52r.jpg",
         "alttext": "Paris, BnF, Lat. 2788",
-        "description": "Paris, BnF, Lat. 2788 f.52r",
+        "description": "Paris, BnF, Lat. 2788, f. 52r",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h/f111.image.r=2788"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
     },
     {
         "img_file_name": "48f30vgroot.jpg",
         "alttext": "Leiden, UB, VLF 48, f. 30v",
-        "description": "Leiden, UB, VLF 48, f. 30v: example of an extensive commentary added in the margin. The book is 307 mm high.",
+        "description": "Leiden, UB, VLF 48, f. 30v: Example of an extensive commentary added in the margin. The book is 307 mm high.",
         "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618307"
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "1925f139r.jpg",
         "alttext": "Leiden, UB, BPL 1925, f. 139r",
-        "description": "Leiden, UB, BPL 1925, f. 139r: example of a text with a narrow margin and only occasional notes. The book is only ca 135 mm high.",
+        "description": "Leiden, UB, BPL 1925, f. 139r: Example of a text with a narrow margin and only occasional notes. The book is only ca 135 mm high.",
         "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/877694"
+        "hyperlink": "http://hdl.handle.net/1887.1/item:877637"
     },
     {
         "img_file_name": "17806f164v.jpg",
         "alttext": "Paris, BnF, Lat. 17806, f. 164v",
-        "description": "Paris, BnF, Lat. 17806, f. 164v: example of a lay-out in columns to give different sets of commentary a designated space on the page. The book is 300 mm high.",
+        "description": "Paris, BnF, Lat. 17806, f. 164v: Example of a lay-out in columns to give different sets of commentary a designated space on the page. The book is 300 mm high.",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f334.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "img_file_name": "12949f24v.jpg",
         "alttext": "Paris, BnF, Lat. 12949, f. 24v",
         "description": "Paris, BnF, Lat. 12949, f. 24v",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "17806f44v.jpg",
         "alttext": "Paris, BnF, Lat. 17806, f. 44v",
         "description": "Paris, BnF, Lat. 17806, f. 44v",
         "resource": "Bibliotheque Nationale de France",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f94.image.r=17806"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "img_file_name": "88f171r.jpg",
         "alttext": "Leiden, UB, BPL 88, f. 171r",
-        "description": "Leiden, UB, BPL 88, f. 171r",
-        "resource": "Universiteitsbibliotheek Leiden eigen foto"
+        "description": "Leiden, UB, BPL 88, f. 171r (photo MT)",
+        "resource": "Universiteitsbibliotheek Leiden eigen foto",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
         "img_file_name": "48f92v.jpg",
         "alttext": "Leiden, UB, VLF 48, f. 92v",
         "description": "Leiden, UB, VLF 48, f. 92v",
         "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/1618295"
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "88f4v.jpg",
         "alttext": "Leiden, UB, BPL 88, f. 4v",
-        "description": "Leiden, UB, BPL 88, f. 4v",
-        "resource": "Universiteitsbibliotheek Leiden eigen foto"
+        "description": "Leiden, UB, BPL 88, f. 4v (photo MT)",
+        "resource": "Universiteitsbibliotheek Leiden eigen foto",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
         "img_file_name": "84f89v.jpg",
         "alttext": "Leiden, UB, BPL 84, f. 89v",
         "description": "Leiden, UB, BPL 84, f. 89v",
         "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/2348792"
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "img_file_name": "144cover.jpg",
         "alttext": "Leiden, UB, BPL 144",
         "description": "Leiden, UB, BPL 144",
         "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/2357089"
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f10r.jpg",
         "alttext": "Leiden, UB, BPL 144, f.10r",
         "description": "Leiden, UB, BPL 144, f.10r",
         "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "https://digitalcollections.universiteitleiden.nl/view/item/2357074"
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "apuleius.jpg",
         "alttext": "Paris, Bibliothèque Sainte Geneviève, 0246, f. 170v",
-        "description": "Augustine (left) and Apuleius (right) discussing the nature of angels and demons in manuscript Paris, Bibliothèque Sainte Geneviève, 0246, f. 170v (detail).",
+        "description": "Paris, Bibliothèque Sainte Geneviève, Ms. 246, f. 170v (detail): Augustine (left) and Apuleius (right) discussing the nature of angels and demons.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/53658"
     },
     {
         "img_file_name": "aristotle.jpg",
         "alttext": "Angers, Bibliothèque Municipale, MS 0478 (0462), p. 28.",
-        "description": "Portrait of Aristotle in manuscript Angers, Bibliothèque Municipale, MS 0478 (0462), p. 28. Manuscript from around 1400, made in England.",
+        "description": "Angers, Bibliothèque Municipale, MS 478 (462) (manuscript from around 1400, made in England), p. 28: Portrait of Aristotle",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/13788"
     },
@@ -2078,14 +2159,14 @@
     {
         "img_file_name": "boethiusphilosophy.jpg",
         "alttext": "Paris, Bibliothèque de l’Institut de France, 264, f. 1r.",
-        "description": "Boethius in his prison, discussing with Philosophy. Paris, Bibliothèque de l’Institut de France, 264, f. 1r. Manuscript made around 1400 in Northern France (possibly Paris).",
+        "description": "Paris, Bibliothèque de l’Institut de France, 264  (manuscript made around 1400 in Northern France, possibly Paris), f. 1r: Boethius in his prison, discussing with Philosophy.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/codex/7492/8196"
     },
     {
         "img_file_name": "philosophers.jpg",
         "alttext": "Avranches, Bibliothèque Municipale, 0228, fol. 39r.",
-        "description": "Two philosophers, probably Aristotle and Boethius, engaged in a discussion. Avranches, Bibliothèque Municipale, 0228, fol. 39r. Manuscript made in Northern France (perhaps in Paris), ca 1225-1250.",
+        "description": "Avranches, Bibliothèque Municipale, Ms. 228 (manuscript made in Northern France (perhaps in Paris), ca 1225-1250), fol. 39r: Two philosophers, probably Aristotle and Boethius, engaged in a discussion. ",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/34208"
     },
@@ -2100,33 +2181,34 @@
         "img_file_name": "cicerohague.jpg",
         "alttext": "The Hague, KB, 66 B 13, fol. 245r",
         "description": "Cicero in his study in manuscript The Hague, KB, 66 B 13, fol. 245r (detail). The manuscript is a late fifteenth-century illustrated manuscript of the French translation of Valerius Maximus, “Des faits et dits mémorables”. It was made in the Loire valley.",
-        "resource": "KB",
-        "hyperlink": "https://manuscripts.kb.nl/zoom/BYVANCKB%3Amimi_66b13%3A245r_min_05"
+        "resource": "Byvanck",
+        "hyperlink": "https://manuscripts.kb.nl/show/manuscript/66+B+13"
     },
     {
         "img_file_name": "martianus.jpg",
         "alttext": "Leiden, UB, VLF 48, f. 2r",
-        "description": "Leiden, UB, VLF 48, f. 2r (detail): the opening of Martianus Capella’s De nuptiis",
-        "resource": "Universiteitsbibliotheek Leiden"
+        "description": "Leiden, UB, VLF 48, f. 2r (detail): The opening of Martianus Capella’s De nuptiis",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "MLR.jpg",
         "alttext": "Paris, BnF, Lat. 7730, fol. 1r",
-        "description": "Paris, BnF, Lat. 7730, fol. 1r (detail): Opening of Fortunatianus’ treatise on Rhetoric. Ninth-century manuscript from Fleury",
+        "description": "Paris, BnF, lat. 7730, fol. 1r (detail): Opening of Fortunatianus’ treatise on Rhetoric. Ninth-century manuscript from Fleury",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8478988x"
     },
     {
         "img_file_name": "ptree.jpg",
         "alttext": "Paris, Bibliothèque Mazarine, 3795, fol. 10r",
-        "description": "Porphyrian tree, in manuscript Paris, Bibliothèque Mazarine, 3795, fol. 10r. The manuscript is dated in 1484.",
+        "description": "Paris, Bibliothèque Mazarine, Ms. 3795 (manuscript made in 1484), fol. 10r: Porphyrian tree. ",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/83261"
     },
     {
         "img_file_name": "macon.jpg",
         "alttext": "Macon, Bibliothèque Municipale, MS 002, fol. 19r",
-        "description": "Macon, Bibliothèque Municipale, MS 002, fol. 19r (detail): Augustine is disputing with philosophers. The manuscript was made in northern France (perhaps Paris), and is dated to 1480.",
+        "description": "Macon, Bibliothèque Municipale, MS 2 (manuscript made in northern France (Paris?) in 1480), fol. 19r (detail): Augustine is disputing with philosophers",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/34302"
     },
@@ -2140,31 +2222,43 @@
     {
         "img_file_name": "grootnaarklein.jpg",
         "alttext": "Leiden, UB, VLF 48, f. 31r, Leiden, UB, BPL 1925, f. 139v, Paris, BnF, Lat. 17806, f. 164v",
-        "description": "From left to right: Leiden, UB, VLF 48, f. 31r: example of an extensive commentary added in the margin. The book is 307 mm high. Leiden, UB, BPL 1925, f. 139v: example of a text with a narrow margin and only occasional notes. The book is only ca 135 mm high. Paris, BnF, Lat. 17806, f. 164v: example of a lay-out in columns to give different sets of commentary a designated space on the page. The book is 300 mm high."
+        "description": "From left to right: Leiden, UB, VLF 48, f. 31r: example of an extensive commentary added in the margin. The book is 307 mm high. Leiden, UB, BPL 1925, f. 139v: example of a text with a narrow margin and only occasional notes. The book is only ca 135 mm high. Paris, BnF, Lat. 17806, f. 164v: example of a lay-out in columns to give different sets of commentary a designated space on the page. The book is 300 mm high.",
+        "resource": "UB Leiden + Gallica",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282; http://hdl.handle.net/1887.1/item:877637; https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "img_file_name": "48f30v2.jpg",
         "alttext": "Tied Notes",
-        "description": "Tied Notes"
+        "description": "Leiden, UB, VLF 48, f. 30v: tiemarks in the text and in the margin",
+        "resource": "UB Leiden + Gallica",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "BnF_lat_12949_f24_v.jpg",
         "alttext": "Paris, BnF, lat. 12949 f.24v",
-        "description": "Paris, BnF, lat. 12949 f.24v"
+        "description": "Paris, BnF, lat. 12949, f. 24v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f24v2.jpg",
         "alttext": "Porphyrian Tree",
-        "description": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space"
+        "description": "Paris, BnF, lat. 12949, f. 24v: Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f24v3.jpg",
         "alttext": "Nota signs",
-        "description": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss."
+        "description": "Paris, BnF, lat. 12949, f. 24v: Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f24v4.jpg",
         "alttext": "Tiemark",
-        "description": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly"
+        "description": "Paris, BnF, lat. 12949, f. 24v: Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     }
 ]

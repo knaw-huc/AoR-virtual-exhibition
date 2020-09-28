@@ -33,7 +33,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f25_r.jpg",
         "foliodescription": "Paris, BnF, lat. 12949, f. 24v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf129",
@@ -235,7 +235,8 @@
         "folionr": 8,
         "foliotype": "v",
         "foliofilename": "BnF_lat_12963_8_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12963, f. 8v"
+        "foliodescription": "Paris, BnF, lat. 12963, f. 8v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b105442152"
     },
     {
         "manuscript_id": "bnf146",
@@ -278,7 +279,7 @@
         "folionr": "cover",
         "foliofilename": "BnF_lat_16598_cover.jpg",
         "foliodescription": "Paris, BnF, lat. 16598: Augustinus’ Dialectica and John of Damascus’ Logica",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z.r=16598?rk=42918;4"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z"
     },
     {
         "manuscript_id": "bnf165",
@@ -288,7 +289,7 @@
         "folioextra": "a",
         "foliofilename": "BnF_lat_16598_f37_a.jpg",
         "foliodescription": "Paris, BnF, lat. 16598, f. 37r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z/f39.image.r=16598"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z"
     },
     {
         "manuscript_id": "bnf165",
@@ -305,7 +306,7 @@
         "folionr": "cover",
         "foliofilename": "BnF_lat_16611_cover.jpg",
         "foliodescription": "Paris, BnF, lat 16611: Porphyrius, predicamenta, periermenias, divisiones, sex principia",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515.r=16611?rk=64378;0"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515"
     },
     {
         "manuscript_id": "bnf166",
@@ -314,7 +315,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_16611_f7_v.jpg",
         "foliodescription": "Paris, BnF, lat. 16611, f. 7v: Square of opposition",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f9.image.r=16611"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515"
     },
     {
         "manuscript_id": "bnf166",
@@ -323,7 +324,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_16611_f8_v.jpg",
         "foliodescription": "Paris, BnF, lat. 16611, f. 8v: Porphyrian tree",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f10.image.r=16611"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515"
     },
     {
         "manuscript_id": "bnf166",
@@ -332,7 +333,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_16611_f14_v.jpg",
         "foliodescription": "Paris, BnF, lat. 16611, f. 14v: Mnemonic device for the moods of syllogisms",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515/f16.item.r=16611.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b90768515"
     },
     {
         "manuscript_id": "bnf178",
@@ -341,7 +342,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f250_v.jpg",
         "foliodescription": "Paris, BnF, lat. 17806, f. 250v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f506.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -358,7 +359,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f218_r.jpg",
         "foliodescription": "Paris, BnF, lat. 17806, f. 218r: Opening of Analytica Posteriora",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f441.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -367,7 +368,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f164_v.jpg",
         "foliodescription": "Paris, BnF, lat. 17806, f. 164v: Opening of Analytica Priora",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f334.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -376,7 +377,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f172_r.jpg",
         "foliodescription": "Paris, BnF, lat. 17806, f. 172r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f349.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -394,7 +395,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f44_v.jpg",
         "foliodescription": "Paris, BnF, lat. 17806, f. 44v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f94.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -421,7 +422,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_178_f6_r.jpg",
         "foliodescription": "Paris, BnF, lat.17806, f. 8v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f17.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -430,7 +431,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f8_v.jpg",
         "foliodescription": "Paris, BnF, lat. 17806, f. 8v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f22.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -439,7 +440,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_178_f9_r.jpg",
         "foliodescription": "Paris, BnF, lat.17806, f. 9r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525/f23.item.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "manuscript_id": "bnf178",
@@ -513,7 +514,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_6638_f6_r.jpg",
         "foliodescription": "Paris, BnF, lat. 6638, f. 6r: Square of opposition",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10548529s/f15.item.r=6638.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10548529s"
     },
     {
         "manuscript_id": "bnf673",
@@ -522,7 +523,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_6734_f2_r.jpg",
         "foliodescription": "Paris, BnF, lat. 6734, f. 2r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n/f9.item.r=6734.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n"
     },
     {
         "manuscript_id": "bnf770",
@@ -531,7 +532,7 @@
         "foliotype": "r",
         "foliofilename": "BnF_lat_7709_f52_r.jpg",
         "foliodescription": "Paris, BnF, lat. 7709, f. 52r",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10548475p/f107.image.r=7709"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10548475p"
     },
     {
         "manuscript_id": "bnf774",
@@ -619,7 +620,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_116_v.jpg",
         "foliodescription": "Paris, BnF, lat.7900A, f. 116v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f252.image.r=7900A"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "manuscript_id": "bnf790",
@@ -673,7 +674,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_153_v.jpg",
         "foliodescription": "Paris, BnF, lat. 7900A, f. 153v: Illustration of 'Lady Music'",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f326.image.r=7900A"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "manuscript_id": "bnf790",
@@ -701,7 +702,7 @@
         "folioextra": "b",
         "foliofilename": "BnF_lat_7900A_133_r.jpg",
         "foliodescription": "Paris, BnF, lat. 7900A, f.133r: The opening of Martianus’ chapter on dialectic, with Remigius' commentary (on the right)",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f285.image.r=7900A"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "manuscript_id": "bpl139",
@@ -899,7 +900,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_144_f62_v.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 62v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357021"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -917,7 +918,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_144_f89_r.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 89r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2356995"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -926,7 +927,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_144_f90_r.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 90r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2356994"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -935,7 +936,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_144_f17_v.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 17v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357066"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -944,7 +945,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_144_f37_r.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 37r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357047"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -953,7 +954,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_144_f43_r.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 43r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357041"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -962,7 +963,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_144_f49_v.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 49v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357034"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -980,7 +981,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_144_f20_v.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 20v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357063"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -989,7 +990,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_144_f17_r.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 17r",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357067"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -998,7 +999,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_144_f62_v.jpg",
         "foliodescription": "Leiden, UB, BPL 144, f. 62v: Opening with the text of Martianus Capella, De nuptiis",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2357021"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "manuscript_id": "bpl144",
@@ -1111,7 +1112,7 @@
         "folionr": "cover",
         "foliofilename": "UB_BPL_25_cover.jpg",
         "foliodescription": "Leiden, UB, BPL 25",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/1/mode/1up"
+        "foliosource": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
         "manuscript_id": "bpl25",
@@ -1165,7 +1166,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_f32_v.jpg",
         "foliodescription": "Leiden, UB, BPL 25, f. 32v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1617684#page/38/mode/1up"
+        "foliosource": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
         "manuscript_id": "bpl25",
@@ -1210,7 +1211,7 @@
         "folionr": 90,
         "foliotype": "r",
         "foliofilename": "UB_BPL_84_f90_r.jpg",
-        "foliodescription": "Leiden, UB, BPL 84, f. 8v: INCIPIT ARS DIALECTICA ALCHOINI PHILOSOPHI. AD KAROLUM MAGNUM\n",
+        "foliodescription": "Leiden, UB, BPL 84, f. 8v: INCIPIT ARS DIALECTICA ALCHOINI PHILOSOPHI. AD KAROLUM MAGNUM",
         "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
@@ -1247,7 +1248,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f90_v.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 90v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348791"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "manuscript_id": "bpl84",
@@ -1300,7 +1301,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f32_v.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 32v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348849"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "manuscript_id": "bpl84",
@@ -1345,7 +1346,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f44_v.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 44v: two sets of rubrics (written in red) indicate that one text has ended and that another will begin on the next page",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348837"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "manuscript_id": "bpl84",
@@ -1354,7 +1355,7 @@
         "foliotype": "r",
         "foliofilename": "UB_BPL_84_f8_r.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 8r: a decorated initial is used for the first word of a new text",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348874"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "manuscript_id": "bpl84",
@@ -1363,7 +1364,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f64_v.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 64v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348817"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "manuscript_id": "bpl84",
@@ -1372,7 +1373,7 @@
         "foliotype": "v",
         "foliofilename": "UB_BPL_84_f83_v.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 83v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348798"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "manuscript_id": "bpl84",
@@ -1437,7 +1438,7 @@
         "folioextra": "b",
         "foliofilename": "UB_BPL_84_f89_v.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 89v",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/2348792"
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "manuscript_id": "bpl84",
@@ -1725,7 +1726,7 @@
         "folionr": 139,
         "foliofilename": "Einsieldeln_315 (605)_p139.jpg",
         "foliodescription": "Einsiedeln, Stiftsbibliothek, Codex 315 (605), p. 139: representation of Porphyry’s five predicables",
-        "foliosource": "https://www.e-codices.unifr.ch/en/sbe/0315/139/0/Sequence-1010"
+        "foliosource": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
     },
     {
         "manuscript_id": "ein315",
@@ -1888,7 +1889,7 @@
         "folionr": "page_2",
         "foliofilename": "UB_GRO_22_page 2.jpg",
         "foliodescription": "Leiden, UB, GRO 22",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/2/mode/1up"
+        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "manuscript_id": "gro22",
@@ -1897,7 +1898,7 @@
         "foliotype": "r",
         "foliofilename": "UB_GRO_22_f11_r.jpg",
         "foliodescription": "Leiden, UB, GRO 22, f. 11r: scheme",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/17/mode/1up"
+        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "manuscript_id": "gro22",
@@ -1906,7 +1907,7 @@
         "foliotype": "v",
         "foliofilename": "UB_GRO_22_f113_v.jpg",
         "foliodescription": "Leiden, UB, GRO 22, f. 113v: summary",
-        "foliosource": "https://digitalcollections.universiteitleiden.nl/view/item/1668135#page/120/mode/1up"
+        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "manuscript_id": "gro22",
@@ -2032,7 +2033,7 @@
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f11_v.jpg",
         "foliodescription": "Karlsruhe, BLB, St.Peter perg. 92, f. 11v: Ramon Llull in discussion",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105562"
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "manuscript_id": "kar92",
@@ -2041,7 +2042,7 @@
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f6_v.jpg",
         "foliodescription": "Karlsruhe, BLB, St. Peter perg. 92, f. 6v: Aristotle's army",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105552",
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765",
         "height": 2353
     },
     {
@@ -2051,7 +2052,7 @@
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f1_v.jpg",
         "foliodescription": "Karlsruhe, BLB, St. Peter perg. 92, f. 1v: Ramon receives his vision",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105542"
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "manuscript_id": "kar92",
@@ -2060,7 +2061,7 @@
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f3_v.jpg",
         "foliodescription": "Karlsruhe, BLB, St. Peter perg. 92, f. 3v: Ramon learns Arabic from his assistant",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105546"
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "manuscript_id": "kar92",
@@ -2068,7 +2069,7 @@
         "folionr": "cover",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_cover.jpg",
         "foliodescription": "Karlsruhe, BLB, St. Peter perg. 92",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105537",
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765",
         "width": 1899
     },
     {
@@ -2078,7 +2079,7 @@
         "foliotype": "r",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f10_r.jpg",
         "foliodescription": "Karlsruhe, BLB, St. Peter perg. 92, f. 10r: Ramon is attacked by an angry mob. This single image depicts five different scenes.",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105559"
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "manuscript_id": "kar92",
@@ -2087,7 +2088,7 @@
         "foliotype": "r",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f7_r.jpg",
         "foliodescription": "Karlsruhe, BLB, St. Peter perg. 92, f. 7r",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105553"
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "manuscript_id": "kar92",
@@ -2096,7 +2097,7 @@
         "foliotype": "r",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f5_r.jpg",
         "foliodescription": "Karlsruhe, BLB, St. Peter perg. 92, f. 5r",
-        "foliosource": "https://digital.blb-karlsruhe.de/blbhs/content/zoom/105549"
+        "foliosource": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "manuscript_id": "val404",
@@ -2137,7 +2138,7 @@
         "folioid": "vat1_3_",
         "folionr": 3,
         "foliofilename": "Vatican_Pagès_1_3.jpg",
-        "foliodescription": "Vatican Pagès 1",
+        "foliodescription": "Vatican City, BAV, Pagès 1",
         "foliosource": "https://digi.vatlib.it/view/MSS_Pages.1"
     },
     {
@@ -2145,7 +2146,7 @@
         "folioid": "vat1_13_",
         "folionr": 13,
         "foliofilename": "Vatican_Pagès_1_13.jpg",
-        "foliodescription": "Vatican Pagès 1 flyleaf",
+        "foliodescription": "Vatican City, BAV, Pagès 1, flyleaf",
         "foliosource": "https://digi.vatlib.it/view/MSS_Pages.1"
     },
     {
@@ -2182,7 +2183,7 @@
         "folionr": 1,
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_1v.jpg",
-        "foliodescription": "Leiden UB VLF 48 f.1v-2r",
+        "foliodescription": "Leiden, UB, VLF 48, f. 1v-2r",
         "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
