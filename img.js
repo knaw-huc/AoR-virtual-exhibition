@@ -4,7 +4,8 @@ const sharp = require('sharp');
 // https://sharp.pixelplumbing.com/api-resize
 
 // images
-const inputFolder  = './orig_img/';
+//const inputFolder  = './orig_img/';
+const inputFolder  = '/Users/basdoppen/Google Drive/aor/images/';
 const outputFolder = './src/images/content/';
 
   fs.readdir(inputFolder, function (err, files) {
@@ -25,7 +26,8 @@ const outputFolder = './src/images/content/';
 
 
   // content
-  const inputFolder2  = './orig_img/manuscripts_highres/';
+  //const inputFolder2  = './orig_img/manuscripts_highres/';
+  const inputFolder2  = '/Users/basdoppen/Google Drive/aor/images/manuscripts_highres/';
   const outputFolder2 = './src/images/manuscripts/';
 
     fs.readdir(inputFolder2, function (err, files) {

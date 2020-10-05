@@ -586,7 +586,7 @@
     {
         "img_file_name": "7900Af84r.jpg",
         "alttext": "Paris, BnF, lat. 7900A f.84r",
-        "description": "Paris, BnF, lat. 7900A: Inserted slips",
+        "description": "Paris, BnF, lat. 7900A: Inserted slips (photo MT)",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
@@ -604,7 +604,7 @@
     {
         "img_file_name": "chambery.jpg",
         "alttext": "Chambéry, BM, Ms. 27, f. 151r",
-        "description": "Chambéry, BM, Ms. 27, f. 151r: the student on the rights is wearing donkey’s ears as a punishment? The teacher is also not looking very friendly",
+        "description": "Chambéry, BM, Ms. 27, f. 151r (detail).",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/35203"
     },
@@ -618,14 +618,14 @@
     {
         "img_file_name": "master.jpg",
         "alttext": "Paris, BnF, Français 13342, f. 1r (detail):",
-        "description": "Paris, BnF, Français 13342, f. 1r (detail): a master teaching a large class depicted in a fourteenth century manuscript with theological and moral materials in French.",
+        "description": "Paris, BnF, Français 13342, f. 1r (detail): a master teaching a large class depicted in a fourteenth-century manuscript with theological and moral materials in French. ",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105094193"
     },
     {
         "img_file_name": "aquinas.jpg",
         "alttext": "Angers, BM, MS 208, f. 1r (detail):",
-        "description": "Angers, BM, MS 208, f. 1r (detail): Initial with Thomas Aquinas teaching two students in a thirteenth century manuscript.",
+        "description": "Angers, BM, MS 208, f. 1r (detail): initial with Thomas Aquinas teaching two students in a thirteenth-century manuscript.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/16176"
     },
@@ -667,14 +667,14 @@
     {
         "img_file_name": "karlsruhef11v.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 11v",
-        "description": "Karlsruhe, BLB, St.Peter perg. 92, f. 11v: In this image, Ramon Llull is engaged in a dialogue with Thomas Le Myésier. On the left one can follow the structure of the debate, laid out in a diagrammatic form. The two discussants are pointing at the sources for their arguments: a stack of books.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 11v (detail)",
         "resource": "BLB",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "karlsruhef8r.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 8r",
-        "description": "Karlsruhe, BLB, St.Peter perg. 92, f. 8r: Ramon Llull is disputing with the pope and cardinals at the pope’s court.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 8r (detail)",
         "resource": "BLB",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
@@ -772,7 +772,7 @@
     {
         "img_file_name": "nal14782.jpg",
         "alttext": "BnF NAL 1478 (f. 91r)",
-        "description": "Paris, BnF NAL 1478, f. 91r: This note on a flyleaf reads ‘Hugo puer proba’, ’Hugo, the boy, tests [his pen]’ – the mark of an attentive student?",
+        "description": "Paris, BnF, NAL 1478, f. 91r: This note on a flyleaf reads ‘Hugo puer proba’, ’Hugo, the boy, tests [his pen]’ – the mark of an attentive student?",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546493x"
     },
@@ -1897,14 +1897,14 @@
     {
         "img_file_name": "12949f23v.jpg",
         "alttext": "Paris, BnF. Lat. 12949, f.23v",
-        "description": "Paris, BnF. Lat. 12949, f.23v",
+        "description": "Paris, BnF. Lat. 12949, f. 23v",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f23bisrfr",
         "alttext": "Paris, BnF. Lat. 12949, f.23 bis r",
-        "description": "Underlined are: versuS iohanni Scotti, bedae, Virgilii, Prudentii, Persii, epitaphium sancti augustini. “Vivere post obitus vatem vis nosse viator? Quod legis, ecce loquor, vox tua nempe mea est” “Passerby, do you wish to know how poets still live after death? Those words you read, behold I speak. Your voice is very much mine” [Possidius, Vita Augustini, 3.18]",
+        "description": "Paris, BnF, Lat. 12949, f. 23v: Underlined are: versuS iohanni Scotti, bedae, Virgilii, Prudentii, Persii, epitaphium sancti augustini. “Vivere post obitus vatem vis nosse viator? Quod legis, ecce loquor, vox tua nempe mea est” “Passerby, do you wish to know how poets still live after death? Those words you read, behold I speak. Your voice is very much mine” [Possidius, Vita Augustini, 3.18]",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -2017,7 +2017,7 @@
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x/f252.image.r=7900A"
     },
     {
-        "img_file_name": "bnf790_127_vfr.jpg",
+        "img_file_name": "7900A127vfr.jpg",
         "alttext": "Paris, BnF, Lat. 7900A, fol. 127v",
         "description": "Paris, BnF, lat. 7900A, fol. 127v (detail)",
         "resource": "Bibliotheque Nationale de France",
@@ -2260,5 +2260,39 @@
         "description": "Paris, BnF, lat. 12949, f. 24v: Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "11127f49r2.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.49r",
+        "description": "Paris, BnF, lat. 11127, f. 49r",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
+    },
+    {
+        "img_file_name": "84f89v2.jpg",
+        "alttext": "Leiden, UB, BPL 84, f. 89v",
+        "description": "Leiden, UB, BPL 84, f. 89v",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "darmstadt3fr.jpg",
+        "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "resource": "ULB",
+        "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
+    },
+    {
+        "img_file_name": "darmstadt3fr2.jpg",
+        "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "resource": "ULB",
+        "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
+    },
+    {
+        "img_file_name": "darmstadt3fr3.jpg",
+        "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "resource": "ULB",
+        "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
     }
 ]

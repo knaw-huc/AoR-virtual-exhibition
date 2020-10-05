@@ -1,0 +1,292 @@
+[
+    {
+        "title": "Home",
+        "docx_file": "home",
+        "page_id": "hom",
+        "theme": "top",
+        "file_name": "index",
+        "template_file": "home",
+        "navigation_file": "nav-top",
+        "thme": "home"
+    },
+    {
+        "title": "Intro",
+        "docx_file": "VEintro",
+        "page_id": "int",
+        "theme": "top",
+        "file_name": "introduction",
+        "template_file": "theme-item",
+        "navigation_file": "nav-top",
+        "thme": "about"
+    },
+    {
+        "title": "About",
+        "docx_file": "VEAboutThisSite",
+        "page_id": "ack",
+        "remarks": "with information about us, but also with link to bibliography?",
+        "theme": "top",
+        "file_name": "about",
+        "template_file": "theme-item",
+        "navigation_file": "nav-top",
+        "thme": "about"
+    },
+    {
+        "title": "±±±t1±±±",
+        "docx_file": "VEmedievalclassroom",
+        "page_id": "1ho",
+        "remarks": "Landing page for the 1",
+        "theme": "top",
+        "file_name": "theme1",
+        "template_file": "theme-landing",
+        "navigation_file": "nav-1",
+        "thme": 1
+    },
+    {
+        "title": "The medieval classroom",
+        "docx_file": "VEclassroom",
+        "page_id": "1mc",
+        "summary": "Books used in the classroom are witnesses to medieval processes of teaching and learning.",
+        "theme": 1,
+        "file_name": "Medieval-Classroom",
+        "template_file": "theme-item",
+        "navigation_file": "nav-1",
+        "thme": 1
+    },
+    {
+        "title": "The curriculum",
+        "docx_file": "VEcurriculum",
+        "page_id": "1cu",
+        "summary": "In class students studied seven liberal arts, those related to language (grammar, rhetoric, and logic) and those related to the sciences (arithmetic, geometry, music, and astronomy).",
+        "theme": 1,
+        "file_name": "Curriculum",
+        "template_file": "theme-item",
+        "navigation_file": "nav-1",
+        "thme": 1
+    },
+    {
+        "title": "Dialectica and Rhetorica",
+        "docx_file": "VEdialecticaretorica",
+        "page_id": "1dr",
+        "summary": "The disciplines of rhetoric and dialectic were crucial to the art of reasoning.",
+        "theme": 1,
+        "file_name": "Dialectica-Rhetorica",
+        "template_file": "theme-item",
+        "navigation_file": "nav-1",
+        "thme": 1
+    },
+    {
+        "title": "Portaits",
+        "docx_file": "empty",
+        "page_id": "1po",
+        "summary": "Portaits page",
+        "theme": 1,
+        "file_name": "portraits",
+        "template_file": "theme-portraits",
+        "navigation_file": "nav-1",
+        "thme": 1
+    },
+    {
+        "title": "±±±t2±±±",
+        "docx_file": "VEteachersandstudents",
+        "page_id": "2ho",
+        "remarks": "Landing page for the 2",
+        "theme": "top",
+        "file_name": "theme2",
+        "template_file": "theme-landing",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "Alcuin and dialogue",
+        "docx_file": "VEalcuin",
+        "page_id": "2ad",
+        "summary": "Alcuin of York, the famous master at Charlemagne’s court.",
+        "theme": 2,
+        "file_name": "Alcuin-dialogue",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "The school of Auxerre:  Heiric and Remigius",
+        "docx_file": "VEauxerre",
+        "page_id": "2sa",
+        "summary": "Heiric and Remigius: Auxerre as a Carolingian production centre of glosses and commentaries.",
+        "remarks": "(Heiric and Remigius)",
+        "theme": 2,
+        "file_name": "School-Auxerre",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "John Scottus",
+        "docx_file": "VEjohnscot",
+        "page_id": "2js",
+        "summary": "John Scottus Eriugena and his faithful assistant.",
+        "theme": 2,
+        "file_name": "John-Scot-his-assistant",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "Gerard d’Abbeville",
+        "docx_file": "VEabbeville",
+        "page_id": "2ab",
+        "summary": "Book collecting in the early universities.",
+        "theme": 2,
+        "file_name": "Gerard-DAbbeville",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "Abbo of Fleury and Gerbert of Rheims",
+        "docx_file": "VEabbo",
+        "page_id": "2ga",
+        "summary": "Teaching at the turn of the eleventh century.",
+        "theme": 2,
+        "file_name": "Gerbert-Aurillac-AbboFleury",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "Abelard",
+        "docx_file": "VEabelard",
+        "page_id": "2ab",
+        "theme": 2,
+        "file_name": "Abelard",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "Ramon Llull",
+        "docx_file": "VEramonllull",
+        "page_id": "2rl",
+        "summary": "Ramon Llull: the teacher, the debater, the missionary and the logician.",
+        "theme": 2,
+        "file_name": "Ramon-Llull",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "±±±t3±±±",
+        "docx_file": "VEtechniquesofranda",
+        "page_id": "3ho",
+        "remarks": "Landing page for the 3",
+        "theme": "top",
+        "file_name": "theme3",
+        "template_file": "theme-landing",
+        "navigation_file": "nav-3",
+        "thme": 3
+    },
+    {
+        "title": "Techniques of reading and learning",
+        "docx_file": "VEgandc",
+        "page_id": "3gc",
+        "summary": "Techniques of reading and learning are visible between the lines and in the margins of the manuscript.",
+        "theme": 3,
+        "file_name": "Glosses-commentaries",
+        "template_file": "theme-item",
+        "navigation_file": "nav-3",
+        "thme": 3
+    },
+    {
+        "title": "Diagrams in the rhetorical tradition",
+        "docx_file": "VEdiagrams",
+        "page_id": "3cc",
+        "summary": "Learn about the debates and controversies. Learn about the debates and controversies. Learn about the debates and controversies. ",
+        "theme": 3,
+        "file_name": "diagrams-hetorical-tradition",
+        "template_file": "theme-item",
+        "navigation_file": "nav-3",
+        "thme": 3
+    },
+    {
+        "title": "Diagrams and schemes",
+        "docx_file": "VEtrees",
+        "page_id": "3ds",
+        "summary": "Diagrams and other visual devices were added in manuscripts to help readers understand and memorise rhetorical and logical concepts",
+        "theme": 3,
+        "file_name": "Trees-Diagrams-Schemes",
+        "template_file": "theme-item",
+        "navigation_file": "nav-3",
+        "thme": 3
+    },
+    {
+        "title": "How to make sense with Syllogism",
+        "docx_file": "VEsyllogism",
+        "page_id": "3sy",
+        "summary": "Learn about the how to make sense with syllogism. Learn about the how to make sense with syllogism. Learn about the how to make sense with syllogism. ",
+        "theme": 3,
+        "file_name": "syllogism",
+        "template_file": "theme-item",
+        "navigation_file": "nav-3",
+        "thme": 3
+    },
+    {
+        "title": "±±±t4±±±",
+        "docx_file": "empty",
+        "page_id": "4ho",
+        "summary": "Learn about the diagrams and schemes. Learn about the diagrams and schemes. Learn about the diagrams and schemes. ",
+        "remarks": "Landing page for the 1",
+        "theme": "top",
+        "file_name": "theme4",
+        "template_file": "theme-landing",
+        "navigation_file": "nav-4",
+        "thme": 4
+    },
+    {
+        "title": "Women and disputation",
+        "docx_file": "VEdisputation",
+        "page_id": "4wd",
+        "theme": 4,
+        "file_name": "women-disputation",
+        "template_file": "theme-item",
+        "navigation_file": "nav-4",
+        "thme": 4
+    },
+    {
+        "title": "Abelard and the council of Sense",
+        "docx_file": "VESense",
+        "page_id": "4se",
+        "theme": 4,
+        "file_name": "abelard-council-sense",
+        "template_file": "theme-item",
+        "navigation_file": "nav-4",
+        "thme": 4
+    },
+    {
+        "title": "Disputation at Aachen",
+        "docx_file": "VEaachen",
+        "page_id": "4da",
+        "theme": 4,
+        "file_name": "disputation-aachen",
+        "template_file": "theme-item",
+        "navigation_file": "nav-4",
+        "thme": 4
+    },
+    {
+        "title": "A controversial art?",
+        "docx_file": "VEiconography",
+        "page_id": "1ca",
+        "theme": 4,
+        "file_name": "controversial-art",
+        "template_file": "theme-item",
+        "navigation_file": "nav-4"
+    },
+    {
+        "title": "Manuscripts",
+        "docx_file": "VEmanuscripts",
+        "page_id": "mho",
+        "theme": "manuscripts",
+        "file_name": "manuscripts",
+        "template_file": "manuscript-overview",
+        "navigation_file": "nav-manuscripts",
+        "thme": "manuscripts"
+    }
+]
