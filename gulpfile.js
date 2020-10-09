@@ -84,6 +84,7 @@ function createHtml(fileName) {
           htmlOut = handleManuscriptComponentMulti(htmlOut);
           htmlOut = handleMetadata(htmlOut);
           htmlOut = handleModals(htmlOut);
+          //htmlOut += '<p>±row±</p> <p>±col1±</p> <p>±col2±</p> <p>±col3±</p>';
 
           messages = result.messages; // Any messages, such as warnings during conversion
           //console.log(htmlOut);

@@ -77,7 +77,12 @@
         "contents": "Cicero’s De inventione (ff. 1-46r), Boethius’s De differentiis topicis IV (ff. 46r-52v), Pseudo-Ciceronian Rhetorica ad Herennium (ff. 52v-102r).",
         "script": "textualis",
         "language": "Latin",
-        "type": "manuscript"
+        "type": "manuscript",
+        "docx_file": "VEvlq103",
+        "file_name": "VLQ103",
+        "template_file": "manuscript-item",
+        "page_id": "VLQ103",
+        "thme": "manuscripts"
     },
     {
         "id": "bpl25",
