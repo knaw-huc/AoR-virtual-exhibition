@@ -2289,5 +2289,14 @@
         "foliofilename": "UB_VLF_48_30_v.jpg",
         "foliodescription": "Leiden, UB, VLF 48, f. 30v",
         "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_90_vb",
+        "folionr": 90,
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f90_v.jpg",
+        "foliodescription": "Leiden, UB, BPL 84, f. 90v",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     }
 ]

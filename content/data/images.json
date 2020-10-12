@@ -2294,5 +2294,33 @@
         "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
         "resource": "ULB",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
+    },
+    {
+        "img_file_name": "7900Af127v.jpg",
+        "alttext": "Paris, BnF, Lat. 7900A, fol. 127v",
+        "description": "Paris, BnF, lat. 7900A, fol. 127v (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "84f90r.jpg",
+        "alttext": "Leiden, UB, BPL 84, f. 90r",
+        "description": "Leiden, UB, BPL 84, f. 90r (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "12949side.jpg",
+        "alttext": "Paris, BnF, lat. 12949 cover",
+        "description": "Paris, BnF, lat. 12949 cover",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "7900Af133.jpg",
+        "alttext": "Paris, BnF, lat. 7900A f.133",
+        "description": "Paris, BnF, lat. 7900A f.133",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     }
 ]
