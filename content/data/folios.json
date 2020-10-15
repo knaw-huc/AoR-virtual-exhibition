@@ -1733,7 +1733,7 @@
         "folioid": "ein315_53_",
         "folionr": 53,
         "foliofilename": "Einsieldeln_315 (605)_p53.jpg",
-        "foliodescription": "Einsiedeln, Stiftsbibliothek, Codex 315 (605), p. 53: this tenth-century manuscript contains one of the oldest examples of a ‘Porphyrian tree’ in a manuscript of the Isagoge.",
+        "foliodescription": "Einsiedeln, Stiftsbibliothek, Codex 315 (605), p. 53.",
         "foliosource": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
     },
     {
@@ -2298,5 +2298,32 @@
         "foliofilename": "UB_BPL_84_f90_v.jpg",
         "foliodescription": "Leiden, UB, BPL 84, f. 90v",
         "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_46_rd",
+        "folionr": 46,
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f46_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_68_vb",
+        "folionr": 68,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f68_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22, f. 68v",
+        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_13_vb",
+        "folionr": 13,
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f13_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22, f. 13v-14r",
+        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
     }
 ]

@@ -309,7 +309,7 @@
     {
         "img_file_name": "11127f119vfr.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.119v",
-        "description": "Paris, BnF, lat. 11127, f. 119v: Here we see a number (‘xv’) which marks the end of the quire, while the first words of the next gathering are also indicated. This helped ensure the correct ordering of the gatherings.",
+        "description": "Paris, BnF, lat. 11127, f. 119v (detail)",
         "resource": "eigen foto",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
@@ -337,7 +337,7 @@
     {
         "img_file_name": "11127f161r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.161r",
-        "description": "Paris, BnF, lat. 11127, f. 161r: Underlining is used to highlight certain passages",
+        "description": "Paris, BnF, lat. 11127, f. 161r (detail)",
         "resource": "eigen foto",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
@@ -838,13 +838,6 @@
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
-        "img_file_name": "84f84rfr.jpg",
-        "alttext": "UB BPL 84 f.84r",
-        "description": "Leiden, UB, BPL 84, f. 84r: Initial Q",
-        "resource": "Universiteitsbibliotheek Leiden",
-        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
-    },
-    {
         "img_file_name": "404.51.jpg",
         "alttext": "Valenciennes, Cod. 404 f.51v",
         "description": "Valenciennes, BM, MS 404, f. 51v: Note the use of colour and different sized nodes to structure the scheme.",
@@ -946,14 +939,14 @@
     {
         "img_file_name": "22f25r.jpg",
         "alttext": "Leiden UB GRO 22 f.25r",
-        "description": "Leiden, UB, GRO 22, f. 25r: Who is Magister Iohannes de P[arvi?] ponte? Was he, like Adamus Parvipontus [link], a master who taught on the petit pont in Paris?",
+        "description": "Leiden, UB, GRO 22, f. 25r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f61r.jpg",
         "alttext": "Leiden UB GRO 22 f.61r",
-        "description": "Leiden, UB, GRO 22, f. 61r: Who is Magister Alexander, referred to here in a gloss to the Rhetorica ad Herennium?",
+        "description": "Leiden, UB, GRO 22, f. 61r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
@@ -967,14 +960,14 @@
     {
         "img_file_name": "84f32v.jpg",
         "alttext": "Leiden UB BPL 84 f.32v",
-        "description": "Leiden, UB, BPL 84, f. 32v: the quires are 'numbered' with letters",
+        "description": "Leiden, UB, BPL 84, f. 32v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "img_file_name": "84f8v.jpg",
         "alttext": "Leiden UB BPL 84 f.8v",
-        "description": "Leiden, UB, BPL 84, f. 8v: 'c'",
+        "description": "Leiden, UB, BPL 84, f. 8v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
@@ -1140,7 +1133,9 @@
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10541978h"
     },
     {
-        "img_file_name": "rowbooks.jpg"
+        "img_file_name": "rowbooks.jpg",
+        "description": "Row of books from Leiden University Library. Photo Karin Scheper (curator). See https://medievalbooks.nl/2015/12/11/to-conserve-or-not-to-conserve-that-is-the-question/",
+        "hyperlink": "https://medievalbooks.nl/2015/12/11/to-conserve-or-not-to-conserve-that-is-the-question/"
     },
     {
         "img_file_name": "rufillius.jpg",
@@ -1651,7 +1646,7 @@
     {
         "img_file_name": "315p121.jpg",
         "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.121",
-        "description": "Einsiedeln, Stiftsbibliothek, Cod. 315 (605), p. 121: Note the lead outline of the initial ‘P’ which was marked out to guide the rubricator.",
+        "description": "Einsiedeln, Stiftsbibliothek, Cod. 315 (605), p. 121 (detail).",
         "resource": "e-codices",
         "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
     },
@@ -2322,5 +2317,213 @@
         "description": "Paris, BnF, lat. 7900A f.133",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "144f37rfr.jpg",
+        "alttext": "Leiden UB BPL 144 f.37r",
+        "description": "Leiden, UB, BPL 144, f. 37r: Along the edges of the pages we find heads, hands and here even feet, pointing at passages in the text. When leafing through the manuscript, important passages thus pop out.\n",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
+    },
+    {
+        "img_file_name": "144f18rfr.jpg",
+        "alttext": "Leiden UB BPL 144 f.18r",
+        "description": "Leiden, UB, BPL 144, f. 18r",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
+    },
+    {
+        "img_file_name": "22f13v.jpg",
+        "alttext": "Leiden UB GRO 22 f.13v",
+        "description": "Leiden UB GRO 22 f.13v (detail) Here the glossator introduces the characters in the conversation.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f13v2.jpg",
+        "alttext": "Leiden UB GRO 22 f.13v",
+        "description": "Leiden UB GRO 22 f.13v (detail) ‘Ecce’, ‘Look’, the glossator writes – ‘an example of induction’ . ",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f13v3.jpg",
+        "alttext": "Leiden UB GRO 22 f.13v",
+        "description": "Leiden UB GRO 22 f.13v (detail) The glossator indicates who is speaking between the lines (‘Aspasia’s words’, ’Xenophon’s wife responds’ etc). These names and  characters may have been unfamiliar to the reader, so these cues helped them follow the text.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f11rfr.jpg",
+        "alttext": "Leiden UB GRO 22 f.11r",
+        "description": "Leiden UB GRO 22 f.11r (detail) ",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f11vfr.jpg",
+        "alttext": "Leiden UB GRO 22 f.11v",
+        "description": "Leiden UB GRO 22 f.11v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f23r.jpg",
+        "alttext": "Leiden UB GRO 22 f.23r",
+        "description": "Leiden UB GRO 22 f.23r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f58v.jpg",
+        "alttext": "Leiden UB GRO 22 f.58v",
+        "description": "Leiden UB GRO 22 f.58v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f70v.jpg",
+        "alttext": "Leiden UB GRO 22 f.70v",
+        "description": "Leiden UB GRO 22 f.70v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "22f95r.jpg",
+        "alttext": "Leiden UB GRO 22 f.95r",
+        "description": "Leiden UB GRO 22 f.95r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "img_file_name": "315p6fr.jpg",
+        "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.6",
+        "description": "Einsiedeln, Stiftsbibliothek, Cod. 315 (605), p.6 (detail)",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
+    },
+    {
+        "img_file_name": "315p6fr2.jpg",
+        "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.6",
+        "description": "Einsiedeln, Stiftsbibliothek, Cod. 315 (605), p.6 (detail)",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
+    },
+    {
+        "img_file_name": "315p6fr3.jpg",
+        "alttext": "Einsiedeln, Stiftsbibliothek Cod. 315 (605) p.6",
+        "description": "Einsiedeln, Stiftsbibliothek, Cod. 315 (605), p.6 (detail)",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/sbe/0315"
+    },
+    {
+        "img_file_name": "139f46vfr.jpg",
+        "alttext": "Leiden UB BPL 139B f.46v",
+        "description": "Leiden UB BPL 139B f.46v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "goughmap.jpg",
+        "description": "Detail from the ‘Gough Map’, the earliest map of medieval Great Britain, produced (according to recent scholarship) in the 1370’s. A full digital edition is available here: http://www.goughmap.org",
+        "hyperlink": "http://www.goughmap.org"
+    },
+    {
+        "img_file_name": "139f46vfr.jpg",
+        "alttext": "Leiden UB BPL 139B f.46v",
+        "description": "Leiden UB BPL 139B f.46v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "139f28v.jpg",
+        "alttext": "Leiden UB BPL 139B f.28v",
+        "description": "Leiden UB BPL 139B f.28v",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "139f8r.jpg",
+        "alttext": "Leiden UB BPL 139B f.8r",
+        "description": "Leiden UB BPL 139B f.8r (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "139f36r.jpg",
+        "alttext": "Leiden UB BPL 139B f.36r",
+        "description": "Leiden UB BPL 139B f.36r (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "139f32r.jpg",
+        "alttext": "Leiden UB BPL 139B f.32r",
+        "description": "Leiden UB BPL 139B f.32r (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "139f33v.jpg",
+        "alttext": "Leiden UB BPL 139B f.33v",
+        "description": "Leiden UB BPL 139B f.33v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "139f42r.jpg",
+        "alttext": "Leiden UB BPL 139B f.42r",
+        "description": "Leiden UB BPL 139B f.33v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "84f103vfr.jpg",
+        "alttext": "UB BPL 84 f.103v",
+        "description": "Leiden, UB, BPL 84, f. 103v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f16v.jpg ",
+        "alttext": "Leiden UB BPL 84 f.16v",
+        "description": "Leiden UB BPL 84 f.16v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f13r.jpg",
+        "alttext": "Leiden UB BPL 84 f.13r",
+        "description": "Leiden UB BPL 84 f.13r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f14r.jpg",
+        "alttext": "Leiden UB BPL 84 f.14r",
+        "description": "Leiden UB BPL 84 f.14r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f57v.jpg",
+        "alttext": "Leiden UB BPL 84 f.57v",
+        "description": "Leiden UB BPL 84 f.57v-58r",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "11127f30vfr.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.30v",
+        "description": "Paris, BnF, lat. 11127, f. 30v (detail)",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
+    },
+    {
+        "img_file_name": "11127f30vfr2.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.30v",
+        "description": "Paris, BnF, lat. 11127, f. 30v (detail)",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     }
 ]

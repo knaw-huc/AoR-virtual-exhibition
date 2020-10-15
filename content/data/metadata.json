@@ -3,7 +3,7 @@
         "id": "bnf178",
         "order": 14,
         "location": "Paris",
-        "shelfmark": "Paris, BnF, Lat. 17806",
+        "shelfmark": "Paris, BnF, lat. 17806",
         "title": "Aristoteles, Praedicamenta and other texts",
         "dateS1": 1250,
         "dateS2": 1275,
@@ -22,7 +22,6 @@
         "docx_file": "VE17806",
         "file_name": "bnflat17806",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bnf178",
         "thme": "manuscripts"
     },
@@ -30,7 +29,7 @@
         "id": "bnf790",
         "order": 4,
         "location": "Paris",
-        "shelfmark": "Paris, BnF, Lat. 7900A",
+        "shelfmark": "Paris, BnF, lat. 7900A",
         "title": "Six Comedies and other texts",
         "dateS1": 901,
         "dateS2": 1000,
@@ -52,7 +51,6 @@
         "docx_file": "VE7900A",
         "file_name": "bnflat7900A",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bnf790",
         "thme": "manuscripts"
     },
@@ -109,7 +107,6 @@
         "docx_file": "VEBPL25",
         "file_name": "BPL25",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bpl25",
         "thme": "manuscripts"
     },
@@ -138,7 +135,6 @@
         "docx_file": "VEBPL84",
         "file_name": "BPL84",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bpl84",
         "thme": "manuscripts"
     },
@@ -168,7 +164,6 @@
         "docx_file": "VEBPL88",
         "file_name": "BPL88",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bpl88",
         "thme": "manuscripts"
     },
@@ -195,7 +190,6 @@
         "docx_file": "VEBPL139",
         "file_name": "BPL139B",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bpl139",
         "thme": "manuscripts"
     },
@@ -226,7 +220,6 @@
         "docx_file": "VEBPL144",
         "file_name": "BPL144",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bpl144",
         "thme": "manuscripts"
     },
@@ -234,7 +227,7 @@
         "id": "ein315",
         "order": 6,
         "location": "Einsiedeln",
-        "shelfmark": "Einsiedeln, Stiftsbibliothek, MS Codex 315 (605)",
+        "shelfmark": "Einsiedeln, Stiftsbibliothek, Codex 315 (605)",
         "title": "Boethius, Isagoge",
         "dateS1": 900,
         "dateS2": 1000,
@@ -253,7 +246,6 @@
         "docx_file": "VEein315",
         "file_name": "MS315605",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "ein315",
         "thme": "manuscripts"
     },
@@ -281,7 +273,6 @@
         "docx_file": "VEGRO22",
         "file_name": "GRO22",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "gro22",
         "thme": "manuscripts"
     },
@@ -308,7 +299,6 @@
         "docx_file": "VEVLF48",
         "file_name": "VLF48",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "vlf48",
         "thme": "manuscripts"
     },
@@ -316,7 +306,7 @@
         "id": "bnf111",
         "order": 8,
         "location": "Paris",
-        "shelfmark": "Paris, BnF, Lat. 11127",
+        "shelfmark": "Paris, BnF, lat. 11127",
         "title": "Commentarium Boetii in periermenias librum Aristotelis – S. X",
         "dateS1": 999,
         "dateS2": 1000,
@@ -336,7 +326,6 @@
         "docx_file": "VEBnF11127",
         "file_name": "bnflat11127",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bnf111",
         "thme": "manuscripts"
     },
@@ -344,7 +333,7 @@
         "id": "bnf129",
         "order": 3,
         "location": "Paris",
-        "shelfmark": "Paris, BnF, Lat. 12949",
+        "shelfmark": "Paris, BnF, lat. 12949",
         "title": "Aristotelis periermeniae and other texts",
         "dateS1": 900,
         "dateE2": 2020,
@@ -361,7 +350,6 @@
         "type": "manuscript",
         "file_name": "bnflat12949",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bnf129",
         "thme": "manuscripts"
     },
@@ -369,7 +357,7 @@
         "id": "bnf146",
         "order": 11,
         "location": "Paris",
-        "shelfmark": "Paris, BnF, Lat. 14614",
+        "shelfmark": "Paris, BnF, lat. 14614",
         "title": "Petrus Abaelardus, Dialectica and other texts",
         "dateS1": 1100,
         "dateS2": 1400,
@@ -387,7 +375,6 @@
         "docx_file": "empty",
         "file_name": "bnflat14614",
         "template_file": "manuscript-item",
-        "summary": "This is a book with two texts that combine prose and poetry (Boethius’s Consolation of Philosophy and Martianus’s Marriage of Philology and Mercury), and a small part of Cicero’s curious text The Dream of Scipio explained by Macrobius",
         "page_id": "bnf146",
         "thme": "manuscripts"
     }

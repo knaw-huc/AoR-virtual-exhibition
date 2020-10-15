@@ -213,10 +213,6 @@
     },
     {
         "multipeimageid": "22hands",
-        "alleenfolioid": "gro22_68_v"
-    },
-    {
-        "multipeimageid": "22hands",
         "afbeelding": "22f68v.jpg"
     },
     {
@@ -242,10 +238,6 @@
     {
         "multipeimageid": "22antique",
         "afbeelding": "22f70r.jpg"
-    },
-    {
-        "multipeimageid": "22present",
-        "alleenfolioid": "gro22_25_r"
     },
     {
         "multipeimageid": "22present",
@@ -400,7 +392,7 @@
         "afbeelding": "11127f93rfr.jpg"
     },
     {
-        "multipeimageid": "11127_93_r_93_r_fr_94_r",
+        "multipeimageid": "11127_94_r",
         "afbeelding": "11127f94r.jpg"
     },
     {
@@ -448,8 +440,8 @@
         "alleenfolioid": "bpl84_cover2_"
     },
     {
-        "multipeimageid": "bpl84_cover2_1_r",
-        "alleenfolioid": "bpl84_1_r"
+        "multipeimageid": "bpl84_57_v",
+        "afbeelding": "84f57v.jpg"
     },
     {
         "multipeimageid": "bpl84_cover_darmstadt",
@@ -472,20 +464,20 @@
         "afbeelding": "84f32v.jpg"
     },
     {
-        "multipeimageid": "bpl84_8_v_16_v",
+        "multipeimageid": "bpl84_8_v_32_v",
         "afbeelding": "84f8v.jpg"
     },
     {
-        "multipeimageid": "bpl84_8_v_16_v",
-        "afbeelding": "84f16v.jpg"
+        "multipeimageid": "bpl84_8_v_32_v",
+        "afbeelding": "84f32v.jpg"
     },
     {
         "multipeimageid": "bpl84_13_r_14_r",
-        "foliopartid": 85
+        "afbeelding": "84f13r.jpg"
     },
     {
         "multipeimageid": "bpl84_13_r_14_r",
-        "foliopartid": 86
+        "afbeelding": "84f14r.jpg"
     },
     {
         "multipeimageid": "bpl84_44_v_8_r",
@@ -525,11 +517,11 @@
     },
     {
         "multipeimageid": "bpl139_32_r_36_r",
-        "alleenfolioid": "bpl139_32_r"
+        "afbeelding": "139f32r.jpg"
     },
     {
         "multipeimageid": "bpl139_32_r_36_r",
-        "foliopartid": 79
+        "afbeelding": "139f36r.jpg"
     },
     {
         "multipeimageid": "bpl139_39_vb_33_v",
@@ -813,5 +805,32 @@
     {
         "multipeimageid": "bnf129_24_v2",
         "afbeelding": "12949f24v4.jpg"
+    },
+    {
+        "multipeimageid": "gro22_13_v",
+        "afbeelding": "22f13v.jpg"
+    },
+    {
+        "multipeimageid": "gro22_13_v",
+        "afbeelding": "22f13v2.jpg"
+    },
+    {
+        "multipeimageid": "gro22_13_v",
+        "afbeelding": "22f13v3.jpg"
+    },
+    {
+        "multipeimageid": "gro22_11_r",
+        "afbeelding": "22f11rfr.jpg"
+    },
+    {
+        "multipeimageid": "ein315_6_"
+    },
+    {
+        "multipeimageid": "bpl84_16_v_darmstadt",
+        "afbeelding": "84f16v.jpg "
+    },
+    {
+        "multipeimageid": "bpl84_16_v_darmstadt",
+        "afbeelding": "darmstadt2.jpg"
     }
 ]
