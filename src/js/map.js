@@ -1,6 +1,7 @@
   hidesvgG();
 
 function highLightMap(className) {
+  console.log(className);
   var classN = className.replace(/ /g, "");
   classN = classN.replace(/,/g, "");
   classN = classN.replace(/\(/g, "");

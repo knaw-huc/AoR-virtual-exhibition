@@ -1447,7 +1447,7 @@
         "foliotype": "r",
         "folioextra": "b",
         "foliofilename": "UB_BPL_84_f63_r.jpg",
-        "foliodescription": "Leiden, UB, BPL 84, f. 63r: ‘All that is just is good. All that is virtuous is just. Therefore, all that is virtuous is good.’ This syllogism joins two universal affirmative propositions (‘all that is just is good’ and ‘all that is virtuous is just’) and deduces the conclusion ‘all that is virtuous is good’.",
+        "foliodescription": "Leiden, UB, BPL 84, f. 63r",
         "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
@@ -2328,11 +2328,41 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_2rn",
+        "folioid": "vlf48_2_rn",
         "folionr": 2,
         "foliotype": "r",
         "foliofilename": "UB_VLF_48_f2_r.jpg",
         "foliodescription": "Leiden, UB, VLF 48, f. 2r",
         "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_vc",
+        "folionr": 24,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v. At the top of the scheme we find ‘Usia’ , meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’.",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_2_vc",
+        "folionr": 2,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f2 _v.jpg",
+        "foliodescription": "Leiden, UB, BPL 88, f. 2v-3r",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_1_vd",
+        "folionr": 1,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f1 _v.jpg",
+        "foliodescription": "Leiden, UB, BPL 88, f. 1v-2r",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
     }
 ]

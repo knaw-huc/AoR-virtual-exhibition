@@ -62,6 +62,9 @@
   }
 }
 
+.aoRowIntro .aorCompManuscript{
+  margin-bottom: 2rem;
+}
 
 .aorFilioInfo {
   display: flex;
@@ -85,10 +88,6 @@
   flex: 1;
   border-left: 1px solid #{$manuscriptBegeDark};
   padding-left: 1rem;
-
-}
-
-@media (min-width: 1000px) {
 
 }
 

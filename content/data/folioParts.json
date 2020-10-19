@@ -98,34 +98,34 @@
         "afbeelding_aanwezig": false
     },
     {
-        "folioid": "bpl25_12_r",
+        "folioid": "bpl25_12_r--",
         "fpid": 12,
-        "fpname": "Propositions",
-        "fpdescription": "In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and negative propositions: ‘some men are just’ and ‘some men are not just’",
+        "fpname": "Affirmative and Negative Propositions",
+        "fpdescription": "In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and particular negative propositions: ‘some men are just’ and ‘some men are not just’",
         "referentie_afb": "25f12r2.jpg",
         "afbeelding_aanwezig": true
     },
     {
-        "folioid": "bpl25_12_r",
+        "folioid": "bpl25_12_r--",
         "fpid": 13,
         "fpname": "Contradictory Relationships",
-        "fpdescription": "The diagonal lines crossing the centre of the diagram (labelled ‘contradictorie’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then ‘some men are just’ cannot be true.",
+        "fpdescription": "The diagonal lines crossing the centre of the diagram (labelled ‘contradictoriae’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then the proposition ‘some men are just’ cannot be true.’",
         "referentie_afb": "25f12r3.jpg",
         "afbeelding_aanwezig": true
     },
     {
-        "folioid": "bpl25_12_r",
+        "folioid": "bpl25_12_r--",
         "fpid": 14,
         "fpname": "Contrary Relationships",
-        "fpdescription": "The arrangement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false.",
+        "fpdescription": "The placement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false.",
         "referentie_afb": "25f12r4.jpg",
         "afbeelding_aanwezig": true
     },
     {
-        "folioid": "bpl25_12_r",
+        "folioid": "bpl25_12_r--",
         "fpid": 15,
         "fpname": "Subaltern Relationships",
-        "fpdescription": "Finally, reading alongside the side of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition ‘all men are just’ placed on the top of the square is true, then the corresponding particular affirmative proposition ‘some man are just’ at the bottom of the square must also be true. Similarly, if the universal negative proposition, ‘no man is just’ is true, then the particular negative proposition, ‘some man is not just’ must also be true.",
+        "fpdescription": "Finally, reading alongside the side of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition, ‘all men are just’ (placed at the top of the square), is true, then the corresponding particular affirmative proposition, ‘some men are just’ (placed at the bottom of the square), must also be true. Similarly, if the universal negative proposition, ‘no man is just’, then the particular negative proposition, ‘some man is not just’, must also be true.’",
         "referentie_afb": "25f12r5.jpg",
         "afbeelding_aanwezig": true
     },

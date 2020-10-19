@@ -1,12 +1,12 @@
-<figure class="aorCompManuscript" id="{{folioname}}">
+<figure class="aorCompManuscript" id="c_{{folioname}}">
 	<div id="img_{{folioname}}" class="aorImgWindow">
 
 		{{#each parts}}
-		<div id="tab-content-3{{fpid}}" class="hcTabContent {{folioname}}" onmousemove='zoom(event)'>
+		<div id="tab-content-3{{fpid}}{{foliofilename}}" class="hcTabContent {{folioname}}" onmousemove='zoom(event)'>
 
 		<script type="text/javascript">
 			document.addEventListener('DOMContentLoaded', function(){
-				var el = document.getElementById('tab-content-3{{fpid}}');
+				var el = document.getElementById('tab-content-3{{fpid}}{{foliofilename}}');
 				el.setAttribute('data-h', el.offsetHeight);
 				el.setAttribute('data-w', el.offsetWidth);
 
@@ -18,8 +18,8 @@
 		</script>
 
 
-		<div class="aorZoom" id="zoom-tab-content-3{{fpid}}">
-			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3{{fpid}}')" />
+		<div class="aorZoom" id="zoom-tab-content-3{{fpid}}{{foliofilename}}">
+			<input type="image" src="images/icons/fullscreen.png"  onclick="viewfc('tab-content-3{{fpid}}{{foliofilename}}')" />
 		</div>
 
 		<img id="{{fpid}}{{foliofilename}}" src="{{#if fimagePath}}{{fimagePath}}{{else}}images/manuscripts/{{/if}}{{foliofilename}}"  />
@@ -40,12 +40,12 @@
 		<div class="aorFolioToggles">
 			<div class="aorFoliosTab" id="f_{{folioname}}">
 				{{#each parts}}
-					<div class="aorFolioSections hcTabLabel" id="tab-list-{{fpid}}">{{fpname}}</div>
+					<div class="aorFolioSections hcTabLabel" id="tab-list-{{fpid}}{{foliofilename}}">{{fpname}}</div>
 				{{/each}}
 			</div>
 			<div class="aorFoliosCaption">
 				{{#each parts}}
-					<figcaption id="tab-content-{{fpid}}" class="hcTabContent">{{fpdescription}}</figcaption>
+					<figcaption id="tab-content-{{fpid}}{{foliofilename}}" class="hcTabContent">{{fpdescription}}</figcaption>
 				{{/each}}
 			</div>
 
@@ -57,7 +57,7 @@
 
 		<div class="aorFoliosManuscript">
 			{{#each parts}}
-				<figcaption id="tab-content-2{{fpid}}" class="hcTabContent {{folioname}}">
+				<figcaption id="tab-content-2{{fpid}}{{foliofilename}}" class="hcTabContent {{folioname}}">
 					<span>
 					{{#if foliosource}}
 					<a href="{{manuscript_filename}}.html">About the manuscript {{manuscript_location}} {{manuscript_shelfmark}}</a><br>

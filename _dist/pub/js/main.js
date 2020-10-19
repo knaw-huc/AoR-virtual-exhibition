@@ -77,9 +77,12 @@ function handleTabs(selectedTab) {
 
 
 function makeTabVisable(contentId,compId) {
+  console.log(contentId);
   document.getElementById(preContentVal+contentId).style.display= 'flex';
   document.getElementById(preContentVal+'2'+contentId).style.display= 'flex';
+
   var viewWindow = document.getElementById(preContentVal+'3'+contentId);
+
   viewWindow.style.display= 'flex';
 
   viewWindow.setAttribute('data-h', viewWindow.offsetHeight);
@@ -92,7 +95,7 @@ function hideTabContent(compId) {
   var handleTabVis = [];
 
   if (typeof compId !== "undefined") {
-    comp  = '#'+compId;
+    comp  = '#c_'+compId;
     handleTabVis = document.querySelectorAll(comp+" .hcTabContent");
   }
   else {
@@ -118,7 +121,7 @@ function firstTabVisable() {
 }
 
 function zoomImg(imgId){
-  console.log(document.getElementById(imgId));
+  //console.log(document.getElementById(imgId));
   //var allImages = document.querySelectorAll('#'+imgId+' img');
   // var zoomVal= zoom*100;
   //
@@ -178,7 +181,7 @@ function zoom(e){
   var zoomer = e.currentTarget;
   var images = zoomer.querySelectorAll('img');
   var layer = zoomer.querySelector('.zoomOverlay');
-  console.log(zoomer);
+  //console.log(zoomer);
 
   var staticW = zoomer.getAttribute('data-w');
   var staticH = zoomer.getAttribute('data-h');
@@ -351,6 +354,7 @@ document.getElementById('ht_'+sectionId).classList.add("aorCurrPage");
   hidesvgG();
 
 function highLightMap(className) {
+  console.log(className);
   var classN = className.replace(/ /g, "");
   classN = classN.replace(/,/g, "");
   classN = classN.replace(/\(/g, "");

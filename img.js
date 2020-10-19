@@ -17,7 +17,7 @@ const outputFolder = './src/images/content/';
       files.forEach(function (file) {
         console.log(file);
         sharp(inputFolder+file)
-          .resize({ width: 500 })
+          .resize({ width: 1000 })
           .toFile(outputFolder+file, function(err) {
           });
 

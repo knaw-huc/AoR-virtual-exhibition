@@ -279,9 +279,27 @@ gulp.task('buildFromTemplates', function(done) {
 
       template = page.template_file;
       // links for nextpage
+
       if (page.title != 'lastpage') {
         page.nextHref = siteJson[i+1].file_name;
         page.nextTitle = siteJson[i+1].title;
+        if (siteJson[i].file_name == 'portraits') {
+          page.nextHref = 'theme1';
+          page.nextTitle = 'Back to theme';
+        }
+        if (siteJson[i].file_name == 'Ramon-Llull') {
+          page.nextHref = 'theme2';
+          page.nextTitle = 'Back to theme';
+        }
+        if (siteJson[i].file_name == 'syllogism') {
+          page.nextHref = 'theme3';
+          page.nextTitle = 'Back to theme';
+        }
+        if (siteJson[i].file_name == 'controversial-art') {
+          page.nextHref = 'theme4';
+          page.nextTitle = 'Back to theme';
+        }
+
         if (page.type == 'manuscript') {
           page.nextTitle = siteJson[i+1].shelfmark;
         }
@@ -509,6 +527,7 @@ function handleManuscriptComponentMulti(content) {
 
 // gulp convHtml
 function handletextPre(content) {
+    content = content.replace(/<p>±col2± <\/p>/g, "<p>±col2±</p>");
     content = content.replace(/<strong><br \/><\/strong>/g, "<br />");
     content = content.replace(/±f±<br \/><\/p>/g, "±f±</p>");
     content = content.replace(/±m±<br \/><\/p>/g, "±m±</p>");
@@ -521,9 +540,11 @@ function handletextPre(content) {
     content = content.replace(/<p>±row±<br \/>±col1±<br \/>/g, "<p>±row±</p><p>±col1±</p><p>");
     content = content.replace(/<p>±col2span± <\/p>/g, "<p>±col2span±</p>");
     content = content.replace(/<p>±col2±<br \/>/g, "<p>±col2±</p><p>");
+    content = content.replace(/<p>±col1±<br \/>/g, "<p>±col1±</p><p>");
+    content = content.replace(/]]]<br \/><\/p>/g, "]]]</p>");
 
 
-    content = content.replace(/<p>±col2± <\/p>/g, "<p>±col2±</p>");
+
 
     content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
     content = content.replace(/<p>±col2span±<br \/>/g, "<p>±col2span±</p><p>");

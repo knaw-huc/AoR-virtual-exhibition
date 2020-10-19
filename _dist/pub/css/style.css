@@ -114,6 +114,9 @@ a {
   .aorCompManuscript figcaption {
     padding-left: 0rem; }
 
+.aoRowIntro .aorCompManuscript {
+  margin-bottom: 2rem; }
+
 .aorFilioInfo {
   display: flex;
   flex-direction: row; }

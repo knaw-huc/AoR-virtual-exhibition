@@ -233,7 +233,7 @@
     },
     {
         "multipeimageid": "22antique",
-        "afbeelding": "22f11r2.jg"
+        "afbeelding": "22f11r2.jpg"
     },
     {
         "multipeimageid": "22antique",
@@ -260,7 +260,7 @@
         "afbeelding": "103cover.jpg"
     },
     {
-        "multipeimageid": "103_cover_1_r",
+        "multipeimageid": "103_1_r",
         "afbeelding": "103f1r.jpg"
     },
     {
@@ -600,6 +600,10 @@
         "afbeelding": "103f1rfr2.jpg"
     },
     {
+        "multipeimageid": "7900Af133r",
+        "afbeelding": "7900Af133r.jpg"
+    },
+    {
         "multipeimageid": "bnf774_cover_33_v",
         "alleenfolioid": "bnf774_33_v"
     },
@@ -739,24 +743,24 @@
         "afbeelding": "103f55rfr.jpg"
     },
     {
-        "multipeimageid": "103_56_r_56_r_fr",
-        "afbeelding": "103f56r.jpg"
+        "multipeimageid": "gal273_233_1",
+        "afbeelding": "gall273f233fr1.jpg"
     },
     {
         "multipeimageid": "103_56_r_56_r_fr",
         "afbeelding": "103f56rfr.jpg"
     },
     {
-        "multipeimageid": "103_59_v_59_v_fr",
-        "afbeelding": "103f59v.jpg"
+        "multipeimageid": "gal273_233_2",
+        "afbeelding": "gall273f233fr2.jpg"
     },
     {
         "multipeimageid": "103_59_v_59_v_fr",
         "afbeelding": "103f59vfr.jpg"
     },
     {
-        "multipeimageid": "103_71_r_71_r_fr",
-        "afbeelding": "103f71r.jpg"
+        "multipeimageid": "16611f14v",
+        "afbeelding": "16611f14v"
     },
     {
         "multipeimageid": "103_71_r_71_r_fr",
@@ -840,5 +844,41 @@
     {
         "multipeimageid": "11127_93_r",
         "afbeelding": "11127f93r.jpg"
+    },
+    {
+        "multipeimageid": "ramonf20v",
+        "afbeelding": "ramonf20v.jpg"
+    },
+    {
+        "multipeimageid": "bnf165_37_r",
+        "afbeelding": "16598f37r.jpg"
+    },
+    {
+        "multipeimageid": "bnf165_37_r",
+        "afbeelding": "16598f37r2.jpg"
+    },
+    {
+        "multipeimageid": "bpl139_39_v",
+        "alleenfolioid": "bpl139_39_v"
+    },
+    {
+        "multipeimageid": "bpl139_39_v",
+        "afbeelding": "139f39v2.jpg"
+    },
+    {
+        "multipeimageid": "bpl25_12_r",
+        "afbeelding": "25f12r2.jpg"
+    },
+    {
+        "multipeimageid": "bpl25_12_r",
+        "afbeelding": "25f12r3.jpg"
+    },
+    {
+        "multipeimageid": "bpl25_12_r",
+        "afbeelding": "25f12r4.jpg"
+    },
+    {
+        "multipeimageid": "bpl25_12_r",
+        "afbeelding": "25f12r5.jpg"
     }
 ]

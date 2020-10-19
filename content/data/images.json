@@ -454,7 +454,7 @@
     {
         "img_file_name": "103f46r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.46r",
-        "description": "Leiden, UB, VLQ 103, f. 46r (photo MT): Boethius’s text is introduced with a heading written in alternating blue and red letters - ‘Incipit quartus thopicorum’ – and an opening initial – ‘S’ – decorated with gold.",
+        "description": "Leiden, UB, VLQ 103, f. 46r (photo MT).",
         "resource": "photo MT"
     },
     {
@@ -1673,7 +1673,7 @@
     {
         "img_file_name": "ramonf6vfr2.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v (detail).",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
@@ -1978,7 +1978,7 @@
     {
         "img_file_name": "16611f14v.jpg",
         "alttext": "Paris, BnF. Lat. 16611, f.14v",
-        "description": "Paris, BnF. Lat. 16611, f. 14v (photo IvR)",
+        "description": "Paris, BnF. Lat. 16611, f. 14v (photo IO'D)",
         "resource": "Bibliotheque Nationale de France, photo by Irene van Renswoude",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90768515"
     },
@@ -2613,5 +2613,82 @@
         "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v (detail)",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
+    },
+    {
+        "img_file_name": "48f2r.jpg",
+        "alttext": "UB VLF 48 f.2r",
+        "description": "Leiden, UB, VLF 48, f. 2r (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "img_file_name": "48f2r2.jpg",
+        "alttext": "UB VLF 48 f.2r",
+        "description": "Leiden, UB, VLF 48, f. 2r (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "img_file_name": "gall273f233fr1.jpg",
+        "alttext": "St. Gallen,  Stiftsbibliothek, Cod.Sang. 273, p. 233",
+        "description": "St. Gallen,  Stiftsbibliothek, Cod.Sang. 273, p. 233 (detail)",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0273"
+    },
+    {
+        "img_file_name": "gall273f233fr2.jpg",
+        "alttext": "St. Gallen,  Stiftsbibliothek, Cod.Sang. 273, p. 233",
+        "description": "St. Gallen,  Stiftsbibliothek, Cod.Sang. 273, p. 233 (detail)",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0273"
+    },
+    {
+        "img_file_name": "plato2.jpg",
+        "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v (detail)",
+        "resource": "ULB",
+        "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
+    },
+    {
+        "img_file_name": "16598f37r.jpg",
+        "alttext": "Paris, BnF, lat. 16598, f. 37r",
+        "description": "Paris, BnF, lat. 16598, f. 37r (detail)",
+        "resource": "photo I'OD"
+    },
+    {
+        "img_file_name": "16598f37r2.jpg",
+        "alttext": "Paris, BnF, lat. 16598, f. 37r",
+        "description": "Paris, BnF, lat. 16598, f. 37r (detail)",
+        "resource": "photo I'OD"
+    },
+    {
+        "img_file_name": "6638.jpg",
+        "alttext": "Paris, BnF, lat. 6638, f. 6bis r",
+        "description": "Paris, BnF, lat. 6638, f. 6bis r",
+        "resource": "photo RS"
+    },
+    {
+        "img_file_name": "25f12r2.jpg",
+        "alttext": "Affirmative and Negative Propositions",
+        "description": "In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and particular negative propositions: ‘some men are just’ and ‘some men are not just’",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
+    },
+    {
+        "img_file_name": "25f12r3.jpg",
+        "alttext": "Contradictory Relationships",
+        "description": "The diagonal lines crossing the centre of the diagram (labelled ‘contradictoriae’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then the proposition ‘some men are just’ cannot be true.’",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
+    },
+    {
+        "img_file_name": "25f12r4.jpg",
+        "alttext": "Contrary Relationships",
+        "description": "The placement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false.",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
+    },
+    {
+        "img_file_name": "25f12r5.jpg",
+        "alttext": "Subaltern Relationships",
+        "description": "Finally, reading alongside the side of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition, ‘all men are just’ (placed at the top of the square), is true, then the corresponding particular affirmative proposition, ‘some men are just’ (placed at the bottom of the square), must also be true. Similarly, if the universal negative proposition, ‘no man is just’, then the particular negative proposition, ‘some man is not just’, must also be true.’",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     }
 ]

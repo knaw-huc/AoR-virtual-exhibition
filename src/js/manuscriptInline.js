@@ -33,7 +33,7 @@ var handleTabLabel = document.querySelectorAll(".hcTabLabel");
 //handle the name of the tab
 function handleTabs(selectedTab) {
 
-  console.log(selectedTab.target.id);
+  //console.log(selectedTab.target.id);
   if (selectedTab.target.id == 'tab-list-2') {
     document.getElementById('f2').style.display= 'block';
     document.getElementById('vlf48_30_v').setAttribute('viewBox', '500 1050 850 800');
