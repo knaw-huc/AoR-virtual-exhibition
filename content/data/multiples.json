@@ -212,6 +212,10 @@
         "afbeelding": "25f30v32r.jpg"
     },
     {
+        "multipeimageid": "139f28v",
+        "afbeelding": "139f28v.jpg"
+    },
+    {
         "multipeimageid": "22hands",
         "afbeelding": "22f68v.jpg"
     },
@@ -238,6 +242,10 @@
     {
         "multipeimageid": "22antique",
         "afbeelding": "22f70r.jpg"
+    },
+    {
+        "multipeimageid": "139f42r",
+        "afbeelding": "139f42r.jpg"
     },
     {
         "multipeimageid": "22present",
@@ -593,10 +601,6 @@
     },
     {
         "multipeimageid": "bnf774_cover_33_v",
-        "alleenfolioid": "bnf774_cover_"
-    },
-    {
-        "multipeimageid": "bnf774_cover_33_v",
         "alleenfolioid": "bnf774_33_v"
     },
     {
@@ -832,5 +836,9 @@
     {
         "multipeimageid": "bpl84_16_v_darmstadt",
         "afbeelding": "darmstadt2.jpg"
+    },
+    {
+        "multipeimageid": "11127_93_r",
+        "afbeelding": "11127f93r.jpg"
     }
 ]

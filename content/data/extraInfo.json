@@ -1,50 +1,50 @@
 [
     {
-        "info_id": "Apuleius",
+        "info_id": "Apuleius, Peri hermeneias",
         "docx_file": "Apuleius"
     },
     {
-        "info_id": "Aristotle1",
+        "info_id": "Aristotle, Categories and On interpretation",
         "docx_file": "Aristotle1"
     },
     {
-        "info_id": "Aristotle2",
+        "info_id": "Aristotle’s works on argumentation",
         "docx_file": "Aristotle2"
     },
     {
-        "info_id": "Boethius1",
+        "info_id": "Boethius, Consolation of Philosophy",
         "docx_file": "Boethius1"
     },
     {
-        "info_id": "Boethius2",
+        "info_id": "Boethius’ translations and commentaries on logic",
         "docx_file": "Boethius2"
     },
     {
-        "info_id": "Categoriae",
+        "info_id": "Categoriae Decem",
         "docx_file": "Categoriae"
     },
     {
-        "info_id": "Cicero",
+        "info_id": "Cicero’s De inventione and Topica",
         "docx_file": "Cicero"
     },
     {
-        "info_id": "Martianus",
+        "info_id": "Martianus Capella’s De nuptiis",
         "docx_file": "Martianus"
     },
     {
-        "info_id": "MLR",
+        "info_id": "Minor Latin Rhetoricians",
         "docx_file": "MLR"
     },
     {
-        "info_id": "Porphyry",
+        "info_id": "Porphyry, Isagoge",
         "docx_file": "Porphyry"
     },
     {
-        "info_id": "Augustine",
+        "info_id": "(Ps-)Augustine, De dialectica",
         "docx_file": "Augustine"
     },
     {
-        "info_id": "Herennium",
+        "info_id": "Rhetorica ad Herennium",
         "docx_file": "Herennium"
     }
 ]

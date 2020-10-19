@@ -93,7 +93,7 @@
     {
         "img_file_name": "scottus.jpg",
         "alttext": "portrait of scottus",
-        "description": "Paris, BnF, lat. 6734, fol. 3r: Imaginary portrait of Johannes Scottus (on the right) in Honorius of Autun’s Clavis physicae. John the Scot engages in a discussion with ‘Abbot Theodorus’ about his theological treatise on the creation of the world, the Periphyseon. Theodorus holds a banner with the text: “he reveals the light of dogma by the sharpness of his mind”, and John Scottus holds a banner saying: “He seeks to make hidden things clarify themselves.”",
+        "description": "Paris, BnF, lat. 6734, fol. 3r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10023855n"
     },
@@ -604,7 +604,7 @@
     {
         "img_file_name": "chambery.jpg",
         "alttext": "Chambéry, BM, Ms. 27, f. 151r",
-        "description": "Chambéry, BM, Ms. 27, f. 151r (detail).",
+        "description": "Chambéry, BM, Ms. 27, f. 151r (detail): a master teaching drawn in the margin of a manuscript from the second half of the 13th century, made in England. The master looks very stern and the student on the right seems to be wearing donkey's ears as punishment.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/35203"
     },
@@ -639,7 +639,7 @@
     {
         "img_file_name": "cassiodorus.jpg",
         "alttext": "Paris, BnF, lat. 12963, f.8v (detail)",
-        "description": "Paris, BnF, Lat. 12963, f. 8v (detail): Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century.",
+        "description": "Paris, BnF, Lat. 12963, f. 8v (detail): Cassiodorus, Institutiones. Manuscript from Corbie, second half of the 10th century.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105442152"
     },
@@ -667,7 +667,7 @@
     {
         "img_file_name": "karlsruhef11v.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 11v",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 11v (detail)",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 11v",
         "resource": "BLB",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
@@ -744,7 +744,7 @@
     {
         "img_file_name": "scaliger.jpg",
         "alttext": "Leiden UB, Scaliger MS 38, f. 2r.",
-        "description": "Leiden UB, Scaliger MS 38, f. 2r: This manuscript, which contains a number of Gerbert’s mathematical and astronomical works, opens with this table of numeric terms.",
+        "description": "Leiden UB, Scaliger MS 38, ff.1v-2r",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:882068"
     },
@@ -786,7 +786,7 @@
     {
         "img_file_name": "vlq33.jpg",
         "alttext": "Leiden UB, VLQ 33, f. 1v",
-        "description": "Leiden UB, VLQ 33, f. 1v: Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures dressed in antiquated clothing.",
+        "description": "Leiden UB, VLQ 33, f. 1v: Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures (philosophers?) dressed in antiquated clothing.",
         "hyperlink": "https://www.flickr.com/people/medievalfragments/"
     },
     {
@@ -836,6 +836,12 @@
         "description": "Leiden, UB, BPL 88, f. 63r",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "img_file_name": "103f1r2.jpg",
+        "alttext": "Leiden, UB, VLQ 103 f.1r",
+        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT)",
+        "resource": "photo MT"
     },
     {
         "img_file_name": "404.51.jpg",
@@ -1072,28 +1078,28 @@
     {
         "img_file_name": "ramonf3v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 3v (detail): Ramon Llull disputes with the Arab slave who taught him Arabic.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 3v (detail).",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf1v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 1v (detail): Ramon has a vision of Christ on the cross that would make him turn his life around.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 1v (detail).",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf20v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 20v: page illustrating the schematic reasoning of Ramon Llull",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 20v (detail).",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf5r.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 5r",
+        "description": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 5r (detail).",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
@@ -1134,7 +1140,7 @@
     },
     {
         "img_file_name": "rowbooks.jpg",
-        "description": "Row of books from Leiden University Library. Photo Karin Scheper (curator). See https://medievalbooks.nl/2015/12/11/to-conserve-or-not-to-conserve-that-is-the-question/",
+        "description": "Row of books from Leiden University Library. Photo Karin Scheper (curator).",
         "hyperlink": "https://medievalbooks.nl/2015/12/11/to-conserve-or-not-to-conserve-that-is-the-question/"
     },
     {
@@ -1415,7 +1421,7 @@
     {
         "img_file_name": "licentia.jpg",
         "alttext": "Rhetorica ad Herennium IV, 36 Cambridge, UL, Peterhouse 248, s. xi, f. 58v",
-        "description": "Rhetorica ad Herennium IV, 36 Cambridge, UL, Peterhouse 248, s. xi, f. 58v",
+        "description": "Rhetorica ad Herennium IV, 36. Cambridge, UL, Peterhouse 248, s. xi, f. 58v",
         "resource": "Cambridge"
     },
     {
@@ -1653,35 +1659,35 @@
     {
         "img_file_name": "karlsruhef4r.jpg",
         "alttext": "Breviculum ex artibus Raimundi Lulli electum – Karlruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 4r (detail).",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92 (Breviculum ex artibus Raimundi Lulli electum), f. 4r (detail). The image shows Ramon Llull sitting on an elevated chair, teaching an attentive crowd. He discusses (in green letters) how to distinguish between right and false arguments and opinions.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92 (Breviculum ex artibus Raimundi Lulli electum), f. 4r (detail).",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf6vfr.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v: The army is lead by by Aristotle, riding his horse ‘Ratiocinatio’ (reasoning). Averroes follows, on the horse, ‘Ymaginatio’ (imagination).",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v (detail)",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf6vfr2.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v: In the tower of falsehood rhetorical and dialectical sins are found, such as ignorance, confusion, impossibility, emptyness. Truth is held capture in the dungeon.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v (detail).",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf7rfr.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 7r: Ramon Lull pulls a chariot with eighteen principles of the art of arguing well: among them are goodness, greatness, wisdom, endurance, etc.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 7r (detail).",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
     {
         "img_file_name": "ramonf28v.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 28v (detail): Note that the circle on the bottom right is designed to become part of an assembled stack of circles, which can then be moved to make different combinations.",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 28v (detail). Note that the circle on the bottom right is designed to become part of an assembled stack of circles, which can then be moved to make different combinations.",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
@@ -2279,14 +2285,14 @@
     {
         "img_file_name": "darmstadt3fr2.jpg",
         "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
-        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v (detail)",
         "resource": "ULB",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
     },
     {
         "img_file_name": "darmstadt3fr3.jpg",
         "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
-        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v (detail)",
         "resource": "ULB",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
     },
@@ -2307,14 +2313,14 @@
     {
         "img_file_name": "12949side.jpg",
         "alttext": "Paris, BnF, lat. 12949 cover",
-        "description": "Paris, BnF, lat. 12949 cover",
+        "description": "Paris, BnF, lat. 12949",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
-        "img_file_name": "7900Af133.jpg",
-        "alttext": "Paris, BnF, lat. 7900A f.133",
-        "description": "Paris, BnF, lat. 7900A f.133",
+        "img_file_name": "7900Af133r.jpg",
+        "alttext": "Paris, BnF, lat. 7900A f.133r",
+        "description": "Paris, BnF, lat. 7900A f.133r",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
@@ -2335,63 +2341,63 @@
     {
         "img_file_name": "22f13v.jpg",
         "alttext": "Leiden UB GRO 22 f.13v",
-        "description": "Leiden UB GRO 22 f.13v (detail) Here the glossator introduces the characters in the conversation.",
+        "description": "Leiden, UB, GRO 22, f. 13v (detail): Here the glossator introduces the characters in the conversation.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f13v2.jpg",
         "alttext": "Leiden UB GRO 22 f.14r",
-        "description": "Leiden UB GRO 22 f.14r (detail) ‘Ecce’, ‘Look’, the glossator writes – ‘an example of induction’ . ",
+        "description": "Leiden, UB, GRO 22, f. 14r (detail): ‘Ecce’, ‘Look’, the glossator writes – ‘an example of induction’ . ",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f13v3.jpg",
         "alttext": "Leiden UB GRO 22 f.14r",
-        "description": "Leiden UB GRO 22 f.14r (detail) The glossator indicates who is speaking between the lines (‘Aspasia’s words’, ’Xenophon’s wife responds’ etc). These names and  characters may have been unfamiliar to the reader, so these cues helped them follow the text.",
+        "description": "Leiden, UB, GRO 22, f. 14r (detail): The glossator indicates who is speaking between the lines (‘Aspasia’s words’, ’Xenophon’s wife responds’ etc). These names and  characters may have been unfamiliar to the reader, so these cues helped them follow the text.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f11rfr.jpg",
         "alttext": "Leiden UB GRO 22 f.11r",
-        "description": "Leiden UB GRO 22 f.11r (detail) ",
+        "description": "Leiden, UB, GRO 22, f. 11r (detail) ",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f11vfr.jpg",
         "alttext": "Leiden UB GRO 22 f.11v",
-        "description": "Leiden UB GRO 22 f.11v (detail)",
+        "description": "Leiden, UB, GRO 22, f. 11v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f23r.jpg",
         "alttext": "Leiden UB GRO 22 f.23r",
-        "description": "Leiden UB GRO 22 f.23r (detail)",
+        "description": "Leiden, UB, GRO 22, f. 23r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f58v.jpg",
         "alttext": "Leiden UB GRO 22 f.58v",
-        "description": "Leiden UB GRO 22 f.58v (detail)",
+        "description": "Leiden, UB, GRO 22, f. 58v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f70v.jpg",
         "alttext": "Leiden UB GRO 22 f.70v",
-        "description": "Leiden UB GRO 22 f.70v (detail)",
+        "description": "Leiden, UB, GRO 22, f. 70v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
         "img_file_name": "22f95r.jpg",
         "alttext": "Leiden UB GRO 22 f.95r",
-        "description": "Leiden UB GRO 22 f.95r (detail)",
+        "description": "Leiden, UB, GRO 22, f. 95r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1668135"
     },
@@ -2419,61 +2425,61 @@
     {
         "img_file_name": "139f46vfr.jpg",
         "alttext": "Leiden UB BPL 139B f.46v",
-        "description": "Leiden UB BPL 139B f.46v (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 46v (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
         "img_file_name": "goughmap.jpg",
-        "description": "Detail from the ‘Gough Map’, the earliest map of medieval Great Britain, produced (according to recent scholarship) in the 1370’s. A full digital edition is available here: http://www.goughmap.org",
+        "description": "Detail from the ‘Gough Map’, the earliest map of medieval Great Britain, produced (according to recent scholarship) in the 1370’s. A full digital edition is available here: ",
         "hyperlink": "http://www.goughmap.org"
     },
     {
         "img_file_name": "139f46vfr.jpg",
         "alttext": "Leiden UB BPL 139B f.46v",
-        "description": "Leiden UB BPL 139B f.46v (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 46v (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
         "img_file_name": "139f28v.jpg",
         "alttext": "Leiden UB BPL 139B f.28v",
-        "description": "Leiden UB BPL 139B f.28v",
+        "description": "Leiden, UB, BPL 139B, f. 28v",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
         "img_file_name": "139f8r.jpg",
         "alttext": "Leiden UB BPL 139B f.8r",
-        "description": "Leiden UB BPL 139B f.8r (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 8r (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
         "img_file_name": "139f36r.jpg",
         "alttext": "Leiden UB BPL 139B f.36r",
-        "description": "Leiden UB BPL 139B f.36r (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 36r (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
         "img_file_name": "139f32r.jpg",
         "alttext": "Leiden UB BPL 139B f.32r",
-        "description": "Leiden UB BPL 139B f.32r (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 32r (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
         "img_file_name": "139f33v.jpg",
         "alttext": "Leiden UB BPL 139B f.33v",
-        "description": "Leiden UB BPL 139B f.33v (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 33v (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
         "img_file_name": "139f42r.jpg",
         "alttext": "Leiden UB BPL 139B f.42r",
-        "description": "Leiden UB BPL 139B f.33v (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 33v (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
@@ -2487,28 +2493,28 @@
     {
         "img_file_name": "84f16v.jpg ",
         "alttext": "Leiden UB BPL 84 f.16v",
-        "description": "Leiden UB BPL 84 f.16v (detail)",
+        "description": "Leiden, UB, BPL 84, f. 16v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "img_file_name": "84f13r.jpg",
         "alttext": "Leiden UB BPL 84 f.13r",
-        "description": "Leiden UB BPL 84 f.13r (detail)",
+        "description": "Leiden, UB, BPL 84, f. 13r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "img_file_name": "84f14r.jpg",
         "alttext": "Leiden UB BPL 84 f.14r",
-        "description": "Leiden UB BPL 84 f.14r (detail)",
+        "description": "Leiden, UB, BPL 84, f. 14r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
         "img_file_name": "84f57v.jpg",
         "alttext": "Leiden UB BPL 84 f.57v",
-        "description": "Leiden UB BPL 84 f.57v-58r",
+        "description": "Leiden, UB, BPL 84, f. 57v-58r",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
@@ -2525,5 +2531,87 @@
         "description": "Paris, BnF, lat. 11127, f. 30v (detail)",
         "resource": "eigen foto",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
+    },
+    {
+        "img_file_name": "139f8rfr.jpg",
+        "alttext": "Leiden UB BPL 139B f.8r",
+        "description": "Leiden, UB, BPL 139B, f. 8r (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "11127f30rfr.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.30r",
+        "description": "Paris, BnF, lat. 11127, f. 30r",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
+    },
+    {
+        "img_file_name": "11127f30rfr2.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.30r",
+        "description": "Paris, BnF, lat. 11127, f. 30r",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
+    },
+    {
+        "img_file_name": "48cover.jpg",
+        "alttext": "Leiden, UB, VLF 48",
+        "description": "Leiden, UB, VLF 48",
+        "resource": "UB Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "img_file_name": "103f1rfr2.jpg",
+        "alttext": "Leiden, UB, VLQ 103 f.1r",
+        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT)",
+        "resource": "photo MT"
+    },
+    {
+        "img_file_name": "48fdivers",
+        "alttext": "Leiden, UB, VLF 48",
+        "description": "Leiden, UB, VLF 48, details of ff. 66v, 70v and 81v",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "img_file_name": "84f90vfr.jpg",
+        "alttext": "Leiden, UB, BPL 84, f. 90v",
+        "description": "Leiden, UB, BPL 84, f. 90v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f90vfr2.jpg",
+        "alttext": "Leiden, UB, BPL 84, f. 90v",
+        "description": "Leiden, UB, BPL 84, f. 90v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "12949f25vfr.jpg",
+        "alttext": "Paris, BnF, lat. 12949, f. 25v",
+        "description": "Paris, BnF, lat. 12949, f. 25v (detail) (photo RS)",
+        "resource": "eigen foto",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "67f32v.jpg",
+        "alttext": "Leiden, UB, BPL 67, f. 32v.",
+        "description": "Leiden, UB, BPL 67, f. 32v",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1603880"
+    },
+    {
+        "img_file_name": "88f172vfr.jpg",
+        "alttext": "UB BPL 88 f.172v",
+        "description": "Leiden, UB, BPL 88, f. 172v",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "img_file_name": "ramontower.jpg",
+        "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v (detail)",
+        "resource": "Badische Landesbibliothek",
+        "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     }
 ]

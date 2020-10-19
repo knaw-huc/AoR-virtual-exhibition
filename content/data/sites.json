@@ -64,7 +64,7 @@
         "thme": 1
     },
     {
-        "title": "Dialectica and Rhetorica",
+        "title": "Rhetoric and dialectic",
         "docx_file": "VEdialecticaretorica",
         "page_id": "1dr",
         "summary": "The disciplines of rhetoric and dialectic were crucial to the art of reasoning.",
@@ -75,8 +75,8 @@
         "thme": 1
     },
     {
-        "title": "Portaits",
-        "docx_file": "empty",
+        "title": "Text portaits",
+        "docx_file": "VEportrait",
         "page_id": "1po",
         "summary": "Portaits page",
         "theme": 1,
@@ -131,17 +131,6 @@
         "thme": 2
     },
     {
-        "title": "Gerard d’Abbeville",
-        "docx_file": "VEabbeville",
-        "page_id": "2ab",
-        "summary": "Book collecting in the early universities.",
-        "theme": 2,
-        "file_name": "Gerard-DAbbeville",
-        "template_file": "theme-item",
-        "navigation_file": "nav-2",
-        "thme": 2
-    },
-    {
         "title": "Abbo of Fleury and Gerbert of Rheims",
         "docx_file": "VEabbo",
         "page_id": "2ga",
@@ -158,6 +147,17 @@
         "page_id": "2ab",
         "theme": 2,
         "file_name": "Abelard",
+        "template_file": "theme-item",
+        "navigation_file": "nav-2",
+        "thme": 2
+    },
+    {
+        "title": "Gerard d’Abbeville",
+        "docx_file": "VEabbeville",
+        "page_id": "2ab",
+        "summary": "Book collecting in the early universities.",
+        "theme": 2,
+        "file_name": "Gerard-DAbbeville",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2

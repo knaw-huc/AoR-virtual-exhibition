@@ -2325,5 +2325,14 @@
         "foliofilename": "UB_GRO_22_f13_v.jpg",
         "foliodescription": "Leiden, UB, GRO 22, f. 13v-14r",
         "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "vlf48_2rn",
+        "folionr": 2,
+        "foliotype": "r",
+        "foliofilename": "UB_VLF_48_f2_r.jpg",
+        "foliodescription": "Leiden, UB, VLF 48, f. 2r",
+        "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
     }
 ]
