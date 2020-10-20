@@ -82,7 +82,7 @@
     {
         "img_file_name": "hrabanus.jpg",
         "alttext": "Vienna, ÖnB, cod.652, fol. 2v",
-        "description": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century): Hrabanus (left) and Alcuin (middle) dedicate a work to Archbishop Otgar of Mainz (Right). As the teacher (with more seniority), Alcuin has his arm around Hrabanus’ shoulder, expressing his support when introducing him to the Archbishop.",
+        "description": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century): Hrabanus (left) and Alcuin (middle) dedicate a work to Archbishop Otgar of Mainz (Right).",
         "resource": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century)",
         "hyperlink": "http://data.onb.ac.at/rep/10048D05"
     },
@@ -186,7 +186,7 @@
     {
         "img_file_name": "144f10rfr.jpg",
         "alttext": "Leiden UB BPL 144 f.10r",
-        "description": "Leiden, UB, BPL 144, f. 10r. In a copy of Boethius’ Consolation of Philosophy, a reader added this drawing of the metaphore of the wheel of fortune, which spins us up and down on the road of life.",
+        "description": "Leiden, UB, BPL 144, f. 10r. Drawing of the Boethius' wheel of fortune.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -716,7 +716,7 @@
     {
         "img_file_name": "bpl67f32v.jpg",
         "alttext": "Leiden, UB, BPL 67, f. 32v.",
-        "description": "Leiden, UB, BPL 67, f. 32v",
+        "description": "Leiden, UB, BPL 67, f. 32v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1603880"
     },
@@ -1610,7 +1610,7 @@
     {
         "img_file_name": "48f95vfr3.jpg",
         "alttext": "UB VLF 48 f.95v",
-        "description": "Leiden, UB, VLF 48, f. 95v (detail): Rather of Verona also used a bit of empty space on the last page of the manuscript to write a short letter.",
+        "description": "Leiden, UB, VLF 48, f. 95v (detail): Letter by Rather of Verona.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
@@ -2306,7 +2306,7 @@
     {
         "img_file_name": "84f90r.jpg",
         "alttext": "Leiden, UB, BPL 84, f. 90r",
-        "description": "Leiden, UB, BPL 84, f. 90r (detail).",
+        "description": "Leiden, UB, BPL 84, f. 90r (detail): green and blue circles (added by us) indicate the speakers in the dialogue.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
@@ -2690,5 +2690,89 @@
         "alttext": "Subaltern Relationships",
         "description": "Finally, reading alongside the side of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition, ‘all men are just’ (placed at the top of the square), is true, then the corresponding particular affirmative proposition, ‘some men are just’ (placed at the bottom of the square), must also be true. Similarly, if the universal negative proposition, ‘no man is just’, then the particular negative proposition, ‘some man is not just’, must also be true.’",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
+    },
+    {
+        "img_file_name": "48mixtos.jpg",
+        "alttext": "UB VLF 48 f.95v",
+        "description": "Leiden, UB, VLF 48, f. 95v (detail).",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "img_file_name": "48f95vfr.jpg",
+        "alttext": "UB VLF 48 f.95v",
+        "description": "Leiden, UB, VLF 48, f. 95v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "img_file_name": "84f84r.jpg",
+        "alttext": "Leiden UB BPL 84 f.84r",
+        "description": "Leiden, UB, BPL 84, f. 84r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f84rfr.jpg",
+        "alttext": "Leiden UB BPL 84 f.84r",
+        "description": "Leiden, UB, BPL 84, f. 84r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "17806f4vfr5.jpg",
+        "alttext": "BnF lat. 17806 f.4v",
+        "description": "Paris, BnF, lat. 17806, f. 4v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806f4vfr.jpg",
+        "alttext": "BnF lat. 17806 f.4v",
+        "description": "Paris, BnF, lat. 17806, f. 4v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806f5rfr.jpg",
+        "alttext": "BnF lat. 17806 f.5r",
+        "description": "Paris, BnF, lat. 17806, f. 5r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806f4vfr4.jpg",
+        "alttext": "BnF lat. 17806 f.4v",
+        "description": "Paris, BnF, lat. 17806, f. 4v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "bnf178_164_v.jpg",
+        "alttext": "Paris, BnF, lat. 17806, f. 164v",
+        "description": "Paris, BnF, lat. 17806, f. 164v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "bnf178_218_r.jpg",
+        "alttext": "Paris, BnF, lat. 17806, f. 218r",
+        "description": "Paris, BnF, lat. 17806, f. 218r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806f172r.jpg",
+        "alttext": "BnF lat. 17806 f.172r",
+        "description": "Paris, BnF, lat. 17806, f. 172r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806f250v.jpg",
+        "alttext": "BnF lat. 17806 f.250v",
+        "description": "Paris, BnF, lat. 17806, f. 250v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     }
 ]

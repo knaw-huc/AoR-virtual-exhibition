@@ -763,20 +763,12 @@
         "afbeelding": "16611f14v"
     },
     {
-        "multipeimageid": "103_71_r_71_r_fr",
-        "afbeelding": "103f71rfr.jpg"
+        "multipeimageid": "bnf178_grid",
+        "afbeelding": "17806f4vfr5.jpg"
     },
     {
-        "multipeimageid": "103_46_r",
-        "afbeelding": "103f46r.jpg"
-    },
-    {
-        "multipeimageid": "103_47_v_47_v_fr",
-        "afbeelding": "103f47v.jpg"
-    },
-    {
-        "multipeimageid": "103_47_v_47_v_fr",
-        "afbeelding": "103f47vfr.jpg"
+        "multipeimageid": "bnf178_penwork",
+        "afbeelding": "17806f4vfr.jpg"
     },
     {
         "multipeimageid": "bnf790_27_r",
@@ -880,5 +872,25 @@
     {
         "multipeimageid": "bpl25_12_r",
         "afbeelding": "25f12r5.jpg"
+    },
+    {
+        "multipeimageid": "vlf48_95_vd",
+        "afbeelding": "vlf48_95_vd"
+    },
+    {
+        "multipeimageid": "vlf48_95_vd",
+        "afbeelding": "48f95vfr3.jpg"
+    },
+    {
+        "multipeimageid": "bpl84_84_r",
+        "afbeelding": "84f84r.jpg"
+    },
+    {
+        "multipeimageid": "6400f24r",
+        "afbeelding": "6400f24r.jpg"
+    },
+    {
+        "multipeimageid": "bpl84_89_v",
+        "afbeelding": "84f89v2.jpg"
     }
 ]
