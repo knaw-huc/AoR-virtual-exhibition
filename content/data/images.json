@@ -1596,7 +1596,7 @@
     {
         "img_file_name": "48f2vfr.jpg",
         "alttext": "UB VLF 48 f.2v",
-        "description": "Leiden, UB, VLF 48, f. 2v: Once spotted, we see them in more places. Do you see them in between the lines on this page?",
+        "description": "Leiden, UB, VLF 48, f. 2v (detail): Tironian notes galore",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
@@ -2096,7 +2096,7 @@
     },
     {
         "img_file_name": "88f171r.jpg",
-        "alttext": "Leiden, UB, BPL 88, f. 171r",
+        "alttext": "Leiden, UB, BPL 88, f. 171r (photo MT): In the lower margin, a note explains the background of a passage about Diana (the godess of the Moon): \"Hic tangit fabulam. Nam Iovis adamavit Dianam ...\" (This connects to a fable. For Jove was in love with Diana ...\").",
         "description": "Leiden, UB, BPL 88, f. 171r (photo MT)",
         "resource": "Universiteitsbibliotheek Leiden eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
@@ -2111,7 +2111,7 @@
     {
         "img_file_name": "88f4v.jpg",
         "alttext": "Leiden, UB, BPL 88, f. 4v",
-        "description": "Leiden, UB, BPL 88, f. 4v (photo MT)",
+        "description": "Leiden, UB, BPL 88, f. 4v (detail; the green box is ours): In the note the meaning of the word \"endelechia\" is explained according to three different authorities: Calcidius, Aristotle and Plato.",
         "resource": "Universiteitsbibliotheek Leiden eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
@@ -2230,7 +2230,7 @@
     {
         "img_file_name": "48f30v2.jpg",
         "alttext": "Tied Notes",
-        "description": "Leiden, UB, VLF 48, f. 30v: tiemarks in the text and in the margin",
+        "description": "Leiden, UB, VLF 48, f. 30v (detail; the yellow markings are ours): tiemarks in the text and in the margin",
         "resource": "UB Leiden + Gallica",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
@@ -2251,14 +2251,14 @@
     {
         "img_file_name": "12949f24v3.jpg",
         "alttext": "Nota signs",
-        "description": "Paris, BnF, lat. 12949, f. 24v: Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
+        "description": "Paris, BnF, lat. 12949, f. 24v (detail; the yellow markings are ours): Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f24v4.jpg",
         "alttext": "Tiemark",
-        "description": "Paris, BnF, lat. 12949, f. 24v: Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
+        "description": "Paris, BnF, lat. 12949, f. 24v (detail; the yellow markings are ours): Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
