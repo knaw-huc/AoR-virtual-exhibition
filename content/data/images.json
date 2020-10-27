@@ -186,7 +186,7 @@
     {
         "img_file_name": "144f10rfr.jpg",
         "alttext": "Leiden UB BPL 144 f.10r",
-        "description": "Leiden, UB, BPL 144, f. 10r. Drawing of the Boethius' wheel of fortune.",
+        "description": "Leiden, UB, BPL 144, f. 10r (detail): Drawing of the Boethius' wheel of fortune.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -249,7 +249,7 @@
     {
         "img_file_name": "144f17r.jpg",
         "alttext": "Leiden UB BPL 144 f.17r",
-        "description": "Leiden, UB, BPL 144, f. 17r (edge)",
+        "description": "Leiden, UB, BPL 144, f. 17r (edge) (Photo MT)",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -872,25 +872,29 @@
     {
         "img_file_name": "25f6v.jpg",
         "alttext": "Leiden UB BPL 25 f.6v",
-        "description": "Leiden, UB, BPL 25, f. 6v",
+        "description": "Leiden, UB, BPL 25, f. 6v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
         "img_file_name": "25f7r.jpg",
         "alttext": "Leiden UB BPL 25 f.7r",
-        "description": "Leiden, UB, BPL 25, f. 7r: A bad spot and tear in the parchment were already there before the writing started: the scribe carefully writes around it.",
+        "description": "Leiden, UB, BPL 25, f. 7r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
         "img_file_name": "25f7v.jpg",
         "alttext": "Leiden UB BPL 25 f.7v",
-        "description": "Leiden, UB, BPL 25, f. 7v: This set up of the two faces that link the note in the margin to the correct place in the text confirms that the faces are part of the thirteenth-century layer of reader’s notes, and not the original tenth-century one.",
+        "description": "Leiden, UB, BPL 25, f. 7v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
-        "img_file_name": "25f30v32r",
+        "img_file_name": "25f30v32r.jpg",
         "alttext": "Leiden UB BPL 25 f.30v-32r",
         "description": "Leiden, UB, BPL 25, f. 30v-32r",
+        "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
@@ -2774,5 +2778,117 @@
         "description": "Paris, BnF, lat. 17806, f. 250v",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "25f1v2rfr.jpg",
+        "alttext": "Leiden, UB, BPL 25, f.2r",
+        "description": "Leiden, UB, BPL 25, f.2r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
+    },
+    {
+        "img_file_name": "25f42r.jpg",
+        "alttext": "Leiden, UB, BPL 25, f.42r",
+        "description": "Leiden, UB, BPL 25, f.42r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
+    },
+    {
+        "img_file_name": "25f2v.jpg",
+        "alttext": "Leiden, UB, BPL 25, f.2v",
+        "description": "Leiden, UB, BPL 25, f.2v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
+    },
+    {
+        "img_file_name": "88f2v3rfr.jpg",
+        "alttext": "UB BPL 88 f.2v",
+        "description": "Leiden, UB, BPL 88, f. 2v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "img_file_name": "88f59r.jpg",
+        "alttext": "UB BPL 88 f.59r",
+        "description": "Leiden, UB, BPL 88, f. 59r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "img_file_name": "88f171v2.jpg",
+        "alttext": "Leiden, UB, BPL 88, f. 171v",
+        "description": "Leiden, UB, BPL 88, f. 171v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden eigen foto",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "img_file_name": "144f66v.jpg",
+        "alttext": "Leiden UB BPL 144 f.66v",
+        "description": "Leiden, UB, BPL 144, f. 66v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden eigen foto",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
+    },
+    {
+        "img_file_name": "144f2rhands.jpg",
+        "alttext": "Leiden UB BPL 144 f.2r",
+        "description": "Leiden, UB, BPL 144, f. 2r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden eigen foto",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
+    },
+    {
+        "img_file_name": "144f83r.jpg",
+        "alttext": "Leiden UB BPL 144 f.83r",
+        "description": "Leiden, UB, BPL 144, f. 83r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
+    },
+    {
+        "img_file_name": "144f85v.jpg",
+        "alttext": "Leiden UB BPL 144 f.85v",
+        "description": "Leiden, UB, BPL 144, f. 85v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
+    },
+    {
+        "img_file_name": "144f21v.jpg",
+        "alttext": "Leiden UB BPL 144 f.21v",
+        "description": "Leiden, UB, BPL 144, f. 21v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
+    },
+    {
+        "img_file_name": "bnf790_116_r",
+        "alttext": "Paris, BnF, lat.7900A, f. 116r",
+        "description": "Paris, BnF, lat.7900A, f. 116r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "bnf790_116_v",
+        "alttext": "Paris, BnF, lat.7900A, f. 116v",
+        "description": "Paris, BnF, lat.7900A, f. 116v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "7900f109v.jpg",
+        "alttext": "Paris, BnF, lat.7900A, f. 109v",
+        "description": "Paris, BnF, lat.7900A, f. 109v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "7900f120v.jpg",
+        "alttext": "Paris, BnF, lat.7900A, f. 120v",
+        "description": "Paris, BnF, lat.7900A, f. 120v",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "7900f128r.jpg",
+        "alttext": "Paris, BnF, lat.7900A, f. 128r",
+        "description": "Paris, BnF, lat.7900A, f. 128r",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     }
 ]

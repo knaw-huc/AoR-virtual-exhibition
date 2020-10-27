@@ -863,7 +863,7 @@
         "folioid": "bpl144_cover_",
         "folionr": "cover",
         "foliofilename": "UB_BPL_144_cover.jpg",
-        "foliodescription": "Leiden, UB, BPL 144: manuscript made in the 12th century",
+        "foliodescription": "Leiden, UB, BPL 144",
         "foliosource": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
@@ -2382,6 +2382,34 @@
         "foliotype": "r",
         "foliofilename": "7900Acover.jpg",
         "foliodescription": "Paris, BnF, lat. 7900A",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_cover",
+        "folionr": "cover",
+        "foliofilename": "bpl88_cover.jpg",
+        "foliodescription": "Leiden, UB, BPL 88",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_2_vc",
+        "folionr": 2,
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f2 _v.jpg",
+        "foliodescription": "Leiden, UB, BPL 88, f. 2v-3r",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "manuscript_id": "bnf790",
+        "folioid": "bnf790_27_rb",
+        "folionr": 27,
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_7900A_f27_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 7900A, f. 27r",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     }
 ]
