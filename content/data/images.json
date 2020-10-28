@@ -2101,7 +2101,7 @@
     {
         "img_file_name": "88f171r.jpg",
         "alttext": "Leiden, UB, BPL 88, f. 171r (photo MT): In the lower margin, a note explains the background of a passage about Diana (the godess of the Moon): \"Hic tangit fabulam. Nam Iovis adamavit Dianam ...\" (This connects to a fable. For Jove was in love with Diana ...\").",
-        "description": "Leiden, UB, BPL 88, f. 171r (photo MT)",
+        "description": "Leiden, UB, BPL 88, f. 171r (photo MT): In this gloss, background information about the mythological tradition of Diana and Jove is added to aid the reader in understanding fleeting allusions.",
         "resource": "Universiteitsbibliotheek Leiden eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
@@ -2836,7 +2836,7 @@
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
-        "img_file_name": "144f83r.jpg",
+        "img_file_name": "144f83.jpg",
         "alttext": "Leiden UB BPL 144 f.83r",
         "description": "Leiden, UB, BPL 144, f. 83r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
@@ -2857,14 +2857,14 @@
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
-        "img_file_name": "bnf790_116_r",
+        "img_file_name": "bnf790_116_r.jpg",
         "alttext": "Paris, BnF, lat.7900A, f. 116r",
         "description": "Paris, BnF, lat.7900A, f. 116r",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
-        "img_file_name": "bnf790_116_v",
+        "img_file_name": "bnf790_116_v.jpg",
         "alttext": "Paris, BnF, lat.7900A, f. 116v",
         "description": "Paris, BnF, lat.7900A, f. 116v",
         "resource": "Gallica",
@@ -2890,5 +2890,47 @@
         "description": "Paris, BnF, lat.7900A, f. 128r",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "7900Af132v.jpg",
+        "alttext": "Paris, BnF, lat.7900A, f. 132v",
+        "description": "Paris, BnF, lat.7900A, f. 132v (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "17806f6r.jpg",
+        "alttext": "BnF lat. 17806 f.6r",
+        "description": "Paris, BnF, lat. 17806, f. 6r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806f8v.jpg",
+        "alttext": "BnF lat. 17806 f.8v",
+        "description": "Paris, BnF, lat. 17806, f. 8v (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806f9r.jpg",
+        "alttext": "BnF lat. 17806 f.9r",
+        "description": "Paris, BnF, lat. 17806, f. 9r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "88f172v2.jpg",
+        "alttext": "UB BPL 88 f.172v",
+        "description": "Leiden, UB, BPL 88, f. 172v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "img_file_name": "139f39v2.jpg",
+        "alttext": "Leiden UB BPL 139B f.39v",
+        "description": "Leiden, BPL 139B, f. 39v (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     }
 ]
