@@ -2411,5 +2411,56 @@
         "foliofilename": "BnF_lat_7900A_f27_r.jpg",
         "foliodescription": "Paris, BnF, lat. 7900A, f. 27r",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "48f2r",
+        "folionr": 2,
+        "foliotype": "r",
+        "foliofilename": "48f2r.jpg",
+        "foliodescription": "Leiden, UB, VLF 48, f. 2r",
+        "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "manuscript_id": "vlf48",
+        "folioid": "48f2r2",
+        "folionr": 2,
+        "foliotype": "r",
+        "foliofilename": "48f2r2.jpg",
+        "foliodescription": "Leiden, UB, VLF 48, f. 2r",
+        "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_fl",
+        "folionr": "fl",
+        "foliofilename": "bnf292_fl.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave IV",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_IIIr",
+        "folionr": "IIr",
+        "foliofilename": "bnf292_lllr.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave IIIr",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_vv",
+        "folionr": "vv",
+        "foliofilename": "bnf292_vv.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave VV",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_178_v",
+        "folionr": 178,
+        "foliotype": "v",
+        "foliofilename": "bnf292_178_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, f. 178v",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     }
 ]

@@ -351,6 +351,7 @@
         "file_name": "bnflat12949",
         "template_file": "manuscript-item",
         "page_id": "bnf129",
+        "docx_file": "VE12949",
         "thme": "manuscripts"
     },
     {
@@ -377,5 +378,29 @@
         "template_file": "manuscript-item",
         "page_id": "bnf146",
         "thme": "manuscripts"
+    },
+    {
+        "id": "bnf292",
+        "order": 12,
+        "location": "Paris",
+        "shelfmark": "Paris, BnF, lat. 2923",
+        "title": "Petrus Abaelard,  Berengarius Pictavensis and other texts",
+        "dateS1": 1275,
+        "dateS2": 1300,
+        "dateE1": 1300,
+        "dateE2": 2020,
+        "origin": "Paris?",
+        "orilatlon": "2.343306, 48.855865",
+        "library": "Bibliothèque nationale de France",
+        "loclatlon": "2.338328, 48.866847",
+        "material": "Parchment",
+        "dimensions": "240 x ? mm",
+        "foliation": 388,
+        "contents": "Letters of Abelard, Heloise, Berengar of Poitiers, Cassiodorus, Stephen of Tournai and two treatises on the composition of letters (artes dictaminis)",
+        "language": "Latin",
+        "type": "manuscript",
+        "docx_file": "VE2923",
+        "file_name": "bnflat2923",
+        "template_file": "manuscript-item"
     }
 ]
