@@ -372,8 +372,8 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('&quot; \\l &quot;', '#'))
 
           .pipe(replace('±meta±', manuscriptMeta))
-          .pipe(replace('±timeline±', showTl))
-          .pipe(replace('±map±', showMap))
+          .pipe(replace('<p>±timeline±</p>',''))
+          .pipe(replace('<p>±map±</p>', ''))
 
           .pipe(each(function(content, file, callback) {
             // replace images and theme names

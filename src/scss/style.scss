@@ -317,3 +317,14 @@ h4 {
 .hideSvg {
 	display: none;
 }
+
+.msHide {
+	.aoRow {
+		display: none;
+	}
+}
+
+#rm1 {
+	transform:translate(0px,-200px);
+	display: block;
+}

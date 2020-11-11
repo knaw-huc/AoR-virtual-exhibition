@@ -265,6 +265,7 @@ function closeNote() {
 }
 
 function modalLoad(id) {
+  console.log(id);
   document.getElementById(id).style.display = 'flex';
 }
 
@@ -379,4 +380,15 @@ function handleMapG(clsName) {
     for (i = 0; i < handleTabLabel.length; i++) {
       handleTabLabel[i].style.display = 'block';
   }
+}
+
+function showReadMore() {
+
+  var hidddenHide = document.querySelector(".msHide");
+  var hiddden = hidddenHide.querySelectorAll(".aoRow");
+
+  for (i = 0; i < hiddden.length; i++) {
+    hiddden[i].style.display = 'flex';
+  }
+  document.getElementById("rm1").style.display = 'block';
 }

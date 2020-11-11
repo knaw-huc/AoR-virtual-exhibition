@@ -1904,7 +1904,7 @@
     {
         "img_file_name": "12949f23v.jpg",
         "alttext": "Paris, BnF. Lat. 12949, f.23v",
-        "description": "Paris, BnF. Lat. 12949, f. 23v",
+        "description": "Paris, BnF. Lat. 12949, f. 23v (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -2152,7 +2152,7 @@
     {
         "img_file_name": "aristotle.jpg",
         "alttext": "Angers, Bibliothèque Municipale, MS 0478 (0462), p. 28.",
-        "description": "Angers, Bibliothèque Municipale, MS 478 (462) (manuscript from around 1400, made in England), p. 28: Portrait of Aristotle",
+        "description": "Angers, Bibliothèque Municipale, MS 478 (462) (manuscript from around 1400, made in England), p. 28 (detail): Portrait of Aristotle",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/13788"
     },
@@ -3059,5 +3059,61 @@
         "description": "Abelard and Heloise engaged in discussion. Roman de la Rose, Paris, BnF, Département des manuscrits Français, ms. 1560, f. 58b Normandie, 1300-1340",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000318d/f133.item.r=manuscrits%20francais%201560"
+    },
+    {
+        "img_file_name": "12949tail.jpg",
+        "alttext": "Paris, BnF, lat. 12949",
+        "description": "Paris, BnF, lat. 12949",
+        "resource": "Photo Renee Schilling",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "12949f12rfr.jpg",
+        "alttext": "BnF lat 12949 f.12r",
+        "description": "BnF lat 12949 f.12r (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "12949f12rfr1.jpg",
+        "alttext": "BnF lat 12949 f.12r",
+        "description": "BnF lat 12949 f.12r (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "12949f24rfr2.jpg",
+        "alttext": "Paris, BnF, Lat. 12949, f. 24r",
+        "description": "Paris, BnF, Lat. 12949, f. 24r (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "12949f52vfr.jpg",
+        "alttext": "BnF lat 12949 f.52v",
+        "description": "Paris, BnF, lat. 12949, f. 52v (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "12949f27v.jpg",
+        "alttext": "BnF lat 12949 f.27v",
+        "description": "BnF lat 12949 f.27v (detail)",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "grec510.jpg",
+        "alttext": "Paris, BnF, Grec 510, late ninth century, f. 355r",
+        "description": "Paris, BnF, Grec 510, late ninth century, f. 355r",
+        "resource": "Bibliotheque Nationale de France",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84522082/f723.item.r=Grec%20510%20Gregorius#"
+    },
+    {
+        "img_file_name": "7900f132v133r.jpg",
+        "alttext": "Paris, BnF, lat.7900A, f. 132v-133r",
+        "description": "Paris, BnF, lat. 7900A, f. 132v and 133r: The opening of Martianus’ chapter on dialectic, with Remigius' commentary (on the right, encircled) and a pen drawing of Lady Dialectic on the left.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     }
 ]

@@ -69,7 +69,7 @@ function combineJson(){
     "navigation_file": "nav-manuscripts"
   })
   siteJson[0].manuscriptsList = manuscriptJson;
-  siteJson[26].manuscriptsList = manuscriptJson; //manuscript page
+  siteJson[27].manuscriptsList = manuscriptJson; //manuscript page
   siteJson[7].portaitList = portaits; //portait page
 
 
