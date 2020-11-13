@@ -648,11 +648,11 @@
     },
     {
         "multipeimageid": 14614,
-        "alleenfolioid": "bnf146_130_r"
+        "afbeelding": "14614f130r.jpg"
     },
     {
         "multipeimageid": 14614,
-        "alleenfolioid": "bnf146_130_v"
+        "afbeelding": "14614f130v.jpg"
     },
     {
         "multipeimageid": "tironian",
@@ -858,7 +858,8 @@
         "afbeelding": "16598f37r2.jpg"
     },
     {
-        "multipeimageid": "carnegie"
+        "multipeimageid": "carnegie",
+        "afbeelding": "carnegief158.jpg"
     },
     {
         "multipeimageid": "bpl139_39_v",
@@ -899,5 +900,29 @@
     {
         "multipeimageid": "bpl84_89_v",
         "afbeelding": "84f89v2.jpg"
+    },
+    {
+        "multipeimageid": 13368,
+        "afbeelding": "13368f128r.jpg"
+    },
+    {
+        "multipeimageid": 13368,
+        "afbeelding": "13368f156r.jpg"
+    },
+    {
+        "multipeimageid": "tours2",
+        "afbeelding": "tours2.jpg"
+    },
+    {
+        "multipeimageid": "reims",
+        "afbeelding": "reims.jpg"
+    },
+    {
+        "multipeimageid": 128,
+        "afbeelding": "128p3.jpg"
+    },
+    {
+        "multipeimageid": 128,
+        "afbeelding": "128p4.jpg"
     }
 ]

@@ -753,8 +753,6 @@ h4 {
   border-bottom: 1px solid #cdb898;
   display: block;
   cursor: pointer; }
-  .themeItemSummary a {
-    text-decoration: underline; }
 
 .timeline {
   font-size: 10px; }

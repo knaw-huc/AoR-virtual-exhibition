@@ -1554,16 +1554,16 @@
     {
         "img_file_name": "712.jpg",
         "alttext": "Schoyen Collection, ms 712",
-        "description": "The Schoyen Collection, Ms. 712: Rebdorf Psalter with a gloss from Anselm of Laon",
+        "description": "The Rebdorf Psalter, with glosses of Anselm of Laon. Schønberg collection, ms 712. Germany, first half of the twelfth century.",
         "resource": "Schoyen Collection",
-        "hyperlink": "https://www.schoyencollection.com/bible-collection-foreword/latin-bible-translation/rebdorf-psalter-ms-712"
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:The_Rebdorf_Psalter_Gloss_by_Anselm.jpg"
     },
     {
         "img_file_name": "disputing3.jpg",
         "alttext": "Valenciennes, BM, 396, f. 167",
-        "description": "Valenciennes, BM, Ms. 396 (379) (manuscript made in Northern France, c. 1250-1275, Papias the Grammarian, Elementarium doctrinae rudimentum), f. 167r: disputing masters",
-        "resource": "Initiale",
-        "hyperlink": "http://initiale.irht.cnrs.fr/decor/95961"
+        "description": "Disputing masters. Valenciennes, BM, ms. 396, f. 167. Northern France, thirteenth century. Papias the Grammarian, Elementarium doctrinae rudimentum, dictionary, c. 1053",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1315735"
     },
     {
         "img_file_name": "13368.jpg",
@@ -3115,5 +3115,68 @@
         "description": "Paris, BnF, lat. 7900A, f. 132v and 133r: The opening of Martianus’ chapter on dialectic, with Remigius' commentary (on the right, encircled) and a pen drawing of Lady Dialectic on the left.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "2200f58.jpg",
+        "alttext": "Paris, Bibliothèque Sainte-Geneviève, ms. 2200, f. 58",
+        "description": "A master teaching dialectic. Paris, Bibliothèque Sainte-Geneviève, ms. 2200, f. 58. Therouanne or Saint-Omer, 1276-7. Gossuin de Metz, Image du monde.",
+        "resource": "BVMM",
+        "hyperlink": "https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1359916"
+    },
+    {
+        "img_file_name": "14614f117rfr.jpg",
+        "alttext": "Paris, BnF, lat. 14614, f.117r",
+        "description": "Paris, BnF, lat. 14614, f.117r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
+    },
+    {
+        "img_file_name": "14614f130r.jpg",
+        "alttext": "Paris, BnF, lat. 14614, f.130r",
+        "description": "Paris, BnF, lat. 14614, f.130r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
+    },
+    {
+        "img_file_name": "14614f130v.jpg",
+        "alttext": "Paris, BnF, lat. 14614, f.130v",
+        "description": "Paris, BnF, lat. 14614, f.130v (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
+    },
+    {
+        "img_file_name": "glosule.jpg",
+        "alttext": "Paris, BnF, NAL 1623, f. 15v",
+        "description": "Glosule on Priscian. Paris, BnF, NAL 1623, f. 15v. Fragment of a manuscript from Fleury-de-Loire 12th century.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b52504523s"
+    },
+    {
+        "img_file_name": "13368f146r.jpg",
+        "alttext": "Paris, BnF, ms. lat. 13368, f. 146r",
+        "description": "Paris, BnF, ms. lat. 13368, f. 146r (detail). Abbey of Fleury, twelfth century.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b52504523s"
+    },
+    {
+        "img_file_name": "13368f128r.jpg",
+        "alttext": "Paris, BnF, ms. lat. 13368, f. 128r",
+        "description": "Paris, BnF, ms. lat. 13368, f. 128r (detail: top of the page)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b52504523s"
+    },
+    {
+        "img_file_name": "13368f156r.jpg",
+        "alttext": "Paris, BnF, ms. lat. 13368, f. 156r",
+        "description": "Paris, BnF, ms. lat. 13368, f. 156r (detail: middle of the page)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b52504523s"
+    },
+    {
+        "img_file_name": "14479f53v.jpg",
+        "alttext": "Bayerische Staatsbibliothek, Clm 14479, f. 53v.",
+        "description": "Munich, Bayerische Staatsbibliothek, Clm 14479, f. 53v. Regensburg, St.Emmeram, 14th century",
+        "resource": "Bayerische Staatsbibliothe",
+        "hyperlink": "https://daten.digitale-sammlungen.de/0004/bsb00046316/images/index.html?id=00046316&seite=108&fip=193.174.98.30&nativeno=&groesser=200%25"
     }
 ]
