@@ -6,32 +6,35 @@
   <div class="aoWrapper aoRContent">
     <div class="aoRow aoRowIntro msHide">
       <div class="aoCol1Span msAfter">
-        <div class="aoIntroTitle"><h1>{{title}}</h1></div>
-        <div class="aoIntroTextCols">{{> (lookup . 'docx_file') }}</div></div>
+        <div class="aoIntroTitle">
+          <h1>{{title}}</h1>
+        </div>
+        <a id="rm1" href="#" onClick="showReadMore(); return false;">Introduction to the manuscript portraits.</a>
+        <div id="rmb1" class="aoIntroTextCols">{{> (lookup . 'docx_file') }}</div>
       </div>
     </div>
-    <a id="rm1" href="#" onClick="showReadMore(); return false;">Read more...</a>
 
 
-      <div class="">
+
+    <div class="" id="rmb2">
       {{> timeline}}
-      </div>
+    </div>
 
-      <div class="" style="padding-bottom: 3rem;">
+    <div id="rmb3" class="" style="padding-bottom: 3rem;">
       {{> map}}
-      </div>
+    </div>
 
-      <div class="aorManuscriptCrdList aoRow">
-          {{#each manuscriptsList}}
-              {{>manuscriptCard}}
-          {{/each}}
-      </div>
-</div>
-
-
+    <div class="aorManuscriptCrdList aoRow">
+      {{#each manuscriptsList}}
+        {{>manuscriptCard}}
+      {{/each}}
+    </div>
+  </div>
 
 
 
 
-{{> page-foot}}
-{{> html-foot}}
+
+
+  {{> page-foot}}
+  {{> html-foot}}

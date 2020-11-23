@@ -1,3 +1,4 @@
+
 [
     {
         "img_file_name": "classroom.jpg",
@@ -63,7 +64,10 @@
     },
     {
         "img_file_name": "ladydialectica.jpg",
-        "alttext": "nog aanvragen"
+        "alttext": "Facsimile made in 1818 of a lost original of Herrad of Landsberg, Hortus Deliciarum",
+        "description": "Detail from an illustration in the Hortus deliciarum, the first encyclopedia written by a woman. The author is Herrad of Landsberg, abbess of Hohenberg. The manuscript was made around 1180 and kept in the Bibliothèque municipale of Strassbourg. It was destroyed in a fire in 1870, but several copies of the illustrations were made in the course of the 19th century. This reproduction was made in 1818.",
+        "resource": "Heidelberg UB",
+        "hyperlink": "https://digi.ub.uni-heidelberg.de/diglit/engelhardt1818bd2/0001/image"
     },
     {
         "img_file_name": "university.jpg",
@@ -302,7 +306,7 @@
     {
         "img_file_name": "11127f119v.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.119v",
-        "description": "Paris, BnF, lat. 11127 f. 119v",
+        "description": "Paris, BnF, lat. 11127, opening ff. 119v-120r (photo IO'D)",
         "resource": "eigen foto",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
@@ -362,9 +366,9 @@
         "resource": "photo MT"
     },
     {
-        "img_file_name": "103f1r.jpg",
+        "img_file_name": "103f1rb.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT) Opening of Cicero’s De inventione",
         "resource": "photo MT"
     },
     {
@@ -375,8 +379,8 @@
     },
     {
         "img_file_name": "103f102r.jpg",
-        "alttext": "Leiden, UB, VLQ 103 f.102r",
-        "description": "Leiden, UB, VLQ 103, f. 102r (photo MT)",
+        "alttext": "Leiden, UB, VLQ 103 f.102v",
+        "description": "Leiden, UB, VLQ 103, f. 102v (photo MT)",
         "resource": "photo MT"
     },
     {
@@ -730,7 +734,7 @@
     {
         "img_file_name": "orleans2.jpg",
         "alttext": "Orleans, BM MS 0277, p.1",
-        "description": "Orléans, BM, MS 277, p. 1",
+        "description": "Orléans, BM, MS 277, p. 1 (detail): 'Abbo's name is written on the neck of this face decorating the opening of the tex",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/codex/3009/8089"
     },
@@ -744,7 +748,7 @@
     {
         "img_file_name": "scaliger.jpg",
         "alttext": "Leiden UB, Scaliger MS 38, f. 2r.",
-        "description": "Leiden UB, Scaliger MS 38, ff.1v-2r",
+        "description": "Leiden UB, Scaliger MS 38, ff.1v-2r. Musical notation has been added on f. 1v; the syllables of the words have been arranged to mirror the rise and fall of singing voices.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:882068"
     },
@@ -779,14 +783,14 @@
     {
         "img_file_name": "7740.jpg",
         "alttext": "BnF lat. 7740, f. 1r",
-        "description": "Decorated initial from BnF lat. 7740, f. 1r, depicting Cicero and Plato arguing over the nature of rhetoric.",
+        "description": "Paris, BnF, lat. 7740, f. 1r (detail): Decorated initial depicting Cicero and Plato arguing over the nature of rhetoric.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b100343611"
     },
     {
         "img_file_name": "vlq33.jpg",
         "alttext": "Leiden UB, VLQ 33, f. 1v",
-        "description": "Leiden UB, VLQ 33, f. 1v: Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures (philosophers?) dressed in antiquated clothing.",
+        "description": "Leiden UB, VLQ 33, f. 1v (photo IO'D): Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures (philosophers?) dressed in antiquated clothing.",
         "hyperlink": "https://www.flickr.com/people/medievalfragments/"
     },
     {
@@ -1162,7 +1166,7 @@
     {
         "img_file_name": "103f1r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT): Opening of Cicero’s De inventione. This manuscript was part of Richard’s collection (Biblionomia, 27), before being included in Gerard d’Abbeville’s bequest to the Sorbonne.",
+        "description": "Leiden, UB, VLQ 103, f. 1r (photo MT): Opening of Cicero’s De inventione",
         "resource": "photo MT"
     },
     {
@@ -1205,7 +1209,7 @@
     {
         "img_file_name": "dialecticahead.jpg",
         "alttext": "Bnf lat 7900A f.132v",
-        "description": "Paris, BnF, lat. 7900A, f. 132v: The illustrator depicts Dialectic with soft, flowing hair that does not look in the least tangled. A matter of fashion?",
+        "description": "Paris, BnF, lat. 7900A, f. 132v: The illustrator depicts Dialectic with soft, flowing hair that does not look in the least tangled.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
@@ -1224,7 +1228,7 @@
     {
         "img_file_name": "dialecticahook.jpg",
         "alttext": "Bnf lat 7900A f.132v",
-        "description": "Paris, BnF, lat. 7900A, f. 132v (detail)",
+        "description": "Paris, BnF, lat. 7900A, f. 132v (detail). \n\nNote how\nthe illustrator has moved the hook from Dialectic’s right hand (where Martianus placed it) to her left. Perhaps he considered it impossible to hold wax tablets ánd a hook in one hand. ",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
@@ -1246,7 +1250,8 @@
         "img_file_name": "adameve.jpg",
         "alttext": "El Escorial, Biblioteca del monasterio, cod. & II, 5, s. 10, f. 18r",
         "description": "El Escorial, Biblioteca del monasterio, cod. & II, 5, s. 10, f. 18r Beatus de Liébana, Commentary on the Apocalypse",
-        "resource": "Biblioteca del monasterio"
+        "resource": "Biblioteca del monasterio",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:B_Escorial_18.jpg"
     },
     {
         "img_file_name": "prosper.jpg",
@@ -1271,7 +1276,7 @@
     },
     {
         "img_file_name": "chartres.jpg",
-        "description": "West door, Cathedral of Chartres, c. 1150. The throne of wisdom, framed by the liberal arts. The complex iconographical program is believed to have been designed by the scholar Thierry of Chartres, chancellor of the cathedral school from 1141 to c. 1155. Famous twelfth-century scholars such as William of Conches, John of Salisbury and Gilbert of Poitiers studied in Chartres."
+        "description": "West door, Cathedral of Chartres, c. 1150. The throne of wisdom, framed by the liberal arts. The complex iconographical program is believed to have been designed by the scholar Thierry of Chartres, chancellor of the cathedral school from 1141 to c. 1155. Famous twelfth-century scholars such as William of Conches and Gilbert of Poitiers studied in Chartres."
     },
     {
         "img_file_name": "chartres2.jpg",
@@ -1299,7 +1304,7 @@
     {
         "img_file_name": "admont2.jpg",
         "alttext": "Admont, Benediktinerstift, Cod. 128, f. 13v",
-        "description": "Admont, Benediktinerstift, Cod. 128, f. 13v: The attribute of the treacherous serpent has disappeared. It is replaced by rational, step by step argumentation.",
+        "description": "Admont, Benediktinerstift, Cod. 128, f. 13v (detail)",
         "resource": "https://manuscripta.at/",
         "hyperlink": "https://manuscripta.at/?ID=26018"
     },
@@ -1442,7 +1447,7 @@
     {
         "img_file_name": "council3.jpg",
         "alttext": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 6v",
-        "description": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 6v",
+        "description": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 6v. Photo: Warren Pezé",
         "resource": "Photo: Warren Pezé"
     },
     {
@@ -1468,7 +1473,7 @@
     {
         "img_file_name": "reims.jpg",
         "alttext": "Reims, BM, 385, s. IX, f. 154r",
-        "description": "Reims, Bibliothèque Carnegie, Ms. 385 (9th century), f. 154r: Felix, Confessio fidei.  “Profession of faith of Felix bishop of the see of Urgel which he brought forth himself to spurn his error”",
+        "description": "Reims, Bibliothèque Carnegie, Ms. 385 (9th century), f. 154r.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w"
     },
@@ -1735,7 +1740,7 @@
     {
         "img_file_name": "rippol.jpg",
         "alttext": "Paris, BnF, lat. 4886, f. 48v",
-        "description": "Paris, BnF, lat. 4886, 11th c., f. 48v",
+        "description": "Paris, BnF, lat. 4886, 11th c., f. 48v. Photo Irene van Renswoude",
         "resource": "Photo Irene van Renswoude",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10540997j"
     },
@@ -1803,14 +1808,14 @@
     {
         "img_file_name": "tours.jpg",
         "alttext": "Paris, BnF, lat. 1572, f. 79r",
-        "description": "Paris, BnF, lat. 1572, 8th c., f. 79r",
+        "description": "Paris, BnF, lat. 1572, 8th c., f. 79r. Photo Irene van Renswoude.",
         "resource": "Photo Irene van Renswoude",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9078172j?rk=21459;2"
     },
     {
         "img_file_name": "tours2.jpg",
         "alttext": "Paris, BnF, lat. 2848, f. 1r.",
-        "description": "Paris, BnF, lat. 2848, f. 1r",
+        "description": "Paris, BnF, lat. 2848, f. 1r. Photo and copyright: Bibliothèque nationale de France, Paris.",
         "resource": "Photo and copyright: Bibliothèque nationale de France, Paris",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90659686"
     },
@@ -1838,7 +1843,7 @@
     {
         "img_file_name": "gal136.jpg",
         "alttext": "St. Gallen, Stiftsbibliothek, Cod. sang. 134, p. 2",
-        "description": "St. Gallen, Stiftsbibliothek ms. 136, p. 2 (= f. 1v) (detail)",
+        "description": "St. Gallen, Stiftsbibliothek ms. 134, p. 2 (= f. 1v) (detail)",
         "resource": "e-codices",
         "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0134"
     },
@@ -1852,7 +1857,7 @@
     {
         "img_file_name": "reims4.jpg",
         "alttext": "Reims, BM, Bibliothèque Carnegie, ms. 385, f. 159 (detail)",
-        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385, f. 159 (detail)",
+        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385, f. 159 (detail) “novi prudentiam vestram optime in dialecticae eruditam esse”",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w/f321.image"
     },
@@ -1885,10 +1890,11 @@
         "hyperlink": "https://manuscripta.at/images/AT/6000/AT6000-516/AT6000-516_VDS.jpg"
     },
     {
-        "img_file_name": "problemata.jpg",
+        "img_file_name": "problematafull.jpg",
         "alttext": "Paris, BnF. lat. 14511, f. 17v-18r",
-        "description": "Heloise, Problemata, Paris, BnF, ms. Lat. 14511, St. Victor, late 14th, early 15th c., f. 18r (detail)",
-        "resource": "photo and copyright: Bibliothèque nationale de France, Paris."
+        "description": "Heloise, Problemata, Paris, BnF, ms. Lat. 14511, St. Victor, late 14th, early 15th c., f. 18r. Photo and copyright: Bibliothèque nationale de France, Paris.",
+        "resource": "photo and copyright: Bibliothèque nationale de France, Paris.",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9068387d.r=14511?rk=21459;2"
     },
     {
         "img_file_name": "problemata2.jpg",
@@ -1899,6 +1905,7 @@
     },
     {
         "img_file_name": "12949notes.jpg",
+        "alttext": "Paris, BnF. Lat. 14511, f. 44v",
         "resource": "BnF, photo IvR"
     },
     {
@@ -1909,7 +1916,7 @@
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
-        "img_file_name": "12949f23bisrfr",
+        "img_file_name": "12949f23bisrfr.jpg",
         "alttext": "Paris, BnF. Lat. 12949, f.23 bis r",
         "description": "Paris, BnF, Lat. 12949, f. 23v: Underlined are: versuS iohanni Scotti, bedae, Virgilii, Prudentii, Persii, epitaphium sancti augustini. “Vivere post obitus vatem vis nosse viator? Quod legis, ecce loquor, vox tua nempe mea est” “Passerby, do you wish to know how poets still live after death? Those words you read, behold I speak. Your voice is very much mine” [Possidius, Vita Augustini, 3.18]",
         "resource": "Gallica",
@@ -2485,7 +2492,7 @@
     {
         "img_file_name": "139f42r.jpg",
         "alttext": "Leiden UB BPL 139B f.42r",
-        "description": "Leiden, UB, BPL 139B, f. 33v (detail).",
+        "description": "Leiden, UB, BPL 139B, f. 42r (detail).",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
     },
@@ -2520,7 +2527,7 @@
     {
         "img_file_name": "84f57v.jpg",
         "alttext": "Leiden UB BPL 84 f.57v",
-        "description": "Leiden, UB, BPL 84, f. 57v-58r",
+        "description": "Leiden, UB, BPL 84, f. 57v",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
@@ -3037,14 +3044,14 @@
         "alttext": "St. Gallen, Stiftsbibliothek, ms. 128, p. 3",
         "description": "St. Gallen, Stiftsbibliothek, ms. 128, p. 3 (detail)",
         "resource": "e-codices",
-        "hyperlink": "https://www.e-codices.unifr.ch/en/csg/0128/3/0/Sequence-320"
+        "hyperlink": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0128"
     },
     {
         "img_file_name": "128p4.jpg",
         "alttext": "St. Gallen, Stiftsbibliothek, ms. 128, p. 4",
         "description": "St. Gallen, Stiftsbibliothek, ms. 128, p. 4 (detail)",
         "resource": "e-codices",
-        "hyperlink": "https://www.e-codices.unifr.ch/en/csg/0128/3/0/Sequence-320"
+        "hyperlink": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0128"
     },
     {
         "img_file_name": "carnegief158.jpg",
@@ -3178,5 +3185,77 @@
         "description": "Munich, Bayerische Staatsbibliothek, Clm 14479, f. 53v. Regensburg, St.Emmeram, 14th century",
         "resource": "Bayerische Staatsbibliothe",
         "hyperlink": "https://daten.digitale-sammlungen.de/0004/bsb00046316/images/index.html?id=00046316&seite=108&fip=193.174.98.30&nativeno=&groesser=200%25"
+    },
+    {
+        "img_file_name": "aristotleteaching.jpg",
+        "alttext": "Paris, Bibliothèque Mazarine, Ms. 3461, f. 1r",
+        "description": "Paris, Bibliothèque Mazarine, Ms. 3461, f. 1r (detail): portriat of Aristotle teaching",
+        "resource": "Initiale",
+        "hyperlink": "http://initiale.irht.cnrs.fr/codex/7213/9729"
+    },
+    {
+        "img_file_name": "315p53.jpg",
+        "alttext": "Einsiedeln, SB, Cod. 315(605), p. 53",
+        "description": "Einsiedeln, Stiftsbibliothek, Codex 315(605), p. 53 – Boethius, Isagoge",
+        "resource": "e-codices.ch",
+        "hyperlink": "http://www.e-codices.ch/en/sbe/0315/53"
+    },
+    {
+        "img_file_name": "84f44vdetail",
+        "alttext": "Leiden, UB, BPL 84, f. 44v (detail)",
+        "description": "Leiden, UB, BPL 84, f. 44v (detail)",
+        "resource": "Leiden UB",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f8rdetail",
+        "alttext": "Leiden, UB, BPL 84, f. 8r (detail)",
+        "description": "Leiden, UB, BPL 84, f. 8r (detail)",
+        "resource": "Leiden UB",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "16598f46r.jpg",
+        "alttext": "Paris, BnF, lat. 16598, f. 46r",
+        "description": "Paris, BnF, lat. 16598, f. 46r (detail)",
+        "resource": "photo I'OD"
+    },
+    {
+        "img_file_name": "ein305f6.jpg",
+        "alttext": "Einsiedeln, SB, Cod. 315(605), p. 6",
+        "description": "Einsiedeln, SB, Cod. 315(605), p. 6",
+        "resource": "e-codices.ch",
+        "hyperlink": "http://www.e-codices.ch/en/sbe/0315/53"
+    },
+    {
+        "img_file_name": "84f58r.jpg",
+        "alttext": "Leiden UB BPL 84 f.58r",
+        "description": "Leiden, UB, BPL 84, f. 58r",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "84f83v2.jpg",
+        "alttext": "Leiden UB BPL 84 f.84r",
+        "description": "Leiden, UB, BPL 84, f. 84r (detail)",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "romanrose3.jpg",
+        "alttext": "Paris, BnF, Département des manuscrits Français, ms. 1560, f. 58b",
+        "description": "Abelard and Heloise engaged in discussion. Roman de la Rose, Paris, BnF, Département des manuscrits Français, ms. 1560, f. 58b (detail) Normandie, 1300-1340",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000318d/f133.item.r=manuscrits%20francais%201560"
+    },
+    {
+        "img_file_name": "boethiuswiki.jpg"
+    },
+    {
+        "img_file_name": "dialectica3.jpg",
+        "alttext": "Bnf lat 7900A f.132v",
+        "description": "Paris, BnF, lat. 7900A, f. 132v (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     }
 ]

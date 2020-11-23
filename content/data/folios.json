@@ -1,3 +1,4 @@
+
 [
     {
         "manuscript_id": "aru348",
@@ -790,7 +791,7 @@
         "folionr": 41,
         "foliotype": "r",
         "foliofilename": "UB_BPL_139_f41_r.jpg",
-        "foliodescription": "Leiden, UB, BPL 139B, f. 41r",
+        "foliodescription": "Leiden, UB, BPL 139B, opening ff. 40v-41r",
         "foliosource": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
@@ -799,7 +800,7 @@
         "folionr": 41,
         "foliotype": "v",
         "foliofilename": "UB_BPL_139_f41_v.jpg",
-        "foliodescription": "Leiden, UB, BPL 139B, f. 41v",
+        "foliodescription": "Leiden, UB, BPL 139B, opening ff. 41v-42r",
         "foliosource": "http://hdl.handle.net/1887.1/item:1687093"
     },
     {
@@ -1924,7 +1925,7 @@
         "folionr": 68,
         "foliotype": "v",
         "foliofilename": "UB_GRO_22_f68_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22, f. 68v",
+        "foliodescription": "Leiden, UB, GRO 22, opening ff. 68v-69r",
         "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
@@ -1933,7 +1934,7 @@
         "folionr": 13,
         "foliotype": "v",
         "foliofilename": "UB_GRO_22_f13_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22, f. 13v-14r",
+        "foliodescription": "Leiden, UB, GRO 22, ff. 13v-14r",
         "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {

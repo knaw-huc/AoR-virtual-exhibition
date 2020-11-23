@@ -170,6 +170,8 @@ gulp.task('getJinfo', function (cb) {
   exec('gsjson 1bPIe6bKr6LdYvDpOne2p6UJH6hczuoJpa3_KA6ts-s4 >> content/data/extraInfo.json -b', function (err, stdout, stderr) { cb(err); });
 })
 
+
+
 //
 gulp.task('getj', gulp.series('cleanJson', 'getJSite', 'getJImages', 'getJThemes', 'getJMeta', 'getJFolio', 'getJFolioParts','getJMul', 'getJinfo', function (done) {
   done();
