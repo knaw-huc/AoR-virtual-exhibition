@@ -393,5 +393,5 @@ function showReadMore() {
   document.getElementById("rm1").style.display = 'block';
   document.getElementById("rmb1").style.display = 'flex';
   document.getElementById("rmb2").style.display = 'block';
-  document.getElementById("rmb2").style.display = 'block';
+  document.getElementById("rmb3").style.display = 'block';
 }

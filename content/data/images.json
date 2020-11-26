@@ -573,6 +573,7 @@
         "img_file_name": "11127f94r.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.94r",
         "description": "Paris, BnF, lat. 11127, f. 94r",
+        "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
@@ -3257,5 +3258,26 @@
         "description": "Paris, BnF, lat. 7900A, f. 132v (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "img_file_name": "11127f94rfr.jpg",
+        "alttext": "Paris, BnF, lat. 11127 f.94r",
+        "description": "Paris, BnF, lat. 11127, f. 94r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
+    },
+    {
+        "img_file_name": "84f48r.jpg",
+        "alttext": "Leiden, UB, BPL 84, f. 48r (detail)",
+        "description": "Leiden, UB, BPL 84, f. 48r (detail)",
+        "resource": "Leiden UB",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
+        "img_file_name": "chainedbooks.jpg",
+        "alttext": "Chained library, Wimborne Minster",
+        "description": "Chained library, Wimborne Minster",
+        "resource": "Wikimedia Commons",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Chained_library,_Wimborne_Minster_2.jpg"
     }
 ]

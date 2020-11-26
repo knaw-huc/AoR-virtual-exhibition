@@ -568,6 +568,7 @@ function handletextPre(content) {
     content = content.replace(/<p>±col3±<br \/>/g, "<p>±col3±</p><p>");
     content = content.replace(/<p>±row±<br \/>/g, "<p>±row±</p><p>");
     content = content.replace(/<p>±col1± <\/p>/g, "<p>±col1±</p>");
+    content = content.replace(/<p>±col1span±<br \/>/g, "<p>±col1span±</p><p>");
 
 
 

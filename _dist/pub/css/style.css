@@ -783,3 +783,7 @@ h4 {
 
 #rmb1, #rmb2, #rmb3 {
   display: none; }
+
+.capital {
+  text-transform: capitalize;
+  cursor: pointer; }
