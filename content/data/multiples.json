@@ -1,4 +1,3 @@
-
 [
     {
         "multipeimageid": "bnf178_8_v_9_r",
@@ -290,7 +289,7 @@
     },
     {
         "multipeimageid": "103_62_r_62_r_fr",
-        "afbeelding": "103f62r.jpg"
+        "afbeelding": "103f63r.jpg"
     },
     {
         "multipeimageid": "103_62_r_62_r_fr",
@@ -311,10 +310,6 @@
     {
         "multipeimageid": "103_65_v_fr",
         "afbeelding": "103f65vfr.jpg"
-    },
-    {
-        "multipeimageid": "103_71_r_71_r_fr",
-        "afbeelding": "103f71r.jpg"
     },
     {
         "multipeimageid": "103_71_r_71_r_fr",
@@ -973,5 +968,49 @@
     {
         "multipeimageid": "11127_94_rfr",
         "afbeelding": "11127f94rfr.jpg"
+    },
+    {
+        "multipeimageid": "146f117",
+        "alleenfolioid": "bnf146_117_r"
+    },
+    {
+        "multipeimageid": "146f117",
+        "afbeelding": "14614f117rfr.jpg"
+    },
+    {
+        "multipeimageid": "25f1v2rfr",
+        "afbeelding": "25f1v2rfr.jpg"
+    },
+    {
+        "multipeimageid": "25f42r",
+        "afbeelding": "25f42r.jpg"
+    },
+    {
+        "multipeimageid": "25f2v",
+        "afbeelding": "25f2v.jpg"
+    },
+    {
+        "multipeimageid": "25f6v",
+        "afbeelding": "25f6v.jpg"
+    },
+    {
+        "multipeimageid": "12949f12rfr",
+        "afbeelding": "12949f12rfr1.jpg"
+    },
+    {
+        "multipeimageid": "12949f12rfr",
+        "afbeelding": "12949f12rfr2.jpg"
+    },
+    {
+        "multipeimageid": "128p3",
+        "afbeelding": "128p3.jpg"
+    },
+    {
+        "multipeimageid": "gal136",
+        "afbeelding": "gal136.jpg"
+    },
+    {
+        "multipeimageid": "marcella3",
+        "afbeelding": "marcella3.jpg"
     }
 ]

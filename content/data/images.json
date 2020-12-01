@@ -1,4 +1,3 @@
-
 [
     {
         "img_file_name": "classroom.jpg",
@@ -259,7 +258,7 @@
     },
     {
         "img_file_name": "144f58r.jpg",
-        "description": "Leiden, UB, BPL 144, f. 58r",
+        "description": "Leiden, UB, BPL 144, f. 58r (detail)",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -374,7 +373,7 @@
     {
         "img_file_name": "103f1rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.1r",
-        "description": "Leiden, UB, VLQ 103, f. 1r (detail) (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 1r (detail; photo MT)",
         "resource": "photo MT"
     },
     {
@@ -397,18 +396,18 @@
     },
     {
         "img_file_name": "103f6v.jpg",
-        "alttext": "Leiden, UB, VLQ 103 f.6v",
-        "description": "Leiden, UB, VLQ 103, f. 6v (photo MT)",
+        "alttext": "Leiden, UB, VLQ 103 f. 4v",
+        "description": "Leiden, UB, VLQ 103, f. 4v (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f6vfr.jpg",
-        "alttext": "Leiden, UB, VLQ 103 f.6v",
-        "description": "Leiden, UB, VLQ 103, f. 6v (photo MT)",
+        "alttext": "Leiden, UB, VLQ 103 f. 4v",
+        "description": "Leiden, UB, VLQ 103, f. 4v (detail; photo MT)",
         "resource": "photo MT"
     },
     {
-        "img_file_name": "103f62r.jpg",
+        "img_file_name": "103f63r.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.63r",
         "description": "Leiden, UB, VLQ 103, f. 63r (photo MT)",
         "resource": "photo MT"
@@ -603,13 +602,13 @@
     {
         "img_file_name": "7900Af44v.jpg",
         "alttext": "Paris, BnF, lat. 7900A f.44v",
-        "description": "Paris, BnF, lat. 7900A, f. 132v",
+        "description": "Paris, BnF, lat. 7900A, f. 144v: dark stains caused by the use of re-agent",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "img_file_name": "chambery.jpg",
         "alttext": "Chambéry, BM, Ms. 27, f. 151r",
-        "description": "Chambéry, BM, Ms. 27, f. 151r (detail): a master teaching drawn in the margin of a manuscript from the second half of the 13th century, made in England. The master looks very stern and the student on the right seems to be wearing donkey's ears as punishment.",
+        "description": "Chambéry, BM, Ms. 27, f. 151r (detail): a master teaching drawn in the margin of a manuscript from the second half of the thirteenth century, made in England.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/35203"
     },
@@ -644,7 +643,7 @@
     {
         "img_file_name": "cassiodorus.jpg",
         "alttext": "Paris, BnF, lat. 12963, f.8v (detail)",
-        "description": "Paris, BnF, Lat. 12963, f. 8v (detail): Cassiodorus, Institutiones. Manuscript from Corbie, second half of the 10th century.",
+        "description": "Paris, BnF, Lat. 12963, f. 8v (detail): Cassiodorus, Institutiones. Manuscript from Corbie, second half of the 10th century. The yellow circle is ours.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b105442152"
     },
@@ -686,7 +685,7 @@
     {
         "img_file_name": "herennium.jpg",
         "alttext": "Cambridge, Corpus Christi College, MS 158, f. 73r",
-        "description": "Cambridge, Corpus Christi College, MS 158, f. 73r (detail): Opening of Ad Herennium, here ascribed to Cicero, with a splendid dragon-adorned A.",
+        "description": "Cambridge, Corpus Christi College, MS 158, f. 73r (detail): Opening of 'Rhetorica ad Herennium', here ascribed to Cicero, with a splendid dragon-adorned A.",
         "resource": "Parker Library On the Web",
         "hyperlink": "https://parker.stanford.edu/parker/catalog/sp902vq7011"
     },
@@ -858,7 +857,7 @@
     {
         "img_file_name": "144f90r.jpg",
         "alttext": "Leiden UB BPL 144 f.90r",
-        "description": "Leiden, UB, BPL 144, f. 90r: We see the orbits of the Sun, Mercury and Venus, arranged in such a manner that their paths overlap.",
+        "description": "Leiden, UB, BPL 144, f. 90r (detail): We see the orbits of the Sun, Mercury and Venus, arranged in such a manner that their paths overlap.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -1017,7 +1016,7 @@
     {
         "img_file_name": "12949f12rfr2.jpg",
         "alttext": "BnF lat 12949 f.12r",
-        "description": "Paris, BnF, lat. 12949, f. 12r: Quote dialectica",
+        "description": "Paris, BnF, lat. 12949, f. 12r.",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -1101,7 +1100,7 @@
     {
         "img_file_name": "ramonf20v.jpg",
         "alttext": "Karlruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 20v (detail).",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 20v",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
@@ -1258,8 +1257,8 @@
         "img_file_name": "prosper.jpg",
         "alttext": "Brussels, KB 5169, fol. 42r copyright Brussels, Koninklijke Bibliotheek, Special Collections",
         "description": "Brussels, KB, Ms. 5169, fol. 42r: In this ninth-century manuscript of Prosper of Aquitaine’s chronicle, snakes in the margin warn the reader that a heretic is about to enter the narrative. The use of this symbol points to a close association between serpents and heretics.",
-        "resource": "Europeana Regia Manuscripts",
-        "hyperlink": "http://images.kbr.be/multi/ms_5169Viewer/imageViewer.html"
+        "resource": "KB Brussel",
+        "hyperlink": "https://uurl.kbr.be/1449087"
     },
     {
         "img_file_name": "dialecticadog.jpg",
@@ -1540,7 +1539,7 @@
     {
         "img_file_name": "188f10r.jpg",
         "alttext": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 188, f. 10r (detail)",
-        "description": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 188, f. 10r (detail): manuscript from the thirteenth century with the Dragmaticon of William of Conches. In this image Logica is a part of Philosophia, and Dialectica is a part of Logica.",
+        "description": "Cologny, Fondation Martin Bodmer, Cod. Bodmer 188, f. 10r (detail; the blue circles are added by us): manuscript from the thirteenth century with the Dragmaticon of William of Conches. In this image Logica is a part of Philosophia, and Dialectica is a part of Logica. ",
         "resource": "e-codices.ch",
         "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0188"
     },
@@ -1602,7 +1601,7 @@
     {
         "img_file_name": "48f4vfr.jpg",
         "alttext": "UB VLF 48 f.4v",
-        "description": "Leiden, UB, VLF 48, f. 4v",
+        "description": "Leiden, UB, VLF 48, f. 4v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
@@ -1686,7 +1685,7 @@
     {
         "img_file_name": "ramonf6vfr2.jpg",
         "alttext": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92,",
-        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v",
+        "description": "Karlsruhe, Badische Landesbibliothek, St. Peter perg. 92, f. 6v (detail)",
         "resource": "Badische Landesbibliothek",
         "hyperlink": "https://nbn-resolving.de/urn:nbn:de:bsz:31-8765"
     },
@@ -1907,7 +1906,8 @@
     {
         "img_file_name": "12949notes.jpg",
         "alttext": "Paris, BnF. Lat. 14511, f. 44v",
-        "resource": "BnF, photo IvR"
+        "description": "Paris, BnF. Lat. 14511, f. 44v. Photo: Irene van Renswoude. Copyright: Bibliothèque National de France.",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f23v.jpg",
@@ -1919,7 +1919,7 @@
     {
         "img_file_name": "12949f23bisrfr.jpg",
         "alttext": "Paris, BnF. Lat. 12949, f.23 bis r",
-        "description": "Paris, BnF, Lat. 12949, f. 23v: Underlined are: versuS iohanni Scotti, bedae, Virgilii, Prudentii, Persii, epitaphium sancti augustini. “Vivere post obitus vatem vis nosse viator? Quod legis, ecce loquor, vox tua nempe mea est” “Passerby, do you wish to know how poets still live after death? Those words you read, behold I speak. Your voice is very much mine” [Possidius, Vita Augustini, 3.18]",
+        "description": "Paris, BnF, Lat. 12949, f. 23v",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -2104,21 +2104,21 @@
     {
         "img_file_name": "17806f44v.jpg",
         "alttext": "Paris, BnF, Lat. 17806, f. 44v",
-        "description": "Paris, BnF, Lat. 17806, f. 44v",
+        "description": "Paris, BnF, Lat. 17806, f. 44v (detail)",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "img_file_name": "88f171r.jpg",
         "alttext": "Leiden, UB, BPL 88, f. 171r (photo MT): In the lower margin, a note explains the background of a passage about Diana (the godess of the Moon): \"Hic tangit fabulam. Nam Iovis adamavit Dianam ...\" (This connects to a fable. For Jove was in love with Diana ...\").",
-        "description": "Leiden, UB, BPL 88, f. 171r (photo MT): In this gloss, background information about the mythological tradition of Diana and Jove is added to aid the reader in understanding fleeting allusions.",
+        "description": "Leiden, UB, BPL 88, f. 171r (detail): In this gloss, background information about the mythological tradition of Diana and Jove is added to aid the reader in understanding fleeting allusions.",
         "resource": "Universiteitsbibliotheek Leiden eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
         "img_file_name": "48f92v.jpg",
         "alttext": "Leiden, UB, VLF 48, f. 92v",
-        "description": "Leiden, UB, VLF 48, f. 92v",
+        "description": "Leiden, UB, VLF 48, f. 92v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
@@ -2237,7 +2237,7 @@
     {
         "img_file_name": "grootnaarklein.jpg",
         "alttext": "Leiden, UB, VLF 48, f. 31r, Leiden, UB, BPL 1925, f. 139v, Paris, BnF, Lat. 17806, f. 164v",
-        "description": "From left to right: Leiden, UB, VLF 48, f. 31r: example of an extensive commentary added in the margin. The book is 307 mm high. Leiden, UB, BPL 1925, f. 139v: example of a text with a narrow margin and only occasional notes. The book is only ca 135 mm high. Paris, BnF, Lat. 17806, f. 164v: example of a lay-out in columns to give different sets of commentary a designated space on the page. The book is 300 mm high.",
+        "description": "From left to right: Leiden, UB, VLF 48, f. 31r; Leiden, UB, BPL 1925, f. 139v; Paris, BnF, Lat. 17806, f. 164v",
         "resource": "UB Leiden + Gallica",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282; http://hdl.handle.net/1887.1/item:877637; https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
@@ -2279,7 +2279,7 @@
     {
         "img_file_name": "11127f49r2.jpg",
         "alttext": "Paris, BnF, lat. 11127 f.49r",
-        "description": "Paris, BnF, lat. 11127, f. 49r",
+        "description": "Paris, BnF, lat. 11127, f. 49r (detail)",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90680770"
     },
     {
@@ -2292,7 +2292,7 @@
     {
         "img_file_name": "darmstadt3fr.jpg",
         "alttext": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
-        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v",
+        "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v (detail)",
         "resource": "ULB",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
     },
@@ -2348,7 +2348,7 @@
     {
         "img_file_name": "144f18rfr.jpg",
         "alttext": "Leiden UB BPL 144 f.18r",
-        "description": "Leiden, UB, BPL 144, f. 18r",
+        "description": "Leiden, UB, BPL 144, f. 18r (detail): a master and a student in conversation",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -2584,6 +2584,7 @@
         "img_file_name": "48fdivers",
         "alttext": "Leiden, UB, VLF 48",
         "description": "Leiden, UB, VLF 48, details of ff. 66v, 70v and 81v",
+        "resource": "UB Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
@@ -2617,7 +2618,7 @@
     {
         "img_file_name": "88f172vfr.jpg",
         "alttext": "UB BPL 88 f.172v",
-        "description": "Leiden, UB, BPL 88, f. 172v",
+        "description": "Leiden, UB, BPL 88, f. 172v (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
@@ -3071,7 +3072,7 @@
     {
         "img_file_name": "12949tail.jpg",
         "alttext": "Paris, BnF, lat. 12949",
-        "description": "Paris, BnF, lat. 12949",
+        "description": "Paris, BnF, lat. 12949. Photo: Renée Schilling. Copyright: Bibliothèque National de France. ",
         "resource": "Photo Renee Schilling",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -3279,5 +3280,47 @@
         "description": "Chained library, Wimborne Minster",
         "resource": "Wikimedia Commons",
         "hyperlink": "https://commons.wikimedia.org/wiki/File:Chained_library,_Wimborne_Minster_2.jpg"
+    },
+    {
+        "img_file_name": "12949f25vfr2",
+        "alttext": "Paris, BnF, lat. 12949, f. 25v",
+        "description": "Paris, BnF, lat. 12949, f. 25v (detail, photo RS): at the top the attribution of the glosses to Heiric of Auxerre.",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "img_file_name": "2923f1rfr.jpg",
+        "alttext": "Paris, BnF lat. 2923 f.1r",
+        "description": "Paris, BnF lat. 2923 f.1r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "img_file_name": "2923f43r.jpg",
+        "alttext": "Paris, BnF lat. 2923 f.43r",
+        "description": "Paris, BnF lat. 2923 f.43r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "img_file_name": "2923f24r.jpg",
+        "alttext": "Paris, BnF lat. 2923 f.24r",
+        "description": "Paris, BnF lat. 2923 f.24r (detail)",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "img_file_name": "17806cover.jpg",
+        "alttext": "Paris, BnF, lat. 17806",
+        "description": "Paris, BnF, lat. 17806",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "17806side.jpg",
+        "alttext": "Paris, BnF, lat. 17806",
+        "description": "Paris, BnF, lat. 17806",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     }
 ]

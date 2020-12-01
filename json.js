@@ -69,7 +69,7 @@ function combineJson(){
     "navigation_file": "nav-manuscripts"
   })
   siteJson[0].manuscriptsList = manuscriptJson;
-  siteJson[27].manuscriptsList = manuscriptJson; //manuscript page
+  siteJson[26].manuscriptsList = manuscriptJson; //manuscript page
   siteJson[7].portaitList = portaits; //portait page
 
 
@@ -277,7 +277,7 @@ function combineJson(){
 
 
 
-
+//console.log(siteJson);
 fs.writeFile('siteJson.json', JSON.stringify(siteJson), function (err) {
   if (err) throw err;
   console.log('Saved1!');

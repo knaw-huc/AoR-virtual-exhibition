@@ -1,4 +1,3 @@
-
 [
     {
         "title": "Home",
@@ -146,7 +145,7 @@
         "title": "Abelard",
         "docx_file": "VEabelard",
         "page_id": "2ab",
-        "summary": "Abelard: a new approach to dialectic",
+        "summary": "A master of disputation",
         "theme": 2,
         "file_name": "Abelard",
         "template_file": "theme-item",
@@ -201,7 +200,6 @@
         "title": "A schematic appendix to Alcuin’s Disputatio de rhetorica",
         "docx_file": "VEdiagrams",
         "page_id": "3cc",
-        "summary": "Rhetoric an dialectic in schemes",
         "theme": 3,
         "file_name": "diagrams-hetorical-tradition",
         "template_file": "theme-item",
@@ -247,16 +245,6 @@
         "page_id": "4wd",
         "theme": 4,
         "file_name": "women-disputation",
-        "template_file": "theme-item",
-        "navigation_file": "nav-4",
-        "thme": 4
-    },
-    {
-        "title": "Abelard and the council of Sense",
-        "docx_file": "VESense",
-        "page_id": "4se",
-        "theme": 4,
-        "file_name": "abelard-council-sense",
         "template_file": "theme-item",
         "navigation_file": "nav-4",
         "thme": 4
