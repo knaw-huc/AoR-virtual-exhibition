@@ -1,3 +1,4 @@
+
 [
     {
         "multipeimageid": "bnf178_8_v_9_r",
@@ -312,6 +313,10 @@
         "afbeelding": "103f65vfr.jpg"
     },
     {
+        "multipeimageid": "6734f2r",
+        "afbeelding": "6734f2r.jpg"
+    },
+    {
         "multipeimageid": "103_71_r_71_r_fr",
         "afbeelding": "103f71rfr.jpg"
     },
@@ -589,7 +594,7 @@
     },
     {
         "multipeimageid": "103_1_r_fr",
-        "afbeelding": "103f1r2.jpg"
+        "afbeelding": "103f1r.jpg"
     },
     {
         "multipeimageid": "103_1_r_fr",
@@ -1012,5 +1017,9 @@
     {
         "multipeimageid": "marcella3",
         "afbeelding": "marcella3.jpg"
+    },
+    {
+        "multipeimageid": "ramonf6vfr3",
+        "afbeelding": "ramonf6vfr3.jpg"
     }
 ]

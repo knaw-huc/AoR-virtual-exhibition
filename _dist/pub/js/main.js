@@ -354,6 +354,16 @@ document.getElementById('ht_'+sectionId).classList.add("aorCurrPage");
 
   hidesvgG();
 
+
+function mapShowManuscripts(i) {
+  console.log(i);
+  hidesvgG();
+  //handleTabLabel[i].style.display = 'block';
+  document.getElementById(i).style.display = 'block';
+  //
+}
+
+
 function highLightMap(className) {
   console.log(className);
   var classN = className.replace(/ /g, "");
@@ -369,7 +379,7 @@ function highLightMap(className) {
 
 
 function hidesvgG() {
-  var handleTabLabel = document.querySelectorAll(".mapG");
+  var handleTabLabel = document.querySelectorAll(".mapHideManuscripts");
     for (i = 0; i < handleTabLabel.length; i++) {
       handleTabLabel[i].style.display = 'none';
   }

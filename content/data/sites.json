@@ -1,3 +1,4 @@
+
 [
     {
         "title": "Home",
@@ -47,7 +48,7 @@
         "page_id": "1mc",
         "summary": "Books used in the classroom are witnesses to medieval processes of teaching and learning.",
         "theme": 1,
-        "file_name": "Medieval-Classroom",
+        "file_name": "classroom",
         "template_file": "theme-item",
         "navigation_file": "nav-1",
         "thme": 1
@@ -58,7 +59,7 @@
         "page_id": "1cu",
         "summary": "In class students studied seven liberal arts, those related to language (grammar, rhetoric, and logic) and those related to the sciences (arithmetic, geometry, music, and astronomy).",
         "theme": 1,
-        "file_name": "Curriculum",
+        "file_name": "curriculum",
         "template_file": "theme-item",
         "navigation_file": "nav-1",
         "thme": 1
@@ -69,7 +70,7 @@
         "page_id": "1dr",
         "summary": "The disciplines of rhetoric and dialectic were crucial to the art of reasoning.",
         "theme": 1,
-        "file_name": "Dialectica-Rhetorica",
+        "file_name": "rhetoric-dialectic",
         "template_file": "theme-item",
         "navigation_file": "nav-1",
         "thme": 1
@@ -80,7 +81,7 @@
         "page_id": "1po",
         "summary": "A collection of short portraits of curricular texts",
         "theme": 1,
-        "file_name": "portraits",
+        "file_name": "text-portraits",
         "template_file": "theme-portraits",
         "navigation_file": "nav-1",
         "thme": 1
@@ -102,7 +103,7 @@
         "page_id": "2ad",
         "summary": "Alcuin of York, the famous master at Charlemagne’s court",
         "theme": 2,
-        "file_name": "Alcuin-dialogue",
+        "file_name": "alcuin",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -114,7 +115,7 @@
         "summary": "Heiric and Remigius: Auxerre as a Carolingian production centre of glosses and commentaries",
         "remarks": "(Heiric and Remigius)",
         "theme": 2,
-        "file_name": "School-Auxerre",
+        "file_name": "auxerre",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -125,7 +126,7 @@
         "page_id": "2js",
         "summary": "John Scottus Eriugena and his faithful assistant",
         "theme": 2,
-        "file_name": "John-Scot-his-assistant",
+        "file_name": "john-scot",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -136,7 +137,7 @@
         "page_id": "2ga",
         "summary": "Teaching around the year 1000",
         "theme": 2,
-        "file_name": "Gerbert-Aurillac-AbboFleury",
+        "file_name": "abbo-gerbert",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -147,7 +148,7 @@
         "page_id": "2ab",
         "summary": "A master of disputation",
         "theme": 2,
-        "file_name": "Abelard",
+        "file_name": "abelard",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -158,7 +159,7 @@
         "page_id": "2ab",
         "summary": "Book collecting in the early universities",
         "theme": 2,
-        "file_name": "Gerard-DAbbeville",
+        "file_name": "gerard",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -169,7 +170,7 @@
         "page_id": "2rl",
         "summary": "Ramon Llull: the teacher, the debater, the missionary and the logician",
         "theme": 2,
-        "file_name": "Ramon-Llull",
+        "file_name": "ramon",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
         "thme": 2
@@ -191,17 +192,18 @@
         "page_id": "3gc",
         "summary": "Techniques of reading and learning are visible between the lines and in the margins of the manuscript.",
         "theme": 3,
-        "file_name": "Glosses-commentaries",
+        "file_name": "techniques",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
         "thme": 3
     },
     {
-        "title": "A schematic appendix to Alcuin’s Disputatio de rhetorica",
+        "title": "Rhetoric and dialectic in schemes",
         "docx_file": "VEdiagrams",
         "page_id": "3cc",
+        "summary": "A schematic appendix to Alcuin’s Disputatio de rhetorica",
         "theme": 3,
-        "file_name": "diagrams-hetorical-tradition",
+        "file_name": "schemes",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
         "thme": 3
@@ -212,7 +214,7 @@
         "page_id": "3ds",
         "summary": "Diagrams and other visual devices were added in manuscripts to help readers understand and memorise rhetorical and logical concepts.",
         "theme": 3,
-        "file_name": "Trees-Diagrams-Schemes",
+        "file_name": "trees",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
         "thme": 3
@@ -254,7 +256,7 @@
         "docx_file": "VEaachen",
         "page_id": "4da",
         "theme": 4,
-        "file_name": "disputation-aachen",
+        "file_name": "adoptionism",
         "template_file": "theme-item",
         "navigation_file": "nav-4",
         "thme": 4

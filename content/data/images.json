@@ -1,3 +1,4 @@
+
 [
     {
         "img_file_name": "classroom.jpg",
@@ -87,7 +88,7 @@
         "alttext": "Vienna, ÖnB, cod.652, fol. 2v",
         "description": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century): Hrabanus (left) and Alcuin (middle) dedicate a work to Archbishop Otgar of Mainz (Right).",
         "resource": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century)",
-        "hyperlink": "http://data.onb.ac.at/rep/10048D05"
+        "hyperlink": "f"
     },
     {
         "img_file_name": "7900Aonbekend.jpg",
@@ -203,14 +204,14 @@
     {
         "img_file_name": "144f2rfr3.jpg",
         "alttext": "Leiden UB BPL 144 f.2r",
-        "description": "Leiden, UB, BPL 144, f. 2r: Written nota signs from the original annotating hand (below) and from the later one (above)",
+        "description": "Leiden, UB, BPL 144, f. 2r (detail): Written nota signs from the original annotating hand (below) and from the later one (above)",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr4.jpg",
         "alttext": "Leiden UB BPL 144 f.2r",
-        "description": "Leiden, UB, BPL 144, f. 2r: A Nota sign in the original hand, and a head as an attention sign in the later hand.",
+        "description": "Leiden, UB, BPL 144, f. 2r (detail): A Nota sign in the original hand, and a head as an attention sign in the later hand.",
         "resource": "eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -391,7 +392,7 @@
     {
         "img_file_name": "103f2rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.2r",
-        "description": "Leiden, UB, VLQ 103, f. 2r (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 2r (detail) (photo MT)",
         "resource": "photo MT"
     },
     {
@@ -427,19 +428,19 @@
     {
         "img_file_name": "103f58rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.55r",
-        "description": "Leiden, UB, VLQ 103, f. 55r (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 55r (detail) (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f56rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.56r",
-        "description": "Leiden, UB, VLQ 103, f. 56r (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 56r (detail) (photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f65vfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.59v",
-        "description": "Leiden, UB, VLQ 103, f. 59v (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 59v (detail) (photo MT)",
         "resource": "photo MT"
     },
     {
@@ -451,7 +452,7 @@
     {
         "img_file_name": "103f71rfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.71r",
-        "description": "Leiden, UB, VLQ 103, f. 71r (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 71r (detail) (photo MT)",
         "resource": "photo MT"
     },
     {
@@ -469,7 +470,7 @@
     {
         "img_file_name": "103f47vfr.jpg",
         "alttext": "Leiden, UB, VLQ 103 f.47v",
-        "description": "Leiden, UB, VLQ 103, f. 47v (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 47v (detail) (photo MT)",
         "resource": "photo MT"
     },
     {
@@ -636,7 +637,7 @@
     {
         "img_file_name": "17806f17r.jpg",
         "alttext": "Paris, BnF, Lat. 17806, f. 17r",
-        "description": "Paris, BnF, Lat. 17806, f. 17r: portrait of a master teaching a student",
+        "description": "Paris, BnF, Lat. 17806, f. 17r (detail): portrait of a master teaching a student",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
@@ -708,7 +709,7 @@
         "alttext": "Bodleian Library MS. Ashmole 304, fol. 31v",
         "description": "Oxford, Bodleian Library, MS. Ashmole 304, fol. 31v: medieval portrait of Plato and Socrates.",
         "resource": "Bodleian Libraries, University of Oxford.",
-        "hyperlink": "https://www.flickr.com/photos/medievalfragments/9686689516/in/photostream/"
+        "hyperlink": "https://digital.bodleian.ox.ac.uk/objects/5885f370-ffea-4c09-9d01-a0d4399e82af"
     },
     {
         "img_file_name": "6734f2r.jpg",
@@ -790,8 +791,7 @@
     {
         "img_file_name": "vlq33.jpg",
         "alttext": "Leiden UB, VLQ 33, f. 1v",
-        "description": "Leiden UB, VLQ 33, f. 1v (photo IO'D): Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures (philosophers?) dressed in antiquated clothing.",
-        "hyperlink": "https://www.flickr.com/people/medievalfragments/"
+        "description": "Leiden UB, VLQ 33, f. 1v (photo IO'D): Depiction of Rhetoric as a female warrior (on the left) in conversation with two figures (philosophers?) dressed in antiquated clothing."
     },
     {
         "img_file_name": "1925.jpg",
@@ -810,7 +810,7 @@
     {
         "img_file_name": "17806f4vfr2.jpg",
         "alttext": "BnF lat. 17806 f.4v",
-        "description": "Paris, BnF, lat. 17806, f. 4v (c 1250-1275, Paris): Short summaries or marginal indices make clear what the reader can find in the text, which makes the text easier to consult",
+        "description": "Paris, BnF, lat. 17806, f. 4v (c 1250-1275, Paris) (detail): Short summaries or marginal indices make clear what the reader can find in the text, which makes the text easier to consult",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
@@ -1421,7 +1421,7 @@
         "alttext": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v Council of Frankfurt 794 (?)",
         "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v",
         "resource": "Utrecht UB",
-        "hyperlink": "https://bc.library.uu.nl/utrecht-psalter.html"
+        "hyperlink": "http://psalter.library.uu.nl/"
     },
     {
         "img_file_name": "throne.jpg",
@@ -1436,18 +1436,17 @@
     {
         "img_file_name": "council.jpg",
         "alttext": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 2v, 3v",
-        "description": "Vercelli, Bibliotheca Capitulare, ms. 165 (The Canons of Councils, manuscript made around 800, perhaps in Milan), f. 2v, 3v. Emperor Constantine presiding over discussions at the Council of Nicaea (323), where the heresy of Arius was condemned. Photo Warren Pezé",
-        "resource": "Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé"
+        "description": "Vercelli, Bibliotheca Capitulare, ms. 165 (The Canons of Councils, manuscript made around 800, perhaps in Milan), f. 2v, 3v. Emperor Constantine presiding over discussions at the Council of Nicaea (323), where the heresy of Arius was condemned. Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé"
     },
     {
         "img_file_name": "council2.jpg",
-        "description": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 4v-5r: Emperor Theodosius the Great. Presiding over the council of Constantinople (381). Photo Warren Pezé",
+        "description": "Vercelli, Bibliotheca Capitulare, ms. 165, f. 4v-5r: Emperor Theodosius the Great. Presiding over the council of Constantinople (381). Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé",
         "resource": "Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé"
     },
     {
         "img_file_name": "council3.jpg",
         "alttext": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 6v",
-        "description": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 6v. Photo: Warren Pezé",
+        "description": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 6v. Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé",
         "resource": "Photo: Warren Pezé"
     },
     {
@@ -1843,7 +1842,7 @@
     {
         "img_file_name": "gal136.jpg",
         "alttext": "St. Gallen, Stiftsbibliothek, Cod. sang. 134, p. 2",
-        "description": "St. Gallen, Stiftsbibliothek ms. 134, p. 2 (= f. 1v) (detail)",
+        "description": "St. Gallen, Stiftsbibliothek ms. 134, p. 2 (= f. 1v)",
         "resource": "e-codices",
         "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0134"
     },
@@ -1871,7 +1870,7 @@
     {
         "img_file_name": "passio.jpg",
         "alttext": "Paris, BnF. Lat. 1970, f. 54r. Fécamp, eleventh century.",
-        "description": "Passio Sanctae Catharinae. Paris, BnF, ms. Lat. 1970, Fécamp, eleventh century, f. 54r",
+        "description": "lPassio Sanctae Catharinae. Paris, BnF, Lat. 1970, Fécamp, eleventh century, f. 54r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10539943g"
     },
@@ -2581,7 +2580,7 @@
         "resource": "photo MT"
     },
     {
-        "img_file_name": "48fdivers",
+        "img_file_name": "48fdivers.jpg",
         "alttext": "Leiden, UB, VLF 48",
         "description": "Leiden, UB, VLF 48, details of ff. 66v, 70v and 81v",
         "resource": "UB Leiden",
@@ -2779,14 +2778,14 @@
     {
         "img_file_name": "17806f172r.jpg",
         "alttext": "BnF lat. 17806 f.172r",
-        "description": "Paris, BnF, lat. 17806, f. 172r",
+        "description": "Paris, BnF, lat. 17806, f. 172r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "img_file_name": "17806f250v.jpg",
         "alttext": "BnF lat. 17806 f.250v",
-        "description": "Paris, BnF, lat. 17806, f. 250v",
+        "description": "Paris, BnF, lat. 17806, f. 250v (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
@@ -2863,7 +2862,7 @@
     {
         "img_file_name": "144f21v.jpg",
         "alttext": "Leiden UB BPL 144 f.21v",
-        "description": "Leiden, UB, BPL 144, f. 21v (detail)",
+        "description": "Leiden, UB, BPL 144, f. 21v (detail) Photo: MT",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
@@ -2981,49 +2980,49 @@
     {
         "img_file_name": "2923f1r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.1r",
-        "description": "Paris, BnF lat. 2923 f.1r (detail)",
+        "description": "Paris, BnF lat. 2923 f. 1r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f51r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.51r",
-        "description": "Paris, BnF lat. 2923 f.51r (detail). Initial C, showing Cassiodorus Senator, sitting with his legs crossed – the posture of an aristocrat",
+        "description": "Paris, BnF lat. 2923 f. 51r (detail). Initial C, showing Cassiodorus Senator, sitting with his legs crossed – the posture of an aristocrat",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f94r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.94r",
-        "description": "Paris, BnF lat. 2923 f.94r (detail). Initial D, showing Stephen of Tournai in monastic habit",
+        "description": "Paris, BnF lat. 2923 f. 94r (detail). Initial D, showing Stephen of Tournai in monastic habit",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f93r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.93r",
-        "description": "Paris, BnF lat. 2923 f.93r (detail)",
+        "description": "Paris, BnF lat. 2923 f. 93r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f16r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.16r",
-        "description": "Paris, BnF lat. 2923 f.16r (detail)",
+        "description": "Paris, BnF lat. 2923 f. 16r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f22v.jpg",
         "alttext": "Paris, BnF lat. 2923 f.22v",
-        "description": "Paris, BnF lat. 2923 f.22v (detail)",
+        "description": "Paris, BnF lat. 2923 f. 22v (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f15r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.15r",
-        "description": "Paris, BnF lat. 2923 f.15r (detail)",
+        "description": "Paris, BnF lat. 2923 f. 15r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
@@ -3044,7 +3043,7 @@
     {
         "img_file_name": "128p3.jpg",
         "alttext": "St. Gallen, Stiftsbibliothek, ms. 128, p. 3",
-        "description": "St. Gallen, Stiftsbibliothek, ms. 128, p. 3 (detail)",
+        "description": "St. Gallen, Stiftsbibliothek, ms. 128, p. 3",
         "resource": "e-codices",
         "hyperlink": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0128"
     },
@@ -3079,14 +3078,14 @@
     {
         "img_file_name": "12949f12rfr.jpg",
         "alttext": "BnF lat 12949 f.12r",
-        "description": "BnF lat 12949 f.12r (detail)",
+        "description": "BnF lat 12949 f. 12r (detail)",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f12rfr1.jpg",
         "alttext": "BnF lat 12949 f.12r",
-        "description": "BnF lat 12949 f.12r (detail)",
+        "description": "BnF lat 12949 f. 12r (detail)",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -3107,7 +3106,7 @@
     {
         "img_file_name": "12949f27v.jpg",
         "alttext": "BnF lat 12949 f.27v",
-        "description": "BnF lat 12949 f.27v (detail)",
+        "description": "BnF lat 12949 f. 27v (detail)",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -3135,21 +3134,21 @@
     {
         "img_file_name": "14614f117rfr.jpg",
         "alttext": "Paris, BnF, lat. 14614, f.117r",
-        "description": "Paris, BnF, lat. 14614, f.117r (detail)",
+        "description": "Paris, BnF, lat. 14614, f. 117r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
     },
     {
         "img_file_name": "14614f130r.jpg",
         "alttext": "Paris, BnF, lat. 14614, f.130r",
-        "description": "Paris, BnF, lat. 14614, f.130r (detail)",
+        "description": "Paris, BnF, lat. 14614, f. 130r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
     },
     {
         "img_file_name": "14614f130v.jpg",
         "alttext": "Paris, BnF, lat. 14614, f.130v",
-        "description": "Paris, BnF, lat. 14614, f.130v (detail)",
+        "description": "Paris, BnF, lat. 14614, f. 130v (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000788f"
     },
@@ -3186,7 +3185,7 @@
         "alttext": "Bayerische Staatsbibliothek, Clm 14479, f. 53v.",
         "description": "Munich, Bayerische Staatsbibliothek, Clm 14479, f. 53v. Regensburg, St.Emmeram, 14th century",
         "resource": "Bayerische Staatsbibliothe",
-        "hyperlink": "https://daten.digitale-sammlungen.de/0004/bsb00046316/images/index.html?id=00046316&seite=108&fip=193.174.98.30&nativeno=&groesser=200%25"
+        "hyperlink": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00046316-7"
     },
     {
         "img_file_name": "aristotleteaching.jpg",
@@ -3282,7 +3281,7 @@
         "hyperlink": "https://commons.wikimedia.org/wiki/File:Chained_library,_Wimborne_Minster_2.jpg"
     },
     {
-        "img_file_name": "12949f25vfr2",
+        "img_file_name": "12949f25vfr2.jpg",
         "alttext": "Paris, BnF, lat. 12949, f. 25v",
         "description": "Paris, BnF, lat. 12949, f. 25v (detail, photo RS): at the top the attribution of the glosses to Heiric of Auxerre.",
         "resource": "Gallica",
@@ -3291,21 +3290,21 @@
     {
         "img_file_name": "2923f1rfr.jpg",
         "alttext": "Paris, BnF lat. 2923 f.1r",
-        "description": "Paris, BnF lat. 2923 f.1r (detail)",
+        "description": "Paris, BnF lat. 2923 f. 1r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f43r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.43r",
-        "description": "Paris, BnF lat. 2923 f.43r (detail)",
+        "description": "Paris, BnF lat. 2923 f. 43r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
         "img_file_name": "2923f24r.jpg",
         "alttext": "Paris, BnF lat. 2923 f.24r",
-        "description": "Paris, BnF lat. 2923 f.24r (detail)",
+        "description": "Paris, BnF lat. 2923 f. 24r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
@@ -3322,5 +3321,12 @@
         "description": "Paris, BnF, lat. 17806",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+    },
+    {
+        "img_file_name": "bpl88_cover.jpg",
+        "alttext": "Leiden, UB, BPL 88",
+        "description": "Leiden, UB, BPL 88",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     }
 ]
