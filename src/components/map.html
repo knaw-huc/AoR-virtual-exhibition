@@ -1,14 +1,6 @@
 <div class="aorMap">
   <div class="aorDivMap">{{> mapFile}}</div>
   <div class="aorDivList">
-    <em>Click on the manuscript to see the origin en the current location of the manuscripts.</em><br><br>
-    {{#each manuscriptsList}}
-        <div onclick="highLightMap('{{shelfmark}}');">{{shelfmark}}</div>
-    {{/each}}
-
+    <em>Click on the regions on the map to see the origins of the manuscripts</em><br>
   </div>
-</div>
-<div class="aorLegend">Legend:
-  <span><img src="images/cabinet.png" alt=""> Current location</span>
-  <span><img src="images/pen.png" alt=""> Origin</span>
 </div>

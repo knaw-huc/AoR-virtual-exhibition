@@ -490,11 +490,11 @@
     },
     {
         "multipeimageid": "bpl84_44_v_8_r",
-        "alleenfolioid": "bpl84_44_v"
+        "afbeelding": "84f44vdetail.jpg"
     },
     {
         "multipeimageid": "bpl84_44_v_8_r",
-        "alleenfolioid": "bpl84_8_r"
+        "afbeelding": "84f8rdetail.jpg"
     },
     {
         "multipeimageid": "initials",
@@ -1021,5 +1021,13 @@
     {
         "multipeimageid": "ramonf6vfr3",
         "afbeelding": "ramonf6vfr3.jpg"
+    },
+    {
+        "multipeimageid": "bnf790_113_r",
+        "alleenfolioid": "bnf790_113_r"
+    },
+    {
+        "multipeimageid": "2788f50r",
+        "afbeelding": "2788f50r.jpg"
     }
 ]

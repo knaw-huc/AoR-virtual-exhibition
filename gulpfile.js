@@ -322,20 +322,23 @@ gulp.task('buildFromTemplates', function(done) {
         manuscriptMeta += '</div>';
         manuscriptMeta += '<div class="aoCol1">';
         //manuscriptMeta += '<h3>Physics</h3>';
-        //manuscriptMeta += '<h4>Dimensions</h4>'+page.dimensions;
+        manuscriptMeta += '<h4>Caption</h4>';
         manuscriptMeta += ''+page.material+' manuscript,<br> ' +page.foliation + ' folia,<br>  '+ page.dimensions+ ',<br> '+page.type+ ',<br>  '+ page.language;
         //manuscriptMeta += '<h4>Foliation</h4>'+page.foliation;
         manuscriptMeta += '</div>';
-        manuscriptMeta += '<div class="aoCol1">'+page.contents;
+        manuscriptMeta += '<div class="aoCol1"><h4>Content</h4>'+page.contents;
         manuscriptMeta += '</div>';
         //manuscriptMeta += '</div></div>';
 
         showTl = '<div id="spotTL">1111</div>';
         showMap = '<div><div id="spotMp">2222';
-
-
-
       }
+      var citeAs = ', “'+page.title+'”, The art of reasoning in medieval manuscripts (Dec 2020), <a href="https://art-of-reasoning.huygens.knaw.nl/'+page.file_name+'">https://art-of-reasoning.huygens.knaw.nl/'+page.file_name+'</a>.'
+      //Mariken Teeuwen, “The medieval classroom”, The art of reasoning in medieval manuscripts (Dec 2020), https://art-of-reasoning.huygens.knaw.nl/medieval-classroom.
+
+      var emaill = '<script type="text/javascript">var emailAddress = (\'mariken.teeuwen@\' + \'huygens.knaw.nl\');document.write(\'<a href="mailto:\' + emailAddress + \'">\' + emailAddress + \'</a>\');</script>';
+
+
 
 
 
@@ -377,6 +380,8 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('±meta±', manuscriptMeta))
           .pipe(replace('<p>±timeline±</p>',''))
           .pipe(replace('<p>±map±</p>', ''))
+          .pipe(replace('±cite±', citeAs))
+          .pipe(replace('mariken.teeuwen@huygens.knaw.nl', emaill))
 
           .pipe(each(function(content, file, callback) {
             // replace images and theme names
@@ -447,8 +452,14 @@ function ifEmp(input, pre, post) {
 
 function handleImages(content) {
   var output;
+  var vHyperlink = '';
   for (var i = 0; i < imagesJson.length; i++) {
-    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure class="aorIllu"><img src="images/content/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+'<br><a href="'+imagesJson[i].hyperlink+'" class="aorSourceLink">'+imagesJson[i].hyperlink+'</a></figcaption></figure>');
+
+    if(typeof imagesJson[i].hyperlink !== "undefined") {
+      vHyperlink = '<br><a href="'+imagesJson[i].hyperlink+'" class="aorSourceLink"  target="_blank">'+imagesJson[i].hyperlink+'</a>';
+    }
+
+    content = content.replace('[[['+imagesJson[i].img_file_name+']]]', '<figure class="aorIllu"><img src="images/content/'+imagesJson[i].img_file_name+'"><figcaption>'+imagesJson[i].description+ vHyperlink+'</figcaption></figure>');
   }
 
   return content;
@@ -571,6 +582,7 @@ function handletextPre(content) {
     content = content.replace(/<p>±col1± <\/p>/g, "<p>±col1±</p>");
     content = content.replace(/<p>±col1span±<br \/>/g, "<p>±col1span±</p><p>");
     content = content.replace(/file:\/\/\/C:\\Users\\renees\\AppData\\Local\\Temp\\/g, "/");
+    //<a id="_heading=h.gjdgxs"></a>
 
 
 

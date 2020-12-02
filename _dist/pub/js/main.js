@@ -392,6 +392,13 @@ function handleMapG(clsName) {
   }
 }
 
+
+var urlParams = new URLSearchParams(window.location.search);
+if(urlParams.get('open') == 'tr'){
+  showReadMore();
+}
+
+
 function showReadMore() {
 
   var hidddenHide = document.querySelector(".msHide");

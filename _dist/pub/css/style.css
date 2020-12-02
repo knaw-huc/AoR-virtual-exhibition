@@ -332,6 +332,8 @@ a {
   padding: 2rem; }
   .aorModalPop h1, .aorModalPop h2, .aorModalPop h3 {
     color: #242424; }
+  .aorModalPop a {
+    color: #024d78; }
 
 .aorModalContent {
   width: 100%;
