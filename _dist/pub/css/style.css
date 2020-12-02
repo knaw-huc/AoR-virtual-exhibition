@@ -787,3 +787,6 @@ h4 {
 .capital {
   text-transform: capitalize;
   cursor: pointer; }
+
+.mapG, .mapHideManuscripts {
+  cursor: pointer; }

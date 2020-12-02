@@ -365,6 +365,7 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace(']</a></sup></sup>', '</a></span>'))
           .pipe(replace(']</a></sup>', '</a></span>'))
           .pipe(replace('">[', '">'))
+          .pipe(replace('file:///C:\\Users\\renees\\AppData\\Local\\Temp\\', '/'))
 
           .pipe(replace('<ol><li id="footnote-1">', '<div class="notes"><ol><li id="footnote-1">'))
           .pipe(replace('</li></ol>', '</li></ol></div>'))
@@ -569,6 +570,7 @@ function handletextPre(content) {
     content = content.replace(/<p>±row±<br \/>/g, "<p>±row±</p><p>");
     content = content.replace(/<p>±col1± <\/p>/g, "<p>±col1±</p>");
     content = content.replace(/<p>±col1span±<br \/>/g, "<p>±col1span±</p><p>");
+    content = content.replace(/file:\/\/\/C:\\Users\\renees\\AppData\\Local\\Temp\\/g, "/");
 
 
 
