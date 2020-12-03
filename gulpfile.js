@@ -333,7 +333,7 @@ gulp.task('buildFromTemplates', function(done) {
         showTl = '<div id="spotTL">1111</div>';
         showMap = '<div><div id="spotMp">2222';
       }
-      var citeAs = ', “'+page.title+'”, The art of reasoning in medieval manuscripts (Dec 2020), <a href="https://art-of-reasoning.huygens.knaw.nl/'+page.file_name+'">https://art-of-reasoning.huygens.knaw.nl/'+page.file_name+'</a>.'
+      var citeAs = ' “'+page.title+'”, The art of reasoning in medieval manuscripts (Dec 2020), <a href="https://art-of-reasoning.huygens.knaw.nl/'+page.file_name+'">https://art-of-reasoning.huygens.knaw.nl/'+page.file_name+'</a>.'
       //Mariken Teeuwen, “The medieval classroom”, The art of reasoning in medieval manuscripts (Dec 2020), https://art-of-reasoning.huygens.knaw.nl/medieval-classroom.
 
       var emaill = '<script type="text/javascript">var emailAddress = (\'mariken.teeuwen@\' + \'huygens.knaw.nl\');document.write(\'<a href="mailto:\' + emailAddress + \'">\' + emailAddress + \'</a>\');</script>';
