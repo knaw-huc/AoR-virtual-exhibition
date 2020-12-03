@@ -18,7 +18,9 @@
         "file_name": "introduction",
         "template_file": "theme-item",
         "navigation_file": "nav-top",
-        "thme": "home2"
+        "thme": "home2",
+        "next_label": "back to Home page",
+        "next_link": "/"
     },
     {
         "title": "About this site",
@@ -29,7 +31,9 @@
         "file_name": "about",
         "template_file": "theme-item",
         "navigation_file": "nav-top",
-        "thme": "about"
+        "thme": "about",
+        "next_label": "back to Home page",
+        "next_link": "/"
     },
     {
         "title": "±±±t1±±±",
@@ -51,7 +55,9 @@
         "file_name": "classroom",
         "template_file": "theme-item",
         "navigation_file": "nav-1",
-        "thme": 1
+        "thme": 1,
+        "next_label": "Next read: The curriculum",
+        "next_link": "/curriculum"
     },
     {
         "title": "The curriculum",
@@ -62,7 +68,9 @@
         "file_name": "curriculum",
         "template_file": "theme-item",
         "navigation_file": "nav-1",
-        "thme": 1
+        "thme": 1,
+        "next_label": "Next read: Rhetoric and dialectic",
+        "next_link": "/rhetoric-dialectic"
     },
     {
         "title": "Rhetoric and dialectic",
@@ -73,7 +81,9 @@
         "file_name": "rhetoric-dialectic",
         "template_file": "theme-item",
         "navigation_file": "nav-1",
-        "thme": 1
+        "thme": 1,
+        "next_label": "Next read: Text portaits",
+        "next_link": "/text-portraits"
     },
     {
         "title": "Text portaits",
@@ -84,7 +94,9 @@
         "file_name": "text-portraits",
         "template_file": "theme-portraits",
         "navigation_file": "nav-1",
-        "thme": 1
+        "thme": 1,
+        "next_label": "Next read: ±±±t2±±±",
+        "next_link": "/theme2"
     },
     {
         "title": "±±±t2±±±",
@@ -95,7 +107,9 @@
         "file_name": "theme2",
         "template_file": "theme-landing",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: Alcuin and dialogue",
+        "next_link": "/alcuin"
     },
     {
         "title": "Alcuin and dialogue",
@@ -106,7 +120,9 @@
         "file_name": "alcuin",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: Heiric, Remigius and the School of Auxerre",
+        "next_link": "/auxerre"
     },
     {
         "title": "Heiric, Remigius and the School of Auxerre",
@@ -118,7 +134,9 @@
         "file_name": "auxerre",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: John Scottus and his assistant",
+        "next_link": "/john-scot"
     },
     {
         "title": "John Scottus and his assistant",
@@ -129,7 +147,9 @@
         "file_name": "john-scot",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: Abbo of Fleury and Gerbert of Rheims",
+        "next_link": "/abbo-gerbert"
     },
     {
         "title": "Abbo of Fleury and Gerbert of Rheims",
@@ -140,7 +160,9 @@
         "file_name": "abbo-gerbert",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: Abelard",
+        "next_link": "/abelard"
     },
     {
         "title": "Abelard",
@@ -151,7 +173,9 @@
         "file_name": "abelard",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: Gerard d’Abbeville",
+        "next_link": "/gerard"
     },
     {
         "title": "Gerard d’Abbeville",
@@ -162,7 +186,9 @@
         "file_name": "gerard",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: Ramon Llull",
+        "next_link": "/ramon"
     },
     {
         "title": "Ramon Llull",
@@ -173,7 +199,9 @@
         "file_name": "ramon",
         "template_file": "theme-item",
         "navigation_file": "nav-2",
-        "thme": 2
+        "thme": 2,
+        "next_label": "Next read: ±±±t3±±±",
+        "next_link": "/theme3"
     },
     {
         "title": "±±±t3±±±",
@@ -184,7 +212,9 @@
         "file_name": "theme3",
         "template_file": "theme-landing",
         "navigation_file": "nav-3",
-        "thme": 3
+        "thme": 3,
+        "next_label": "Next read: Techniques of reading and learning",
+        "next_link": "/techniques"
     },
     {
         "title": "Techniques of reading and learning",
@@ -195,7 +225,9 @@
         "file_name": "techniques",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
-        "thme": 3
+        "thme": 3,
+        "next_label": "Next read: Rhetoric and dialectic in schemes",
+        "next_link": "/schemes"
     },
     {
         "title": "Rhetoric and dialectic in schemes",
@@ -206,7 +238,9 @@
         "file_name": "schemes",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
-        "thme": 3
+        "thme": 3,
+        "next_label": "Next read: Squares and trees",
+        "next_link": "/trees"
     },
     {
         "title": "Squares and trees",
@@ -217,7 +251,9 @@
         "file_name": "trees",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
-        "thme": 3
+        "thme": 3,
+        "next_label": "Next read: Reasoning through syllogisms",
+        "next_link": "/syllogism"
     },
     {
         "title": "Reasoning through syllogisms",
@@ -228,7 +264,9 @@
         "file_name": "syllogism",
         "template_file": "theme-item",
         "navigation_file": "nav-3",
-        "thme": 3
+        "thme": 3,
+        "next_label": "Next read: ±±±t4±±±",
+        "next_link": "/theme4"
     },
     {
         "title": "±±±t4±±±",
@@ -239,7 +277,9 @@
         "file_name": "theme4",
         "template_file": "theme-landing",
         "navigation_file": "nav-4",
-        "thme": 4
+        "thme": 4,
+        "next_label": "Next read: Women and disputation",
+        "next_link": "/women-disputation"
     },
     {
         "title": "Women and disputation",
@@ -249,7 +289,9 @@
         "file_name": "women-disputation",
         "template_file": "theme-item",
         "navigation_file": "nav-4",
-        "thme": 4
+        "thme": 4,
+        "next_label": "Next read: Debate on adoptionism",
+        "next_link": "/adoptionism"
     },
     {
         "title": "Debate on adoptionism",
@@ -259,7 +301,9 @@
         "file_name": "adoptionism",
         "template_file": "theme-item",
         "navigation_file": "nav-4",
-        "thme": 4
+        "thme": 4,
+        "next_label": "Next read: Debate on adoptionism: aftermath",
+        "next_link": "/aftermath"
     },
     {
         "title": "Debate on adoptionism: aftermath",
@@ -269,7 +313,9 @@
         "file_name": "aftermath",
         "template_file": "theme-item",
         "navigation_file": "nav-4",
-        "thme": 4
+        "thme": 4,
+        "next_label": "Next read: A controversial art?",
+        "next_link": "/controversial-art"
     },
     {
         "title": "A controversial art?",
@@ -279,7 +325,9 @@
         "file_name": "controversial-art",
         "template_file": "theme-item",
         "navigation_file": "nav-4",
-        "thme": 4
+        "thme": 4,
+        "next_label": "Next read: Manuscripts",
+        "next_link": "/manuscripts"
     },
     {
         "title": "Manuscripts",
@@ -289,6 +337,7 @@
         "file_name": "manuscripts",
         "template_file": "manuscript-overview",
         "navigation_file": "nav-manuscripts",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "next_link": "/"
     }
 ]

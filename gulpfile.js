@@ -380,6 +380,8 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('±meta±', manuscriptMeta))
           .pipe(replace('<p>±timeline±</p>',''))
           .pipe(replace('<p>±map±</p>', ''))
+          .pipe(replace('<a id="_heading=h.gjdgxs"></a>', ''))
+
           .pipe(replace('±cite±', citeAs))
           .pipe(replace('mariken.teeuwen@huygens.knaw.nl', emaill))
 
@@ -558,9 +560,10 @@ function handletextPre(content) {
     content = content.replace(/]]]<br \/><\/p>/g, "]]]</p>");
     content = content.replace(/<p><br \/>±row±<br \/>±col1±<\/p>/g, "<p>±row±</p><p>±col1±</p>");
     content = content.replace(/±<br \/>\[\[\[/g, "±</p><p>[[[");
+    content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
 
 
-
+<br />±col2span±</p>
 
 
     content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
