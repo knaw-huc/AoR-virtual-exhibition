@@ -560,10 +560,8 @@ function handletextPre(content) {
     content = content.replace(/]]]<br \/><\/p>/g, "]]]</p>");
     content = content.replace(/<p><br \/>±row±<br \/>±col1±<\/p>/g, "<p>±row±</p><p>±col1±</p>");
     content = content.replace(/±<br \/>\[\[\[/g, "±</p><p>[[[");
-    content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
+    content = content.replace(/±<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
 
-
-<br />±col2span±</p>
 
 
     content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
