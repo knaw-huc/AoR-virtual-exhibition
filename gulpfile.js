@@ -285,21 +285,25 @@ gulp.task('buildFromTemplates', function(done) {
       if (page.title != 'lastpage') {
         page.nextHref = siteJson[i+1].file_name;
         page.nextTitle = siteJson[i+1].title;
-        if (siteJson[i].file_name == 'portraits') {
-          page.nextHref = 'theme1';
-          page.nextTitle = 'Back to theme';
+        // if (siteJson[i].file_name == 'text-portraits') {
+        //   page.nextHref = 'theme1';
+        //   page.nextTitle = 'Back to theme';
+        // }
+        // if (siteJson[i].file_name == 'ramon') {
+        //   page.nextHref = 'theme2';
+        //   page.nextTitle = 'Back to theme';
+        // }
+        // if (siteJson[i].file_name == 'syllogism') {
+        //   page.nextHref = 'theme3';
+        //   page.nextTitle = 'Back to theme';
+        // }
+        if (siteJson[i].file_name == 'introduction') {
+          page.nextHref = 'index';
+          page.nextTitle = 'Back to Home page';
         }
-        if (siteJson[i].file_name == 'Ramon-Llull') {
-          page.nextHref = 'theme2';
-          page.nextTitle = 'Back to theme';
-        }
-        if (siteJson[i].file_name == 'syllogism') {
-          page.nextHref = 'theme3';
-          page.nextTitle = 'Back to theme';
-        }
-        if (siteJson[i].file_name == 'controversial-art') {
-          page.nextHref = 'theme4';
-          page.nextTitle = 'Back to theme';
+        if (siteJson[i].file_name == 'about') {
+          page.nextHref = 'index';
+          page.nextTitle = 'Back to Home page';
         }
 
         if (page.type == 'manuscript') {
