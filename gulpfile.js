@@ -588,6 +588,7 @@ function handletextPre(content) {
     content = content.replace(/<p>±col1span±<br \/>/g, "<p>±col1span±</p><p>");
     content = content.replace(/file:\/\/\/C:\\Users\\renees\\AppData\\Local\\Temp\\/g, "/");
     //<a id="_heading=h.gjdgxs"></a>
+    content = content.replace(/<p>±row± <\/p>/g, "<p>±row±</p>");
 
 
 

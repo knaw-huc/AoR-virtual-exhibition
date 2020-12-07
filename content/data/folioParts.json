@@ -3,15 +3,15 @@
     {
         "folioid": "vlf48_30_v",
         "fpid": 1,
-        "fpname": "Opening of book 4",
-        "fpdescription": "Leiden, UB, VLF 48, f. 30v.",
+        "fpname": "VLF48f30v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 30v. http://hdl.handle.net/1887.1/item:1618282",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_30_v",
         "fpid": 2,
-        "fpname": "Tied notes",
-        "fpdescription": "Leiden, UB, VLF 48, f. 30v.",
+        "fpname": "VLF48f30v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 30v. http://hdl.handle.net/1887.1/item:1618282",
         "afbeelding_aanwezig": true,
         "svggroup": "l-UB_VLF_48_30_v.svg",
         "fpzoom": 2,
@@ -20,40 +20,40 @@
     {
         "folioid": "dev23_4 and 5_",
         "fpid": 3,
-        "fpname": "Drawings",
-        "fpdescription": "Drawings on 101 F 23 pp. 4-5",
+        "fpname": "101F23p4",
+        "fpdescription": "Deventer, AB, 101 F 23, pp. 4-5: drawings",
         "referentie_afb": "101F23p4.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_1_r",
         "fpid": 4,
-        "fpname": "Opening Periermenias",
-        "fpdescription": "Paris, BnF, lat. 12949 f.1r",
+        "fpname": "lat12949f1r",
+        "fpdescription": "Paris, BnF, lat. 12949, f.1r. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f1r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf165_37_a",
         "fpid": 5,
-        "fpname": "Porphyrian Tree",
-        "fpdescription": "f.37a Porphyrian Tree",
+        "fpname": "lat16598f37",
+        "fpdescription": "Paris, BnF, lat. 16598, f. 37r: Porphyrian Tree. https://gallica.bnf.fr/ark:/12148/btv1b9076885z",
         "referentie_afb": "16598f37a.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf166_14_v",
         "fpid": 6,
-        "fpname": "Mnemonic",
-        "fpdescription": "‘<Barbara> [erased], Celarent, Darii, Ferio, Baralipton, Celantes’ Here these names do double-duty; they remind the reader of the mnemonic verse, but they also indicate where the description of each mood can be found in the text.",
+        "fpname": "lat16611f14v",
+        "fpdescription": "Paris, BnF, lat. 16611, f. 14v: ‘<Barbara> [erased], Celarent, Darii, Ferio, Baralipton, Celantes’ Here these names do double-duty; they remind the reader of the mnemonic verse, but they also indicate where the description of each mood can be found in the text. https://gallica.bnf.fr/ark:/12148/btv1b90768515",
         "referentie_afb": "16611f14v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_24_v",
         "fpid": 7,
-        "fpname": "Porphyrian Tree",
-        "fpdescription": "Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space",
+        "fpname": "lat12949f24v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 24v: Here you can see how a little ‘Porphyrian tree’ has been added in the inner margin even when there was hardly space. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f24v2.jpg",
         "afbeelding_aanwezig": false,
         "svggroup": "12949_f24_v-1.svg",
@@ -63,8 +63,8 @@
     {
         "folioid": "bnf129_24_v",
         "fpid": 8,
-        "fpname": "Nota signs",
-        "fpdescription": "Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss.",
+        "fpname": "lat12949f24v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 24v:Here you can see how a later reader added large ‘NOTA’ signs as tiemarks, to clear up the puzzle of where to place the gloss. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f24v3.jpg",
         "afbeelding_aanwezig": true,
         "svggroup": "12949_f24_v-2.svg",
@@ -74,8 +74,8 @@
     {
         "folioid": "bnf129_24_v",
         "fpid": 9,
-        "fpname": "Tiemark",
-        "fpdescription": "Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly",
+        "fpname": "lat12949f24v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 24v:Here you can see how a first reader went really fancyfull with inventing a new tiemark, and how a later reader drew a line between text and gloss to mark them off a bit more clearly. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f24v4.jpg",
         "afbeelding_aanwezig": true,
         "svggroup": "12949_f24_v-3.svg",
@@ -85,392 +85,431 @@
     {
         "folioid": "vlf48_divers_",
         "fpid": 10,
-        "fpname": "Authorities",
-        "fpdescription": "(4) Refer to different authorities and compare",
+        "fpname": "VLF48",
+        "fpdescription": "Leiden, UB, VLF 48, ff, 66v, 70r and 81v. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48fdivers.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_divers_",
         "fpid": 11,
-        "fpname": "Schemes and Diagrams",
-        "fpdescription": "(5) Visualize material in lists, diagrams and schemes",
+        "fpname": "lat12949",
+        "fpdescription": "Paris, BnF, lat. 12949. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949fdivers.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_12_r--",
         "fpid": 12,
-        "fpname": "Affirmative and Negative Propositions",
-        "fpdescription": "In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and particular negative propositions: ‘some men are just’ and ‘some men are not just’",
+        "fpname": "BPL25f12r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 12r, Affirmative and negative propositions: In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and particular negative propositions: ‘some men are just’ and ‘some men are not just’. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f12r2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_12_r--",
         "fpid": 13,
-        "fpname": "Contradictory Relationships",
-        "fpdescription": "The diagonal lines crossing the centre of the diagram (labelled ‘contradictoriae’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then the proposition ‘some men are just’ cannot be true.’",
+        "fpname": "BPL25f12r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 12r, Contradictory Relationships: The diagonal lines crossing the centre of the diagram (labelled ‘contradictoriae’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then the proposition ‘some men are just’ cannot be true. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f12r3.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_12_r--",
         "fpid": 14,
-        "fpname": "Contrary Relationships",
-        "fpdescription": "The placement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false.",
+        "fpname": "BPL25f12r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 12r, Contrary Relationships: The placement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f12r4.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_12_r--",
         "fpid": 15,
-        "fpname": "Subaltern Relationships",
-        "fpdescription": "Finally, reading alongside the side of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition, ‘all men are just’ (placed at the top of the square), is true, then the corresponding particular affirmative proposition, ‘some men are just’ (placed at the bottom of the square), must also be true. Similarly, if the universal negative proposition, ‘no man is just’, then the particular negative proposition, ‘some man is not just’, must also be true.’",
+        "fpname": "BPL25f12r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 12r, Subaltern Relationships: Finally, reading alongside the sides of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition, ‘all men are just’ (placed at the top of the square), is true, then the corresponding particular affirmative proposition, ‘some men are just’ (placed at the bottom of the square), must also be true. Similarly, if the universal negative proposition, ‘no man is just’, is true, then the particular negative proposition, ‘some man is not just’, must also be true. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f12r5.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl88_1_vc",
         "fpid": 16,
-        "fpname": "Square of opposition",
-        "fpdescription": "Leiden UB BPL 88 f.2r",
+        "fpname": "BPL88f2r",
+        "fpdescription": "Leiden, UB, BPL 88, f. 2r: Square of opposition. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f2rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_39_v",
         "fpid": 17,
-        "fpname": "BPL 139",
-        "fpdescription": "BPL 139",
+        "fpname": "BPL139Bf39v",
+        "fpdescription": "Leiden, UB, BPL 139, f. 39v. http://hdl.handle.net/1887.1/item:1687093",
         "referentie_afb": "139f39v2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_95_vc",
         "fpid": 18,
-        "fpname": "Close-up",
-        "fpdescription": "In the second set of schemes lines connect terms of the propositions and conclusion in order to indicate how the argument is constructed. Visualising the argument in this way helps understand why it is valid.",
+        "fpname": "VLF48f95v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 95v (detail): In the second set of schemes lines connect terms of the propositions and conclusion in order to indicate how the argument is constructed. Visualising the argument in this way helps understand why it is valid. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f95vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_v",
         "fpid": 19,
-        "fpname": "Close-up",
-        "fpdescription": "For example, using a ‘mixed’ syllogism: ‘Whether the knowledge of discussing is useful. If good discussion is useful, the science of discussing well is useful. But good discussion is useful... Therefore dialectic is useful.’\n",
+        "fpname": "VLF48f95v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 95v (detail):: For example, using a ‘mixed’ syllogism: ‘Whether the knowledge of discussing is useful. If good discussion is useful, the science of discussing well is useful. But good discussion is useful... Therefore dialectic is useful.’",
         "referentie_afb": "48f95vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_vc",
         "fpid": 20,
-        "fpname": "Close-up",
-        "fpdescription": "The scheme is evidence of a reader trying to understand the steps made by Dialectic in reaching this conclusion; the scheme illustrates the reader’s thought process!",
+        "fpname": "VLF48f95v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 95v (detail): The scheme is evidence of a reader trying to understand the steps made by Dialectic in reaching this conclusion; the scheme illustrates the reader’s thought process! http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f95vfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf770_52_r",
         "fpid": 21,
-        "fpname": "Scheme",
-        "fpdescription": "Substantia, Corpus, Animatum Corpus, Animal, Homo, Socrates",
+        "fpname": "lat7709f52r",
+        "fpdescription": "Paris, BnF, lat. 7709, f. 52r: Scheme with Substantia, Corpus, Animatum Corpus, Animal, Homo, Socrates. https://gallica.bnf.fr/ark:/12148/btv1b10548475p",
         "referentie_afb": "7709f52rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_2 _v",
         "fpid": 22,
+        "fpname": "BPL88f2v",
+        "fpdescription": "Leiden, UB, BPL 88, ff. 2v-3r. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f2v3rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_1_v",
         "fpid": 23,
-        "fpname": "Schemes",
-        "fpdescription": "Schemes",
+        "fpname": "BPL88f1v",
+        "fpdescription": "Leiden, UB, BPL 88, ff. 1v-2r. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f1v2rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_50_v",
         "fpid": 24,
+        "fpname": "VLF48f50v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 50v. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f50v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_2_r",
         "fpid": 25,
+        "fpname": "VLF48f2r",
+        "fpdescription": "Leiden, UB, VLF 48, f. 2r. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f2r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_2_rb",
         "fpid": 26,
+        "fpname": "VLF48f2r",
+        "fpdescription": "Leiden, UB, VLF 48, f. 2r. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f2r2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_4_v",
         "fpid": 27,
+        "fpname": "VLF48f4v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 4v. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f4v.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "vlf48_32_r",
         "fpid": 28,
-        "fpname": "Scheme",
-        "fpdescription": "(5) scheme",
+        "fpname": "VLF48f32r",
+        "fpdescription": "Leiden, UB, VLF 48, f. 32r. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f32r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_112_r",
         "fpid": 29,
-        "fpname": "Commentary",
+        "fpname": "lat7900Af112r",
+        "fpdescription": "Paris, BnF, lat. 7900A, f. 112r. https://gallica.bnf.fr/ark:/12148/btv1b10546779x",
         "referentie_afb": "7900Af112r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_1_v",
         "fpid": 30,
-        "fpdescription": "In close-up, the dirt and wear and tear on the page are even more visible. We can also see that a later hand wrote the title of the work on the top of the page: ‘Aristotelis liber i peri er[meneias] a boecio comentatus expositusque’ (see green box) (The first book of Aritotle’s Peri hermeneias, commented upon and expounded by Boethius). In the red box you can see the Greek title of Aristotle’s work, Peri Hermeneias. It is written in Greek capitals. A line over the words emphasizes the fact that it is Greek.",
+        "fpname": "BPL25f2r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 2r: In close-up, the dirt and wear and tear on the page are even more visible. We can also see that a later hand wrote the title of the work on the top of the page: ‘Aristotelis liber i peri er[meneias] a boecio comentatus expositusque’ (see green box) (The first book of Aritotle’s Peri hermeneias, commented upon and expounded by Boethius). In the red box you can see the Greek title of Aristotle’s work, Peri Hermeneias. It is written in Greek capitals. A line over the words emphasizes the fact that it is Greek. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f1v2rfr.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_2_v",
         "fpid": 31,
+        "fpname": "BPL25f2v",
+        "fpdescription": "Leiden, UB, BPL 25, f. 2v. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f2v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_6_v",
         "fpid": 32,
+        "fpname": "BPL25f6v",
+        "fpdescription": "Leiden, UB, BPL 25, f. 6v. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f6v.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_7_v",
         "fpid": 33,
+        "fpname": "BPL25f7v",
+        "fpdescription": "Leiden, UB, BPL 25, f. 7v. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f7v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_32_v",
         "fpid": 34,
+        "fpname": "BPL25f32v",
+        "fpdescription": "Leiden, UB, BPL 25, f. 32v. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f30v32r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_42_r",
         "fpid": 35,
+        "fpname": "BPL25f42r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 42r. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f42r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 36,
-        "fpdescription": "A close up shows how equisite and detailed the penwork is. The size of the initial signifies the structure of the text: the larger the initial, the more important the unit of text is it opens. Red and blue are the usual colours of ink to use for these initials and the penwork, often in alternation.\n",
+        "fpname": "lat17806f4v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 4v: A close up shows how equisite and detailed the penwork is. The size of the initial signifies the structure of the text: the larger the initial, the more important the unit of text is it opens. Red and blue are the usual colours of ink to use for these initials and the penwork, often in alternation. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f4vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 37,
-        "fpdescription": "In the red triangle we read: “in voce earum quae sunt”. This is a correction for a passage in the main text, which originally read “que sunt in voce”. In the main tekst, the passage is marked with dots under the letters, signifying that these words should be deleted and replaced by the correction in het margin.\n",
+        "fpname": "lat17806f4v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 4v: In the red triangle we read: “in voce earum quae sunt”. This is a correction for a passage in the main text, which originally read “que sunt in voce”. In the main tekst, the passage is marked with dots under the letters, signifying that these words should be deleted and replaced by the correction in het margin. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f4vfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_90_r",
         "fpid": 38,
-        "fpname": "BPL 84 f.90r",
+        "fpname": "BPL84f90r",
+        "fpdescription": "Leiden, UB, BPL 84, f. 90r. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f90r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "fpid": 39,
-        "fpname": "BPL 84 f.84r",
-        "fpdescription": "Leiden UB BPL 84 f.84r",
+        "fpname": "BPL84f84r",
+        "fpdescription": "Leiden, UB, BPL 84, f. 84r. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f84r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_84_rb",
         "fpid": 40,
-        "fpname": "BPL 84 f.84r",
+        "fpname": "BPL84f84r",
+        "fpdescription": "Leiden, UB, BPL 84, f. 84r. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f84rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_89_v",
         "fpid": 41,
-        "fpname": "BPL 84 f.89v",
-        "fpdescription": "The scheme begins with two examples of simple propositions which do not ‘convert’: ‘Plato is a philosopher’ ‘Virtue is good’ These syllogisms cannot be converted by simply swopping the subject and predicate terms. ‘A philosopher’ is not necessarily Plato! Similarly, virtue is not the only ‘good’.",
+        "fpname": "BPL84f89v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 89v: The scheme begins with two examples of simple propositions which do not ‘convert’: ‘Plato is a philosopher’ ‘Virtue is good’ These syllogisms cannot be converted by simply swopping the subject and predicate terms. ‘A philosopher’ is not necessarily Plato! Similarly, virtue is not the only ‘good’. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f89vfr3.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_89_v",
         "fpid": 42,
-        "fpname": "BPL 84 f.89v",
-        "fpdescription": "Here the scheme represents Boethius’ account of ‘conversion by opposition’ (‘contraposition’) The second set of propositions: ‘Omnis non homo animal est. Omne animal non homo est.’ (’All non-man is an animal; all animals are not man’) shows how switching the order of the subject and predicate of the sentence generates a new proposition.\n",
+        "fpname": "BPL84f89v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 89v: Here the scheme represents Boethius’ account of ‘conversion by opposition’ (‘contraposition’) The second set of propositions: ‘Omnis non homo animal est. Omne animal non homo est.’ (’All non-man is an animal; all animals are not man’) shows how switching the order of the subject and predicate of the sentence generates a new proposition. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f89vfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_90_v",
         "fpid": 43,
-        "fpname": "BPL 84 f.90v",
-        "fpdescription": "Ch: How many species are there in dialectic? A: The most important are 5: ‘isagogae’, categories, syllogistic formulas and definitions, ‘topica’, and ‘perermeniae’. Ch: What are ‘isagogae’? A: Isagoge is the (Greek) word for Latin ‘introductio’, ‘introduction’. Ch: What does ‘introduction’ mean? A: Introduction is …",
+        "fpname": "BPL84f90v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 90v: Ch(arles): How many species are there in dialectic? A(lcuin): The most important are 5: ‘isagogae’, categories, syllogistic formulas and definitions, ‘topica’, and ‘perermeniae’. Ch: What are ‘isagogae’? A: Isagoge is the (Greek) word for Latin ‘introductio’, ‘introduction’. Ch: What does ‘introduction’ mean? A: Introduction is … . http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f90vfr.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_90_v",
         "fpid": 44,
-        "fpname": "BPL 84 f.90v",
-        "fpdescription": "Ch: What is ‘genus’? A: ‘Genus’ is what can be divided into species: it describes whatever you are investigating in an inclusive word, such as ‘animal’. For each individual species - man, horse, ox, lion etc. – ‘animal’ is the genus and is applied to them all. Ch: What is ‘species’? A: ‘Species’ is …",
+        "fpname": "BPL84f90v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 90v: Ch: What is ‘genus’? A: ‘Genus’ is what can be divided into species: it describes whatever you are investigating in an inclusive word, such as ‘animal’. For each individual species - man, horse, ox, lion etc. – ‘animal’ is the genus and is applied to them all. Ch: What is ‘species’? A: ‘Species’ is …. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f90vfr2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_2_rc",
         "fpid": 45,
-        "fpname": "BPL 144 f.2r",
+        "fpname": "BPL144f2r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 2r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f2rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_2_r",
         "fpid": 46,
-        "fpname": "Margin",
+        "fpname": "BPL144f2r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 2r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f2rfr2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_2_r",
         "fpid": 47,
-        "fpname": "Nota signs",
-        "fpdescription": "Written nota signs from the original annotating hand (below) and from the later one (above)",
+        "fpname": "BPL144f2r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 2r: Written nota signs from the original annotating hand (below) and from the later one (above). http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f2rfr3.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_10_r",
         "fpid": 48,
-        "fpname": "BPL 144 f.10r",
+        "fpname": "BPL144f10r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 10r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f10r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_17_v",
         "fpid": 49,
-        "fpname": "BPL 144 f.17v",
-        "fpdescription": "A foot (?) and a hand at the edge of fol. 17v",
+        "fpname": "BPL144f17v",
+        "fpdescription": "Leiden, UB, BPL 144, f. 17v: A foot (?) and a hand at the edge of fol. 17v. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f17v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_37_r",
         "fpid": 50,
-        "fpname": "BPL 144 f.37r",
-        "fpdescription": "A hand, leg or arm (?) and face on fol. 37r ",
+        "fpname": "BPL144f37r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 37r: A hand, leg or arm (?) and face on fol. 37r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f37r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_49_v",
         "fpid": 51,
-        "fpname": "BPL 144 f.49v",
-        "fpdescription": "A head and peculiar animal on fol. 49v",
+        "fpname": "BPL144f49v",
+        "fpdescription": "Leiden, UB, BPL 144, f. 49v: A head and peculiar animal on fol. 49v. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f49v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_18_r",
         "fpid": 52,
-        "fpname": "BPL 144 f.18r",
-        "fpdescription": "In manuscripts, marginal notes are used to (1) call attention to certain things",
+        "fpname": "BPL144f18r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 18r: In manuscripts, marginal notes are used to (1) call attention to certain things. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f18r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_20_v",
         "fpid": 53,
-        "fpname": "BPL 144 f.20v",
-        "fpdescription": "Edge of the page",
+        "fpname": "BPL144f20v",
+        "fpdescription": "Leiden, UB, BPL 144, f. 20v: Edge of the page. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f20v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_17_r",
         "fpid": 54,
-        "fpname": "BPL 144 f.17r",
-        "fpdescription": "Edge of the page",
+        "fpname": "BPL144f7r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 7r: Edge of the page. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f17r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_58_rb",
         "fpid": 55,
-        "fpname": "Damaged page",
-        "fpdescription": "You can see that the material was already damaged when the scribe was copying the commentary into the margins: he/she deals with the damages parchment and the hole in it.",
+        "fpname": "BPL144f58r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 58r: You can see that the material was already damaged when the scribe was copying the commentary into the margins: he/she deals with the damages parchment and the hole in it. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f58r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_133_r",
         "fpid": 56,
-        "fpname": "Paris BnF lat.7900A f.133r",
+        "fpname": "lat7900Af133r",
+        "fpdescription": "Paris, BnF, lat. 7900A, f. 133r. https://gallica.bnf.fr/ark:/12148/btv1b10546779x",
         "referentie_afb": "7900Af133r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_25_v",
         "fpid": 57,
-        "fpname": "Paris BnF lat. 12949 f.25v",
-        "fpdescription": "‘Heiricus magister Remigii fecit has glossas’",
+        "fpname": "lat12949f25v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 25v: ‘Heiricus magister Remigii fecit has glossas’. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f25vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_25_v",
         "fpid": 58,
+        "fpname": "lat12949f25v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 25v. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f25vfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_43_r",
         "fpid": 59,
-        "fpdescription": "BPL 144, f.43r (1) call attention to certain things",
+        "fpname": "BPL144f43r",
+        "fpdescription": "Leiden, UB, BPL 144, f.43r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f43r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_172_v",
         "fpid": 60,
+        "fpname": "BPL88f172v",
+        "fpdescription": "Leiden, UB, BPL 88, f. 172v. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f172v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "dev22_112_",
         "fpid": 61,
+        "fpname": "101F22p112",
+        "fpdescription": "Deventer, AB, 101 F 23, p. 112.",
         "referentie_afb": "101F22p112.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 62,
-        "fpdescription": "A later reader added a Nota sign, marking a passage as noteworthy.",
+        "fpname": "lat17806f4v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 4v. A later reader added a Nota sign, marking a passage as noteworthy. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f4vfr3.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_4_v",
         "fpid": 63,
-        "fpdescription": "In the bottom margin we find a kind of diagram that often appears in these logical texts: the start of a sentence is broken up in two possible continuations, one of which is again broken up in a set of possible continuations.",
+        "fpname": "lat17806f4v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 4v. In the bottom margin we find a kind of diagram that often appears in these logical texts: the start of a sentence is broken up in two possible continuations, one of which is again broken up in a set of possible continuations. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f4vfr4.jpg",
         "afbeelding_aanwezig": false
     },
@@ -478,8 +517,8 @@
         "multiviewid": "bnf178_8_v_9_r",
         "folioid": "bnf178_8_v",
         "fpid": 64,
-        "fpname": 1,
-        "fpdescription": "a",
+        "fpname": "lat17806f8v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 8v. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f8v.jpg",
         "afbeelding_aanwezig": false
     },
@@ -487,28 +526,32 @@
         "multiviewid": "bnf178_8_v_9_r",
         "folioid": "bnf178_9_r",
         "fpid": 65,
-        "fpname": 2,
-        "fpdescription": "b",
+        "fpname": "lat17806f8v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 8v. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f9r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_6_r",
         "fpid": 66,
+        "fpname": "lat17806f6r",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 6r. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f6r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_44_v",
         "fpid": 67,
+        "fpname": "lat17806f44v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 44v. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f44v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf178_17_r",
         "fpid": 68,
-        "fpname": "Paris BnF lat. 17806 f.17r",
-        "fpdescription": "Portrait of a master teaching a student",
+        "fpname": "lat17806f17r",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 117r: portrait of a master teaching a student. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f17r.jpg",
         "afbeelding_aanwezig": false
     },
@@ -516,8 +559,8 @@
         "multiviewid": "bnf178_172_r_250_v",
         "folioid": "bnf178_172_r",
         "fpid": 69,
-        "fpname": 3,
-        "fpdescription": "c",
+        "fpname": "lat17806f172r",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 172r. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f172r.jpg",
         "afbeelding_aanwezig": false
     },
@@ -525,493 +568,551 @@
         "multiviewid": "bnf178_172_r_250_v",
         "folioid": "bnf178_250_v",
         "fpid": 70,
-        "fpname": 4,
-        "fpdescription": "d",
+        "fpname": "lat17806f250v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 250v. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f250v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_46_v",
         "fpid": 71,
+        "fpname": "BPL139Bf46v",
+        "fpdescription": "Leiden, UB, BPL 139B, f. 46v. http://hdl.handle.net/1887.1/item:1687093",
         "referentie_afb": "139f46vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_28_v",
         "fpid": 72,
+        "fpname": "BPL139Bf28v",
+        "fpdescription": "Leiden, UB, BPL 139B, f. 28v. http://hdl.handle.net/1887.1/item:1687093",
         "referentie_afb": "139f28vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_8_r",
         "fpid": 73,
+        "fpname": "BPL139Bf8r",
+        "fpdescription": "Leiden, UB, BPL 139B, f. 8r. http://hdl.handle.net/1887.1/item:1687093",
         "referentie_afb": "139f8rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "ein315_6_",
         "fpid": 74,
+        "fpname": "315p6",
+        "fpdescription": "Einsiedeln, Stiftsbibliothek, Codex 315(605), p. 6. http://www.e-codices.ch/en/sbe/0315",
         "referentie_afb": "ein315p6.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "ein315_6_",
         "fpid": 75,
-        "fpdescription": "The text has been carefully corrected, here ‘ad’ has been corrected to ‘ab’ and ‘actenus’ to ‘hactenus’.",
+        "fpname": "315p6",
+        "fpdescription": "Einsiedeln, Stiftsbibliothek, Codex 315(605), p.6: The text has been carefully corrected, here ‘ad’ has been corrected to ‘ab’ and ‘actenus’ to ‘hactenus’. http://www.e-codices.ch/en/sbe/0315",
         "referentie_afb": "ein315p6fr.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "ein315_6_",
         "fpid": 76,
-        "fpdescription": "Here small squiggles have been added in the margin alongside the text; these are rudimentary quotation marks indicating original text from the Isagoge, the subject of Boethius’ commentary.",
+        "fpname": "315p6",
+        "fpdescription": "Einsiedeln, Stiftsbibliothek, Codex 315(605), p. 6: Here small squiggles have been added in the margin alongside the text; these are rudimentary quotation marks indicating original text from the Isagoge, the subject of Boethius’ commentary. http://www.e-codices.ch/en/sbe/0315",
         "referentie_afb": "ein315p6fr2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "ein315_6_",
         "fpid": 77,
-        "fpdescription": "Here interlinear glosses have been added to provide Latin equivalents of the Greek terms hyperbaton (transposition of words) and zeuma (where one word can be used in two different contexts). The glossator describes these as ‘confusus ordo’, the confusion of order, and ‘repetitio’, repetition, respectively.",
+        "fpname": "315p6",
+        "fpdescription": "Einsiedeln, Stiftsbibliothek, Codex 315(605), p. 6: Here interlinear glosses have been added to provide Latin equivalents of the Greek terms hyperbaton (transposition of words) and zeuma (where one word can be used in two different contexts). The glossator describes these as ‘confusus ordo’, the confusion of order, and ‘repetitio’, repetition, respectively. http://www.e-codices.ch/en/sbe/0315",
         "referentie_afb": "ein315p6fr3.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_103_v",
         "fpid": 78,
-        "fpdescription": "A medieval reader has added a content list at the end of the volume, starting with ‘libri boetius’, books of Boethius, and listing the titles. These match the existing contents of BPL 84, so we know that this collection of texts has been together since at least the time it was in this reader’s hands.",
+        "fpname": "BPL84f103v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 103v: A medieval reader has added a content list at the end of the volume, starting with ‘libri boetius’, books of Boethius, and listing the titles. These match the existing contents of BPL 84, so we know that this collection of texts has been together since at least the time it was in this reader’s hands. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f103vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_36_r",
         "fpid": 79,
-        "fpdescription": "UB BPL f.36r",
+        "fpname": "BPL139Bf36r",
+        "fpdescription": "Leiden, UB, BPL 139B, f.36r. http://hdl.handle.net/1887.1/item:1687093",
         "referentie_afb": "139f36r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_33_v",
         "fpid": 80,
-        "fpdescription": "Square of Opposition",
+        "fpname": "BPL139Bf33v",
+        "fpdescription": "Leiden, UB, BPL 139B, f. 33v: Square of Opposition. http://hdl.handle.net/1887.1/item:1687093",
         "referentie_afb": "139f33v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl139_46_r",
         "fpid": 81,
+        "fpname": "BPL139Bf46r",
+        "fpdescription": "Leiden, UB, BPL 139B, f. 46r. http://hdl.handle.net/1887.1/item:1687093",
         "referentie_afb": "139f46r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_32_v",
         "fpid": 82,
-        "fpdescription": "An example of numbers (‘ii’), from f. 32v",
+        "fpname": "BPL84f32v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 32v: An example of numbers (‘ii’), from f. 32v. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f32v.jpg",
         "afbeelding_aanwezig": false
     },
     {
-        "folioid": "bpl84_8_v",
+        "folioid": "You can see that the material was already damaged when the scribe was copying the commentary into the margins: he/she deals with the damages parchment and the hole in it. http://hdl.handle.net/1887.1/item:2356986",
         "fpid": 83,
-        "fpdescription": "On f. 8v we find the quire signature ‘c’, suggesting that this gathering of leaves was once the third in a collection.",
+        "fpname": "BPL84f8v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 8v: here we find the quire signature ‘c’, suggesting that this gathering of leaves was once the third in a collection. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f8v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_16_v",
         "fpid": 84,
-        "fpdescription": "f.16v: 'd'",
+        "fpname": "BPL84f16v",
+        "fpdescription": "Leiden, UB, BPL 84, f.16v: here 'd'. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "_",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_13_r",
         "fpid": 85,
-        "fpdescription": "f. 13r: ‘Retro in libro topicorum iii’: ‘Back in book III of the Topics’",
+        "fpname": "BPL84f13r",
+        "fpdescription": "Leiden, UB, BPL 84, f. 13r: ‘Retro in libro topicorum iii’: ‘Back in book III of the Topics’. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f13r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_14_r",
         "fpid": 86,
-        "fpdescription": "f. 14r: ‘Retro in fine libri tercium topicorum ciceronis’: ‘Back in the end of the third book of Cicero’s Topics’",
+        "fpname": "BPL84f14r",
+        "fpdescription": "Leiden, UB, BPL 84, f. 14r: ‘Retro in fine libri tercium topicorum ciceronis’: ‘Back in the end of the third book of Cicero’s Topics’. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f14r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_57_v",
         "fpid": 87,
+        "fpname": "BPL84f57v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 57v. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f57v.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl84_44_v",
         "fpid": 88,
-        "fpdescription": "Here on f. 44v, two sets of rubrics (written in red) indicate that one text has ended and that another will begin on the next page.",
+        "fpname": "BPL84f44v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 44v: two sets of rubrics (written in red) indicate that one text has ended and that another will begin on the next page. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f44v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_64_v",
         "fpid": 89,
-        "fpdescription": "Initial ‘Q’ on f. 64v",
+        "fpname": "BPL84f64v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 64v: Initial ‘Q’. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f64v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_83_v",
         "fpid": 90,
-        "fpdescription": "Initial ‘H’ on f. 83v",
+        "fpname": "BPL84f83v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 83v: Initial ‘H’. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f83v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl84_84_v",
         "fpid": 91,
+        "fpname": "BPL84f84v",
+        "fpdescription": "Leiden, UB, BPL 84, f. 84v. http://hdl.handle.net/1887.1/item:2348775",
         "referentie_afb": "84f83v2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 92,
+        "fpname": "lat7900Af27r",
+        "fpdescription": "Paris, BnF, lat. 7900A, f. 27r. https://gallica.bnf.fr/ark:/12148/btv1b10546779x",
         "referentie_afb": "7900A27r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 93,
-        "fpdescription": "Introductions to the author",
+        "fpname": "lat7900Af27r",
+        "fpdescription": "Paris, BnF, lat. 7900A, f. 27r: Introductions to the author. https://gallica.bnf.fr/ark:/12148/btv1b10546779x",
         "referentie_afb": "7900A27rfr1.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 94,
-        "fpdescription": "Author's portrait",
+        "fpname": "lat7900Af27r",
+        "fpdescription": "Paris, BnF, lat. 7900A, f. 27r: Author's portrait. https://gallica.bnf.fr/ark:/12148/btv1b10546779x",
         "referentie_afb": "7900A27rfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_27_r",
         "fpid": 95,
-        "fpdescription": "Opening of the commentary",
+        "fpname": "lat7900Af27r",
+        "fpdescription": "Paris, BnF, lat. 7900A, f. 27r: Opening of the commentary. https://gallica.bnf.fr/ark:/12148/btv1b10546779x",
         "referentie_afb": "7900A27rfr3.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf790_127_v",
         "fpid": 96,
-        "fpdescription": "A personification of the discipline of grammar (Lady Grammar) is teaching a schoolclass. The pupils in the front row have wax tablets to practice their letters and words.\n",
+        "fpname": "lat7900Af127v",
+        "fpdescription": "Paris, BnF, lat. 7900A, f. 127v: A personification of the discipline of grammar (Lady Grammar) is teaching a schoolclass. The pupils in the front row have wax tablets to practice their letters and words.",
         "referentie_afb": "7900A127vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_4_v",
         "fpid": 97,
-        "fpdescription": "Text in the box: ‘According to Calcidius, entelechy is perfecta aetas, completed lifetime. According to Aristotle, it is interpreted as absolute perfection. Plato, on the other hand, says that entelechy is the anima mundi, the soul of the world.’",
+        "fpname": "BPL88f4v",
+        "fpdescription": "Leiden, UB, BPL 88, f. 4v: Text in the box, drawn by us: ‘According to Calcidius, entelechy is perfecta aetas, completed lifetime. According to Aristotle, it is interpreted as absolute perfection. Plato, on the other hand, says that entelechy is the anima mundi, the soul of the world.’ http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f4v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_171_r",
         "fpid": 98,
+        "fpname": "BPL88f171r",
+        "fpdescription": "Leiden, UB, BPL 88, f. 171r. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f171r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_172_vb",
         "fpid": 99,
+        "fpname": "BPL88f172v",
+        "fpdescription": "Leiden, UB, BPL 88, f. 172v. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f172v2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf1296_8_v",
         "fpid": 100,
-        "fpdescription": "Paris, BnF, Lat. 12963, f. 8v (detail). Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century.",
+        "fpname": "lat12963f8v",
+        "fpdescription": "Paris, BnF, lat. 12963, f. 8v (detail). Cassiodorus, Institutiones. Ms. from Corbie, second half of the 10th century. https://gallica.bnf.fr/ark:/12148/btv1b105442152",
         "referentie_afb": "12963f8v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf165_37_r",
         "fpid": 101,
-        "fpname": "part 2",
-        "fpdescription": "Note the distinction made between mortal (and rational) man and mortal (and irrational) cows, dogs, etc.",
+        "fpname": "lat16598f37r",
+        "fpdescription": "Paris, BnF, lat. 16598, f. 37r: Note the distinction made between mortal (and rational) man and mortal (and irrational) cows, dogs, etc. https://gallica.bnf.fr/ark:/12148/btv1b9076885z",
         "referentie_afb": "16598f37r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf165_37_r",
         "fpid": 102,
-        "fpname": "part 3",
-        "fpdescription": "Here, as might befit a book belonging to a theologian, Peter and Paul substitute for Plato and Socrates as examples of the species ‘man’.",
+        "fpname": "lat16598f37r",
+        "fpdescription": "Paris, BnF, lat. 16598, f. 37r: Here, as might befit a book belonging to a theologian, Peter and Paul substitute for Plato and Socrates as examples of the species ‘man’. https://gallica.bnf.fr/ark:/12148/btv1b9076885z",
         "referentie_afb": "16598f37r2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_24_vb",
         "fpid": 103,
-        "fpname": "part 2",
-        "fpdescription": "At the top of the scheme we find ‘Usia’ , meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’",
+        "fpname": "lat12949f24v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 24v: At the top of the scheme we find ‘Usia’ , meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’. Paris, BnF, MS lat. 12949, f. 24. vhttps://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f24v2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_vb",
         "fpid": 104,
-        "fpname": "Musical pitches",
-        "fpdescription": "The other scribe added a note on musical pitches, and two sets of schemes regarding syllogistic propositions.",
+        "fpname": "VLF48f95v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 95v: The other scribe added a note on musical pitches, and two sets of schemes regarding syllogistic propositions. http://hdl.handle.net/1887.1/item:1618282",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_vb",
         "fpid": 105,
-        "fpname": "Syllogisms",
-        "fpdescription": "A line separates the sets of examples of syllogisms.",
+        "fpname": "VLF48f95v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 95v: A line separates the sets of examples of syllogisms. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f95vfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "vlf48_95_vb",
         "fpid": 106,
-        "fpname": "Rather",
-        "fpdescription": "We know who one of these scribes was – Rather of Verona (890-974) added a copy of a letter at the base of the page.",
+        "fpname": "VLF48f95v",
+        "fpdescription": "Leiden, UB, VLF 48, f. 95v: We know who one of these scribes was – Rather of Verona (890-974) added a copy of a letter at the base of the page. http://hdl.handle.net/1887.1/item:1618282",
         "referentie_afb": "48f95vfr3.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_66_v",
         "fpid": 107,
-        "fpname": "close-up",
+        "fpname": "BPL144f66v",
+        "fpdescription": "Leiden, UB, BPL 144, f. 66v. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f66v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_2_rd",
         "fpid": 108,
-        "fpname": "hand 1",
+        "fpname": "BPL144f2r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 2r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144hand1.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_2_rd",
         "fpid": 109,
-        "fpname": "hand 2",
+        "fpname": "BPL144f2r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 2r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144hand2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_2_r",
         "fpid": 110,
-        "fpname": "Nota signs 2",
-        "fpdescription": "A written Nota sign in the original hand, and a drawn head as attention sign in the later hand.",
+        "fpname": "BPL144f2r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 2r. A written Nota sign in the original hand, and a drawn head as attention sign in the later hand. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f2rfr4.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl144_18_rb",
         "fpid": 111,
-        "fpname": "Talking Heads",
+        "fpname": "BPL144f18r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 18r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f18r2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_83_r",
         "fpid": 112,
-        "fpname": "close-up",
+        "fpname": "BPL144f83r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 83r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f83.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_85_v",
         "fpid": 113,
-        "fpname": "close-up",
+        "fpname": "BPL144f85v",
+        "fpdescription": "Leiden, UB, BPL 144, f. 85v. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f85v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_171_rb",
         "fpid": 114,
-        "fpname": "close-up",
+        "fpname": "BPL88f171r",
+        "fpdescription": "Leiden, UB, BPL 88, f. 171r. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f171rb.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "gro22_13_v",
         "fpid": 115,
-        "fpname": "gloss 1",
-        "fpdescription": "Here the glossator introduces the characters in the conversation.",
+        "fpname": "GRO22f13v",
+        "fpdescription": "Leiden, UB, GRO 22, f. 13v: Here the glossator introduces the characters in the conversation. http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f13v.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "gro22_13_v",
         "fpid": 116,
-        "fpname": "gloss 2",
-        "fpdescription": "‘Ecce’, ‘Look’, the glossator writes – ‘an example of induction’ . ",
+        "fpname": "GRO22f13v",
+        "fpdescription": "Leiden, UB, GRO 22, f. 13v: ‘Ecce’, ‘Look’, the glossator writes – ‘an example of induction’ . http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f13v2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "gro22_13_v",
         "fpid": 117,
-        "fpname": "gloss 3",
-        "fpdescription": "The glossator indicates who is speaking between the lines (‘Aspasia’s words’, ’Xenophon’s wife responds’ etc). These names and  characters may have been unfamiliar to the reader, so these cues helped them follow the text.",
+        "fpname": "GRO22f13v",
+        "fpdescription": "Leiden, UB, GRO 22, f. 13v: The glossator indicates who is speaking between the lines (‘Aspasia’s words’, ’Xenophon’s wife responds’ etc). These names and  characters may have been unfamiliar to the reader, so these cues helped them follow the text. http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f13v3.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "gro22_11_r",
         "fpid": 118,
-        "fpname": "schemata",
-        "fpdescription": "These schemata (f. 11r) summarise Cicero’s discussion of the aspects of human nature (De inventione, I.XXIV.35) which are used to describe people involved in a case.",
+        "fpname": "GRO22f11r",
+        "fpdescription": "Leiden, UB, GRO 22, f. 11r: These schemata  summarise Cicero’s discussion of the aspects of human nature (De inventione, I.XXIV.35) which are used to describe people involved in a case. http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f11r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "gro22_11_v",
         "fpid": 119,
-        "fpname": "schemata",
+        "fpname": "GRO22f11v",
+        "fpdescription": "Leiden, UB, GRO 22, f. 11v. http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f11v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "gro22_58_v",
         "fpid": 120,
-        "fpname": "gloss",
-        "fpdescription": "On f. 58v, a glossator adds Augustine’s list of the eight categories of lies (De mendacio, 25).",
+        "fpname": "GRO22f58v",
+        "fpdescription": "Leiden, UB, GRO 22, f. 58v: a glossator adds Augustine’s list of the eight categories of lies (De mendacio, 25). http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f58v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "gro22_70_v",
         "fpid": 121,
-        "fpname": "close-up",
+        "fpname": "GRO22f70v",
+        "fpdescription": "Leiden, UB, GRO 22, f. 70v. http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f70v.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "ein29_166_",
         "fpid": 122,
-        "fpname": "annotation",
-        "fpdescription": "This passage of annotation gives us a clue about the kind of readers Cod. 29 (878) was expected to receive. As the first word, ‘ordo’, suggests, this gloss amounts to a reordering of the first words of Porphyry’s text (‘Cum sit necessarium...’). Glosses of this type helped medieval students make sense of Latin, and suggest that this copy of the Isagoge was prepared for an elementary readership.",
+        "fpname": "29f166",
+        "fpdescription": "Einsiedeln, Stiftsbibliothek, Codex  29 (878), p. 166: This passage of annotation gives us a clue about the kind of readers Cod. 29 (878) was expected to receive. As the first word, ‘ordo’, suggests, this gloss amounts to a reordering of the first words of Porphyry’s text (‘Cum sit necessarium...’). Glosses of this type helped medieval students make sense of Latin, and suggest that this copy of the Isagoge was prepared for an elementary readership. https://www.e-codices.unifr.ch/en/list/one/sbe/0029",
         "referentie_afb": "29f166.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_12_r",
         "fpid": 123,
-        "fpname": "Introduction",
-        "fpdescription": "Introduction (accessus) to the author, Augustine, and an etymology of the word dialectica, with a reference to John Scot Eriugenia.",
+        "fpname": "lat12949f12r",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 12r: Introduction (accessus) to the author, Augustine, and an etymology of the word dialectica, with a reference to John Scot Eriugenia. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f12rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_12_r",
         "fpid": 124,
-        "fpname": "De dialectica",
-        "fpdescription": "Opening of De dialectica, with the well-known opening words: “Dialectia est bene disputandi scientia”; “Dialectic is the art of arguing well.",
+        "fpname": "lat12949f12r",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 12r: Opening of De dialectica, with the well-known opening words: “Dialectia est bene disputandi scientia”; “Dialectic is the art of arguing well. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f12rfr1.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_24_rb",
         "fpid": 125,
-        "fpname": "Categoriae decem",
+        "fpname": "lat12949f24r",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 24r.: https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f24rfr2.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_25_vb",
         "fpid": 126,
-        "fpname": "Paris BnF lat. 12949 f.25v",
-        "fpdescription": "‘Heiricus magister Remigii fecit has glossas’",
+        "fpname": "lat12949f25v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 25v: ‘Heiricus magister Remigii fecit has glossas’. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f25vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_52_v",
         "fpid": 127,
-        "fpname": "Quote",
+        "fpname": "lat12949f52v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 52v. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f52v.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf129_27_v",
         "fpid": 128,
-        "fpname": "Close-up",
-        "fpdescription": "‘We should not accept this gloss’ - ‘Non est haec glossa a nobis recipienda.’",
+        "fpname": "lat12949f52v",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 52v: ‘We should not accept this gloss’ - ‘Non est haec glossa a nobis recipienda.’ https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f27v.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bnf178_4_vc",
         "fpid": 129,
-        "fpname": "Grid",
-        "fpdescription": "Grid on f.4v",
+        "fpname": "lat17806f4v",
+        "fpdescription": "Paris, BnF, lat. 17806, f. 4v: Grid. https://gallica.bnf.fr/ark:/12148/btv1b525053525",
         "referentie_afb": "17806f4vfr5.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl88_2_vb",
         "fpid": 130,
-        "fpname": "Ninth-century script",
+        "fpname": "BPL88f2v",
+        "fpdescription": "Leiden, UB, BPL 88, f. 2v: Ninth-century script. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f2vfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl88_2_vb",
         "fpid": 131,
-        "fpname": "Eleventh-century additions",
+        "fpname": "BPL88f2v",
+        "fpdescription": "Leiden, UB, BPL 88, f. 2v: Eleventh-centruy additions. http://hdl.handle.net/1887.1/item:2028417",
         "referentie_afb": "88f2vfr2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl25_1_vb",
         "fpid": 132,
-        "fpname": "close-up",
+        "fpname": "BPL25f2r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 2r. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f2rfr.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "bpl25_7_r",
         "fpid": 133,
-        "fpname": "close-up",
+        "fpname": "BPL25f7r",
+        "fpdescription": "Leiden, UB, BPL 25, f. 7r. http://hdl.handle.net/1887.1/item:1617684",
         "referentie_afb": "25f7r.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "gro22_23_r",
         "fpid": 134,
-        "fpname": "gloss",
+        "fpname": "GRO22f23r",
+        "fpdescription": "Leiden, UB, GRO 22, f. 23r. http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "22f23r.jpg",
         "afbeelding_aanwezig": true
     },
     {
         "folioid": "gro22_105_r",
         "fpid": 135,
-        "fpname": "close-up",
-        "fpdescription": "Licentia",
+        "fpname": "GRO22f105r",
+        "fpdescription": "Leiden, UB, GRO 22, f. 105r: Licentia. http://hdl.handle.net/1887.1/item:1668135",
         "referentie_afb": "licentia2.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "gal128_3_",
         "fpid": 136,
-        "fpname": "p.4",
-        "fpdescription": "The passage about Marcella",
+        "fpname": "128p3",
+        "fpdescription": "St. Gallen, SB, Cod. Sang. 128, p. 3: The passage about Marcella. https://www.e-codices.unifr.ch/en/list/one/csg/0128",
         "referentie_afb": "gal128.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bnf129_24_rc",
         "fpid": 137,
-        "fpname": "Prologue",
+        "fpname": "lat12949f24r",
+        "fpdescription": "Paris, BnF, lat. 12949, f. 24r. https://gallica.bnf.fr/ark:/12148/btv1b10542356v",
         "referentie_afb": "12949f24rfr.jpg",
         "afbeelding_aanwezig": false
     },
     {
         "folioid": "bpl144_10_r",
         "fpid": 138,
-        "fpname": "BPL 144 f.10r",
+        "fpname": "BPL144f10r",
+        "fpdescription": "Leiden, UB, BPL 144, f. 10r. http://hdl.handle.net/1887.1/item:2356986",
         "referentie_afb": "144f10rfr.jpg",
         "afbeelding_aanwezig": false
     }

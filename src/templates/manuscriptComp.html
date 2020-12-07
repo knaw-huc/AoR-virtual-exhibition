@@ -35,7 +35,6 @@
 
 
 
-
 	<div class="aorFilioInfo">
 		<div class="aorFolioToggles">
 			<div class="aorFoliosTab" id="f_{{folioname}}">
@@ -54,18 +53,20 @@
 
 
 
-
 		<div class="aorFoliosManuscript">
 			{{#each parts}}
 				<figcaption id="tab-content-2{{fpid}}{{foliofilename}}" class="hcTabContent {{folioname}}">
+					{{!-- comment
 					<span>
 					{{#if foliosource}}
 					<a href="{{manuscript_filename}}.html">About the manuscript {{manuscript_location}} {{manuscript_shelfmark}}</a><br>
 					<a href="{{foliosource}}" target="_blank">Source</a>
 					{{/if}}
 					</span>
+					--}}
 				</figcaption>
 			{{/each}}
+
 		</div>
 
 

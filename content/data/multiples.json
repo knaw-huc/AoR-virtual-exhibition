@@ -887,8 +887,8 @@
         "alleenfolioid": "vlf48_95_vd"
     },
     {
-        "multipeimageid": "vlf48_95_vd",
-        "afbeelding": "48f95vfr3.jpg"
+        "multipeimageid": "chainedbook",
+        "afbeelding": "chainedbook.jpg"
     },
     {
         "multipeimageid": "bpl84_84_r",
@@ -1029,5 +1029,17 @@
     {
         "multipeimageid": "2788f50r",
         "afbeelding": "2788f50r.jpg"
+    },
+    {
+        "multipeimageid": "404.51",
+        "afbeelding": "404.51.jpg"
+    },
+    {
+        "multipeimageid": "404f1r",
+        "afbeelding": "404f1r.jpg"
+    },
+    {
+        "multipeimageid": "12949f23v",
+        "afbeelding": "12949f23v.jpg"
     }
 ]

@@ -25,7 +25,7 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_12949_f24_v.jpg",
         "foliodescription": "Paris, BnF, lat. 12949, f. 24v",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v/f62.item.r=lat.zoom"
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "manuscript_id": "bnf129",
@@ -2353,7 +2353,7 @@
         "foliotype": "v",
         "folioextra": "c",
         "foliofilename": "UB_BPL_88_f2 _v.jpg",
-        "foliodescription": "Leiden, UB, BPL 88, f. 2v-3r",
+        "foliodescription": "Leiden, UB, BPL 88, ff. 2v-3r",
         "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
@@ -2363,7 +2363,7 @@
         "foliotype": "v",
         "folioextra": "d",
         "foliofilename": "UB_BPL_88_f1 _v.jpg",
-        "foliodescription": "Leiden, UB, BPL 88, f. 1v-2r",
+        "foliodescription": "Leiden, UB, BPL 88, ff. 1v-2r",
         "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
