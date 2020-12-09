@@ -1,6 +1,30 @@
 <div class="aorMap">
   <div class="aorDivMap">{{> mapFile}}</div>
   <div class="aorDivList">
-    <em>Click on the regions on the map to see the origins of the manuscripts</em><br>
+    <em>Click on the regions on the map to see the origins of the manuscripts. Or click the name of the manuscript to see the origin.</em><br>
+
+    {{!--
+    {{#each manuscriptsList}}
+
+      <div onclick="mapShowManuscripts('0');">{{shortname}}</div>
+    {{/each}}
+    --}}
+
+
+    <div onclick="mapShowManuscripts('9');">VLF 48</div>
+    <div onclick="mapShowManuscripts('4');">BPL 88</div>
+    <div onclick="mapShowManuscripts('11');">lat. 12949</div>
+    <div onclick="mapShowManuscripts('1');">lat. 7900A</div>
+    <div onclick="mapShowManuscripts('3');">BPL 25</div>
+    <div onclick="mapShowManuscripts('7');">Cod. 315(605)</div>
+    <div onclick="mapShowManuscripts('5');">BPL 139B</div>
+    <div onclick="mapShowManuscripts('10');">lat. 11127</div>
+    <div onclick="mapShowManuscripts('2');">BPL 84</div>
+    <div onclick="mapShowManuscripts('8');">GRO 22</div>
+    <div onclick="mapShowManuscripts('2');">VLQ 103</div>
+    <div onclick="mapShowManuscripts('6');">BPL 144</div>
+    <div onclick="mapShowManuscripts('0');">lat. 17806</div>
+    <div onclick="mapShowManuscripts('12');">lat. 2923</div>
+
   </div>
 </div>

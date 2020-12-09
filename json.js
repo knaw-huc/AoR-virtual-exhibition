@@ -1,6 +1,9 @@
 console.log('go json');
 var writeFile = require('write-file');
 var fs = require('fs');
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+
 
 var siteJson = require('./content/data/sites.json');
 var imagesJson = require('./content/data/images.json');
@@ -11,6 +14,38 @@ var folioJson = require('./content/data/folios.json');
 var folioPartsJson = require('./content/data/folioParts.json');
 var folioPartsmulJson = require('./content/data/multiples.json');
 var portaits = require('./content/data/extraInfo.json');
+
+
+
+// for (var i = 0; i < folioJson.length; i++) {
+//   var desc = folioJson[i].foliodescription;
+//   const dom = new JSDOM(desc);
+//   var allLinks = dom.window.document.querySelector('a');
+//   if (allLinks !== null) {
+//     //console.log(allLinks.innerHTML);
+//     var newContent = desc.replace("http://link.nl", allLinks.innerHTML);
+//     console.log(newContent);
+//   }
+//
+// }
+
+
+function replaceLink(desc) {
+
+  var out = desc;
+  const dom = new JSDOM(desc);
+  var allLinks = dom.window.document.querySelector('a');
+  if (allLinks !== null) {
+    var link = allLinks.innerHTML;
+    console.log(link);
+
+    var newContent = desc.replace("http://link.nl", link);
+    out = newContent.replace('<a href=', ' <a target="_blank" href=');
+
+  }
+  return out;
+}
+
 
 var folioMultiList = [];
 
@@ -126,7 +161,7 @@ function combineJson(){
     if (folioData.parts.length == 0) {
       var partData = {};
       partData.fpname = folioJson[fo].folionr+''+folioJson[fo].foliotype;
-      partData.fpdescription = folioJson[fo].foliodescription;
+      partData.fpdescription = replaceLink(folioJson[fo].foliodescription);
       partData.foliofilename = folioJson[fo].foliofilename;
       var fileNoExtention = folioJson[fo].foliofilename.replace(".jpg", "");
       partData.foliofilename_exten = fileNoExtention;
@@ -183,7 +218,7 @@ function combineJson(){
                   for (var fol = 0; fol < folioJson.length; fol++) {
                     if (folioJson[fol].folioid == folioPartsJson[fp].folioid) {
                       folioPartData.imageSource = folioJson[fol].foliofilename;
-                      folioPartData.foliodescription = folioJson[fol].foliodescription;
+                      folioPartData.foliodescription = replaceLink(folioJson[fol].foliodescription);
                       folioPartData.foliosource = folioJson[fol].foliosource;
 
                       // then manuscript
@@ -216,14 +251,14 @@ function combineJson(){
               for (var fol2 = 0; fol2 < folioJson.length; fol2++) {
                 if (folioJson[fol2].folioid == folioPartsmulJson[ol].alleenfolioid) {
                   folioPartData.imageSource = folioJson[fol2].foliofilename;
-                  folioPartData.foliodescription = folioJson[fol2].foliodescription;
+                  folioPartData.foliodescription = replaceLink(folioJson[fol2].foliodescription);
                   folioPartData.foliosource = folioJson[fol2].foliosource;
 
                   folioPartData.foliofilename = folioJson[fol2].foliofilename;
                   var fileNoExtention = folioPartData.foliofilename.replace(".jpg", "");
                   folioPartData.foliofilename_exten = fileNoExtention;
                   folioPartData.fpname = folioJson[fol2].folioid;
-                  folioPartData.fpdescription = folioJson[fol2].foliodescription;
+                  folioPartData.fpdescription = replaceLink(folioJson[fol2].foliodescription);
                   folioPartData.fpid = folioJson[fol2].folioid;
 
                   // then manuscript

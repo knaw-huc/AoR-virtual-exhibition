@@ -26,7 +26,8 @@
         "file_name": "lat17806",
         "template_file": "manuscript-item",
         "page_id": "bnf178",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "lat. 17806"
     },
     {
         "id": "bnf790",
@@ -56,7 +57,8 @@
         "file_name": "lat7900a",
         "template_file": "manuscript-item",
         "page_id": "bnf790",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "lat. 7900A"
     },
     {
         "id": "vlq103",
@@ -85,7 +87,8 @@
         "file_name": "vlq103",
         "template_file": "manuscript-item",
         "page_id": "VLQ103",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "VLQ 103"
     },
     {
         "id": "bpl25",
@@ -114,7 +117,8 @@
         "file_name": "bpl25",
         "template_file": "manuscript-item",
         "page_id": "bpl25",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "BPL 25"
     },
     {
         "id": "bpl84",
@@ -143,7 +147,8 @@
         "file_name": "bpl84",
         "template_file": "manuscript-item",
         "page_id": "bpl84",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "BPL 84"
     },
     {
         "id": "bpl88",
@@ -172,7 +177,8 @@
         "file_name": "bpl88",
         "template_file": "manuscript-item",
         "page_id": "bpl88",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "BPL 88"
     },
     {
         "id": "bpl139",
@@ -198,7 +204,8 @@
         "file_name": "bpl139b",
         "template_file": "manuscript-item",
         "page_id": "bpl139",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "BPL 139B"
     },
     {
         "id": "bpl144",
@@ -229,7 +236,8 @@
         "file_name": "bpl144",
         "template_file": "manuscript-item",
         "page_id": "bpl144",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "BPL 144"
     },
     {
         "id": "ein315",
@@ -255,7 +263,8 @@
         "file_name": "cod315",
         "template_file": "manuscript-item",
         "page_id": "ein315",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "Cod. 315(605)"
     },
     {
         "id": "gro22",
@@ -283,7 +292,8 @@
         "file_name": "gro22",
         "template_file": "manuscript-item",
         "page_id": "gro22",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "GRO 22"
     },
     {
         "id": "vlf48",
@@ -311,7 +321,8 @@
         "file_name": "vlf48",
         "template_file": "manuscript-item",
         "page_id": "vlf48",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "VLF 48"
     },
     {
         "id": "bnf111",
@@ -339,7 +350,8 @@
         "file_name": "lat11127",
         "template_file": "manuscript-item",
         "page_id": "bnf111",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "lat. 11127"
     },
     {
         "id": "bnf129",
@@ -367,7 +379,8 @@
         "file_name": "lat12949",
         "template_file": "manuscript-item",
         "page_id": "bnf129",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "lat. 12949"
     },
     {
         "id": "bnf292",
@@ -393,6 +406,7 @@
         "file_name": "lat2923",
         "template_file": "manuscript-item",
         "page_id": "bnf292",
-        "thme": "manuscripts"
+        "thme": "manuscripts",
+        "shortname": "lat. 2923"
     }
 ]
