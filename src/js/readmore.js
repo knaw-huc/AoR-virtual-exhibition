@@ -3,6 +3,9 @@ var urlParams = new URLSearchParams(window.location.search);
 if(urlParams.get('open') == 'tr'){
   showReadMore();
 }
+if(urlParams.get('portait') !== ''){
+  modalLoad(urlParams.get('portait'))
+}
 
 
 function showReadMore() {

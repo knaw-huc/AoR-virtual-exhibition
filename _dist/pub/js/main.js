@@ -78,7 +78,7 @@ function handleTabs(selectedTab) {
 
 function makeTabVisable(contentId,compId) {
   console.log(contentId);
-  document.getElementById(preContentVal+contentId).style.display= 'flex';
+  document.getElementById(preContentVal+contentId).style.display= 'block';
   document.getElementById(preContentVal+'2'+contentId).style.display= 'flex';
 
   var viewWindow = document.getElementById(preContentVal+'3'+contentId);
@@ -111,12 +111,17 @@ function hideTabContent(compId) {
 
 
 function firstTabVisable() {
-  var handleTabVis = document.querySelectorAll(".aorFoliosCaption .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, .hcTabContent:first-child");
+  var handleTabVis = document.querySelectorAll(".aorFoliosManuscript .hcTabContent:first-child, .aorFoliosManuscript .hcTabContent:first-child, .hcTabContent:first-child");
+  for (i = 0; i < handleTabVis.length; i++) {
+    //handleTabVis[i].style.display= 'none';
+    handleTabVis[i].style.display= 'flex';
+  }
 
-    for (i = 0; i < handleTabVis.length; i++) {
-      //handleTabVis[i].style.display= 'none';
-      handleTabVis[i].style.display= 'flex';
-    }
+
+  var handleTabVis2 = document.querySelectorAll(".aorFoliosCaption .hcTabContent:first-child");
+  for (i = 0; i < handleTabVis2.length; i++) {
+    handleTabVis2[i].style.display= 'block';
+  }
 
 }
 
@@ -396,6 +401,9 @@ function handleMapG(clsName) {
 var urlParams = new URLSearchParams(window.location.search);
 if(urlParams.get('open') == 'tr'){
   showReadMore();
+}
+if(urlParams.get('portait') !== ''){
+  modalLoad(urlParams.get('portait'))
 }
 
 

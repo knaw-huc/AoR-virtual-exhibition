@@ -17,17 +17,7 @@ var portaits = require('./content/data/extraInfo.json');
 
 
 
-// for (var i = 0; i < folioJson.length; i++) {
-//   var desc = folioJson[i].foliodescription;
-//   const dom = new JSDOM(desc);
-//   var allLinks = dom.window.document.querySelector('a');
-//   if (allLinks !== null) {
-//     //console.log(allLinks.innerHTML);
-//     var newContent = desc.replace("http://link.nl", allLinks.innerHTML);
-//     console.log(newContent);
-//   }
-//
-// }
+
 
 
 function replaceLink(desc) {
@@ -37,7 +27,7 @@ function replaceLink(desc) {
   var allLinks = dom.window.document.querySelector('a');
   if (allLinks !== null) {
     var link = allLinks.innerHTML;
-    console.log(link);
+    //console.log(link);
 
     var newContent = desc.replace("http://link.nl", link);
     out = newContent.replace('<a href=', ' <a target="_blank" href=');
@@ -160,7 +150,7 @@ function combineJson(){
     // if has no parts -> get folio data
     if (folioData.parts.length == 0) {
       var partData = {};
-      partData.fpname = folioJson[fo].folionr+''+folioJson[fo].foliotype;
+      partData.fpname = folioJson[fo].folionr+''+notUndefined(folioJson[fo].foliotype);
       partData.fpdescription = replaceLink(folioJson[fo].foliodescription);
       partData.foliofilename = folioJson[fo].foliofilename;
       var fileNoExtention = folioJson[fo].foliofilename.replace(".jpg", "");
@@ -342,4 +332,13 @@ function dynamicSort(property) {
         var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
         return result * sortOrder;
     }
+}
+
+
+function notUndefined(inn) {
+  var out = inn;
+  if(typeof lastname == "undefined") {
+    out = '';
+  }
+  return out;
 }
