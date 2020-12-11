@@ -226,11 +226,11 @@
         "template_file": "theme-item",
         "navigation_file": "nav-3",
         "thme": 3,
-        "next_label": "Next read: Rhetoric and dialectic in schemes",
+        "next_label": "Next read: Diagrams in the rhetorical tradition",
         "next_link": "/schemes"
     },
     {
-        "title": "Rhetoric and dialectic in schemes",
+        "title": "Diagrams in the rhetorical tradition",
         "docx_file": "VEdiagrams",
         "page_id": "3cc",
         "summary": "A schematic appendix to Alcuin’s Disputatio de rhetorica",

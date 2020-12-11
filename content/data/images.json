@@ -88,7 +88,7 @@
         "alttext": "652f2v",
         "description": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century): Hrabanus (left) and Alcuin (middle) dedicate a work to Archbishop Otgar of Mainz (Right).",
         "resource": "Vienna, ÖnB, cod.652, fol. 2v (Fulda, 2nd quarter of the 9th century)",
-        "hyperlink": "f"
+        "hyperlink": "http://data.onb.ac.at/rep/10048D05"
     },
     {
         "img_file_name": "7900Aonbekend.jpg",
@@ -176,15 +176,13 @@
     {
         "img_file_name": "144side.jpg",
         "alttext": "BPL144",
-        "description": "Leiden, UB, BPL 144",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144 (Photo MT)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr.jpg",
         "alttext": "BPL144f2r",
-        "description": "Leiden, UB, BPL 144, f. 2r",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 2r (Photo MT)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
@@ -197,43 +195,38 @@
     {
         "img_file_name": "144f2rfr2.jpg",
         "alttext": "BPL144f2r",
-        "description": "Leiden, UB, BPL 144, f. 2r",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 2r (Photo MT)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr3.jpg",
         "alttext": "BPL144f2r",
-        "description": "Leiden, UB, BPL 144, f. 2r (detail): Written nota signs from the original annotating hand (below) and from the later one (above)",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 2r (detail, photo MT): Written nota signs from the original annotating hand (below) and from the later one (above)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f2rfr4.jpg",
         "alttext": "BPL144f2r",
-        "description": "Leiden, UB, BPL 144, f. 2r (detail): A Nota sign in the original hand, and a head as an attention sign in the later hand.",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 2r (detail, photo MT): A Nota sign in the original hand, and a head as an attention sign in the later hand.",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f17v.jpg",
         "alttext": "BPL144f17v",
-        "description": "Leiden, UB, BPL 144, f. 17v (detail): A foot (?) and a hand at the edge of the page",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 17v (detail, photo MT): A foot (?) and a hand at the edge of the page",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f37r.jpg",
         "alttext": "BPL144f37r",
-        "description": "Leiden, UB, BPL 144, f. 37r (detail): Along the edges of the pages we find heads, hands and here even feet, pointing at passages in the text. When leafing through the manuscript, important passages thus pop out.",
+        "description": "Leiden, UB, BPL 144, f. 37r (detail, photo MT): Along the edges of the pages we find heads, hands and here even feet, pointing at passages in the text. When leafing through the manuscript, important passages thus pop out.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f49v.jpg",
         "alttext": "BPL144f49v",
-        "description": "Leiden, UB, BPL 144, f. 49v (detail)",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 49v (detail, photo MT)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
@@ -246,22 +239,19 @@
     {
         "img_file_name": "144f20v.jpg",
         "alttext": "BPL144f20v",
-        "description": "Leiden, UB, BPL 144, f. 20v (edge)",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 20v (edge, photo MT)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f17r.jpg",
         "alttext": "BPL144f17r",
-        "description": "Leiden, UB, BPL 144, f. 17r (edge) (Photo MT)",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 17r (edge, photo MT)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
         "img_file_name": "144f58r.jpg",
         "alttext": "BPL144f58r",
-        "description": "Leiden, UB, BPL 144, f. 58r (detail)",
-        "resource": "eigen foto",
+        "description": "Leiden, UB, BPL 144, f. 58r (detail, photo MT)",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2356986"
     },
     {
@@ -1162,7 +1152,7 @@
     {
         "img_file_name": "chainedbook.jpg",
         "alttext": "chained book",
-        "description": "Amsterdam, Allard Pierson, UBA, hs. I D 2: Formerly chained book, made in the twelfth century. In the fifteenth century this book was chained, using the ring on the right, in the city library of Amsterdam. Although it was rebound in the seventeenth century, the new binding incorporated the original ring."
+        "description": "Amsterdam, Allard Pierson, UBA, hs. I D 2: Formerly chained book, made in the twelfth century. Later this book was chained, using the ring on the right, in the city library of Amsterdam. Although it was rebound in the seventeenth century, the new binding incorporated the original ring."
     },
     {
         "img_file_name": "103f1r.jpg",
@@ -1369,14 +1359,14 @@
     {
         "img_file_name": "150f141v.jpg",
         "alttext": "150f141v",
-        "description": "Cantilène de Sainte Eulalie. Valenciennes, BM 150, Saint-Amand abbey, Saint-Amand-les-Eaux, c. 881, f. 141v.",
+        "description": "Valenciennes, BM 150 ( Saint-Amand abbey, Saint-Amand-les-Eaux, c. 881), f. 141v: Cantilène de Sainte Eulalie.",
         "resource": "Biblissima",
-        "hyperlink": "https://portail.biblissima.fr/ark:/43093/mdataed3113afc9818194b4e82463cd0391d702ef7c2b"
+        "hyperlink": "https://data.biblissima.fr/entity/Q198631"
     },
     {
         "img_file_name": "court.jpg",
         "alttext": "KA20f208r",
-        "description": "The court of Charlemagne. Jacob van Maerlant, Spiegel historiael. Den Haag, KB, KA 20, c.1325-35, p. 208",
+        "description": "Den Haag, KB, KA 20 (c.1325-35), p. 208: The court of Charlemagne. Jacob van Maerlant, Spiegel historiael.",
         "resource": "Wikipedia",
         "hyperlink": "https://www.wikiwand.com/nl/Spiegel_Historiael_(handschrift)"
     },
@@ -1463,7 +1453,7 @@
     {
         "img_file_name": "prudentius2.jpg",
         "alttext": "23f18r",
-        "description": "Virtues battling for the soul of men, Prudentius, Psychomachia. Cambridge, Corpus Christi College ms 23, f. 18r. First half of the eleventh century",
+        "description": "Cambridge, Corpus Christi College, ms 23 (First half of the eleventh century, f. 18r (detail):  Illustration in , Prudentius' Psychomachia,Virtues battling for the soul of men.",
         "resource": "Parker Library On the Web",
         "hyperlink": "https://parker.stanford.edu/parker/catalog/nz663nv2057"
     },
@@ -1740,7 +1730,7 @@
     {
         "img_file_name": "rippol.jpg",
         "alttext": "lat4886f48v",
-        "description": "Paris, BnF, lat. 4886, 11th c., f. 48v. Photo Irene van Renswoude",
+        "description": "Paris, BnF, lat. 4886, 11th c., f. 48v (Photo IvR)",
         "resource": "Photo Irene van Renswoude",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10540997j"
     },
@@ -1807,14 +1797,14 @@
     {
         "img_file_name": "tours.jpg",
         "alttext": "lat1572f79r",
-        "description": "Paris, BnF, lat. 1572, 8th c., f. 79r. Photo Irene van Renswoude.",
+        "description": "Paris, BnF, lat. 1572 (8th c.), f. 79r (photo IvR)",
         "resource": "Photo Irene van Renswoude",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9078172j?rk=21459;2"
     },
     {
         "img_file_name": "tours2.jpg",
         "alttext": "lat2848f1r",
-        "description": "Paris, BnF, lat. 2848, f. 1r. Photo and copyright: Bibliothèque nationale de France, Paris.",
+        "description": "Paris, BnF, lat. 2848, f. 1r. ",
         "resource": "Photo and copyright: Bibliothèque nationale de France, Paris",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b90659686"
     },
@@ -1835,7 +1825,7 @@
     {
         "img_file_name": "origen.jpg",
         "alttext": "Clm17092f130v",
-        "description": "München, Bayerische Staatsbibliothek, CLM 17092, f. 130",
+        "description": "München, Bayerische Staatsbibliothek, CLM 17092, f. 130v",
         "resource": "Wikipedia",
         "hyperlink": "https://commons.wikimedia.org/wiki/Category:Origen#/media/File:Origen3.jpg"
     },
@@ -1870,7 +1860,7 @@
     {
         "img_file_name": "passio.jpg",
         "alttext": "lat1970f54r",
-        "description": "lPassio Sanctae Catharinae. Paris, BnF, Lat. 1970, Fécamp, eleventh century, f. 54r (detail)",
+        "description": "Paris, BnF, lat. 1970 (Fécamp, eleventh century), f. 54r (detail): Passio Sanctae Catharinae.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10539943g"
     },
@@ -1904,7 +1894,7 @@
     {
         "img_file_name": "12949notes.jpg",
         "alttext": "lat14511f44v",
-        "description": "Paris, BnF. Lat. 14511, f. 44v. Photo: Irene van Renswoude. Copyright: Bibliothèque National de France.",
+        "description": "Paris, BnF. Lat. 14511, f. 44v (Photo IvR)",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
@@ -2237,7 +2227,7 @@
         "alttext": "VLF48f31r; BPL1925f139v; lat17806f164v",
         "description": "From left to right: Leiden, UB, VLF 48, f. 31r; Leiden, UB, BPL 1925, f. 139v; Paris, BnF, Lat. 17806, f. 164v",
         "resource": "UB Leiden + Gallica",
-        "hyperlink": "http://hdl.handle.net/1887.1/item:1618282; http://hdl.handle.net/1887.1/item:877637; https://gallica.bnf.fr/ark:/12148/btv1b525053525"
+        "hyperlink": "(1) http://hdl.handle.net/1887.1/item:1618282; (2) http://hdl.handle.net/1887.1/item:877637; (3) https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
     {
         "img_file_name": "48f30v2.jpg",
@@ -2588,7 +2578,7 @@
     {
         "img_file_name": "84f90vfr.jpg",
         "alttext": "BPL84f90v",
-        "description": "Leiden, UB, BPL 84, f. 90v (detail).",
+        "description": "Leiden, UB, BPL 84, f. 90v (detail). The green and blue circles are ours.",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
@@ -2665,20 +2655,21 @@
     {
         "img_file_name": "16598f37r.jpg",
         "alttext": "lat16598f37r",
-        "description": "Paris, BnF, lat. 16598, f. 37r (detail) A distinction is made here between mortal (and rational) man and mortal (but irrational) cows and dogs.",
+        "description": "Paris, BnF, lat. 16598, f. 37r (detail, photo IO'D): A distinction is made here between mortal (and rational) man and mortal (but irrational) cows and dogs.",
         "resource": "photo I'OD"
     },
     {
         "img_file_name": "16598f37r2.jpg",
         "alttext": "16598f37r",
-        "description": "Paris, BnF, lat. 16598, f. 37r (detail)",
+        "description": "Paris, BnF, lat. 16598, f. 37r (detail, photo IO'D)",
         "resource": "photo I'OD"
     },
     {
         "img_file_name": "6638.jpg",
         "alttext": "lat6638f6bisr",
-        "description": "Paris, BnF, lat. 6638, f. 6bis r",
-        "resource": "photo RS"
+        "description": "Paris, BnF, lat. 6638, f. 6bis r (photo RS)",
+        "resource": "photo RS",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10548529s"
     },
     {
         "img_file_name": "25f12r2.jpg",
@@ -2985,7 +2976,7 @@
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
-        "img_file_name": "lat2923f51r.jpg",
+        "img_file_name": "2923f51r.jpg",
         "alttext": "lat2923f51r",
         "description": "Paris, BnF, lat. 2923 f. 51r (detail): Initial C, showing Cassiodorus Senator, sitting with his legs crossed – the posture of an aristocrat",
         "resource": "Gallica",
@@ -3064,7 +3055,7 @@
     {
         "img_file_name": "romanrose2.jpg",
         "alttext": "fr1560f58b",
-        "description": "Paris, BnF, Département des manuscrits Français, ms. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B: Abelard and Héloïse engaged in discussion.",
+        "description": "Paris, BnF, Fr. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B: Abelard and Héloïse engaged in discussion.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000318d"
     },
@@ -3120,7 +3111,7 @@
     {
         "img_file_name": "7900f132v133r.jpg",
         "alttext": "lat7900Af132v",
-        "description": "Paris, BnF, lat. 7900A, ff 132v-133r: The opening of Martianus’ chapter on dialectic, with Remigius' commentary (on the right, encircled) and a pen drawing of Lady Dialectic on the left.",
+        "description": "Paris, BnF, lat. 7900A, ff 132v-133r: The opening of Martianus’ chapter on dialectic, with Remigius' commentary (outlined in red) and a pen drawing of Lady Dialectic on the left.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
@@ -3157,7 +3148,7 @@
         "alttext": "NAL1623f15v",
         "description": "Paris, BnF, NAL 1623 (Fragment of a manuscript from Fleury-de-Loire, 12th century, Glosule on Priscian), f. 15v. ",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b52504523s"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b100336143.r"
     },
     {
         "img_file_name": "13368f146r.jpg",
@@ -3183,7 +3174,7 @@
     {
         "img_file_name": "14479f53v.jpg",
         "alttext": "Clm14479f53v",
-        "description": "Munich, Bayerische Staatsbibliothek, Clm 14479 (Regensburg, St.Emmeram, 14th century), f. 53v. ",
+        "description": "Munich, Bayerische Staatsbibliothek, Clm 14479 (Regensburg, St.Emmeram, 14th century), f. 53v (detail). ",
         "resource": "Bayerische Staatsbibliothe",
         "hyperlink": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00046316-7"
     },
@@ -3218,7 +3209,7 @@
     {
         "img_file_name": "16598f46r.jpg",
         "alttext": "lat16598f46r",
-        "description": "Paris, BnF, lat. 16598, f. 46r (detail)",
+        "description": "Paris, BnF, lat. 16598, f. 46r (photo IO'D)",
         "resource": "photo I'OD",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9076885z"
     },
@@ -3246,12 +3237,15 @@
     {
         "img_file_name": "romanrose3.jpg",
         "alttext": "fr1560f58b",
-        "description": "Paris, BnF, Département des manuscrits Français, ms. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B: Abelard and Héloïse engaged in discussion.",
+        "description": "Paris, BnF, Fr. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B: Abelard and Héloïse engaged in discussion.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000318d"
     },
     {
-        "img_file_name": "boethiuswiki.jpg"
+        "img_file_name": "boethiuswiki.jpg",
+        "alttext": "Ii.3.12",
+        "description": "Cambridge, University Library, ms. Ii. 3.12 (Boethius, De institutione musica): Portrait of Boethius. Christ Church Cathedral, Canterbury, 12th century.",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Boethius02.jpg"
     },
     {
         "img_file_name": "dialectica3.jpg",
@@ -3355,5 +3349,45 @@
         "description": "Darmstadt, Universität- und Landesbibliothek, Hs. 2282, f. 1v (detail)",
         "resource": "ULB",
         "hyperlink": "http://tudigit.ulb.tu-darmstadt.de/show/Hs-2282"
+    },
+    {
+        "img_file_name": "style1.jpg",
+        "alttext": "BPL139Bf9v",
+        "description": "Leiden, BPL 139B, f. 9v (detail): The cedilla on the ‘e’, indicating a ‘ae’ dipthong is formed at an angle, almost like a bended elbow. ",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "style2.jpg",
+        "alttext": "BPL139Bf9v",
+        "description": "Leiden, BPL 139B, f. 9v (detail): The ligature linking the letters c and t is similarly angled and deliberately extended above the two letters.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "style3.jpg",
+        "alttext": "BPL139Bf7v",
+        "description": "Leiden, BPL 139B, f. 7v (detail): The tail of the ampersand (&) extends upwards to the right of the ligature.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "style4.jpg",
+        "alttext": "BPL139Bf7v",
+        "description": "Leiden, BPL 139B, f. 7v (detail): Two different forms of abbreviations for the short Latin word ‘est’ are found in the manuscript. The first, a horizontal stroke with a dot on either side, is a relatively common form. The second, a horizontal stroke followed by a dot, was frequently used in Fleury in the time of Abbo.",
+        "resource": "Universiteitsbibliotheek Leiden",
+        "hyperlink": "http://hdl.handle.net/1887.1/item:1687093"
+    },
+    {
+        "img_file_name": "psalterium.jpg",
+        "description": "Psalter with glosses attributed to Anselm of Laon, Paris, BnF, ms. Latin 8846, f. 6r. Christ Church Canterbury, last quarter of the twelfth century. The Beatus initial was painted around 1200. The psalter was in the possession of Jean, duc de Berry (1340-1416) ",
+        "resource": "Gallica",
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10551125c/f276.item#"
+    },
+    {
+        "description": "Christ Church Canterbury, last quarter of the twelfth century. The Beatus initial was painted around 1200. The psalter was in the possession of Jean, duc de Berry (1340-1416)"
+    },
+    {
+        "description": "https://gallica.bnf.fr/ark:/12148/btv1b10551125c/f276.item#"
     }
 ]

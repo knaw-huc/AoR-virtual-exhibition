@@ -390,6 +390,9 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±timeline±</p>',''))
           .pipe(replace('<p>±map±</p>', ''))
           .pipe(replace('<a id="_heading=h.gjdgxs"></a>', ''))
+          .pipe(replace('<a href="file:///C:\\', '<a href="/'))
+          .pipe(replace('.html%3f', ".html?"))
+
 
           .pipe(replace('±cite±', citeAs))
           .pipe(replace('mariken.teeuwen@huygens.knaw.nl', emaill))
@@ -399,6 +402,8 @@ gulp.task('buildFromTemplates', function(done) {
             var newContent = handleImages(content);
             newContent = handleLinks(newContent);
             newContent = handleThemes(newContent);
+            newContent = handleInternalLinks(newContent);
+
             callback(null, newContent);
             }))
           .pipe(useref())
@@ -531,6 +536,18 @@ function handleManuscriptComponent(content) {
 }
 
 
+function handleInternalLinks(content) {
+  for (var i = 0; i < siteJson.length; i++) {
+    //<a href="http://vlq103
+
+    var find = '<a href="http://'+siteJson[i].file_name;
+    var regex = new RegExp(find, "g");
+    content = content.replace(regex, '<a href="/'+siteJson[i].file_name);
+  }
+  return content;
+}
+
+
 
 
 function handleManuscriptComponentMulti(content) {
@@ -552,6 +569,7 @@ function handleManuscriptComponentMulti(content) {
 
 // gulp convHtml
 function handletextPre(content) {
+    content = content.replace(/<p>±col2±	<\/p>/g, "<p>±col2±</p>");
     content = content.replace(/<p>±col2± <\/p>/g, "<p>±col2±</p>");
     content = content.replace(/<strong><br \/><\/strong>/g, "<br />");
     content = content.replace(/±f±<br \/><\/p>/g, "±f±</p>");
@@ -580,7 +598,7 @@ function handletextPre(content) {
     content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
     content = content.replace(/<br \/>±col2span±<br \/>/g, "<p><p>±col2span±</p><p>");
     content = content.replace(/<p>±row± /g, "<p>±row±");
-    content = content.replace(/<p>±col1± /g, "<p>±col1±");
+    content = content.replace(/<p>±col1±  /g, "<p>±col1±");
     content = content.replace(/±m± <\/p>/g, "±m±</p>");
     content = content.replace(/±f± <\/p>/g, "±f±</p>");
     content = content.replace(/ ±m±<\/p>/g, "±m±</p>");
@@ -593,7 +611,13 @@ function handletextPre(content) {
     content = content.replace(/<p>±col1span±<br \/>/g, "<p>±col1span±</p><p>");
     content = content.replace(/file:\/\/\/C:\\Users\\renees\\AppData\\Local\\Temp\\/g, "/");
     //<a id="_heading=h.gjdgxs"></a>
+    //<a id="_heading=h.30j0zll"></a>
+    //<p>col2span±</p>
+
+    content = content.replace(/<a id="_heading=h.gjdgxs"><\/a>/g, "");
+    content = content.replace(/.html%3/g, ".html?");
     content = content.replace(/<p>±row± <\/p>/g, "<p>±row±</p>");
+    content = content.replace(/<p><a id="theme1"><\/a>±col1span±<\/p>/g, '<p>±col1span±</p><a id="theme1"></a>');
 
 
 

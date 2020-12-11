@@ -433,10 +433,6 @@
         "alleenfolioid": "ein315_52_b"
     },
     {
-        "multipeimageid": "ein_52_a_b",
-        "alleenfolioid": "ein315_52_a"
-    },
-    {
         "multipeimageid": "ein_139_bpl",
         "alleenfolioid": "ein315_139_"
     },
@@ -852,11 +848,11 @@
     },
     {
         "multipeimageid": "bnf165_37_r",
-        "afbeelding": "16598f37r.jpg"
+        "afbeelding": "16598f37r2.jpg"
     },
     {
         "multipeimageid": "bnf165_37_r",
-        "afbeelding": "16598f37r2.jpg"
+        "afbeelding": "16598f37r.jpg"
     },
     {
         "multipeimageid": "carnegie",
@@ -1041,5 +1037,21 @@
     {
         "multipeimageid": "12949f23v",
         "afbeelding": "12949f23v.jpg"
+    },
+    {
+        "multipeimageid": "housestyle",
+        "afbeelding": "style1.jpg"
+    },
+    {
+        "multipeimageid": "housestyle",
+        "afbeelding": "style2.jpg"
+    },
+    {
+        "multipeimageid": "housestyle",
+        "afbeelding": "style3.jpg"
+    },
+    {
+        "multipeimageid": "housestyle",
+        "afbeelding": "style4.jpg"
     }
 ]
