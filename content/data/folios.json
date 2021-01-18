@@ -501,7 +501,7 @@
     },
     {
         "manuscript_id": "bnf663",
-        "folioid": "bnf663_lat6638f6bis_r",
+        "folioid": "bnf663_6_bis_r",
         "folionr": "lat6638f6bis",
         "foliotype": "r",
         "foliofilename": "BnF_lat_6638_f6bis_r.jpg",
@@ -2306,7 +2306,7 @@
         "folionr": "lat12949f46",
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f46_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949, f. 46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
@@ -2381,7 +2381,7 @@
         "folioid": "bnf790_cover_",
         "folionr": "lat7900A",
         "foliofilename": "7900Acover.jpg",
-        "foliodescription": "Paris, BnF, lat. 7900A",
+        "foliodescription": "Paris, BnF, lat. 7900A. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10546779x</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
@@ -2435,7 +2435,7 @@
         "folioid": "bnf292_fl",
         "folionr": "lat2923",
         "foliofilename": "bnf292_fl.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, flyleave IV",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave IV. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
@@ -2443,7 +2443,7 @@
         "folioid": "bnf292_IIIr",
         "folionr": "lat2923",
         "foliofilename": "bnf292_IIIr.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, flyleave IIIr",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave IIIr. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
@@ -2451,7 +2451,7 @@
         "folioid": "bnf292_vv",
         "folionr": "lat2923",
         "foliofilename": "bnf292_vv.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, flyleave VV",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave VV. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
@@ -2460,7 +2460,7 @@
         "folionr": "lat2923f178",
         "foliotype": "v",
         "foliofilename": "bnf292_178_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, f. 178v",
+        "foliodescription": "Paris, BnF, lat. 2923, f. 178v. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
@@ -2479,7 +2479,7 @@
         "folionr": "lat2923f1",
         "foliotype": "r",
         "foliofilename": "bnf292_1_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, f. 1r",
+        "foliodescription": "Paris, BnF, lat. 2923, f. 1r. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     }
 ]

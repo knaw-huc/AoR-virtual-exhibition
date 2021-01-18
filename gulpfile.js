@@ -571,6 +571,7 @@ function handleManuscriptComponentMulti(content) {
 function handletextPre(content) {
     content = content.replace(/<p>±col2±	<\/p>/g, "<p>±col2±</p>");
     content = content.replace(/<p>±col2± <\/p>/g, "<p>±col2±</p>");
+    content = content.replace(/±row±<br \/>±col1span±/g, "±row±</p><p>±col1span±");
     content = content.replace(/<strong><br \/><\/strong>/g, "<br />");
     content = content.replace(/±f±<br \/><\/p>/g, "±f±</p>");
     content = content.replace(/±m±<br \/><\/p>/g, "±m±</p>");
@@ -612,7 +613,20 @@ function handletextPre(content) {
     content = content.replace(/file:\/\/\/C:\\Users\\renees\\AppData\\Local\\Temp\\/g, "/");
     //<a id="_heading=h.gjdgxs"></a>
     //<a id="_heading=h.30j0zll"></a>
-    //<p>col2span±</p>
+    //<a id="bookmark=id.gjdgxs">
+    //±row±<br />±col1span±
+    //<p>±row±	</p>
+    //<a id="_heading=h.1fob9te"></a>
+    //<br />±col2span±</p>
+
+    content = content.replace(/<a id=\"_heading=h.gjdgxs\"><\/a>/g, "");
+    content = content.replace(/<a id=\"_heading=h.30j0zll\"><\/a>/g, "");
+    content = content.replace(/<a id=\"bookmark=id.gjdgxs\"><\/a>/g, "");
+    content = content.replace(/±row±	<\/p>/g, "±row±</p>");
+    content = content.replace(/<a id="_heading=h.1fob9te"><\/a>/g, "");
+
+    content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
+
 
     content = content.replace(/<a id="_heading=h.gjdgxs"><\/a>/g, "");
     content = content.replace(/.html%3/g, ".html?");
@@ -623,7 +637,7 @@ function handletextPre(content) {
 
     //content = content.replace(/±timeline±/g, '<div class="">{{> timeline}}</div>');
     //content = content.replace(/±map±/g, '<div class="">{{> map}}</div>');
-    content = content.replace(/<p>±timeline±<\/p>/g, '');
+    content = content.replace(/<p>\[\[\[timeline\]\]\]<\/p><p>\[\[\[map\]\]\]<\/p>/g, '');
     content = content.replace(/<p>±map±<\/p>/g, '');
     content = content.replace(/±timeline±/g, '');
     content = content.replace(/±map±/g, '');

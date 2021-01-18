@@ -285,10 +285,6 @@
         "afbeelding": "103f6v.jpg"
     },
     {
-        "multipeimageid": "103_6_v_6_v_fr",
-        "afbeelding": "103f6vfr.jpg"
-    },
-    {
         "multipeimageid": "103_62_r_62_r_fr",
         "afbeelding": "103f63r.jpg"
     },
@@ -848,11 +844,11 @@
     },
     {
         "multipeimageid": "bnf165_37_r",
-        "afbeelding": "16598f37r2.jpg"
+        "afbeelding": "16598f37r.jpg"
     },
     {
         "multipeimageid": "bnf165_37_r",
-        "afbeelding": "16598f37r.jpg"
+        "afbeelding": "16598f37r2.jpg"
     },
     {
         "multipeimageid": "carnegie",
@@ -1053,5 +1049,8 @@
     {
         "multipeimageid": "housestyle",
         "afbeelding": "style4.jpg"
+    },
+    {
+        "multipeimageid": "romanrose3"
     }
 ]

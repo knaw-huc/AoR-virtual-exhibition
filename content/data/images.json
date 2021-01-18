@@ -118,7 +118,7 @@
     {
         "img_file_name": "paris.jpg",
         "alttext": "Inv.1975.1.2490",
-        "description": "Metropolitan Museum, Inv. 1975.1.2490: An illustration by Jean Fouquet from about 1450 that depicts the cathedral of Notre-Dame with the rest of Paris in the background.",
+        "description": "New York, Metropolitan Museum, Inv. 1975.1.2490: An illustration by Jean Fouquet from about 1450 that depicts the cathedral of Notre-Dame with the rest of the medieval city of Paris in the background.",
         "hyperlink": "https://en.wikipedia.org/wiki/Paris_in_the_Middle_Ages#/media/File:La_Descente_du_Saint-Esprit.jpg"
     },
     {
@@ -135,7 +135,8 @@
         "img_file_name": "sorbonne.jpg",
         "alttext": "Sorbonne",
         "description": "The Sorbonne, Paris, today",
-        "resource": "nog aanvragen"
+        "resource": "Wikipedia",
+        "hyperlink": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_de_la_chapelle_Sainte-Ursule,_Sorbonne,_Paris.jpg"
     },
     {
         "img_file_name": "books.jpg",
@@ -169,7 +170,7 @@
     {
         "img_file_name": "6400f24r.jpg",
         "alttext": "lat6400Gf24r",
-        "description": "Paris, BnF, lat. 6400G, f. 24r (detail)",
+        "description": "Paris, BnF, lat. 6400G, f. 24r",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525072333"
     },
@@ -594,7 +595,7 @@
     {
         "img_file_name": "7900Af44v.jpg",
         "alttext": "lat7900Af44v",
-        "description": "Paris, BnF, lat. 7900A, f. 144v: dark stains caused by the use of re-agent",
+        "description": "Paris, BnF, lat. 7900A, f. 144v (photo MT): dark stains caused by the use of re-agent",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
@@ -761,14 +762,14 @@
     {
         "img_file_name": "nal1478.jpg",
         "alttext": "NAL1478f56r",
-        "description": "Paris, BnF, NAL 1478, f. 56r: A list of Boethius’s rhetorical and dialectical works in a late tenth-century manuscript from the monastery of Cluny.",
+        "description": "Paris, BnF, NAL 1478, f. 56r (detail): A list of Boethius’s rhetorical and dialectical works in a late tenth-century manuscript from the monastery of Cluny.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546493x"
     },
     {
         "img_file_name": "nal14782.jpg",
         "alttext": "NAL1478f91r",
-        "description": "Paris, BnF, NAL 1478, f. 91r: This note on a flyleaf reads ‘Hugo puer proba’, ’Hugo, the boy, tests [his pen]’ – the mark of an attentive student?",
+        "description": "Paris, BnF, NAL 1478, f. 91r (detail): This note on a flyleaf reads ‘Hugo puer proba’, ’Hugo, the boy, tests [his pen]’ – the mark of an attentive student?",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10546493x"
     },
@@ -801,7 +802,7 @@
     {
         "img_file_name": "17806f4vfr2.jpg",
         "alttext": "lat17806f4v",
-        "description": "Paris, BnF, lat. 17806, f. 4v (c 1250-1275, Paris) (detail): Short summaries or marginal indices make clear what the reader can find in the text, which makes the text easier to consult",
+        "description": "Paris, BnF, lat. 17806, f. 4v (c 1250-1275, Paris) (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b525053525"
     },
@@ -821,14 +822,14 @@
     {
         "img_file_name": "48f32r.jpg",
         "alttext": "VLF48f32r",
-        "description": "Leiden, UB, VLF 48, f. 32r",
+        "description": "Leiden, UB, VLF 48, f. 32r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
         "img_file_name": "88f63r.jpg",
         "alttext": "BPL88f63r",
-        "description": "Leiden, UB, BPL 88, f. 63r",
+        "description": "Leiden, UB, BPL 88, f. 63r (detail)",
         "resource": "Universiteitsbibliotheek Leiden",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
@@ -1007,7 +1008,7 @@
     {
         "img_file_name": "12949f12rfr2.jpg",
         "alttext": "lat12949f12r",
-        "description": "Paris, BnF, lat. 12949, f. 12r.",
+        "description": "Paris, BnF, lat. 12949, f. 12r (detail)",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -1035,14 +1036,14 @@
     {
         "img_file_name": "12949f29v.jpg",
         "alttext": "lat12949r29v",
-        "description": "Paris, BnF, lat. 12949, f. 29v: House diagram",
+        "description": "Paris, BnF, lat. 12949, f. 29v (detail): House diagram",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f30r.jpg",
         "alttext": "lat12949f30r",
-        "description": "Paris, BnF, lat. 12949, f. 30r: House diagram",
+        "description": "Paris, BnF, lat. 12949, f. 30r (detail): House diagram",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -1056,21 +1057,21 @@
     {
         "img_file_name": "12949f31r.jpg",
         "alttext": "lat12949r31r",
-        "description": "Paris, BnF, lat. 12949, f. 31r: Tree",
+        "description": "Paris, BnF, lat. 12949, f. 31r (detail): Tree diagram",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f37v.jpg",
         "alttext": "lat12949f37v",
-        "description": "Paris, BnF, lat. 12949, f. 37v: Fishbone diagrams",
+        "description": "Paris, BnF, lat. 12949, f. 37v (detail): Fishbone diagrams",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
         "img_file_name": "12949f51r.jpg",
         "alttext": "lat12949f51r",
-        "description": "Paris, BnF, lat. 12949, f. 51r",
+        "description": "Paris, BnF, lat. 12949, f. 51r (detail)",
         "resource": "Bibliotheque Nationale de France",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -1267,19 +1268,23 @@
     },
     {
         "img_file_name": "chartres.jpg",
-        "description": "West door, Cathedral of Chartres, c. 1150. The throne of wisdom, framed by the liberal arts. The complex iconographical program is believed to have been designed by the scholar Thierry of Chartres, chancellor of the cathedral school from 1141 to c. 1155. Famous twelfth-century scholars such as William of Conches and Gilbert of Poitiers studied in Chartres."
+        "description": "West door, Cathedral of Chartres, c. 1150. The throne of wisdom, framed by the liberal arts. The complex iconographical program is believed to have been designed by the scholar Thierry of Chartres, chancellor of the cathedral school from 1141 to c. 1155. Famous twelfth-century scholars such as William of Conches and Gilbert of Poitiers studied in Chartres.",
+        "hyperlink": "https://albertblackwell.blogspot.com/2013/09/chartres-cathedral-and-seven-liberal.html"
     },
     {
         "img_file_name": "chartres2.jpg",
-        "description": "Below each art is a famous practictioner. Dialectica is seated above (or supported by) Aristotle"
+        "description": "Below each art is a famous practictioner. Dialectica is seated above (or supported by) Aristotle",
+        "hyperlink": "https://albertblackwell.blogspot.com/2013/09/chartres-cathedral-and-seven-liberal.html"
     },
     {
         "img_file_name": "chartres3.jpg",
-        "description": "Aristotle is depicted as the architect of thought"
+        "description": "Aristotle is depicted as the architect of thought",
+        "hyperlink": "https://albertblackwell.blogspot.com/2013/09/chartres-cathedral-and-seven-liberal.html"
     },
     {
         "img_file_name": "chartres4.jpg",
-        "description": "Dialectica from close up. the creature she is holding is according to some scholars a serpent, according to others a scorpion"
+        "description": "Dialectica from close up. the creature she is holding is according to some scholars a serpent, according to others a scorpion",
+        "hyperlink": "https://albertblackwell.blogspot.com/2013/09/chartres-cathedral-and-seven-liberal.html"
     },
     {
         "img_file_name": "dialecticasculpture.jpg",
@@ -1316,7 +1321,7 @@
     {
         "img_file_name": "dialectica2.jpg",
         "alttext": "244f69v",
-        "description": "Lyon, BM, Ms. 244 (176) (Paris, ca 1250-1275), f. 69v: Dialectica looks positively saintly in this illustration. She holds a fleur de lis, symbol of the virgin Mary. This meek damsel is a far cry from the dangerous lady depicted by Martianus and Alanus",
+        "description": "Lyon, BM, Ms. 244 (176) (Paris, ca 1250-1275), f. 69v (detail): Dialectica looks positively saintly in this illustration. She holds a fleur de lis, symbol of the virgin Mary. This gentle damsel is a far cry from the dangerous lady depicted by Martianus and Alanus",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/5080"
     },
@@ -1335,7 +1340,7 @@
     {
         "img_file_name": "disputing.jpg",
         "alttext": "437f57v",
-        "description": "A woman and a clerc disputing. Montpellier, BU Médecine, H. 437 (1340, Gossuin de Metz, Image du monde), f. 57v.",
+        "description": "Montpellier, BU Médecine, H. 437 (1340, Gossuin de Metz, Image du monde), f. 57v (detail): A woman and a clerc disputing. Perhaps, however, the woman is not a real woman, but the personification of the 'ars rhetorica' herself.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/104988"
     },
@@ -1359,28 +1364,28 @@
     {
         "img_file_name": "150f141v.jpg",
         "alttext": "150f141v",
-        "description": "Valenciennes, BM 150 ( Saint-Amand abbey, Saint-Amand-les-Eaux, c. 881), f. 141v: Cantilène de Sainte Eulalie.",
+        "description": "Valenciennes, BM, MS 150 ( Saint-Amand abbey, Saint-Amand-les-Eaux, c. 881), ff. 141v-142r: Cantilène de Sainte Eulalie.",
         "resource": "Biblissima",
         "hyperlink": "https://data.biblissima.fr/entity/Q198631"
     },
     {
         "img_file_name": "court.jpg",
         "alttext": "KA20f208r",
-        "description": "Den Haag, KB, KA 20 (c.1325-35), p. 208: The court of Charlemagne. Jacob van Maerlant, Spiegel historiael.",
+        "description": "Den Haag, KB, KA 20 (c.1325-35), p. 208: The court of Charlemagne as imagined in the fourteenth century. Jacob van Maerlant, Spiegel historiael.",
         "resource": "Wikipedia",
         "hyperlink": "https://www.wikiwand.com/nl/Spiegel_Historiael_(handschrift)"
     },
     {
         "img_file_name": "reims.jpg",
         "alttext": "385f158r",
-        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385, 9th c., f. 158r.",
+        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385  (9th century), f. 158r.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w/f319.image"
     },
     {
         "img_file_name": "romanrose.jpg",
         "alttext": "482f60v",
-        "description": "Chantilly, Musée Condé, ms. 482, Paris, 1350-1360, f. 60v (detail)",
+        "description": "Chantilly, Musée Condé, ms. 482, Paris, 1350-1360, f. 60v (detail): Abelard and Heloise angaged in discussion.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/en/decor/78892"
     },
@@ -1413,7 +1418,7 @@
     {
         "img_file_name": "psalter.jpg",
         "alttext": "UtrechtPsalterf90v",
-        "description": "Utrecht Psalter, c. 820, Utrecht UL, Ms 32, f. 90v",
+        "description": "Utrecht, UB, Ms. 32, f. 90v (detail): Utrecht Psalter, c. 820.",
         "resource": "Utrecht UB",
         "hyperlink": "http://psalter.library.uu.nl/"
     },
@@ -1440,8 +1445,7 @@
     {
         "img_file_name": "council3.jpg",
         "alttext": "165f6v",
-        "description": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 6v. Copyright: Biblioteca Capitulare, Vercelli. Photo by Warren Pezé",
-        "resource": "Photo: Warren Pezé"
+        "description": "Vercelli, Biblioteca Capitulare, ms. 165, late 8th, early 9th c., f. 4v.  Copyright of the Fondazione Museo del Tesoro del Duomo e Archivio Capitolare, reproduced with permission."
     },
     {
         "img_file_name": "ephese.jpg",
@@ -1453,7 +1457,7 @@
     {
         "img_file_name": "prudentius2.jpg",
         "alttext": "23f18r",
-        "description": "Cambridge, Corpus Christi College, ms 23 (First half of the eleventh century, f. 18r (detail):  Illustration in , Prudentius' Psychomachia,Virtues battling for the soul of men.",
+        "description": "Cambridge, Corpus Christi College, ms 23 (first half of the eleventh century), f. 18r (detail):  Illustration in Prudentius' Psychomachia with Virtues battling for the souls of men.",
         "resource": "Parker Library On the Web",
         "hyperlink": "https://parker.stanford.edu/parker/catalog/nz663nv2057"
     },
@@ -1724,13 +1728,13 @@
     {
         "img_file_name": "cart.jpg",
         "alttext": "CCLIf10r",
-        "description": "Verona, Bibl. Capitolare CCLI (Illustrated copy of Alanus de Insulis’ Anticlaudianus, 13th century), f. 10r: The liberal arts are building a cart. ",
+        "description": "Verona, Biblioteca Capitolare CCLI (Illustrated copy of Alanus de Insulis’ Anticlaudianus, 13th century), f. 10r: The liberal arts are building a cart. ",
         "hyperlink": "https://www.flickr.com/photos/quadralectics/8003072562/in/photostream/"
     },
     {
         "img_file_name": "rippol.jpg",
         "alttext": "lat4886f48v",
-        "description": "Paris, BnF, lat. 4886, 11th c., f. 48v (Photo IvR)",
+        "description": "Paris, BnF, lat. 4886 (11th c.), f. 48v (detail). Photo IvR.",
         "resource": "Photo Irene van Renswoude",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10540997j"
     },
@@ -1743,7 +1747,7 @@
     {
         "img_file_name": "emilianensis.jpg",
         "alttext": "D.I.I.f129v",
-        "description": "Codex Aemilianense, San Millán de la Cogolla, c. 992 Biblioteca del Monasterio de El Escorial, D. I. I., f. 129v",
+        "description": "San Millán de la Cogolla, Biblioteca del Monasterio de El Escorial, D. I. I., f. 129v: Codex Aemilianense, c. 992.",
         "resource": "Wikipedia",
         "hyperlink": "https://www.wikiwand.com/es/Escritorio_de_San_Mill%C3%A1n"
     },
@@ -1797,9 +1801,9 @@
     {
         "img_file_name": "tours.jpg",
         "alttext": "lat1572f79r",
-        "description": "Paris, BnF, lat. 1572 (8th c.), f. 79r (photo IvR)",
+        "description": "Paris, BnF, lat. 1572 (8th c.), f. 79r (detail). Photo IvR.",
         "resource": "Photo Irene van Renswoude",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9078172j?rk=21459;2"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b9078172j"
     },
     {
         "img_file_name": "tours2.jpg",
@@ -1818,14 +1822,14 @@
     {
         "img_file_name": "marcella2.jpg",
         "alttext": "132f1r",
-        "description": "Marcella of Rome. Miniature in a twelfth-century manuscript of Jerome’s commentaries. Dijon, BM, 132, f. 1r (detail)",
+        "description": "Dijon, BM, 132, f. 1r (detail): Marcella of Rome. Miniature in a twelfth-century manuscript of Jerome’s commentaries.",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/en/decor/13176"
     },
     {
         "img_file_name": "origen.jpg",
         "alttext": "Clm17092f130v",
-        "description": "München, Bayerische Staatsbibliothek, CLM 17092, f. 130v",
+        "description": "München, Bayerische Staatsbibliothek, Clm 17092, f. 130v",
         "resource": "Wikipedia",
         "hyperlink": "https://commons.wikimedia.org/wiki/Category:Origen#/media/File:Origen3.jpg"
     },
@@ -1846,7 +1850,7 @@
     {
         "img_file_name": "reims4.jpg",
         "alttext": "385f159",
-        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385, f. 159 (detail) “novi prudentiam vestram optime in dialecticae eruditam esse”",
+        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385, f. 159 (detail): “quia novi prudentiam vestram optime in dialecticis subtilitabus (sic) eruditam esse”",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w"
     },
@@ -1866,14 +1870,14 @@
     },
     {
         "img_file_name": "mural.jpg",
-        "description": "Mural in the cathedral of La Seu d’Urgell",
+        "description": "Mural formerly in the cathedral of La Seu d’Urgell",
         "resource": "Museu Nacional",
         "hyperlink": "https://www.museunacional.cat/en/colleccio/dispute-and-arrest-saint-catherine-cathedral-la-seu-durgell/anonim-catalunya/214241-000"
     },
     {
         "img_file_name": "katharine.jpg",
         "alttext": 516,
-        "description": "Ms. Melk Stiftsbiliothek 516, early fourteenth century.",
+        "description": "Melk, Stiftsbiliothek, MS 516 (early fourteenth century), inside cover",
         "resource": "manuscripta.at",
         "hyperlink": "https://manuscripta.at/images/AT/6000/AT6000-516/AT6000-516_VDS.jpg"
     },
@@ -1893,8 +1897,8 @@
     },
     {
         "img_file_name": "12949notes.jpg",
-        "alttext": "lat14511f44v",
-        "description": "Paris, BnF. Lat. 14511, f. 44v (Photo IvR)",
+        "alttext": "lat12949f25v26r",
+        "description": "Paris, BnF, lat. 12949, opening ff. 25v-26r (photo IvR): Notes in different directions and inserted leaves",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
@@ -1907,7 +1911,7 @@
     {
         "img_file_name": "12949f23bisrfr.jpg",
         "alttext": "lat12949f23bisr",
-        "description": "Paris, BnF, Lat. 12949, f. 23v",
+        "description": "Paris, BnF, Lat. 12949, f. 23 bis r",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -1920,7 +1924,7 @@
     {
         "img_file_name": "103f55rfr.jpg",
         "alttext": "VLQ103f55r",
-        "description": "Leiden, UB, VLQ 103, f. 55r (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 55r (detail, photo MT)",
         "resource": "Universiteitsbibliotheek Leiden"
     },
     {
@@ -2113,7 +2117,7 @@
     {
         "img_file_name": "88f4v.jpg",
         "alttext": "BPL88f4v",
-        "description": "Leiden, UB, BPL 88, f. 4v (detail; the green box is ours): In the note the meaning of the word \"endelechia\" is explained according to three different authorities: Calcidius, Aristotle and Plato.",
+        "description": "Leiden, UB, BPL 88, f. 4v (detail; the green box is ours): In the note the meaning of the word \"endelichia\" is explained according to three different authorities: Calcidius, Aristotle and Plato.",
         "resource": "Universiteitsbibliotheek Leiden eigen foto",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2028417"
     },
@@ -2169,7 +2173,7 @@
     {
         "img_file_name": "philosophers.jpg",
         "alttext": "228f39r",
-        "description": "Avranches, Bibliothèque Municipale, Ms. 228 (manuscript made in Northern France (perhaps in Paris, ca 1225-1250), fol. 39r: Two philosophers, probably Aristotle and Boethius, engaged in a discussion. ",
+        "description": "Avranches, Bibliothèque Municipale, Ms. 228 (manuscript made in Northern France (perhaps in Paris, ca 1225-1250), fol. 39r (detail): Two philosophers, probably Aristotle and Boethius, engaged in a discussion. ",
         "resource": "Initiale",
         "hyperlink": "http://initiale.irht.cnrs.fr/decor/34208"
     },
@@ -2673,26 +2677,26 @@
     },
     {
         "img_file_name": "25f12r2.jpg",
-        "alttext": "BPL25f2r",
-        "description": "Leiden, UB, BPL 25, f. 2r: Affirmative and Negative Propositions. In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and particular negative propositions: ‘some men are just’ and ‘some men are not just’",
+        "alttext": "BPL25f12r",
+        "description": "Leiden, UB, BPL 25, f. 12r (detail), Affirmative and negative propositions: In this example, the universal affirmative proposition, ‘all men are just’, is placed at the top left of the square. It’s placed alongside the other universal, but negative, proposition: ‘no men are just.’ At the bottom of the square we find the particular affirmative and particular negative propositions: ‘some men are just’ and ‘some men are not just’. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1617684</a>",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
         "img_file_name": "25f12r3.jpg",
-        "alttext": "BPL25f2r",
-        "description": "Leiden, UB, BPL 25, f. 2r: Contradictory Relationships. The diagonal lines crossing the centre of the diagram (labelled ‘contradictoriae’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then the proposition ‘some men are just’ cannot be true.’",
+        "alttext": "BPL25f12r",
+        "description": "Leiden, UB, BPL 25, f. 12r (detail), Contradictory Relationships: The diagonal lines crossing the centre of the diagram (labelled ‘contradictoriae’) connect propositions which are contradictory to each other. For example, if ‘all men are just’ (the universal affirmative proposition) then ‘some men are not just’ (the particular negative proposition) is a contradictory statement. If ‘all men are just’ then the statement ‘some men are not just’ cannot be true. Similarly, reading across the other diagonal, if ‘no men are just’ then the proposition ‘some men are just’ cannot be true. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1617684</a>",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
         "img_file_name": "25f12r4.jpg",
-        "alttext": "BPL25f2r",
-        "description": "Leiden, UB, BPL 25, f. 2r: Contradictory Relationships. The placement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false.",
+        "alttext": "BPL25f12r",
+        "description": "Leiden, UB, BPL 25, f. 12r (detail), Contrary Relationships: The placement of the universal affirmative and negative propositions at the top of the square and the particular affirmative and negative propositions at the bottom is also meaningful; these are described as being ‘contrary’ to each other. That is, it is not possible for both of the universal propositions – ‘all men are just’ and ‘all men are not just’ – to be true, although they could be both false. However, while it is possible for both particular propositions – ‘some men are just’ and ‘some men are not just’ – to be true, they cannot both be false. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1617684</a>",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
         "img_file_name": "25f12r5.jpg",
-        "alttext": "BPL25f2r",
-        "description": "Leiden, UB, BPL 25, f. 2r: Contradictory Relationships. Finally, reading alongside the side of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition, ‘all men are just’ (placed at the top of the square), is true, then the corresponding particular affirmative proposition, ‘some men are just’ (placed at the bottom of the square), must also be true. Similarly, if the universal negative proposition, ‘no man is just’, then the particular negative proposition, ‘some man is not just’, must also be true.’",
+        "alttext": "BPL25f12r",
+        "description": "Leiden, UB, BPL 25, f. 12r (detail), Subaltern Relationships: Finally, reading alongside the sides of the square, a further relationship between the propositions, that of subalternation, is identified. If the universal affirmative proposition, ‘all men are just’ (placed at the top of the square), is true, then the corresponding particular affirmative proposition, ‘some men are just’ (placed at the bottom of the square), must also be true. Similarly, if the universal negative proposition, ‘no man is just’, is true, then the particular negative proposition, ‘some man is not just’, must also be true. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1617684</a>",
         "hyperlink": "http://hdl.handle.net/1887.1/item:1617684"
     },
     {
@@ -2943,23 +2947,23 @@
     {
         "img_file_name": "1395f91r.jpg",
         "alttext": "1395f91r",
-        "description": "Reims, BM (Bibliothèque de Carnegie), ms. 1395 (Reims, 9th or 10th century), f. 91r.",
+        "description": "Reims, BM (Bibliothèque de Carnegie), ms. 1395 (Reims, 9th or 10th century), f. 91r (detail)",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448987p"
     },
     {
         "img_file_name": "7730f43.jpg",
         "alttext": "lat7730f43r",
-        "description": "Paris, BnF, lat. 7730 (Fleury (?), 9th century, Boethius, Contra Eutychen et Nestorium), f. 43rb.",
+        "description": "Paris, BnF, lat. 7730 (Fleury (?), 9th century, Boethius, Contra Eutychen et Nestorium), f. 43rb (detail).",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8478988x"
     },
     {
         "img_file_name": "reims5.jpg",
         "alttext": "385f154r",
-        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385, 9th c., f. 154r (detail).",
+        "description": "Reims, BM, Bibliothèque Carnegie, ms. 385 (9th c.), f. 154r (detail).",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w/f319.image"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b8448999w"
     },
     {
         "img_file_name": "2923cover.jpg",
@@ -3055,7 +3059,7 @@
     {
         "img_file_name": "romanrose2.jpg",
         "alttext": "fr1560f58b",
-        "description": "Paris, BnF, Fr. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B: Abelard and Héloïse engaged in discussion.",
+        "description": "Paris, BnF, Fr. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B (detail): Abelard and Héloïse engaged in discussion.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000318d"
     },
@@ -3237,7 +3241,7 @@
     {
         "img_file_name": "romanrose3.jpg",
         "alttext": "fr1560f58b",
-        "description": "Paris, BnF, Fr. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B: Abelard and Héloïse engaged in discussion.",
+        "description": "Paris, BnF, Fr. 1560 (France, Normandie (?), 1300-1340, Roman de la Rose), f. 58B.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b6000318d"
     },
@@ -3264,7 +3268,7 @@
     {
         "img_file_name": "84f48r.jpg",
         "alttext": "BPL 84f48r",
-        "description": "Leiden, UB, BPL 84, f. 48r (detail)",
+        "description": "Leiden, UB, BPL 84, f. 48r",
         "resource": "Leiden UB",
         "hyperlink": "http://hdl.handle.net/1887.1/item:2348775"
     },
@@ -3277,7 +3281,7 @@
     {
         "img_file_name": "12949f25vfr2.jpg",
         "alttext": "lat12949f25v",
-        "description": "Paris, BnF, lat. 12949, f. 25v (detail, photo RS): at the top the attribution of the glosses to Heiric of Auxerre.",
+        "description": "Paris, BnF, lat. 12949, f. 25v (detail): at the top the attribution of the glosses to Heiric of Auxerre.",
         "resource": "Gallica",
         "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
@@ -3380,14 +3384,23 @@
     },
     {
         "img_file_name": "psalterium.jpg",
-        "description": "Psalter with glosses attributed to Anselm of Laon, Paris, BnF, ms. Latin 8846, f. 6r. Christ Church Canterbury, last quarter of the twelfth century. The Beatus initial was painted around 1200. The psalter was in the possession of Jean, duc de Berry (1340-1416) ",
+        "alttext": "lat8846f6r",
+        "description": "Paris, BnF, lat. 8846, f. 6r: Psalter with glosses attributed to Anselm of Laon. Manuscript made in Christ Church Canterbury in the last quarter of the twelfth century. The Beatus initial was painted around 1200. Later, the psalter was in the possession of Jean, duc de Berry (1340-1416).",
         "resource": "Gallica",
-        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10551125c/f276.item#"
+        "hyperlink": "https://gallica.bnf.fr/ark:/12148/btv1b10551125c"
     },
     {
-        "description": "Christ Church Canterbury, last quarter of the twelfth century. The Beatus initial was painted around 1200. The psalter was in the possession of Jean, duc de Berry (1340-1416)"
+        "img_file_name": "gal273_233_2.jpg",
+        "alttext": "273p233",
+        "description": "St. Gallen,  Stiftsbibliothek, Cod.Sang. 273, p. 233",
+        "resource": "e-codices",
+        "hyperlink": "https://www.e-codices.unifr.ch/en/list/one/csg/0273"
     },
     {
-        "description": "https://gallica.bnf.fr/ark:/12148/btv1b10551125c/f276.item#"
+        "img_file_name": "14779f53v.jpg",
+        "alttext": "14779f53v",
+        "description": "München, Bayerische Staatsbibliothek, Clm. 14779 (12th century), f. 53v (detail)",
+        "resource": "BSB",
+        "hyperlink": "urn:nbn:de:bvb:12-bsb00094630-4"
     }
 ]
