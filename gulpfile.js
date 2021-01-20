@@ -327,7 +327,7 @@ gulp.task('buildFromTemplates', function(done) {
         manuscriptMeta += '<div class="aoCol1">';
         //manuscriptMeta += '<h3>Physics</h3>';
         manuscriptMeta += '<h4>Caption</h4>';
-        manuscriptMeta += ''+page.material+' manuscript,<br> ' +page.foliation + ' folia,<br>  '+ page.dimensions+ ',<br> '+page.type+ ',<br>  '+ page.language;
+        manuscriptMeta += ''+page.material+' manuscript,<br> ' +page.foliation + ' folia,<br>  '+ page.dimensions+ ',<br>  '+ page.language;
         //manuscriptMeta += '<h4>Foliation</h4>'+page.foliation;
         manuscriptMeta += '</div>';
         manuscriptMeta += '<div class="aoCol1"><h4>Content</h4>'+page.contents;
@@ -391,7 +391,7 @@ gulp.task('buildFromTemplates', function(done) {
           .pipe(replace('<p>±map±</p>', ''))
           .pipe(replace('<a id="_heading=h.gjdgxs"></a>', ''))
           .pipe(replace('<a href="file:///C:\\', '<a href="/'))
-          .pipe(replace('.html%3f', ".html?"))
+          //.pipe(replace('.html%3f', ".html?"))
 
 
           .pipe(replace('±cite±', citeAs))
@@ -554,6 +554,7 @@ function handleManuscriptComponentMulti(content) {
     for (var f = 0; f < folioMultiList.length; f++) {
       var rplce='';
 
+
       rplce = '{{> folios/folio-'+folioMultiList[f].folioname+' }}';
       var find2 = '<p>±m±'+folioMultiList[f].folioname+'±m±</p>';
       var regex2 = new RegExp(find2, "g");
@@ -611,6 +612,10 @@ function handletextPre(content) {
     content = content.replace(/<p>±col1± <\/p>/g, "<p>±col1±</p>");
     content = content.replace(/<p>±col1span±<br \/>/g, "<p>±col1span±</p><p>");
     content = content.replace(/file:\/\/\/C:\\Users\\renees\\AppData\\Local\\Temp\\/g, "/");
+    content = content.replace(/file:\/\/\/C:\\Users\\ReneeS\\AppData\\Local\\Temp\\/g, "/");
+    content = content.replace(/\?fportait/g, "?portait");
+
+
     //<a id="_heading=h.gjdgxs"></a>
     //<a id="_heading=h.30j0zll"></a>
     //<a id="bookmark=id.gjdgxs">
@@ -618,18 +623,20 @@ function handletextPre(content) {
     //<p>±row±	</p>
     //<a id="_heading=h.1fob9te"></a>
     //<br />±col2span±</p>
+    //<p>±col1±  </p>
 
     content = content.replace(/<a id=\"_heading=h.gjdgxs\"><\/a>/g, "");
     content = content.replace(/<a id=\"_heading=h.30j0zll\"><\/a>/g, "");
     content = content.replace(/<a id=\"bookmark=id.gjdgxs\"><\/a>/g, "");
     content = content.replace(/±row±	<\/p>/g, "±row±</p>");
     content = content.replace(/<a id="_heading=h.1fob9te"><\/a>/g, "");
+    content = content.replace(/<a id="_heading=h.1fob9te"><\/a>/g, "");
 
-    content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
+    content = content.replace(/<p>±col1±  <\/p>/g, "<p>±col1±</p>");
 
 
     content = content.replace(/<a id="_heading=h.gjdgxs"><\/a>/g, "");
-    content = content.replace(/.html%3/g, ".html?");
+    content = content.replace(/.html%3f/g, ".html?");
     content = content.replace(/<p>±row± <\/p>/g, "<p>±row±</p>");
     content = content.replace(/<p><a id="theme1"><\/a>±col1span±<\/p>/g, '<p>±col1span±</p><a id="theme1"></a>');
 

@@ -101,16 +101,6 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_1_rb",
-        "folionr": "lat12949f1",
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_12949_f1_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949, f. 1r. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
-    },
-    {
-        "manuscript_id": "bnf129",
         "folioid": "bnf129_24_vb",
         "folionr": "lat12949f24",
         "foliotype": "v",
@@ -228,6 +218,44 @@
         "foliotype": "v",
         "foliofilename": "BnF_lat_12949_f24_v.jpg",
         "foliodescription": "Paris, BnF, lat. 12949, f. 24v. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_46_rd",
+        "folionr": "lat12949f46",
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f46_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_vc",
+        "folionr": "2lat12949f4",
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v. At the top of the scheme we find ‘Usia’, meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_vd",
+        "folionr": "lat2923f24",
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "BnF_lat_12949_f24_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24v: At the top of the scheme we find ‘Usia’, meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
+    },
+    {
+        "manuscript_id": "bnf129",
+        "folioid": "bnf129_24_r",
+        "folionr": "lat12949f24",
+        "foliotype": "r",
+        "foliofilename": "BnF_lat_12949_f24_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 12949, f. 24r. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
     },
     {
@@ -500,6 +528,48 @@
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     },
     {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_fl",
+        "folionr": "lat2923",
+        "foliofilename": "bnf292_fl.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave IV. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_IIIr",
+        "folionr": "lat2923",
+        "foliofilename": "bnf292_IIIr.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave IIIr. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_vv",
+        "folionr": "lat2923",
+        "foliofilename": "bnf292_vv.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, flyleave VV. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_178_v",
+        "folionr": "lat2923f178",
+        "foliotype": "v",
+        "foliofilename": "bnf292_178_v.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, f. 178v. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
+        "manuscript_id": "bnf292",
+        "folioid": "bnf292_1_r",
+        "folionr": "lat2923f1",
+        "foliotype": "r",
+        "foliofilename": "bnf292_1_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 2923, f. 1r. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
+    },
+    {
         "manuscript_id": "bnf663",
         "folioid": "bnf663_6_bis_r",
         "folionr": "lat6638f6bis",
@@ -703,6 +773,24 @@
         "folioextra": "b",
         "foliofilename": "BnF_lat_7900A_133_r.jpg",
         "foliodescription": "Paris, BnF, lat. 7900A, f.133r: The opening of Martianus’ chapter on dialectic, with Remigius' commentary (on the right). <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10546779x</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "manuscript_id": "bnf790",
+        "folioid": "bnf790_cover_",
+        "folionr": "lat7900A",
+        "foliofilename": "7900Acover.jpg",
+        "foliodescription": "Paris, BnF, lat. 7900A. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10546779x</a>",
+        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
+    },
+    {
+        "manuscript_id": "bnf790",
+        "folioid": "bnf790_27_rb",
+        "folionr": "lat7900Af27",
+        "foliotype": "r",
+        "folioextra": "b",
+        "foliofilename": "BnF_lat_7900A_f27_r.jpg",
+        "foliodescription": "Paris, BnF, lat. 7900A, f. 27r. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10546779x</a>",
         "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
@@ -1452,6 +1540,15 @@
         "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
     },
     {
+        "manuscript_id": "bpl84",
+        "folioid": "bpl84_90_vb",
+        "folionr": "BPL84f90",
+        "foliotype": "v",
+        "foliofilename": "UB_BPL_84_f90_v.jpg",
+        "foliodescription": "Leiden, UB, BPL 84, f. 90v. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2348775</a>",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
+    },
+    {
         "manuscript_id": "bpl88",
         "folioid": "bpl88_BPL88f1_v",
         "folionr": "BPL88f1",
@@ -1591,6 +1688,44 @@
         "folioextra": "b",
         "foliofilename": "UB_BPL_88_171_r.jpg",
         "foliodescription": "Leiden, UB, BPL 88, f. 171r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_2_vd",
+        "folionr": "BPL88f2",
+        "foliotype": "v",
+        "folioextra": "c",
+        "foliofilename": "UB_BPL_88_f2 _v.jpg",
+        "foliodescription": "Leiden, UB, BPL 88, ff. 2v-3r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_1_vd",
+        "folionr": "BPL88f1",
+        "foliotype": "v",
+        "folioextra": "d",
+        "foliofilename": "UB_BPL_88_f1 _v.jpg",
+        "foliodescription": "Leiden, UB, BPL 88, ff. 1v-2r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_cover",
+        "folionr": "BPL88",
+        "foliofilename": "bpl88_cover.jpg",
+        "foliodescription": "Leiden, UB, BPL 88. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
+        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
+    },
+    {
+        "manuscript_id": "bpl88",
+        "folioid": "bpl88_2_vc",
+        "folionr": "BPL88f2",
+        "foliotype": "v",
+        "folioextra": "b",
+        "foliofilename": "UB_BPL_88_f2 _v.jpg",
+        "foliodescription": "Leiden, UB, BPL 88, ff. 2v-3r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
         "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
@@ -2028,6 +2163,24 @@
         "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
     },
     {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_68_vb",
+        "folionr": "GRO22f68",
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f68_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22, opening ff. 68v-69r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1668135</a>",
+        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
+        "manuscript_id": "gro22",
+        "folioid": "gro22_13_vb",
+        "folionr": "GRO22f13",
+        "foliotype": "v",
+        "foliofilename": "UB_GRO_22_f13_v.jpg",
+        "foliodescription": "Leiden, UB, GRO 22, ff. 13v-14r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1668135</a>",
+        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
+    },
+    {
         "manuscript_id": "kar92",
         "folioid": "kar92_St.PeterPerg92f11_v",
         "folionr": "St.PeterPerg92f11",
@@ -2292,42 +2445,6 @@
         "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
     },
     {
-        "manuscript_id": "bpl84",
-        "folioid": "bpl84_90_vb",
-        "folionr": "BPL84f90",
-        "foliotype": "v",
-        "foliofilename": "UB_BPL_84_f90_v.jpg",
-        "foliodescription": "Leiden, UB, BPL 84, f. 90v. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2348775</a>",
-        "foliosource": "http://hdl.handle.net/1887.1/item:2348775"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_46_rd",
-        "folionr": "lat12949f46",
-        "foliotype": "r",
-        "foliofilename": "BnF_lat_12949_f46_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949, f. 46r: opening of Porphyry’s Isagoge, an introduction to the Categories of Aristotle. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_68_vb",
-        "folionr": "GRO22f68",
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f68_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22, opening ff. 68v-69r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1668135</a>",
-        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
-    },
-    {
-        "manuscript_id": "gro22",
-        "folioid": "gro22_13_vb",
-        "folionr": "GRO22f13",
-        "foliotype": "v",
-        "foliofilename": "UB_GRO_22_f13_v.jpg",
-        "foliodescription": "Leiden, UB, GRO 22, ff. 13v-14r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1668135</a>",
-        "foliosource": "http://hdl.handle.net/1887.1/item:1668135"
-    },
-    {
         "manuscript_id": "vlf48",
         "folioid": "vlf48_2_rn",
         "folionr": "VLF48f2",
@@ -2335,36 +2452,6 @@
         "foliofilename": "UB_VLF_48_f2_r.jpg",
         "foliodescription": "Leiden, UB, VLF 48, f. 2r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1618282</a>",
         "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_24_vc",
-        "folionr": "2lat12949f4",
-        "foliotype": "v",
-        "folioextra": "c",
-        "foliofilename": "BnF_lat_12949_f24_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949, f. 24v. At the top of the scheme we find ‘Usia’, meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
-    },
-    {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_2_vd",
-        "folionr": "BPL88f2",
-        "foliotype": "v",
-        "folioextra": "c",
-        "foliofilename": "UB_BPL_88_f2 _v.jpg",
-        "foliodescription": "Leiden, UB, BPL 88, ff. 2v-3r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
-        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
-    },
-    {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_1_vd",
-        "folionr": "BPL88f1",
-        "foliotype": "v",
-        "folioextra": "d",
-        "foliofilename": "UB_BPL_88_f1 _v.jpg",
-        "foliodescription": "Leiden, UB, BPL 88, ff. 1v-2r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
-        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
     },
     {
         "manuscript_id": "vlf48",
@@ -2375,42 +2462,6 @@
         "foliofilename": "UB_VLF_48_f95_v.jpg",
         "foliodescription": "Leiden, UB, VLF 48, f. 95v. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1618282</a>",
         "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
-    },
-    {
-        "manuscript_id": "bnf790",
-        "folioid": "bnf790_cover_",
-        "folionr": "lat7900A",
-        "foliofilename": "7900Acover.jpg",
-        "foliodescription": "Paris, BnF, lat. 7900A. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10546779x</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
-    },
-    {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_cover",
-        "folionr": "BPL88",
-        "foliofilename": "bpl88_cover.jpg",
-        "foliodescription": "Leiden, UB, BPL 88. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
-        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
-    },
-    {
-        "manuscript_id": "bpl88",
-        "folioid": "bpl88_2_vc",
-        "folionr": "BPL88f2",
-        "foliotype": "v",
-        "folioextra": "b",
-        "foliofilename": "UB_BPL_88_f2 _v.jpg",
-        "foliodescription": "Leiden, UB, BPL 88, ff. 2v-3r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:2028417</a>",
-        "foliosource": "http://hdl.handle.net/1887.1/item:2028417"
-    },
-    {
-        "manuscript_id": "bnf790",
-        "folioid": "bnf790_27_rb",
-        "folionr": "lat7900Af27",
-        "foliotype": "r",
-        "folioextra": "b",
-        "foliofilename": "BnF_lat_7900A_f27_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 7900A, f. 27r. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10546779x</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10546779x"
     },
     {
         "manuscript_id": "vlf48",
@@ -2429,57 +2480,5 @@
         "foliofilename": "48f2r2.jpg",
         "foliodescription": "Leiden, UB, VLF 48, f. 2r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1618282</a>",
         "foliosource": "http://hdl.handle.net/1887.1/item:1618282"
-    },
-    {
-        "manuscript_id": "bnf292",
-        "folioid": "bnf292_fl",
-        "folionr": "lat2923",
-        "foliofilename": "bnf292_fl.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, flyleave IV. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
-    },
-    {
-        "manuscript_id": "bnf292",
-        "folioid": "bnf292_IIIr",
-        "folionr": "lat2923",
-        "foliofilename": "bnf292_IIIr.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, flyleave IIIr. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
-    },
-    {
-        "manuscript_id": "bnf292",
-        "folioid": "bnf292_vv",
-        "folionr": "lat2923",
-        "foliofilename": "bnf292_vv.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, flyleave VV. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
-    },
-    {
-        "manuscript_id": "bnf292",
-        "folioid": "bnf292_178_v",
-        "folionr": "lat2923f178",
-        "foliotype": "v",
-        "foliofilename": "bnf292_178_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, f. 178v. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_24_vd",
-        "folionr": "lat2923f24",
-        "foliotype": "v",
-        "folioextra": "c",
-        "foliofilename": "BnF_lat_12949_f24_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949, f. 24v: At the top of the scheme we find ‘Usia’, meaning substance, a Latinised form of the Greek οὐσία. Cicero is given as the example of ‘man’. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
-    },
-    {
-        "manuscript_id": "bnf292",
-        "folioid": "bnf292_1_r",
-        "folionr": "lat2923f1",
-        "foliotype": "r",
-        "foliofilename": "bnf292_1_r.jpg",
-        "foliodescription": "Paris, BnF, lat. 2923, f. 1r. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b84386206</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b84386206"
     }
 ]
