@@ -150,7 +150,8 @@ function combineJson(){
     // if has no parts -> get folio data
     if (folioData.parts.length == 0) {
       var partData = {};
-      partData.fpname = folioJson[fo].folionr+''+notUndefined(folioJson[fo].foliotype);
+      //partData.fpname = folioJson[fo].folionr+''+notUndefined(folioJson[fo].foliotype);
+      partData.fpname = folioJson[fo].folionr; //alleen colom C
       partData.fpdescription = replaceLink(folioJson[fo].foliodescription);
       partData.foliofilename = folioJson[fo].foliofilename;
       var fileNoExtention = folioJson[fo].foliofilename.replace(".jpg", "");
