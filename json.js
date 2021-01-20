@@ -248,7 +248,8 @@ function combineJson(){
                   folioPartData.foliofilename = folioJson[fol2].foliofilename;
                   var fileNoExtention = folioPartData.foliofilename.replace(".jpg", "");
                   folioPartData.foliofilename_exten = fileNoExtention;
-                  folioPartData.fpname = folioJson[fol2].folioid;
+                  //folioPartData.fpname = folioJson[fol2].folioid;
+                  folioPartData.fpname = folioJson[fol2].folionr;
                   folioPartData.fpdescription = replaceLink(folioJson[fol2].foliodescription);
                   folioPartData.fpid = folioJson[fol2].folioid;
 
@@ -276,6 +277,13 @@ function combineJson(){
 
               for (var imi = 0; imi < imagesJson.length; imi++) {
                 if (imagesJson[imi].img_file_name == folioPartsmulJson[ol].afbeelding) {
+                  var imgLink='';
+                  //console.log(imagesJson[imi].hyperlink);
+                  if (imagesJson[imi].hyperlink  !== "undefined" ) {
+                    imgLink = '<br><a href="'+imagesJson[imi].hyperlink+'">'+imagesJson[imi].hyperlink+'</a>';
+                  }
+
+
                   folioPartData.imageSource = imagesJson[imi].img_file_name;
                   folioPartData.foliodescription = imagesJson[imi].description;
                   folioPartData.foliosource = imagesJson[imi].resource;
@@ -285,7 +293,7 @@ function combineJson(){
                   folioPartData.foliofilename_exten = fileNoExtention;
 
                   folioPartData.fpname = imagesJson[imi].alttext;
-                  folioPartData.fpdescription = imagesJson[imi].description;
+                  folioPartData.fpdescription = imagesJson[imi].description+imgLink;
                   folioPartData.fpid = imagesJson[imi].img_file_name;
                   folioPartData.fimagePath = 'images/content/';
 
