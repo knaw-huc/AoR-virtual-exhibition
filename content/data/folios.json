@@ -2,7 +2,7 @@
 [
     {
         "manuscript_id": "aru348",
-        "folioid": "aru348_Arundel348f128_r",
+        "folioid": "aru348_128_r",
         "folionr": "Arundel348f128",
         "foliotype": "r",
         "foliofilename": "Arundel_348_f128_r.jpg",
@@ -11,7 +11,7 @@
     },
     {
         "manuscript_id": "aru348",
-        "folioid": "aru348_Arundel348f123_v",
+        "folioid": "aru348_123_v",
         "folionr": "Arundel348f123",
         "foliotype": "v",
         "foliofilename": "Arundel_348_f123_v.jpg",
@@ -20,7 +20,7 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_lat12949f24_v",
+        "folioid": "bnf129_24_v",
         "folionr": "lat12949f24",
         "foliotype": "v",
         "foliofilename": "BnF_lat_12949_f24_v.jpg",
@@ -29,7 +29,7 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_lat129499f25_r",
+        "folioid": "bnf129_25_r",
         "folionr": "lat129499f25",
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f25_r.jpg",
@@ -46,7 +46,7 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_lat12949f1_r",
+        "folioid": "bnf129_1_r",
         "folionr": "lat12949f1",
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f1_r.jpg",
@@ -55,7 +55,7 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_lat12949f24_r",
+        "folioid": "bnf129_24_r",
         "folionr": "lat12949f24",
         "foliotype": "r",
         "foliofilename": "BnF_lat_12949_f24_r.jpg",
@@ -64,7 +64,7 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_lat12949f25_v",
+        "folioid": "bnf129_25_v",
         "folionr": "lat12949f25",
         "foliotype": "v",
         "foliofilename": "BnF_lat_12949_f25_v.jpg",
@@ -73,16 +73,7 @@
     },
     {
         "manuscript_id": "bnf129",
-        "folioid": "bnf129_lat12949f24_v",
-        "folionr": "lat12949f24",
-        "foliotype": "v",
-        "foliofilename": "BnF_lat_12949_f24_v.jpg",
-        "foliodescription": "Paris, BnF, lat. 12949, f. 24v. <a href=\"http://link.nl\">https://gallica.bnf.fr/ark:/12148/btv1b10542356v</a>",
-        "foliosource": "https://gallica.bnf.fr/ark:/12148/btv1b10542356v"
-    },
-    {
-        "manuscript_id": "bnf129",
-        "folioid": "bnf129_lat12949f27_bisr",
+        "folioid": "bnf129_27_bisr",
         "folionr": "lat12949f27",
         "foliotype": "bisr",
         "foliofilename": "BnF_lat_12949_f27_bisr.jpg",
@@ -322,7 +313,7 @@
     },
     {
         "manuscript_id": "bnf165",
-        "folioid": "bnf165_lat16598f37_r",
+        "folioid": "bnf165_37_r",
         "folionr": "lat16598f37",
         "foliotype": "r",
         "foliofilename": "BnF_lat_16598_f37_r.jpg",
@@ -339,7 +330,7 @@
     },
     {
         "manuscript_id": "bnf166",
-        "folioid": "bnf166_lat16611f7_v",
+        "folioid": "bnf166_7_v",
         "folionr": "lat16611f7",
         "foliotype": "v",
         "foliofilename": "BnF_lat_16611_f7_v.jpg",
@@ -348,7 +339,7 @@
     },
     {
         "manuscript_id": "bnf166",
-        "folioid": "bnf166_lat16611f8_v",
+        "folioid": "bnf166_8_v",
         "folionr": "lat16611f8",
         "foliotype": "v",
         "foliofilename": "BnF_lat_16611_f8_v.jpg",
@@ -357,7 +348,7 @@
     },
     {
         "manuscript_id": "bnf166",
-        "folioid": "bnf166_lat16611f14_v",
+        "folioid": "bnf166_14_v",
         "folionr": "lat16611f14",
         "foliotype": "v",
         "foliofilename": "BnF_lat_16611_f14_v.jpg",
@@ -366,7 +357,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f250_v",
+        "folioid": "bnf178_250_v",
         "folionr": "lat17806f250",
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f250_v.jpg",
@@ -383,7 +374,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f218_r",
+        "folioid": "bnf178_218_r",
         "folionr": "lat17806f218",
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f218_r.jpg",
@@ -392,7 +383,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f164_v",
+        "folioid": "bnf178_164_v",
         "folionr": "lat17806f164",
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f164_v.jpg",
@@ -401,7 +392,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f172_r",
+        "folioid": "bnf178_172_r",
         "folionr": "lat17806f172",
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f172_r.jpg",
@@ -410,7 +401,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f17_r",
+        "folioid": "bnf178_17_r",
         "folionr": "lat17806f17",
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f17_r.jpg",
@@ -419,7 +410,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f44_v",
+        "folioid": "bnf178_44_v",
         "folionr": "lat17806f44",
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f44_v.jpg",
@@ -428,7 +419,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f69_r",
+        "folioid": "bnf178_69_r",
         "folionr": "lat17806f69",
         "foliotype": "r",
         "foliofilename": "BnF_lat_17806_f69_r.jpg",
@@ -437,7 +428,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f4_v",
+        "folioid": "bnf178_4_v",
         "folionr": "lat17806f4",
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f4_v.jpg",
@@ -446,7 +437,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f6_r",
+        "folioid": "bnf178_6_r",
         "folionr": "lat17806f6",
         "foliotype": "r",
         "foliofilename": "BnF_lat_178_f6_r.jpg",
@@ -455,7 +446,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f8_v",
+        "folioid": "bnf178_8_v",
         "folionr": "lat17806f8",
         "foliotype": "v",
         "foliofilename": "BnF_lat_17806_f8_v.jpg",
@@ -464,7 +455,7 @@
     },
     {
         "manuscript_id": "bnf178",
-        "folioid": "bnf178_lat17806f9_r",
+        "folioid": "bnf178_9_r",
         "folionr": "lat17806f9",
         "foliotype": "r",
         "foliofilename": "BnF_lat_178_f9_r.jpg",
@@ -493,7 +484,7 @@
     },
     {
         "manuscript_id": "bnf278",
-        "folioid": "bnf278_lat2788f49_r",
+        "folioid": "bnf278_49_r",
         "folionr": "lat2788f49",
         "foliotype": "r",
         "foliofilename": "BnF_lat_2788_f49_r.jpg",
@@ -502,7 +493,7 @@
     },
     {
         "manuscript_id": "bnf278",
-        "folioid": "bnf278_lat2788f50_v",
+        "folioid": "bnf278_50_v",
         "folionr": "lat2788f50",
         "foliotype": "v",
         "foliofilename": "BnF_lat_2788_f50_v.jpg",
@@ -511,7 +502,7 @@
     },
     {
         "manuscript_id": "bnf278",
-        "folioid": "bnf278_lat2788f52_r",
+        "folioid": "bnf278_52_r",
         "folionr": "lat2788f52",
         "foliotype": "r",
         "foliofilename": "BnF_lat_2788_f52_r.jpg",
@@ -580,7 +571,7 @@
     },
     {
         "manuscript_id": "bnf663",
-        "folioid": "bnf663_lat6638f6_r",
+        "folioid": "bnf663_6_r",
         "folionr": "lat6638f6",
         "foliotype": "r",
         "foliofilename": "BnF_lat_6638_f6_r.jpg",
@@ -589,7 +580,7 @@
     },
     {
         "manuscript_id": "bnf673",
-        "folioid": "bnf673_lat6734f2_r",
+        "folioid": "bnf673_2_r",
         "folionr": "lat6734f2",
         "foliotype": "r",
         "foliofilename": "BnF_lat_6734_f2_r.jpg",
@@ -598,7 +589,7 @@
     },
     {
         "manuscript_id": "bnf770",
-        "folioid": "bnf770_lat7709f52_r",
+        "folioid": "bnf770_52_r",
         "folionr": "lat7709f52",
         "foliotype": "r",
         "foliofilename": "BnF_lat_7709_f52_r.jpg",
@@ -633,7 +624,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af27_r",
+        "folioid": "bnf790_27_r",
         "folionr": "lat7900Af27",
         "foliotype": "r",
         "foliofilename": "BnF_lat_7900A_f27_r.jpg",
@@ -642,7 +633,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af132_v",
+        "folioid": "bnf790_132_v",
         "folionr": "lat7900Af132",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_f132_v.jpg",
@@ -651,7 +642,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af127_v",
+        "folioid": "bnf790_127_v",
         "folionr": "lat7900Af127",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_f127_v.jpg",
@@ -668,7 +659,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af112_r",
+        "folioid": "bnf790_112_r",
         "folionr": "lat7900Af112",
         "foliotype": "r",
         "foliofilename": "BnF_lat_7900A_112_r.jpg",
@@ -677,7 +668,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af116_r",
+        "folioid": "bnf790_116_r",
         "folionr": "lat7900Af116",
         "foliotype": "r",
         "foliofilename": "BnF_lat_7900A_116_r.jpg",
@@ -686,7 +677,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af116_v",
+        "folioid": "bnf790_116_v",
         "folionr": "lat7900Af116",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_116_v.jpg",
@@ -695,7 +686,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af120_v",
+        "folioid": "bnf790_120_v",
         "folionr": "lat7900Af120",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_120_v.jpg",
@@ -704,7 +695,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af128_r",
+        "folioid": "bnf790_128_r",
         "folionr": "lat7900Af128",
         "foliotype": "r",
         "foliofilename": "BnF_lat_7900A_128_r.jpg",
@@ -713,7 +704,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af109_v",
+        "folioid": "bnf790_109_v",
         "folionr": "lat7900Af109",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_109_v.jpg",
@@ -722,7 +713,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af140_v",
+        "folioid": "bnf790_140_v",
         "folionr": "lat7900Af140",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_140_v.jpg",
@@ -731,7 +722,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af151_v",
+        "folioid": "bnf790_151_v",
         "folionr": "lat7900Af151",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_151_v.jpg",
@@ -740,7 +731,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af153_v",
+        "folioid": "bnf790_153_v",
         "folionr": "lat7900Af153",
         "foliotype": "v",
         "foliofilename": "BnF_lat_7900A_153_v.jpg",
@@ -749,7 +740,7 @@
     },
     {
         "manuscript_id": "bnf790",
-        "folioid": "bnf790_lat7900Af133_r",
+        "folioid": "bnf790_133_r",
         "folionr": "lat7900Af133",
         "foliotype": "r",
         "foliofilename": "BnF_lat_7900A_133_r.jpg",
@@ -795,7 +786,7 @@
     },
     {
         "manuscript_id": "bpl139",
-        "folioid": "bpl139_BPL139Bf39_v",
+        "folioid": "bpl139_39_v",
         "folionr": "BPL139Bf39",
         "foliotype": "v",
         "foliofilename": "UB_BPL_139_f39_v.jpg",
@@ -1188,7 +1179,7 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f12_r",
+        "folioid": "bpl25_12_r",
         "folionr": "BPL25f12",
         "foliotype": "r",
         "foliofilename": "UB_BPL_25_f12_r.jpg",
@@ -1205,7 +1196,7 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f1_v",
+        "folioid": "bpl25_1_v",
         "folionr": "BPL25f1",
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_1_v.jpg",
@@ -1214,7 +1205,7 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f2_v",
+        "folioid": "bpl25_2_v",
         "folionr": "BPL25f2",
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_f2_v.jpg",
@@ -1223,7 +1214,7 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f6_v",
+        "folioid": "bpl25_6_v",
         "folionr": "BPL25f6",
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_f7_r.jpg",
@@ -1232,8 +1223,8 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f_r",
-        "folionr": "BPL25f",
+        "folioid": "bpl25_7_r",
+        "folionr": "BPL25f7",
         "foliotype": "r",
         "foliofilename": "UB_BPL_25_f7_r.jpg",
         "foliodescription": "Leiden, UB, BPL 25, f. 7r. <a href=\"http://link.nl\">http://hdl.handle.net/1887.1/item:1617684</a>",
@@ -1241,7 +1232,7 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f7_v",
+        "folioid": "bpl25_7_v",
         "folionr": "BPL25f7",
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_f7_v.jpg",
@@ -1250,7 +1241,7 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f32_v",
+        "folioid": "bpl25_32_v",
         "folionr": "BPL25f32",
         "foliotype": "v",
         "foliofilename": "UB_BPL_25_f32_v.jpg",
@@ -1259,7 +1250,7 @@
     },
     {
         "manuscript_id": "bpl25",
-        "folioid": "bpl25_BPL25f42_r",
+        "folioid": "bpl25_42_r",
         "folionr": "BPL25f42",
         "foliotype": "r",
         "foliofilename": "UB_BPL_25_f42_r.jpg",
@@ -1550,7 +1541,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f1_v",
+        "folioid": "bpl88_1_v",
         "folionr": "BPL88f1",
         "foliotype": "v",
         "foliofilename": "UB_BPL_88_f1 _v.jpg",
@@ -1559,7 +1550,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f62_r",
+        "folioid": "bpl88_62_r",
         "folionr": "BPL88f62",
         "foliotype": "r",
         "foliofilename": "UB_BPL_88_f62_r.jpg",
@@ -1568,7 +1559,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f2_v",
+        "folioid": "bpl88_2_v",
         "folionr": "BPL88f2",
         "foliotype": "v",
         "foliofilename": "UB_BPL_88_f2 _v.jpg",
@@ -1577,7 +1568,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f4_v",
+        "folioid": "bpl88_4_v",
         "folionr": "BPL88f4",
         "foliotype": "v",
         "foliofilename": "UB_BPL_88_f4_v.jpg",
@@ -1586,7 +1577,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f59_r",
+        "folioid": "bpl88_59_r",
         "folionr": "BPL88f59",
         "foliotype": "r",
         "foliofilename": "UB_BPL_88_59_r.jpg",
@@ -1595,7 +1586,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f171_r",
+        "folioid": "bpl88_171_r",
         "folionr": "BPL88f171",
         "foliotype": "r",
         "foliofilename": "UB_BPL_88_171_r.jpg",
@@ -1604,7 +1595,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f172_v",
+        "folioid": "bpl88_172_v",
         "folionr": "BPL88f172",
         "foliotype": "v",
         "foliofilename": "UB_BPL_88_172_v.jpg",
@@ -1613,7 +1604,7 @@
     },
     {
         "manuscript_id": "bpl88",
-        "folioid": "bpl88_BPL88f170_v",
+        "folioid": "bpl88_170_v",
         "folionr": "BPL88f170",
         "foliotype": "v",
         "foliofilename": "UB_BPL_88_170_v.jpg",
@@ -1730,7 +1721,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f94_r",
+        "folioid": "bur275_94_r",
         "folionr": "Burney275f94",
         "foliotype": "r",
         "foliofilename": "Burney_275_f94_r.jpg",
@@ -1739,7 +1730,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f143_r",
+        "folioid": "bur275_143_r",
         "folionr": "Burney275f143",
         "foliotype": "r",
         "foliofilename": "Burney_275_f143_r.jpg",
@@ -1748,7 +1739,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f166_r",
+        "folioid": "bur275_166_r",
         "folionr": "Burney275f166",
         "foliotype": "r",
         "foliofilename": "Burney_275_f166_r.jpg",
@@ -1757,7 +1748,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f293_r",
+        "folioid": "bur275_293_r",
         "folionr": "Burney275f293",
         "foliotype": "r",
         "foliofilename": "Burney_275_f293_r.jpg",
@@ -1766,7 +1757,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f336_r",
+        "folioid": "bur275_336_r",
         "folionr": "Burney275f336",
         "foliotype": "r",
         "foliofilename": "Burney_275_f336_r.jpg",
@@ -1775,7 +1766,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f390_v",
+        "folioid": "bur275_390_v",
         "folionr": "Burney275f390",
         "foliotype": "v",
         "foliofilename": "Burney_275_f390_v.jpg",
@@ -1784,7 +1775,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f359_v",
+        "folioid": "bur275_359_v",
         "folionr": "Burney275f359",
         "foliotype": "v",
         "foliofilename": "Burney_275_f359_v.jpg",
@@ -1793,7 +1784,7 @@
     },
     {
         "manuscript_id": "bur275",
-        "folioid": "bur275_Burney275f184_r",
+        "folioid": "bur275_184_r",
         "folionr": "Burney275f184",
         "foliotype": "r",
         "foliofilename": "Burney_275_f184_r.jpg",
@@ -1858,7 +1849,7 @@
     },
     {
         "manuscript_id": "ein315",
-        "folioid": "ein315_315(605)p139_",
+        "folioid": "ein315_139_",
         "folionr": "315(605)p139",
         "foliofilename": "Einsieldeln_315 (605)_p139.jpg",
         "foliodescription": "Einsiedeln, Stiftsbibliothek, Codex 315 (605), p. 139: representation of Porphyry’s five predicables. <a href=\"http://link.nl\">https://www.e-codices.unifr.ch/en/list/one/sbe/0315</a>",
@@ -1866,7 +1857,7 @@
     },
     {
         "manuscript_id": "ein315",
-        "folioid": "ein315_315(605)p53_",
+        "folioid": "ein315_53_",
         "folionr": "315(605)p53",
         "foliofilename": "Einsieldeln_315 (605)_p53.jpg",
         "foliodescription": "Einsiedeln, Stiftsbibliothek, Codex 315 (605), p. 53. <a href=\"http://link.nl\">https://www.e-codices.unifr.ch/en/list/one/sbe/0315</a>",
@@ -2029,7 +2020,7 @@
     },
     {
         "manuscript_id": "gro22",
-        "folioid": "gro22_GRO22f11_r",
+        "folioid": "gro22_11_r",
         "folionr": "GRO22f11",
         "foliotype": "r",
         "foliofilename": "UB_GRO_22_f11_r.jpg",
@@ -2038,7 +2029,7 @@
     },
     {
         "manuscript_id": "gro22",
-        "folioid": "gro22_GRO22f113_v",
+        "folioid": "gro22_113_v",
         "folionr": "GRO22f113",
         "foliotype": "v",
         "foliofilename": "UB_GRO_22_f113_v.jpg",
@@ -2182,7 +2173,7 @@
     },
     {
         "manuscript_id": "kar92",
-        "folioid": "kar92_St.PeterPerg92f11_v",
+        "folioid": "kar92_11_v",
         "folionr": "St.PeterPerg92f11",
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f11_v.jpg",
@@ -2191,7 +2182,7 @@
     },
     {
         "manuscript_id": "kar92",
-        "folioid": "kar92_St.PeterPerg92f6_v",
+        "folioid": "kar92_6_v",
         "folionr": "St.PeterPerg92f6",
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f6_v.jpg",
@@ -2201,7 +2192,7 @@
     },
     {
         "manuscript_id": "kar92",
-        "folioid": "kar92_St.PeterPerg92f1_v",
+        "folioid": "kar92_1_v",
         "folionr": "St.PeterPerg92f1",
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f1_v.jpg",
@@ -2210,7 +2201,7 @@
     },
     {
         "manuscript_id": "kar92",
-        "folioid": "kar92_St.PeterPerg92f3_v",
+        "folioid": "kar92_3_v",
         "folionr": "St.PeterPerg92f3",
         "foliotype": "v",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f3_v.jpg",
@@ -2228,7 +2219,7 @@
     },
     {
         "manuscript_id": "kar92",
-        "folioid": "kar92_St.PeterPerg92f10_r",
+        "folioid": "kar92_10_r",
         "folionr": "St.PeterPerg92f10",
         "foliotype": "r",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f10_r.jpg",
@@ -2237,7 +2228,7 @@
     },
     {
         "manuscript_id": "kar92",
-        "folioid": "kar92_St.PeterPerg92f7_r",
+        "folioid": "kar92_7_r",
         "folionr": "St.PeterPerg92f7",
         "foliotype": "r",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f7_r.jpg",
@@ -2246,7 +2237,7 @@
     },
     {
         "manuscript_id": "kar92",
-        "folioid": "kar92_St.PeterPerg92f5_r",
+        "folioid": "kar92_5_r",
         "folionr": "St.PeterPerg92f5",
         "foliotype": "r",
         "foliofilename": "Karlsruhe_St. Peter perg. 92_f5_r.jpg",
@@ -2315,7 +2306,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f95_v",
+        "folioid": "vlf48_95_v",
         "folionr": "VLF48f95",
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f95_v.jpg",
@@ -2324,7 +2315,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f32_r",
+        "folioid": "vlf48_32_r",
         "folionr": "VLF48f32",
         "foliotype": "r",
         "foliofilename": "UB_VLF_48_f32_r.jpg",
@@ -2333,7 +2324,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f1_v",
+        "folioid": "vlf48_1_v",
         "folionr": "VLF48f1",
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_1v.jpg",
@@ -2342,7 +2333,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f50_v",
+        "folioid": "vlf48_50_v",
         "folionr": "VLF48f50",
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f50_v.jpg",
@@ -2351,7 +2342,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f2_r",
+        "folioid": "vlf48_2_r",
         "folionr": "VLF48f2",
         "foliotype": "r",
         "foliofilename": "UB_VLF_48_f2_r.jpg",
@@ -2360,7 +2351,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f4_v",
+        "folioid": "vlf48_4_v",
         "folionr": "VLF48f4",
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f4_v.jpg",
@@ -2369,7 +2360,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f30_v",
+        "folioid": "vlf48_30_v",
         "folionr": "VLF48f30",
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_30_v.jpg",
@@ -2378,7 +2369,7 @@
     },
     {
         "manuscript_id": "vlf48",
-        "folioid": "vlf48_VLF48f92_v",
+        "folioid": "vlf48_92_v",
         "folionr": "VLF48f92",
         "foliotype": "v",
         "foliofilename": "UB_VLF_48_f92_v.jpg",

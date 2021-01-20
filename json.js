@@ -151,7 +151,7 @@ function combineJson(){
     if (folioData.parts.length == 0) {
       var partData = {};
       //partData.fpname = folioJson[fo].folionr+''+notUndefined(folioJson[fo].foliotype);
-      partData.fpname = folioJson[fo].folionr; //alleen colom C
+      partData.fpname = folioJson[fo].folionr;
       partData.fpdescription = replaceLink(folioJson[fo].foliodescription);
       partData.foliofilename = folioJson[fo].foliofilename;
       var fileNoExtention = folioJson[fo].foliofilename.replace(".jpg", "");
@@ -279,13 +279,13 @@ function combineJson(){
                 if (imagesJson[imi].img_file_name == folioPartsmulJson[ol].afbeelding) {
                   var imgLink='';
                   //console.log(imagesJson[imi].hyperlink);
-                  if (imagesJson[imi].hyperlink  !== "undefined" ) {
-                    imgLink = '<br><a href="'+imagesJson[imi].hyperlink+'">'+imagesJson[imi].hyperlink+'</a>';
+                  if (typeof imagesJson[imi].hyperlink  !== "undefined" ) {
+                    imgLink = '<br><a target="_blank" href="'+imagesJson[imi].hyperlink+'">'+imagesJson[imi].hyperlink+'</a>';
                   }
 
 
                   folioPartData.imageSource = imagesJson[imi].img_file_name;
-                  folioPartData.foliodescription = imagesJson[imi].description;
+                  folioPartData.foliodescription = replaceLink(imagesJson[imi].description);
                   folioPartData.foliosource = imagesJson[imi].resource;
 
                   folioPartData.foliofilename = imagesJson[imi].img_file_name;
@@ -293,7 +293,7 @@ function combineJson(){
                   folioPartData.foliofilename_exten = fileNoExtention;
 
                   folioPartData.fpname = imagesJson[imi].alttext;
-                  folioPartData.fpdescription = imagesJson[imi].description+imgLink;
+                  folioPartData.fpdescription = replaceLink(imagesJson[imi].description+imgLink);
                   folioPartData.fpid = imagesJson[imi].img_file_name;
                   folioPartData.fimagePath = 'images/content/';
 

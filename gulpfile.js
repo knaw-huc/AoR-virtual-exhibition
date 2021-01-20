@@ -5,6 +5,7 @@
 // gulp getj
 // node json
 
+
 // gulp convHtml
 // gulp fc
 
@@ -468,9 +469,9 @@ function ifEmp(input, pre, post) {
 
 function handleImages(content) {
   var output;
-  var vHyperlink = '';
-  for (var i = 0; i < imagesJson.length; i++) {
 
+  for (var i = 0; i < imagesJson.length; i++) {
+    var vHyperlink = '';
     if(typeof imagesJson[i].hyperlink !== "undefined") {
       vHyperlink = '<br><a href="'+imagesJson[i].hyperlink+'" class="aorSourceLink"  target="_blank">'+imagesJson[i].hyperlink+'</a>';
     }
@@ -624,13 +625,15 @@ function handletextPre(content) {
     //<a id="_heading=h.1fob9te"></a>
     //<br />±col2span±</p>
     //<p>±col1±  </p>
-
+    //<p><a id="_headingh.3znysh7"></a>±row±<br />±col1±<br />
+    //<br />±col2span±</p>
+    content = content.replace(/<p><a id="_headingh.3znysh7"><\/a>±row±<br \/>±col1±<br \/>/g, "<p>±row±</p><p>±col1±</p>");
     content = content.replace(/<a id=\"_heading=h.gjdgxs\"><\/a>/g, "");
     content = content.replace(/<a id=\"_heading=h.30j0zll\"><\/a>/g, "");
     content = content.replace(/<a id=\"bookmark=id.gjdgxs\"><\/a>/g, "");
     content = content.replace(/±row±	<\/p>/g, "±row±</p>");
     content = content.replace(/<a id="_heading=h.1fob9te"><\/a>/g, "");
-    content = content.replace(/<a id="_heading=h.1fob9te"><\/a>/g, "");
+    content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
 
     content = content.replace(/<p>±col1±  <\/p>/g, "<p>±col1±</p>");
 
