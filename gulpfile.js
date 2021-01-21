@@ -592,8 +592,6 @@ function handletextPre(content) {
     content = content.replace(/±<br \/>\[\[\[/g, "±</p><p>[[[");
     content = content.replace(/±<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
 
-
-
     content = content.replace(/<p><br \/>±row±<\/p>/g, "<p>±row±</p>");
     content = content.replace(/<p>±col2span±<br \/>/g, "<p>±col2span±</p><p>");
     content = content.replace(/<br \/><\/em>±col3±<\/p>/g, "</em></p><p>±col3±</p>");
@@ -616,17 +614,6 @@ function handletextPre(content) {
     content = content.replace(/file:\/\/\/C:\\Users\\ReneeS\\AppData\\Local\\Temp\\/g, "/");
     content = content.replace(/\?fportait/g, "?portait");
 
-
-    //<a id="_heading=h.gjdgxs"></a>
-    //<a id="_heading=h.30j0zll"></a>
-    //<a id="bookmark=id.gjdgxs">
-    //±row±<br />±col1span±
-    //<p>±row±	</p>
-    //<a id="_heading=h.1fob9te"></a>
-    //<br />±col2span±</p>
-    //<p>±col1±  </p>
-    //<p><a id="_headingh.3znysh7"></a>±row±<br />±col1±<br />
-    //<br />±col2span±</p>
     content = content.replace(/<p><a id="_headingh.3znysh7"><\/a>±row±<br \/>±col1±<br \/>/g, "<p>±row±</p><p>±col1±</p>");
     content = content.replace(/<a id=\"_heading=h.gjdgxs\"><\/a>/g, "");
     content = content.replace(/<a id=\"_heading=h.30j0zll\"><\/a>/g, "");
@@ -634,28 +621,65 @@ function handletextPre(content) {
     content = content.replace(/±row±	<\/p>/g, "±row±</p>");
     content = content.replace(/<a id="_heading=h.1fob9te"><\/a>/g, "");
     content = content.replace(/<br \/>±col2span±<\/p>/g, "</p><p>±col2span±</p>");
-
     content = content.replace(/<p>±col1±  <\/p>/g, "<p>±col1±</p>");
-
-
     content = content.replace(/<a id="_heading=h.gjdgxs"><\/a>/g, "");
     content = content.replace(/.html%3f/g, ".html?");
     content = content.replace(/<p>±row± <\/p>/g, "<p>±row±</p>");
     content = content.replace(/<p><a id="theme1"><\/a>±col1span±<\/p>/g, '<p>±col1span±</p><a id="theme1"></a>');
 
-
-
-    //content = content.replace(/±timeline±/g, '<div class="">{{> timeline}}</div>');
-    //content = content.replace(/±map±/g, '<div class="">{{> map}}</div>');
     content = content.replace(/<p>\[\[\[timeline\]\]\]<\/p><p>\[\[\[map\]\]\]<\/p>/g, '');
     content = content.replace(/<p>±map±<\/p>/g, '');
     content = content.replace(/±timeline±/g, '');
     content = content.replace(/±map±/g, '');
 
-    //content = content.replace(/±meta±/g, '±meta±');
-    //<div><h2>Timeline</h2>{{> timeline}}</div><div><h2>Map</h2>{{> map}}</div>
 
-//            <p>±row± </p>
+    // content = content.replace(/the <a href="about:blank"><em>Categoriae/g, 'the <a href="about:blank"><em>Categoriae'); //12949
+    // content = content.replace(/of <a href="about:blank">Aristotle’s/g, 'of <a href="about:blank">Aristotle’s'); //aachen
+    // content = content.replace(/of <a href="about:blank">Aristotelian/g, 'of <a href="about:blank">Aristotelian');
+    // content = content.replace(/relative <a href="about:blank">Gundrada/g, 'relative <a href="about:blank">Gundrada');
+    // content = content.replace(/see <a href="about:blank">the/g, 'see <a href="about:blank">the');
+    // content = content.replace(/Cicero’s <a href="about:blank"><em>/g, 'Cicero’s <a href="about:blank"><em>'); // abbeville
+
+    content = content.replace(/Cicero’s <a href="about:blank"><em>De inventione/g, 'Cicero’s <a href="/text-portraits.html?portait=Cicero"><em>De inventione'); //abbo
+    content = content.replace(/Aristotle’s <a href="about:blank"><em>/g, 'Aristotle’s <a href="/text-portraits.html?portait=Aristotle1"><em>');
+    content = content.replace(/and Cicero’s <a href="about:blank"><em>Topica/g, 'and Cicero’s <a href="/text-portraits.html?portait=Cicero"><em>Topica');
+    content = content.replace(/his <a href="about:blank"><em/g, 'his <a href="/text-portraits.html?portait=Boethius2"><em');
+    content = content.replace(/Porphyry’s <a href="about:blank"><em>/g, 'Porphyry’s <a href="/text-portraits.html?portait=Porphyry"><em>');
+    content = content.replace(/Pseudo-Augustine’s <a href="about:blank"><em>Categoriae/g, 'Pseudo-Augustine’s <a href="/text-portraits.html?portait=Categoriae"><em>Categoriae'); // alcuin
+    content = content.replace(/Boethius’ <a href="about:blank">treatises/g, 'Boethius’ <a href="/text-portraits.html?portait=Boethius2">treatises');
+    content = content.replace(/syllogisms<\/a>, Cicero’s <a href="about:blank">/g, 'syllogisms</a>, Cicero’s <a href="/text-portraits.html?portait=Cicero">');
+    content = content.replace(/Aristotle’s<em> <\/em><a href="about:blank"><em>Categories/g, 'Aristotle’s<em> </em><a href="/text-portraits.html?portait=Aristotle1"><em>Categories'); // auxerre
+    content = content.replace(/Capella’s <a href="about:blank"><em>De nuptiis<\/em>/g, 'Capella’s <a href="/text-portraits.html?portait=Martianus"><em>De nuptiis</em>');
+    content = content.replace(/late-antique writer <a href="about:blank">Apuleius/g, 'late-antique writer <a href="/text-portraits.html?portait=Apuleius">">Apuleius'); //139
+    content = content.replace(/Isagoge<\/em> of <a href="about:blank">Porphyry<\/a>/g, 'Isagoge</em> of <a href="/text-portraits.html?portait=Porphyry">Porphyry</a>');
+    content = content.replace(/<a href="about:blank">Reasoning through Syllogisms<\/a>/g, '<a href="/syllogism#syllogism">Reasoning through Syllogisms</a>');
+    content = content.replace(/<a href="about:blank"><em>Peri hermenias/g, '<a href="/text-portraits.html?portait=Apuleius"><em>Peri hermenias');
+    content = content.replace(/contains <a href="about:blank">Porphyry’s/g, 'contains <a href="/text-portraits.html?portait=Porphyry">Porphyry’s');
+    content = content.replace(/<a href="about:blank"><em>Isagoge<\/em>/g, '<a href="/text-portraits.html?portait=Porphyry"><em>Isagoge</em>');
+    content = content.replace(/Boethius’ <a href="about:blank"><em>Consolation/g, 'Boethius’ <a href="/text-portraits.html?portait=Boethius1"><em>Consolation'); // classroom
+    content = content.replace(/<a href="about:blank">,<\/a> we find/g, ', we find');
+    content = content.replace(/the works of <a href="about:blank">Martianus/g, 'the works of <a href="/text-portraits.html?portait=Martianus">Martianus'); //curriculem
+    content = content.replace(/and <a href="about:blank">Boethius<\/a>/g, 'and <a href="/text-portraits.html?portait=Boethius2">Boethius</a>');
+    content = content.replace(/called ‘<a href="about:blank">minor Latin rhetoricians/g, 'called ‘<a href="/text-portraits.html?portait=MLR">minor Latin rhetoricians'); //dialectica
+    content = content.replace(/<a href="about:blank"><em>De Inventione<\/em>/g, '<a href="/text-portraits.html?portait=Cicero"><em>De Inventione</em>');
+    content = content.replace(/available by <a href="about:blank">Boethius/g, 'available by <a href="/text-portraits.html?portait=Boethius2">Boethius');
+    content = content.replace(/<a href="about:blank"> and <\/a><a href="about:blank"><em>On Interpretation<\/em><\/a>, and Porphyry’s <em><a href="about:blank">Isagoge<\/a>/g, 'and <em>On Interpretation</em>, and Porphyry’s <em><a href="/text-portraits.html?portait=Porphyry">Isagoge</a>');
+    content = content.replace(/about these texts <a href="about:blank">here<\/a>\). With/g, 'about these texts <a href="/text-portraits.html?portait=Aristotle2">here</a>). With');
+    content = content.replace(/illustrated copy of <a href="about:blank">Martianus/g, 'illustrated copy of <a href="/text-portraits.html?portait=Martianus">Martianus');
+    //content = content.replace(/ /g, '')
+
+
+
+// gulp convHtml
+
+
+
+
+
+
+
+
+
   return content;
 }
 
