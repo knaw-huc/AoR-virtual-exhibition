@@ -354,7 +354,7 @@
     {
         "img_file_name": "103cover.jpg",
         "alttext": "VLQ103 ",
-        "description": "Leiden, UB, VLQ 103 (photo MT)",
+        "description": "Leiden, UB, VLQ 103. A full digitized version of this mansucript is available on the site Codices Vossiani Latini Online, hosted by Brill Academic Publishers (paid access). Photos shown here are taken by MT. Leiden University Library gave permission to use them.",
         "resource": "photo MT"
     },
     {
@@ -384,7 +384,7 @@
     {
         "img_file_name": "103f2rfr.jpg",
         "alttext": "VLQ103f2r",
-        "description": "Leiden, UB, VLQ 103, f. 2r (detail) (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 2r (detaill; photo MT)",
         "resource": "photo MT"
     },
     {
@@ -420,19 +420,19 @@
     {
         "img_file_name": "103f58rfr.jpg",
         "alttext": "VLQ103f55r",
-        "description": "Leiden, UB, VLQ 103, f. 55r (detail) (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 55r (detail; photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f56rfr.jpg",
         "alttext": "VLQ103f56r",
-        "description": "Leiden, UB, VLQ 103, f. 56r (detail) (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 56r (detail; photo MT)",
         "resource": "photo MT"
     },
     {
         "img_file_name": "103f65vfr.jpg",
         "alttext": "VLQ103f59v",
-        "description": "Leiden, UB, VLQ 103, f. 59v (detail) (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 59v (detail; photo MT)",
         "resource": "photo MT"
     },
     {
@@ -444,7 +444,7 @@
     {
         "img_file_name": "103f71rfr.jpg",
         "alttext": "VLQ103f71r",
-        "description": "Leiden, UB, VLQ 103, f. 71r (detail) (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 71r (detail; photo MT)",
         "resource": "photo MT"
     },
     {
@@ -462,7 +462,7 @@
     {
         "img_file_name": "103f47vfr.jpg",
         "alttext": "VLQ103f47v",
-        "description": "Leiden, UB, VLQ 103, f. 47v (detail) (photo MT)",
+        "description": "Leiden, UB, VLQ 103, f. 47v (detail; photo MT)",
         "resource": "photo MT"
     },
     {

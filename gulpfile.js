@@ -666,7 +666,30 @@ function handletextPre(content) {
     content = content.replace(/<a href="about:blank"> and <\/a><a href="about:blank"><em>On Interpretation<\/em><\/a>, and Porphyry’s <em><a href="about:blank">Isagoge<\/a>/g, 'and <em>On Interpretation</em>, and Porphyry’s <em><a href="/text-portraits.html?portait=Porphyry">Isagoge</a>');
     content = content.replace(/about these texts <a href="about:blank">here<\/a>\). With/g, 'about these texts <a href="/text-portraits.html?portait=Aristotle2">here</a>). With');
     content = content.replace(/illustrated copy of <a href="about:blank">Martianus/g, 'illustrated copy of <a href="/text-portraits.html?portait=Martianus">Martianus');
-    //content = content.replace(/ /g, '')
+    content = content.replace(/language of <a href="about:blank">Aristotle’s categories/g, 'language of <a href="/text-portraits.html?portait=Aristotle1">Aristotle’s categories'); // Aachen
+    content = content.replace(/made use of <a href="about:blank">Aristotelian/g, 'made use of <a href="/text-portraits.html?portait=Aristotle1">Aristotelian');
+    content = content.replace(/relative <a href="about:blank">Gundrada/g, 'relative <a href="http://women-disputation#disputation">Gundrada');
+    content = content.replace(/adoptionism, see <a href="about:blank">the next/g, 'adoptionism, see <a href="about:blank">the next');
+    //content = content.replace(/Aristotle’s, <a href="about:blank"><em>Praedicamenta/g, ''); //17806
+    content = content.replace(/Aristotle’s, <a href="about:blank"><em>Praedicamenta<\/em><\/a><a href="about:blank"> \(1-4\), <\/a><a href="about:blank"><em>Periermenias<\/em><\/a><a href="about:blank"> \(4v-15\)<\/a>, <em>Liber sex principium<\/em> \(15v-23v\); /g, 'Aristotle’s, <a href="/text-portraits.html?portait=Aristotle1"><em>Praedicamenta</em>(1-4), <em>Periermenias</em> (4v-15)</a>, <em>Liber sex principium</em> (15v-23v); ');
+
+
+    content = content.replace(/Boethius’ <a href="about:blank"><em>De divisione<\/em><\/a><a href="about:blank"> \(24-35v\), <\/a><a href="about:blank"><em>Topica<\/em><\/a><a href="about:blank"> \(36-68v\)<\/a>; Aristotle’s <em>De sophisticis elenchis<\/em> \(69-92v\), /g, 'Boethius’ <a href="/text-portraits.html?portait=Boethius2"><em>De divisione</em> (24-35v), <em>Topica</em> (36-68v)</a>; Aristotle’s <em>De sophisticis elenchis</em> (69-92v), ');
+
+
+    content = content.replace(/<a href="about:blank"><em>Topica<\/em><\/a><a href="about:blank"> \(93-164\), <\/a><a href="about:blank"><em>Analytica priora<\/em><\/a><a href="about:blank"> \(164v-217v\), <\/a><a href="about:blank"><em>Analytica posteriora<\/em><\/a><a href="about:blank"> \(218-249v\)/g, ', <a href="/text-portraits.html?portait=Aristotle2"><em>Topica</em> (93-164), <em>Analytica priora</em> (164v-217v), <em>Analytica posteriora</em> (218-249v)');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    // content = content.replace(/ /g, '');
+    //content = content.replace(/ /g, '');
 
 
 
