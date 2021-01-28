@@ -677,7 +677,7 @@ function handletextPre(content) {
     content = content.replace(/Boethius’ <a href="about:blank"><em>De divisione<\/em><\/a><a href="about:blank"> \(24-35v\), <\/a><a href="about:blank"><em>Topica<\/em><\/a><a href="about:blank"> \(36-68v\)<\/a>; Aristotle’s <em>De sophisticis elenchis<\/em> \(69-92v\), /g, 'Boethius’ <a href="/text-portraits.html?portait=Boethius2"><em>De divisione</em> (24-35v), <em>Topica</em> (36-68v)</a>; Aristotle’s <em>De sophisticis elenchis</em> (69-92v), ');
 
 
-    content = content.replace(/<a href="about:blank"><em>Topica<\/em><\/a><a href="about:blank"> \(93-164\), <\/a><a href="about:blank"><em>Analytica priora<\/em><\/a><a href="about:blank"> \(164v-217v\), <\/a><a href="about:blank"><em>Analytica posteriora<\/em><\/a><a href="about:blank"> \(218-249v\)/g, ', <a href="/text-portraits.html?portait=Aristotle2"><em>Topica</em> (93-164), <em>Analytica priora</em> (164v-217v), <em>Analytica posteriora</em> (218-249v)');
+    content = content.replace(/<a href="about:blank"><em>Topica<\/em><\/a><a href="about:blank"> \(93-164\), <\/a><a href="about:blank"><em>Analytica priora<\/em><\/a><a href="about:blank"> \(164v-217v\), <\/a><a href="about:blank"><em>Analytica posteriora<\/em><\/a><a href="about:blank"> \(218-249v\)/g, '<a href="/text-portraits.html?portait=Aristotle2"><em>Topica</em> (93-164), <em>Analytica priora</em> (164v-217v), <em>Analytica posteriora</em> (218-249v)');
     // content = content.replace(/ /g, '');
     // content = content.replace(/ /g, '');
     // content = content.replace(/ /g, '');
