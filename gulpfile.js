@@ -631,6 +631,12 @@ function handletextPre(content) {
     content = content.replace(/<p>±map±<\/p>/g, '');
     content = content.replace(/±timeline±/g, '');
     content = content.replace(/±map±/g, '');
+    content = content.replace(/C:\\\\/g, '/');
+    //content = content.replace(/file:\/\/\/C:\\/g, '/');
+
+
+
+
 
 
     // content = content.replace(/the <a href="about:blank"><em>Categoriae/g, 'the <a href="about:blank"><em>Categoriae'); //12949
@@ -647,6 +653,7 @@ function handletextPre(content) {
     content = content.replace(/Porphyry’s <a href="about:blank"><em>/g, 'Porphyry’s <a href="/text-portraits.html?portait=Porphyry"><em>');
     content = content.replace(/Pseudo-Augustine’s <a href="about:blank"><em>Categoriae/g, 'Pseudo-Augustine’s <a href="/text-portraits.html?portait=Categoriae"><em>Categoriae'); // alcuin
     content = content.replace(/Boethius’ <a href="about:blank">treatises/g, 'Boethius’ <a href="/text-portraits.html?portait=Boethius2">treatises');
+    content = content.replace(/In manuscript <a href="about:blank">Leiden, UB, BPL 84/g, 'In manuscript <a href="/bpl84#bpl84">Leiden, UB, BPL 84');
     content = content.replace(/syllogisms<\/a>, Cicero’s <a href="about:blank">/g, 'syllogisms</a>, Cicero’s <a href="/text-portraits.html?portait=Cicero">');
     content = content.replace(/Aristotle’s<em> <\/em><a href="about:blank"><em>Categories/g, 'Aristotle’s<em> </em><a href="/text-portraits.html?portait=Aristotle1"><em>Categories'); // auxerre
     content = content.replace(/Capella’s <a href="about:blank"><em>De nuptiis<\/em>/g, 'Capella’s <a href="/text-portraits.html?portait=Martianus"><em>De nuptiis</em>');
@@ -669,7 +676,7 @@ function handletextPre(content) {
     content = content.replace(/language of <a href="about:blank">Aristotle’s categories/g, 'language of <a href="/text-portraits.html?portait=Aristotle1">Aristotle’s categories'); // Aachen
     content = content.replace(/made use of <a href="about:blank">Aristotelian/g, 'made use of <a href="/text-portraits.html?portait=Aristotle1">Aristotelian');
     content = content.replace(/relative <a href="about:blank">Gundrada/g, 'relative <a href="http://women-disputation#disputation">Gundrada');
-    content = content.replace(/adoptionism, see <a href="about:blank">the next/g, 'adoptionism, see <a href="about:blank">the next');
+    content = content.replace(/adoptionism, see <a href="about:blank">the next/g, 'adoptionism, see <a href="/aftermath.html">the next');
     //content = content.replace(/Aristotle’s, <a href="about:blank"><em>Praedicamenta/g, ''); //17806
     content = content.replace(/Aristotle’s, <a href="about:blank"><em>Praedicamenta<\/em><\/a><a href="about:blank"> \(1-4\), <\/a><a href="about:blank"><em>Periermenias<\/em><\/a><a href="about:blank"> \(4v-15\)<\/a>, <em>Liber sex principium<\/em> \(15v-23v\); /g, 'Aristotle’s, <a href="/text-portraits.html?portait=Aristotle1"><em>Praedicamenta</em>(1-4), <em>Periermenias</em> (4v-15)</a>, <em>Liber sex principium</em> (15v-23v); ');
 
@@ -679,8 +686,10 @@ function handletextPre(content) {
 
     content = content.replace(/<a href="about:blank"><em>Topica<\/em><\/a><a href="about:blank"> \(93-164\), <\/a><a href="about:blank"><em>Analytica priora<\/em><\/a><a href="about:blank"> \(164v-217v\), <\/a><a href="about:blank"><em>Analytica posteriora<\/em><\/a><a href="about:blank"> \(218-249v\)/g, '<a href="/text-portraits.html?portait=Aristotle2"><em>Topica</em> (93-164), <em>Analytica priora</em> (164v-217v), <em>Analytica posteriora</em> (218-249v)');
     content = content.replace(/opening of the <a href="about:blank"><em>Categoriae decem/g, 'opening of the <a href="/text-portraits.html?portait=Categoriae"><em>Categoriae decem'); // ve12949
+    content = content.replace(/back to <a href="about:blank">Heiric of Auxerre/g, 'back to <a href="/auxerre#auxerre">Heiric of Auxerre');
 
 
+    content = content.replace(/<a href="file:\/\/\/C:\\text-portraits.html\?portait=Aristotle1">/g, '<a href="/text-portraits.html?portait=Aristotle1">');
 
 
 // gulp convHtml
