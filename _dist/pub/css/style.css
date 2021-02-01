@@ -315,9 +315,8 @@ a {
   cursor: pointer; }
 
 .aorModalFade {
-  position: fixed;
+  position: absolute;
   top: 0;
-  bottom: 0;
   right: 0;
   left: 0;
   background-color: rgba(0, 0, 0, 0.9);
@@ -332,12 +331,25 @@ a {
   color: #242424;
   max-width: 700px;
   width: 100%;
-  max-height: 80vh;
   padding: 2rem; }
   .aorModalPop h1, .aorModalPop h2, .aorModalPop h3 {
     color: #242424; }
   .aorModalPop a {
     color: #024d78; }
+
+@media (min-width: 1100px) {
+  .aorModalFade {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }
+  .aorModalPop {
+    max-height: 80vh; } }
 
 .aorModalContent {
   width: 100%;
